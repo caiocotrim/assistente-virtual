@@ -1,0 +1,7 @@
+ementa_fsi
+
+Fundamentos de Sistemas de Informação
+PRÉ-REQUISITOS Nenhum
+EMENTA: Princípios de Sistemas de Informação. Os conceitos, objetivos, funções e componentes dos sistemas de informação. As dimensões tecnológica, organizacional e humana dos sistemas de informação. Os tipos de sistemas de informação. Hierarquia de Sistemas. 
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+

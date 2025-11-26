@@ -1,0 +1,34 @@
+ementa_prob
+
+ CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      MAT16                   Probabilidade e Estatística                   CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                              EMENTA
+Introdução aos conceitos básicos. Técnicas de representação gráfica. Medidas representativas:
+central e dispersão. Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e
+eventos. Variáveis aleatórias unidimensionais: variáveis aleatórias discretas e contínuas. Função de
+distribuição e função densidade. Probabilidade e distribuição de probabilidades. Variáveis aleatórias
+contínuas: distribuições normais e gama. Teoria de hipóteses. Correlação e regressão.
+                                      BIBLIOGRAFIA BÁSICA
+FONSECA, J. S.; MARTINS, G. A. Curso de Estatística. 6. ed. São Paulo: Atlas, 1996.
+MORETTIN, P. A.; BUSSAB, W. O. Estatística Básica. 8. ed. São Paulo: Saraiva, 2013.
+TRIOLA, M. F. Introdução à Estatística: Atualização da Tecnologia. 11. ed. Rio de Janeiro: LTC,
+2013.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+BOLFARINE, H; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard Blucher, 2007.
+CRESPO, A. A. Estatística Fácil. 18. ed. São Paulo: Saraiva, 2008.
+CRESPO, A. A. Estatística Fácil. 19. ed. São Paulo: Saraiva, 2009.
+DEVORE, J. L. Probabilidade e Estatística na Engenharia e Ciências. São Paulo: Cengage
+Learning. 2011.
+SILVA, N. N. Amostragem Probabilística: Um Curso Introdutório. 2. ed. São Paulo: EDUSP, 2004.
+TOLEDO, G. L.; OVALLE, I. I. Estatística Básica. 2. ed. São Paulo: Atlas, 2011.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

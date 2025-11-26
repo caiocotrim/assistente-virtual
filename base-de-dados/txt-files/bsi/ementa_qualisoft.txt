@@ -1,0 +1,41 @@
+ementa_qualisoft
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 60 horas     -        -
+      TEC41                   Qualidade de Software                       CRÉDITOS
+                                                                              4
+PRÉ-REQUISITOS
+                                            EMENTA
+O conceito de qualidade de software. Qualidade do produto e do processo de software. Métricas de
+qualidade de software. Normas de qualidade de software. Técnicas de garantia da qualidade de
+software. Verificação e validação. Estratégias, técnicas e implementação de teste de software.
+Modelos de melhoria do processo de software. Planejamento de sistemas de qualidade.
+
+
+
+Projeto Pedagógico de Curso                                                                  100
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                     BIBLIOGRAFIA BÁSICA
+GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. 3. ed. Rio de
+Janeiro: LTC, 2009.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CARVALHO, A. M. B. R.; CHIOSSI, T. C. S. Introdução a Engenharia de Software. Campinas, SP:
+UNICAMP, 2001.
+PÁDUA, W. Engenharia de Software. 3. ed. Rio de Janeiro: LTC, 2009.
+PFLEEGER, S. L. Engenharia de Software: Teoria e Prática. 2. ed. São Paulo: Pearson Prentice
+Hall, 2004.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+REZENDE, D. A. Engenharia de Software e Sistemas de Informação. 3. ed. Rio de Janeiro:
+Brasport, 2005.
+VALENTE, M. T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de
+Software com Produtividade. [S. l.: s. n.], 2020. Disponível em: https://engsoftmoderna.info.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII

@@ -1,0 +1,23 @@
+ementa_eng
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          60 horas     -        -
+     TEC35              Engenharia de Software                     CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+Introdução e objetivos da engenharia de software. Atividades da engenharia de software. O processo
+de desenvolvimento de software e o produto de software. Ciclo de vida de sistemas e seus
+paradigmas. Uso de modelos, metodologias, técnicas e ferramentas de análise e projeto de sistemas.
+Gerenciamento do projeto. Estimativas de software. Métricas de software. Qualidade de software.
+Reuso, Engenharia Reversa e reengenharia.
+                                    BIBLIOGRAFIA BÁSICA
+GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

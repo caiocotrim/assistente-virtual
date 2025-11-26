@@ -1,0 +1,43 @@
+ementa_bdII
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                          Teórica    Prática Extensão
+                                                          15 horas 45 horas      -
+     TEC28                Banco de Dados II                        CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Banco de Dados I (TEC21) e Linguagem de Programação II (CCO13)
+                                      EMENTA
+DDL e DML avançados. Normalização de dados. Dependências funcionais. Restrições de
+integridade. Procedimentos armazenados. Gatilhos. Visões. Segurança (DCL). Transações (TCL).
+Indexação. Banco de dados não relacionais.
+                                     BIBLIOGRAFIA BÁSICA
+DATE, C. J. Introdução a Sistemas de Banco de Dados. 8. ed. Rio de Janeiro: Elsevier, 2003.
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. São Paulo: Pearson Addison
+Wesley, 2011.
+HOWS, D.; MEMBREY, P.; PLUGGE, E. Introdução ao MongoDB. São Paulo: Novatec, 2015.
+PANIZ, D. noSQL: Como Armazenar os Dados de uma Aplicação Moderna. São Paulo: Casa do
+Código, 2016.
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. 3. ed. São
+Paulo: McGraw-Hill, 2008.
+SADALAGE, P. J.; FOWLER, M. noSQL Essencial: Um Guia Conciso para o Mundo Emergente da
+Persistência Poliglota. São Paulo: Novatec, 2013.
+                                BIBLIOGRAFIA COMPLEMENTAR
+BOAGLIO, F. MongoDB: Construa Novas Aplicações com Novas Tecnologias. São Paulo: Casa do
+Código, 2015.
+MANNINO, M. V. Projeto, Desenvolvimento de Aplicações e Administração de Banco de Dados.
+São Paulo: McGraw-Hill, 2008.
+MAYER, R. C. Otimizando a Performance de Bancos de Dados Relacionais. Rio de Janeiro:
+Axcel Books, 2001.
+ROB, P.; CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. 8.
+ed. São Paulo: Cengage Learning, 2011.
+SOUZA, M. B. Desvendando o MongoDB: Do Mongo Shell ao Java Driver. Rio de Janeiro: Ciência
+Moderna, 2015.
+
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: V

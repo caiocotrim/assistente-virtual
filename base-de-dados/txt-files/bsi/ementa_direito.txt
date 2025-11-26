@@ -1,0 +1,23 @@
+ementa direito
+
+CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      HUM17                       Direito Cibernético                       CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                              EMENTA
+Pós-humanismo Jurídico. Conceito de Direito Cibernético. A Constituição Federal de 1988 e o Direito
+Cibernético. Legislação infraconstitucional e o Direito Cibernético: Marco Civil da Internet e a Lei
+Geral de Proteção de Dados Pessoais. Crimes digitais. Racismo, Injúria Racial, LGBTfobia na
+Internet. Responsabilidade legal no design de sistemas de informação e na programação web.
+Apontamentos jurídicos sobre comércio eletrônico e propriedade intelectual/industrial relacionada à
+autoria de softwares. Documentos eletrônicos. Aspectos legais sobre contratos: contratos de venda,
+prestação de serviços, suporte e manutenção. Tópicos contemporâneos de Direito Cibernético.
+                                      BIBLIOGRAFIA BÁSICA
+FILHO, R.; RAMOS, D. Direito da Informática: Temas Polêmicos. São Paulo: EDIPRO, 2002.
+PAESANI, L. M. Direito de Informática: Comercialização e Desenvolvimento Internacional do
+Software. 9. ed. São Paulo: Atlas, 2014.
+
+
+professor: professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

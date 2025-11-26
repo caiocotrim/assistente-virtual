@@ -1,0 +1,30 @@
+ementa_moveis
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          15 horas 45 horas     -
+     TEC34        Programação para Dispositivos Móveis             CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+Paradigmas e princípios de desenvolvimento de aplicações móveis: mobilidade, interatividade,
+adaptabilidade, portabilidade e conectividade. Linguagens, ambientes de desenvolvimento,
+processos e padrões de arquitetura para desenvolvimento de aplicações móveis. Bibliotecas para o
+desenvolvimento de aplicações móveis.
+                                    BIBLIOGRAFIA BÁSICA
+DEITEL, P. J.; DEITEL, H. M.; DEITEL, A. Android para Programadores: Uma Abordagem baseada
+em Aplicativos. 2. ed. Porto Alegre: Bookman, 2015.
+RICHARDSON, L.; RUBY, S. RESTful Serviços Web. Rio de Janeiro: Alta Book, 2007.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+                               BIBLIOGRAFIA COMPLEMENTAR
+LECHETA, R. R. Desenvolvendo para iPhone e iPad. 3. ed. São Paulo: Novatec, 2014.
+HURWITZ, J. et al. Arquitetura Orientada a Serviços - SOA: Para Leigos. 2. ed. Rio de Janeiro:
+Alta Books, 2009.
+RESIG, J.; BIBEAVLT, B. Segredos do Ninja JavaScript. São Paulo: Novatec, 2013.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+TONSIG, S. L. MySQL: Aprendendo na Prática. Rio de Janeiro: Ciência Moderna, 2006.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

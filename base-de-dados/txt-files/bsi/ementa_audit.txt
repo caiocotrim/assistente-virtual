@@ -1,0 +1,32 @@
+ementa_audit
+
+SEGURANÇA E AUDITORIA DE SISTEMAS
+ CÓDIGO
+ : TEC34
+ Pré-requisitos: TEC22 – Redes de Computadores e TEC27 – Banco de Dados II
+ Semestre: VI Carga Horária: 60h Créditos: 4
+ Ementa:   
+Os conceitos e os tipos de ameaças, riscos e vulnerabilidades dos sistemas de
+ informação. O conceito e os objetivos da segurança das informações. Planejamento,
+ implementação e avaliação de políticas de segurança. Ferramentas de segurança.
+ Criptografia, Certificação Digital e Infraestruturas de chaves públicas (ICP). Padrões
+ internacionais de segurança. O conceito e os objetivos da auditoria. Técnicas de
+ auditoria. Padrões internacionais de auditoria.
+ Bibliografia:
+ Básica: 
+COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim. Sistemas Operacionais
+ Distribuídos: conceitos e projeto. Porto Alegre: Bookman, 2007.
+ STALLINGS, W. Criptografia e Segurança de Redes: Princípios e Práticas. 4ª ed. São
+ Paulo: Pearson, 2008.
+ TANENBAUM, Andrew S. Redes de computadores. Rio de Janeiro: Elsevier,
+ 2003.
+ Complementar:
+ LYRA, M. R. Segurança e Auditoria de Sistemas de Informação. 1ª ed. São Paulo: Ed.
+ Ciência Moderna, 2009.
+ SCHMIDT, P.; et al. Fundamentos de Auditoria de Sistemas. São Paulo: Editora Atlas,
+ 2006
+ DAVIS, Chris; SCHILLER, Mike; WHEELER, Kevin. IT auditing: using controls to protect
+ information assets. McGraw-Hill, 2011.
+ IMONIANA, J. O. Auditoria de Sistemas de Informação. São Paulo: Editora Atlas, 2008
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

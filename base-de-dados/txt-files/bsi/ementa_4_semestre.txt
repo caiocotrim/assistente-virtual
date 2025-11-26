@@ -1,0 +1,236 @@
+ementa_4_semestre
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+      COMPONENTES CURRICULARES OBRIGATÓRIOS DO IV SEMESTRE
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+     COM19               Metodologia da Pesquisa Científica                 CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                             EMENTA
+Introdução aos conceitos básicos da metodologia científica e das principais linhas de pensamento
+epistemológico. Tipos de conhecimento. A investigação científica: lógica, linguagem e método.
+Métodos científicos. Disciplinaridade. Processos e técnicas de elaboração do trabalho científico:
+fichamento, resumo e resenha crítica. Estudos de caso: seminário, relatório de pesquisa, projeto de
+pesquisa, monografia e artigo. Normas da ABNT: citações, bibliografia e referências.
+                                     BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport , 2004.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6 ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                                BIBLIOGRAFIA COMPLEMENTAR
+COSTA, M. A. F. Metodologia da Pesquisa: Conceitos e Técnicas. 2. ed. Rio de Janeiro:
+Interciência, 2009.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+OTANI, N.; FIALHO, F. A. P. TCC: Métodos e Técnicas. 2. ed. Florianópolis: Visual Books, 2011.
+RUIZ, J. A. Metodologia Científica: Guia para Eficiência nos Estudos. 6. ed. São Paulo: Atlas, 2009.
+SPECTOR, N. Manual para a Redação de Teses, Projetos de Pesquisa e Artigos Científicos. 2.
+ed. Rio de Janeiro: Guanabara Koogan, 2001.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      TEC20              Análise e Modelagem de Sistemas                    CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13)
+                                     EMENTA
+Levantamento e análise de requisitos. Documento de requisitos. Análise de projetos orientados a
+objetos. UML: diagramas de caso de uso, classes, sequência, atividades, componentes, implantação,
+colaboração e transição de estados. Documento de arquitetura de software.
+                                     BIBLIOGRAFIA BÁSICA
+BOOCH, G.; RUMAUGH, J.; JACOBSON, I. UML: Guia do Usuário 2. Rio de Janeiro: Campus, 2006.
+GUEDES, G. T. A. UML 2: Uma Abordagem Prática. 2. ed. São Paulo: Novatec, 2011.
+
+
+
+Projeto Pedagógico de Curso                                                                       86
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+LIMA, A. S. UML 2.0: Do Requisito à Solução. 3. ed. São Paulo: Érica. 2008.
+                                BIBLIOGRAFIA COMPLEMENTAR
+BEZERRA, E. Princípio de Análise e Projetos de Sistemas com UML. 3. ed. Rio de Janeiro:
+Elsevier, 2015.
+FOWLER, M. UML Essencial: Um Breve Guia para a Linguagem-padrão de Modelagem de Objetos.
+3. ed. Porto Alegre: Bookman, 2005.
+FURLAN J. Modelagem de Objetos através da UML: The Unified Modeling Language. NY: Makron
+Books, 2007.
+LIMA, A. S. Especificações Técnicas de Software. São Paulo: Érica, 2012.
+MELO, A. C. Desenvolvendo Aplicações com UML 2: Do Conceitual à Implementação. 2. ed. Rio
+de Janeiro: Brasport, 2005.
+RUMBAUGH, J. Modelagem e Projetos Baseados em Objetos. Rio de Janeiro: Campus, 1994.
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  30 horas 30 horas     -
+      TEC21                      Banco de Dados I                          CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Linguagem de Programação I (CCO07)
+                                     EMENTA
+Introdução: independência, redundância e inconsistência de dados. Sistemas Gerenciadores de
+Bancos de Dados. Ferramentas CASE. Análise de requisitos. Modelos de Dados: Entidade-
+Relacionamento e Relacional. Restrições de integridade. Transformações entre modelos. Álgebra
+relacional. Linguagem SQL: DDL, DML.
+                                     BIBLIOGRAFIA BÁSICA
+DATE, C. J. Introdução a Sistemas de Banco de Dados. 8. ed. Rio de Janeiro: Elsevier, 2003.
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. São Paulo: Pearson Addison
+Wesley, 2011.
+HEUSER, C. A. Projeto de Banco de Dados. 6. ed. Porto Alegre: Sagra Luzzatto, 2009.
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. 3. ed. São
+Paulo: McGraw-Hill, 2008.
+SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. 3. ed. São
+Paulo: Makron Books, 2005.
+                                BIBLIOGRAFIA COMPLEMENTAR
+BEIGHLEY, L. Use a Cabeça! SQL. Rio de Janeiro: Alta Books, 2008.
+MACHADO, F. N. R.; ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 15. ed. São
+Paulo: Livros Erica, 2008.
+MACHADO, F. N. R.; ABREU, M. P. Projeto de Banco de Dados: Uma Visão Prática. 17. ed. São
+Paulo: Érica, 2012.
+STEPHENS, R.; PLEW, R. Aprenda em 24 Horas SQL3. 3. ed. Rio de Janeiro: Campus, 2003.
+SUEHRING, S. MySQL: A Bíblia. Rio de Janeiro: Elsevier, 2002.
+
+
+
+
+Projeto Pedagógico de Curso                                                                   87
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                     CARGA HORÁRIA
+     CÓDIGO              COMPONENTE CURRICULAR
+                                                               Teórica   Prática Extensão
+                                                               30 horas 30 horas     -
+      TEC22                   Redes de Computadores                     CRÉDITOS
+                                                                            4
+PRÉ-REQUISITOS Sistemas Operacionais (TEC15)
+                                       EMENTA
+História e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas.
+Arquitetura TCP/IP: camada de aplicação, camada de transporte, camada de redes, subcamada de
+controle de acesso ao meio, subcamada de controle lógico de link e camada física.
+                                    BIBLIOGRAFIA BÁSICA
+COMER, D. E.; STEVENS, D. L. Interligação em Rede com TCP/IP: Projeto, Implementação e
+Detalhes internos. Rio de Janeiro: Elsevier, 1999.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                               BIBLIOGRAFIA COMPLEMENTAR
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes e Web. 2. ed. Porto Alegre: Bookman, 2001.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+GALLO M.A. Comunicação entre Computadores e Tecnologias de Rede. Thomson, 2003.
+MORAES, A. F. Redes de Computadores: Fundamentos. 2. ed. São Paulo: Érica, 2006.
+SOARES L. Redes de Computadores: Das LANs, MANs e WANs às Redes ATM. Campus, 1996.
+
+
+                                                                     CARGA HORÁRIA
+     CÓDIGO              COMPONENTE CURRICULAR
+                                                               Teórica   Prática Extensão
+                                                               15 horas 45 horas     -
+      TEC23                     Programação Web I                       CRÉDITOS
+                                                                            4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13)
+                                     EMENTA
+Especificações e tecnologias voltadas para estruturação e apresentação de conteúdo de páginas
+web. Manipulação, tratamento e validação de conteúdo de páginas web. Design responsivo.
+Frameworks para front-end.
+                                    BIBLIOGRAFIA BÁSICA
+SANDERS, B. Smashing HTML5: Técnicas para a nova Geração da Web. Porto Alegre: Bookman,
+2012.
+SILVA, M. S. Fundamentos de HTML5 e CSS3. São Paulo: Novatec, 2015.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CROWTHER, R. HTML5: Em Ação. São Paulo: Novatec, 2014.
+
+
+
+Projeto Pedagógico de Curso                                                                88
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+RUTTER, J. Smashing jQuery: Interatividade Avançada com Javascript Simples. Porto Alegre:
+Bookman, 2012.
+SILVA, M. S. HTML 5: A Linguagem de Marcação que revolucionou a Web. 2. ed. São Paulo:
+Novatec, 2014.
+SILVA, M. S. jQuery: A Biblioteca do Programador JavaScript. 3. ed. São Paulo: Novatec, 2014.
+SILVA, M. S. jQuery UI: Componentes de Interface Rica para suas Aplicações Web: Aprender a Criar
+Componentes de Interface de Alto Impacto Visual com uso da Biblioteca jQuery UI. São Paulo:
+Novatec, 2012.
+SILVA, M. S. Web Design Responsivo: Aprenda a Criar Sites que se adaptam Automaticamente a
+Qualquer Dispositivo, desde Desktops até Telefones Celulares. São Paulo: Novatec, 2014.
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  60 horas     -        -
+     COM24                      Empreendedorismo                           CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Administração (COM24)
+                                             EMENTA
+O empreender em múltiplas áreas e suas críticas. Características do espírito empreendedor. O gestor
+empreendedor, a economia de mercado e o estudo de viabilidades. O mercado e as oportunidades
+de negócio. Processo de tomada de decisões. Incubadora de empresas. Plano de negócios. Criação
+de Startups. Empreendedorismo social e a gestão tecnológica.
+                                     BIBLIOGRAFIA BÁSICA
+CHIAVENATO, I. Empreendedorismo: Dando Asas ao Espírito Empreendedor. 2. ed. São Paulo:
+Saraiva, 2007.
+DOLABELA, F. Oficina do Empreendedor. Rio de Janeiro:Sextante, 2008.
+DORNELAS, J. C. A. Empreendedorismo: Transformando Ideias em Negócios. 4. ed. Rio de
+Janeiro: Campus, 2012.
+                                BIBLIOGRAFIA COMPLEMENTAR
+BARON, R. A.; SHANE, S. A. Empreendedorismo: Uma Visão do Processo. São Paulo: Cengage
+Learning, 2007.
+DORNELAS, J. C. A. Empreendedorismo Corporativo: Como ser Empreendedor, Inovar e se
+Diferenciar na sua Empresa. 3. ed. Rio de Janeiro: LTC, 2015.
+DORNELAS, J. C. A. et al. Planos de Negócios que dão Certo: Um Guia para Pequenas
+Empresas. Rio de Janeiro: Elsevier, 2008.
+FILION, L. et al. Empreendedorismo de Base Tecnológica. Rio de Janeiro: Campus, 2005.
+MAXIMIANO, A. C. A. Introdução à Administração. 8. ed. São Paulo: Atlas, 2017.
+
+
+
+
+Projeto Pedagógico de Curso                                                                      89
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                      -         -    90 horas
+      EXT25             Atividades Curriculares de Extensão I              CRÉDITOS
+                                                                                6
+PRÉ-REQUISITOS Nenhum
+                                             EMENTA
+Ações de extensão baseadas em perfil de egresso do curso e articuladas com o arranjo local, a
+exemplo de projetos, eventos, oficinas, workshops, videoaulas e atividades de prestação de serviços.
+A escolha das ações deverá considerar, entre outros aspectos, necessidades da comunidade externa
+envolvida, o contexto de execução das atividades previstas e a disponibilidade de recursos
+existentes.
+                                     BIBLIOGRAFIA BÁSICA
+CONSELHO NACIONAL DAS INSTITUIÇÕES FEDERAIS DE EDUCAÇÃO PROFISSIONAL,
+CIENTÍFICA E TECNOLÓGICA. Extensão Tecnológica: Rede Federal de Educação Profissional,
+Científica e Tecnológica. Cuiabá (MT): CONIF/IFMT, 2013.
+DEUS, S. Extensão Universitária: Trajetórias e Desafios. Santa Maria, RS: Ed. PRE-UFSM, 2020.
+LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional.
+Santa Maria, RS: FACOS-UFSM, 2022.
+                                BIBLIOGRAFIA COMPLEMENTAR
+CORRÊA, E. J. (org.). Extensão Universitária: Organização e Sistematização. Belo Horizonte:
+Coopmed, 2007.
+CRISOSTIMO, A. L.; SILVEIRA, R. M. C. F. (org.). A EXTENSÃO Universitária e a Produção do
+Conhecimento: Caminhos e Intencionalidades. Guarapuava: Ed. da Unicentro, 2017.
+MELO, J. F. Extensão Popular. 2.ed. João Pessoa: Editora da UFPB, 2014.
+SÍVERES, S. (org.). A Extensão Universitária como um Princípio de Aprendizagem. Brasília:
+Liber Livro, 2013.

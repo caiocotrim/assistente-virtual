@@ -1,0 +1,28 @@
+ementa_redes
+
+CÓDIGO              COMPONENTE CURRICULAR
+                                                               Teórica   Prática Extensão
+                                                               30 horas 30 horas     -
+      TEC22                   Redes de Computadores                     CRÉDITOS
+                                                                            4
+PRÉ-REQUISITOS Sistemas Operacionais (TEC15)
+                                       EMENTA
+História e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas.
+Arquitetura TCP/IP: camada de aplicação, camada de transporte, camada de redes, subcamada de
+controle de acesso ao meio, subcamada de controle lógico de link e camada física.
+                                    BIBLIOGRAFIA BÁSICA
+COMER, D. E.; STEVENS, D. L. Interligação em Rede com TCP/IP: Projeto, Implementação e
+Detalhes internos. Rio de Janeiro: Elsevier, 1999.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                               BIBLIOGRAFIA COMPLEMENTAR
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes e Web. 2. ed. Porto Alegre: Bookman, 2001.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+GALLO M.A. Comunicação entre Computadores e Tecnologias de Rede. Thomson, 2003.
+MORAES, A. F. Redes de Computadores: Fundamentos. 2. ed. São Paulo: Érica, 2006.
+SOARES L. Redes de Computadores: Das LANs, MANs e WANs às Redes ATM. Campus, 1996.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

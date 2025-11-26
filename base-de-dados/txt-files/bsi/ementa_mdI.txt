@@ -1,0 +1,6 @@
+ementa_mdI
+
+Matemática Discreta I 
+PRÉ-REQUISITOS Nenhum
+EMENTA: Sistemas Numéricos e Aritmética. Conjuntos. Álgebra dos conjuntos. Relações. Funções. Introdução à lógica: lógica proposicional e lógica booleana.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

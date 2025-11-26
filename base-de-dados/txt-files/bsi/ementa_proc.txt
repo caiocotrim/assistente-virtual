@@ -1,0 +1,37 @@
+ementa_proc
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  15 horas 45 horas     -
+      TEC26          Processo de Desenvolvimento de Software               CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Análise e Modelagem de Sistemas (TEC20)
+                                      EMENTA
+Conceitos de processo de desenvolvimento de software: fases, fluxos de trabalho, iterações e
+incrementos, papéis, artefatos e atividades. Conhecimento e aplicação de conceitos dos processos.
+Metodologias para des [Epistemológico.] envolvimento de software. Metodologias ágeis.
+                                     BIBLIOGRAFIA BÁSICA
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+PRIKLADNICKI, R.; WILLI, R.; MILANI, F. (org.). Métodos Ágeis para Desenvolvimento de
+
+
+Projeto Pedagógico de Curso                                                                       90
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+Software. Porto Alegre: Bookman, 2014.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+                                BIBLIOGRAFIA COMPLEMENTAR
+GUSTAFSON, D. A. Teoria e Problemas de Engenharia de Software. Porto Alegre: Bookman,
+2003.
+KNIBERG, H. Scrum e XP Direto das Trincheiras. [S. l.]: C4Media, 2007. Disponível em:
+https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches.
+KNIBERG, H.; SKARIN, M. K. Scrum: Obtendo o Melhor de Ambos. [S. l.]: C4Media, 2009.
+Disponível em: https://www.infoq.com/br/minibooks/kanban-scrum-minibook.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. 3 ed. Rio de
+Janeiro: LTC, 2009.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: V

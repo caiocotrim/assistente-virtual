@@ -1,0 +1,27 @@
+ementa_1_semestre
+
+COMPONENTES CURRICULARES OBRIGATÓRIOS DO I SEMESTRE:
+
+Algoritmos e Programação 
+Pré-Requisitos: Nenhum
+Ementa: Soluções de problemas usando o computador. Algoritmos: pseudocódigo e fluxogramas. Introdução a uma linguagem de programação: variáveis, tipos de dados; entrada e saída de dados. Operadores e expressões. Comandos de decisão e repetição. Agregados de dados homogêneos. Escopo. Subprogramas. Boas práticas de programação.
+
+Leitura e Produção de Gêneros Acadêmicos
+Pré-Requisitos: Nenhum
+Ementa: Linguagem, língua e variação. Concepções de leitura. Estratégias de leitura. Texto. Fatores pragmáticos e estruturais da textualidade. Tipologia textual. Noções de gêneros acadêmicos e científicos: esquema, fichamento, resumo, resenha e artigo científico. Paráfrases. Citações. Plágio e autoplágio. Noções da gramática normativa aplicadas à leitura e à produção de gêneros acadêmicos/científicos.
+
+Fundamentos de Sistemas de Informação
+PRÉ-REQUISITOS Nenhum
+EMENTA: Princípios de Sistemas de Informação. Os conceitos, objetivos, funções e componentes dos sistemas de informação. As dimensões tecnológica, organizacional e humana dos sistemas de informação. Os tipos de sistemas de informação. Hierarquia de Sistemas. 
+
+Matemática Discreta I 
+PRÉ-REQUISITOS Nenhum
+EMENTA: Sistemas Numéricos e Aritmética. Conjuntos. Álgebra dos conjuntos. Relações. Funções. Introdução à lógica: lógica proposicional e lógica booleana.
+
+Introdução à Ciência da Computação
+PRÉ-REQUISITOS Nenhum
+EMENTA: Histórico da computação. Áreas de atuação profissional na computação conforme a Sociedade Brasileira de Computação. Estruturas dos sistemas computadores modernos. Sistemas digitais e analógicos. Transformações de bases numéricas. Lógica de Boole. Codificação de dados. Conceitos sobre software, linguagens e compilação. Introdução a paradigmas de programação.
+
+Inglês Aplicado à Computação 
+PRÉ-REQUISITOS Nenhum
+EMENTA: Estratégias de aprendizado de Inglês como língua estrangeira. Estratégias de leitura. Aprendizado e expansão de léxico. Uso de dicionários. Gramática básica. Vocabulários técnicos em eletrônica e computação. Leitura e elaboração de textos técnicos em Inglês.

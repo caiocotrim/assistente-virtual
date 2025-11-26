@@ -1,0 +1,31 @@
+ementa_tccI
+
+ CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 30 horas     -        -
+      SUP42              Trabalho de Conclusão de Curso I                 CRÉDITOS
+                                                                              2
+PRÉ-REQUISITOS
+                                            EMENTA
+Busca de soluções, de forma independente, para uma situação-problema preestabelecida,
+contextualizada na área de Sistemas de Informação e compatível com as competências gerais e
+específicas que deverão ser desenvolvidas. Estrutura e organização de um trabalho de pesquisa.
+Construção dos instrumentos de pesquisa. Construção do projeto de pesquisa: a pergunta condutora,
+a delimitação do problema, a hipótese, os objetivos e o embasamento teórico, metodológico e
+empírico. Apresentação do projeto a uma banca avaliadora.
+                                     BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport, 2004.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6. ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                               BIBLIOGRAFIA COMPLEMENTAR
+OTANI, N.; FIALHO, F. A. P. TCC: Métodos e Técnicas. Florianópolis: Visual Books, 2011.
+SPECTOR, N. Manual para a Redação de Teses, Projetos de Pesquisa e Artigos Científicos. 2.
+ed. Rio de Janeiro: Guanabara Koogan, 2001.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII

@@ -1,0 +1,30 @@
+ementa_lp2
+
+CÓDIGO                   COMPONENTE CURRICULAR
+                                                                      Teórica   Prática Extensão
+                                                                      15 horas 45 horas     -
+      CCO13                    Linguagem de Programação II                     CRÉDITOS
+                                                                                   4
+PRÉ-REQUISITOS Linguagem de Programação I (CCO07)
+                                     EMENTA
+Tratamento de exceção. Programação genérica. Manipulação de arquivos e streams.
+Desenvolvimento de interfaces gráficas básicas. Fluxos de controle paralelo. Boas práticas de
+programação.
+                                         BIBLIOGRAFIA BÁSICA
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do
+Brasil, 2011.
+HORSTMANN, C. S.; CORNELL, G. Core Java: Volume I: Fundamentos. 8. ed. São Paulo: Pearson
+Prentice Hall, 2010.
+SCHILDT, H.; SKRIEN, D. Programação com Java: Uma Introdução Abrangente. Porto Alegre:
+Bookman, 2013.
+                                   BIBLIOGRAFIA COMPLEMENTAR
+                        TM
+ARAÚJO, K. F. C. Java        EE5: Guia Prático. 2. ed. São Paulo: Érica, 2007.
+FURGERI, S. Java 7 - Ensino Didático: Desenvolvendo e Implementando Aplicações. São Paulo:
+Érica, 2015.
+HORSTMANN, C. Conceitos de Computação com o Essencial de Java. 3. ed. Porto Alegre:
+Bookman, 2005.
+JANDL JUNIOR, P. Java: Guia do Programador. São Paulo: Novatec, 2007.
+SIERRA, K.; BATES, B. Use a Cabeça! JavaTM. 2. ed. Rio de Janeiro: Alta Books, 2010.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

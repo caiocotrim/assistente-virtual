@@ -1,0 +1,37 @@
+ementa_desdis
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                         Teórica   Prática Extensão
+                                                         15 horas 45 horas       -
+     TEC40       Desenvolvimento Distribuído na Internet          CRÉDITOS
+                                                                      4
+               Processo de Desenvolvimento de Software (TEC26) e Sistemas Distribuídos
+PRÉ-REQUISITOS
+               (TEC36)
+                                       EMENTA
+Conceitos e princípios relacionados ao desenvolvimento de aplicações distribuídas em internet.
+Arquitetura orientada a Serviços (SOA). Serviços Web e composição de Serviços Web. Comunicação
+entre serviços. Linguagens usadas para desenvolvimento distribuído. Processos, arquiteturas e
+padrões para sistemas distribuídos na Internet.
+                                    BIBLIOGRAFIA BÁSICA
+ERL, T. SOA: Princípios do Design de Serviços. São Paulo: Pearson Prentice Hall, 2009.
+KUMAR, B. V.; NARAYAN P.; NG, T. Implementando SOA usando JAVA EE. Rio de Janeiro: Alta
+Books, 2012.
+MARZULLO, F. P. SOA na Prática: Inovando seu Negócio por meio de Soluções Orientadas a
+Serviços. Rio de Janeiro: Novatec, 2009.
+RICHARDSON, L.; RUBY, S. RESTful Serviços Web. Rio de Janeiro: Alta Book, 2007.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BRAUDE, E. J. Projeto de Software: Da Programação à Arquitetura: Uma Abordagem baseada em
+Java. Porto Alegre: Bookman, 2005.
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+HICKSON, R. S. H. Projeto de Sistemas Web orientados a Interface. Rio de Janeiro: Campus;
+Elsevier, 2003.
+HURWITZ, J. et. al. Arquitetura Orientada a Serviços - SOA: Para Leigos. 2. ed. Rio de Janeiro:
+Alta Books, 2009.
+TRAN, K. T. Introduction to Web Services with Java. [S. I.]: Bookboon, 2013. Disponível em:
+https://bookboon.com/en/introduction-to-web-services-with-java-ebook
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII

@@ -1,0 +1,7 @@
+ementa_mdII
+
+Matemática Discreta II 
+PRÉ-REQUISITOS Matemática Discreta I (MAT04)
+EMENTA: Teoria dos grafos: representação de grafo; grafo parcial e sub-grafo; grafo completo e grafo bipartido; caminho; percurso; ciclo; circuito; e comprimento.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+

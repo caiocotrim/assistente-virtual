@@ -1,0 +1,36 @@
+ementa_sisdis
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                          CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                    Teórica   Prática Extensão
+                                                                    45 horas 15 horas     -
+      TEC36                     Sistemas Distribuídos                        CRÉDITOS
+                                                                                 4
+PRÉ-REQUISITOS Redes de Computadores (TEC22)
+                                     EMENTA
+Conceitos básicos: histórico; terminologia; sistemas centralizados, distribuídos, paralelos ou de alto
+desempenho. Arquitetura de sistemas distribuídos. Comunicação em sistemas distribuídos.
+Sincronização em sistemas distribuídos. Algoritmos distribuídos. Sistemas distribuídos tolerantes a
+falhas. Objetos distribuídos. Segurança em sistemas distribuídos.
+                                      BIBLIOGRAFIA BÁSICA
+COULOURIS, G. et. al. Sistemas Operacionais Distribuídos: Conceitos e Projeto. 5. ed. Porto
+Alegre: Bookman, 2013.
+TANENBAUM, A. Sistemas Operacionais Modernos. 2. ed. São Paulo: Prentice Hall, 2003.
+TANENBAUM, A.; STEEN, M. V. Sistemas Distribuídos: Princípios e Paradigmas. 2. ed. São Paulo:
+Pearson Prentice Hall, 2007.
+                                BIBLIOGRAFIA COMPLEMENTAR
+CARDOSO, J. Programação de Sistemas Distribuídos em Java. Portugal: FCA, 2011.
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+KIRNER, C.; MENDES, S. Sistemas Operacionais Distribuídos. São Paulo: Campus, 2006.
+MARQUES, J. A.; GUEDES, P. Tecnologia de Sistemas Distribuídos. Portugual: FCA, 2011.
+SAUVE, J. P.; TEIXEIRA JÚNIOR, J. H. Do Mainframe para a Computação Distribuída:
+Simplificando a Transição. Rio de Janeiro: Infobook, 1996.
+VOGEL, A.; DUDDY, K.; DESJARLAIS, F. Java Programming with CORBA. Indianapolis: John
+WileyConsumer, 2001.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

@@ -1,0 +1,32 @@
+ementa_ia
+
+ CÓDIGO                COMPONENTE CURRICULAR
+                                                         Teórica     Prática Extensão
+                                                         15 horas 45 horas          -
+     TEC33                Inteligência Artificial                  CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13) e Matemática Discreta II (MAT10)
+                                        EMENTA
+Introdução a Inteligência Artificial. Histórico de Inteligência Artificial. Linguagem de programação
+aplicada à Inteligência Artificial. Frameworks, processos de desenvolvimento e arquiteturas de
+software dedicadas à Inteligência Artificial. Laboratório de Inteligência Artificial com práticas de
+criação de sistemas de informação baseados em Inteligência Artificial.
+                                      BIBLIOGRAFIA BÁSICA
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+ROSA, J. L. G. Fundamentos de Inteligência Artificial. Rio de Janeiro: LTC, 2011.
+RUSSELL, S. J.; NORVIG, P. Inteligência Artificial: Referência Completa para Cursos de
+Computação. Rio de Janeiro: Elsevier, 2004.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+BITTENCOURT, G. Inteligência Artificial: Ferramentas e Teorias. 3. ed. Florianópolis: UFSC, 2006.
+FRANCO, C. R. Inteligência Artificial. [S. l.]: UNIASSELVI, 2017. Disponível em:
+https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=22869
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+ZIVIANI, N.; BOTELHO, F. C. Projeto de Algoritmos: Com Implementações em Java e C++. São
+Paulo: Cengage Learning, 2013.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

@@ -1,0 +1,44 @@
+ementa_sad
+
+ CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      TEC44                 Sistemas de Apoio à Decisão                     CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Gestão de Projetos (TEC38)
+                                      EMENTA
+Dados, informação e conhecimento. O processo decisório nas organizações. Sistemas de
+Informação: Sistemas OLTP (Online Transaction Processing) e Sistemas de Apoio à Gestão.
+Características e funcionalidades de sistemas de informação de nível tático e estratégico nas
+organizações. Data Warehouse, Data Marts. Data Mining e Online Analytical Processing (OLAP).
+Conceitos e tendências em tecnologias emergentes para Sistemas de Apoio à Decisão.
+
+
+
+
+Projeto Pedagógico de Curso                                                                      102
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                     BIBLIOGRAFIA BÁSICA
+GOLDSCHMIDT, R. Data Mining: Conceitos, Técnicas, Algoritmos, Orientações e Aplicações. 2. ed.
+Rio de Janeiro: Elsevier, 2015.
+MACHADO, F. N. R. Tecnologia e Projeto de Data Warehouse: Uma Visão Multidimensional. 6. ed.
+São Paulo: Érica: Saraiva, 2013.
+STAIR, R. M.; REYNOLDS, G. W. Princípios de Sistemas de Informação. 9. ed. São Paulo:
+Cengage Learning, 2011.
+                                BIBLIOGRAFIA COMPLEMENTAR
+AVERWEG, U. R. F. Decision-making Support Systems: Theory & Practice. Bookboon, 2012.
+Disponível em: http://bookboon.com/en/decision-making-support-systems-ebook.
+DATE, C. J. Introdução a Sistema de Bancos de Dados. 7. ed. Rio de Janeiro: Campus, 2000.
+FACELI, K. et al. Inteligência Artificial: Uma abordagem de Aprendizado de Máquina. Rio de
+Janeiro: LTC, 2015.
+SILBERSCHATZ, A.; KORT, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. São Paulo:
+Pearson, 1999.
+TAN, P.; STEINBACH, M.; KUMAR, V. Introdução ao Data Mining: Mineração de Dados. Rio de
+Janeiro: Ciência Moderna, 2009.
+
+
+                                                   
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII (na matriz de 2023) e VIII (na matriz de 2017)

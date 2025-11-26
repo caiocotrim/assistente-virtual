@@ -1,0 +1,30 @@
+ PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO CÓDIGO: CCO23
+ Pré-requisitos: CCO13-Linguagem de Programação II
+ Semestre: IV Carga Horária: 60h Créditos: 4
+ Ementa:   
+Conceitos de linguagens de programação. Evolução de linguagens de programação.
+ Sintaxe e semântica de linguagens de programação. Teoria dos tipos: sistemas de tipos,
+ polimorfismo. Verificação e inferência de tipos. Semântica formal de tipos. Abstração de
+ processos e dados. Paradigma funcional. Paradigma Lógico. Comparação dos
+ paradigmas: imperativas, funcionais, lógicas e orientadas a objetos.
+ Bibliografia:
+ Básica:
+ SEBESTA, Robert W. Conceitos de linguagens de programação. 9. ed. Porto
+ Alegre: Bookman, 2011.
+ DEITEL, Harvey M.; DEITEL, Paul J. C++: como programar. 5. ed. São Paulo:
+ Prentice Hall, 2006.
+ ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de.
+ Fundamentos da programação de computadores: algoritmos, Pascal e C/C++. 2.
+ ed. São Paulo: Pearson Prentice Hall, 2007.
+ Complementar:
+ DEITEL, Harvey M.; DEITEL, Paul J. Java: como programar: 4ª edição. 4ª ed.
+ Porto Alegre: Bookman, 2003. 
+ARAÚJO, S. L. ACIÓLY, B. M. Introdução ao Haskell. Vitória da Conquista: Edições
+ UESB, 2008.
+ CSENKI, A. Prolog Techniques. Disponível em <http://bookboon.com/en/prolog
+techniques-applications-of-prolog-ebook>. Bookboon, ISBN 978-87-7681-476-2, 2009.
+ PRICE, Ana Maria de Alencar; TOSCANI, Simão Sirineo. Implementação de
+ linguagens de programação: compiladores. 3. ed. Porto Alegre: Sagra Luzzatto,
+ 2005.
+ SOUZA, João Nunes de. Lógica para ciência da computação: fundamentos de
+ linguagem, semântica e sistemas de dedução. Rio de Janeiro: Elsevier, 2002.

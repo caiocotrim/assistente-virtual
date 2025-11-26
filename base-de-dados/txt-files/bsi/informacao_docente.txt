@@ -1,0 +1,509 @@
+informacao_docente
+
+professores do curso de sistemas de informação:
+
+Presidente Alexandro dos Santos Silva
+Representação Docente Amanda Ferraz de Oliveira Passos
+
+Camilo Alves Carvalho,
+Cláudio Rodolfo Sousa de Oliveira,
+Crescêncio Rodrigues Lima Neto,
+Críjina Chagas Flores de Souza,
+Djan Almeida Santos,
+Leonardo Barreto Campos,
+Luís Paulo da Silva Carvalho,
+Mailson Sousa Couto,
+Marcela Alves Pereira,
+Pablo Freire Matos,
+Stenio Longo Araújo,
+Viviane Maria Lélis Carvalho,
+Vivyane Coelho Caires.
+
+3.10.3 NÚCLEO DOCENTE ESTRUTURANTE
+O Núcleo Docente Estruturante do curso, de acordo com as Resoluções nº
+17/2012/CONSUP e 23/2019/CONSUP (ou ainda mais atuais, se for o caso), possui
+como atribuições:
+•
+
+Contribuir para a consolidação do perfil profissional do egresso do
+curso;
+
+Projeto Pedagógico de Curso
+
+55
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+•
+
+Colaborar com a atualização periódica deste Projeto Pedagógico;
+
+•
+
+Conduzir os trabalhos de reestruturação curricular, para aprovação no
+Colegiado de Curso, sempre que necessário;
+
+•
+
+Cooperar na supervisão das formas de avaliação e acompanhamento
+do curso definidas pelo Colegiado de Curso;
+
+•
+
+Contribuir para a análise e avaliação deste Projeto Pedagógico, das
+ementas, dos conteúdos programáticos e dos planos de ensino dos
+componentes curriculares do curso;
+
+•
+
+Auxiliar no acompanhamento das atividades do corpo docente,
+inclusive com a avaliação institucional, recomendando ao Colegiado de
+Curso a indicação ou substituição de docentes, quando necessário;
+
+•
+
+Zelar pela integração curricular interdisciplinar entre as diferentes
+atividades de ensino constantes no currículo;
+
+•
+
+Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa
+e extensão, oriundas das necessidades da graduação, de exigências
+do mercado de trabalho e afinadas com as políticas públicas relativas à
+área de conhecimento do curso;
+
+•
+
+Zelar
+
+pelo
+
+cumprimento
+
+das
+
+Diretrizes
+
+Curriculares
+
+Nacionais
+
+aplicáveis ao curso.
+
+3.11
+
+CORPO DOCENTE
+O perfil multidisciplinar dos docentes que atuam no curso é evidenciado no
+
+Quadro 6.
+Quadro 6: Corpo docente do curso
+DOCENTES DA ÁREA DE ADMINISTRAÇÃO
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Daniela Pereira Contelli
+
+Dedicação
+
+Projeto Pedagógico de Curso
+
+Doutora
+
+CURRÍCULO
+http://lattes.cnpq.br/6328542939928338
+
+56
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+Exclusiva
+Maria das Graças Bittencourt
+Ferreira
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/0428541808141448
+
+DOCENTES DA ÁREA DE CIÊNCIAS AMBIENTAIS
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Maria Laura Souza Silva
+
+Dedicação
+Exclusiva
+
+Doutora
+
+CURRÍCULO
+http://lattes.cnpq.br/2529175829750697
+
+DOCENTES DA ÁREA DE CIÊNCIAS SOCIAIS
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Eliana Barretto de Menezes
+Lopes
+
+Dedicação
+Exclusiva
+
+Doutora
+
+CURRÍCULO
+http://lattes.cnpq.br/3507321971958718
+
+DOCENTES DA ÁREA DE CIÊNCIAS ECONÔMICAS
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Ualace Roberto de Jesus
+Oliveira
+
+Dedicação
+Exclusiva
+
+Mestrado
+
+CURRÍCULO
+http://lattes.cnpq.br/4732898909640348
+
+DOCENTES DA ÁREA DE COMPUTAÇÃO
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Alexandro Santos Silva
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/6962420846568664
+
+Aline Silva Costa
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/0122201870161483
+
+Amanda Ferraz de Oliveira
+Passos
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/6901882915716106
+
+Bruno Silvério Costa
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/2887557267146279
+
+Camilo Alves Carvalho
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/0141085338213755
+
+Cláudio Rodolfo Sousa de
+Oliveira
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/5146146028744406
+
+Crescencio Rodrigues Lima
+Neto
+
+Dedicação
+Exclusiva
+
+Doutor
+
+http://lattes.cnpq.br/9104143705992817
+
+Críjina Chagas Flores
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/2202673007106893
+
+Djan Almeida Santos
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/6217397439199222
+
+Igor Luis Oliveira de Souza
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/7095898658660809
+
+Projeto Pedagógico de Curso
+
+CURRÍCULO
+
+57
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+Leonardo Barreto Campos
+
+Dedicação
+Exclusiva
+
+Doutor
+
+http://lattes.cnpq.br/5550218769434638
+
+Liojes de Oliveira Carneiro
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/8609440038026862
+
+Luis Paulo da Silva Carvalho
+
+Dedicação
+Exclusiva
+
+Doutor
+
+http://lattes.cnpq.br/0311325080761195
+
+Mailson Sousa Couto
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/1001923650927175
+
+Marcela Alves Pereira
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/2087488233839902
+
+Pablo Freire Matos
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/1940393978436664
+
+Stenio Longo Araújo
+
+20 Horas
+Semanais
+
+Mestre
+
+http://lattes.cnpq.br/8505491324889468
+
+Viviane Maria Lélis Carvalho
+
+Dedicação
+Exclusiva
+
+Doutora
+
+http://lattes.cnpq.br/5558685078668252
+
+Vivyane Coelho Caires
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/2067440203669588
+
+DOCENTES DA ÁREA DE DIREITO
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Fernando de Azevedo Alves
+Brito
+
+Dedicação
+Exclusiva
+
+Doutor
+
+CURRÍCULO
+http://lattes.cnpq.br/4135642428062326
+
+DOCENTES DA ÁREA DE LETRAS
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Polliana Freire dos Anjos
+Oliveira
+
+Dedicação
+Exclusiva
+
+Mestre
+
+CURRÍCULO
+http://lattes.cnpq.br/3336111295207463
+
+DOCENTES DA ÁREA DE MATEMÁTICA
+NOME
+
+REGIME DE
+TITULAÇÃO
+TRABALHO
+
+Allan de Sousa Soares
+
+Dedicação
+Exclusiva
+
+Mestre
+
+http://lattes.cnpq.br/4727619132879927
+
+Roberto Hugo Melos dos Santos
+
+Dedicação
+Exclusiva
+
+Doutor
+
+http://lattes.cnpq.br/5671856702222175
+
+Projeto Pedagógico de Curso
+
+CURRÍCULO
+
+58
+
+SOBRE AS MATÉRIAS QUE CADA PROFESSOR OFERTA: Por se tratar de algo volátil que pode mudar a qualquer momento, não sinalizamos quais são as atuais matérias de cada professor. Isso acontece por que de semestre em semestre pode ocorrer mudanças e troca de matérias entre professores.
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+3.12
+
+EQUIPE TÉCNICO-PEDAGÓGICA
+A relação de servidores à disposição do curso que exercem atividades
+
+técnico-pedagógicas segue-se abaixo.
+Quadro 7: Equipe técnico-pedagógica do curso
+NOME
+
+FUNÇÃO
+
+Alexandre Siqueira Ruas
+Anely Silva Oliveira
+Cássio Viana Santos
+Daniela Gonçalves da Silveira Freitas
+Diego Nunes da Silva
+Iggor Lincolln Barbosa da Silva
+Igor Meira Ribeiro
+Lucineide Rodrigues Santos Brito
+Maísa Dias Brandão Souza
+Maísa Rose Serra de Almeida
+Marcela Vieira Dantas
+Maria Aparecida Almeida Mendonça
+Naiara de Souza Almeida Dias
+Rafaella de Morais
+Walter Costa Santos
+Yuri Oliveira do Val
+
+3.13
+
+LOTAÇÃO
+
+Assistente em Administração
+CORES
+Pedagoga
+COTEP
+Assistente em Administração
+CORES
+Tradutora e Intérprete de Linguagem
+CAPNE
+de Sinais
+Assistente em Administração
+CORES
+Técnico de Laboratório
+GELAB
+Coordenador de Registros Escolares
+CORES
+Pedagoga
+COTEP
+Assistente Social
+Serviço Social
+Assistente de Aluno
+COTEP
+Psicóloga
+Serviço de Psicologia
+Assistente em Administração
+CORES
+Assistente em Administração
+CORES
+Assistente Social
+Serviço Social
+Auxiliar em Administração
+CORES
+Técnico em Audiovisual
+Núcleo Audiovisual

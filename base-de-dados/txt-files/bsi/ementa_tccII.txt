@@ -1,0 +1,26 @@
+ementa_tccII
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                    -     30 horas     -
+      SUP48             Trabalho de Conclusão de Curso II                CRÉDITOS
+                                                                              2
+PRÉ-REQUISITOS Trabalho de Conclusão de Curso I (SUP42)
+                                       EMENTA
+Execução e acompanhamento do Trabalho de Conclusão de Curso. Elaboração do Projeto Final de
+Curso em formato monográfico, conforme formato padrão sugerido pela ABNT e orientações
+presentes no Manual de Normas de Trabalho de Conclusão de Curso. Apresentação do Projeto Final
+de Curso perante a uma banca examinadora.
+                                    BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport, 2004.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6. ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BOAVENTURA, E. M. Metodologia da Pesquisa: Monografia, Dissertação e Tese. São Paulo: Atlas,
+2004.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VIII

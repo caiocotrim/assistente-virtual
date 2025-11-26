@@ -1,0 +1,99 @@
+ementa_8_semestre
+
+COMPONENTES CURRICULARES OBRIGATÓRIOS DO VIII SEMESTRE
+
+                                                                      CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                Teórica   Prática Extensão
+                                                                60 horas     -        -
+      HUM46                       Meio Ambiente                          CRÉDITOS
+                                                                             4
+PRÉ-REQUISITOS Nenhum
+                                            EMENTA
+Ecossistemas. Aquecimento global. A natureza e o comportamento dos sistemas naturais. Objetivos
+de desenvolvimento do milênio. Sustentabilidade. Responsabilidade empresarial. Marketing
+sustentável. Educação ambiental para um cidadão global. Responsabilidade do profissional de
+informática em relação ao meio ambiente. TI Verde.
+                                    BIBLIOGRAFIA BÁSICA
+ALIGLERI, L.; ALIGLERI, L. A.; KRUGLIANSKAS, I. Gestão Socioambiental: Responsabilidade e
+Sustentabilidade do Negócio. São Paulo: Atlas. 2009.
+ALMEIDA, F. Experiências Empresariais em Sustentabilidade: Avanços, Dificuldades e
+Motivações de Gestores e Empresas. Rio de Janeiro : Elsevier, 2009.
+SAVITZ, A.; WEBER, K. A. A Empresa Sustentável: O Verdadeiro Sucesso é Lucro com
+Responsabilidade Social. Rio de Janeiro: Elsevier, 2007.
+WERBACH, A. Estratégia para Sustentabilidade: Uma Nova Forma de Planejar sua Estratégia
+Empresarial. Rio de Janeiro: Campus, 2010.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BERTHOUEX, P. M.; BROWN, L. C. Pollution Prevention and Control. [S. l.]: Bookboon, 2019.
+Disponível em: http://bookboon.com/en/pollution-prevention-and-control-ebook.
+OLIVEIRA, C. C.; SAMPAIO, R. S. R. (org). A Economia Verde no Contexto do Desenvolvimento
+Sustentável: A Governança dos Atores Públicos e Privados. Rio de Janeiro: FGV, Direito Rio, 2011.
+OLIVEIRA, C. C.; SAMPAIO, R. S. R. (org). Instrumentos Jurídicos para a Implementação do
+Desenvolvimento Sustentável. Rio de Janeiro: FGV, Direito Rio, Programa em Direito e Meio
+Ambiente, 2012.
+
+
+                                                                  CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                            Teórica   Prática Extensão
+                                                           60 horas      -        -
+     TEC47             Gestão e Governança de TI                     CRÉDITOS
+                                                                         4
+PRÉ-REQUISITOS Gestão de Projetos (TEC38) e Segurança da Informação (TEC37)
+                                      EMENTA
+Alinhamento estratégico entre Tecnologia da Informação e negócios. Planejamento estratégico de
+sistemas de informação. Governança corporativa e regulamentações de compliance. Governança de
+TI e gerenciamento de serviços de TI. Frameworks de governança e gestão de TI. Metodologias de
+
+
+
+Projeto Pedagógico de Curso                                                                  104
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+aferição e gestão de desempenho.
+                                    BIBLIOGRAFIA BÁSICA
+ISACA. COBIT® 2019 Framework: Governance and Management Objectives. Rolling Meadows, IL:
+ISACA, 2018. Disponível em: https://www.isaca.org/bookstore/bookstore-cobit_19-digital/wcb19fgm.
+ISACA. COBIT® 2019 Framework: Introduction and Methodology. Rolling Meadows, IL: ISACA,
+2018. Disponível em: https://www.isaca.org/bookstore/bookstore-cobit_19-digital/wcb19fim.
+MOLINARO, L. F. R.; RAMOS, K. H. C. Gestão de Tecnologia da Informação: Governança de TI:
+Arquitetura e Alinhamento entre Sistemas de Informação e o Negócio. Rio de Janeiro: LTC, 2015.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CESTARI FILHO, F. ITIL V3 Fundamentos. Rio de Janeiro: RNP/ESR, 2011. Disponível em:
+https://www.portalgsti.com.br/2012/07/ebook-itil-v3.html.
+ISACA. Modelo Corporativo para Governança e Gestão de TI da Organização. Rolling Meadows,
+IL: ISACA, 2012. Disponível em: https://www.isaca.org/COBIT/Pages/COBIT-5-portuguese.aspx.
+KYRIAZOGLOU, J. IT-Business Alignment: Part I: Effectively Aligning IT Systems to your Business
+Operations. [S. l.]: Bookboon, 2012. Disponível em: http://bookboon.com/en/it-business-alignment-
+part-i-ebook.
+KYRIAZOGLOU, J. IT-Business Alignment: Part II: Effectively Aligning IT Systems to your Business
+Operations. [S. l.]: Bookboon, 2012. Disponível em: http://bookboon.com/en/it-business-alignment-
+part-ii-ebook.
+MCKEAN, D. IT Management, Part II: Projects, Programs and Business Change. [S. l.]: Bookboon,
+2012. Disponível em: http://bookboon.com/en/it-management-projects-programs-ebook.
+
+
+                                                                       CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                    -     30 horas     -
+      SUP48             Trabalho de Conclusão de Curso II                CRÉDITOS
+                                                                              2
+PRÉ-REQUISITOS Trabalho de Conclusão de Curso I (SUP42)
+                                       EMENTA
+Execução e acompanhamento do Trabalho de Conclusão de Curso. Elaboração do Projeto Final de
+Curso em formato monográfico, conforme formato padrão sugerido pela ABNT e orientações
+presentes no Manual de Normas de Trabalho de Conclusão de Curso. Apresentação do Projeto Final
+de Curso perante a uma banca examinadora.
+                                    BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport, 2004.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6. ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BOAVENTURA, E. M. Metodologia da Pesquisa: Monografia, Dissertação e Tese. São Paulo: Atlas,
+2004.

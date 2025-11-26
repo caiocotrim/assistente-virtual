@@ -1,0 +1,256 @@
+ementa_6_semestre
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                 BIBLIOGRAFIA COMPLEMENTAR
+CORRÊA, E. J. (org.). Extensão Universitária: Organização e Sistematização. Belo Horizonte:
+Coopmed, 2007.
+CRISOSTIMO, A. L.; SILVEIRA, R. M. C. F. (org.). A EXTENSÃO Universitária e a Produção do
+Conhecimento: Caminhos e Intencionalidades. Guarapuava: Ed. da Unicentro, 2017.
+MELO, J. F. Extensão Popular. 2.ed. João Pessoa: Editora da UFPB, 2014.
+SÍVERES, S. (org.). A Extensão Universitária como um Princípio de Aprendizagem. Brasília:
+Liber Livro, 2013.
+
+
+
+      COMPONENTES CURRICULARES OBRIGATÓRIOS DO VI SEMESTRE
+
+                                                               CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                         Teórica     Prática Extensão
+                                                         15 horas 45 horas          -
+     TEC33                Inteligência Artificial                  CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13) e Matemática Discreta II (MAT10)
+                                        EMENTA
+Introdução a Inteligência Artificial. Histórico de Inteligência Artificial. Linguagem de programação
+aplicada à Inteligência Artificial. Frameworks, processos de desenvolvimento e arquiteturas de
+software dedicadas à Inteligência Artificial. Laboratório de Inteligência Artificial com práticas de
+criação de sistemas de informação baseados em Inteligência Artificial.
+                                      BIBLIOGRAFIA BÁSICA
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+ROSA, J. L. G. Fundamentos de Inteligência Artificial. Rio de Janeiro: LTC, 2011.
+RUSSELL, S. J.; NORVIG, P. Inteligência Artificial: Referência Completa para Cursos de
+Computação. Rio de Janeiro: Elsevier, 2004.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+BITTENCOURT, G. Inteligência Artificial: Ferramentas e Teorias. 3. ed. Florianópolis: UFSC, 2006.
+FRANCO, C. R. Inteligência Artificial. [S. l.]: UNIASSELVI, 2017. Disponível em:
+https://www.uniasselvi.com.br/extranet/layout/request/trilha/materiais/livro/livro.php?codigo=22869
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+ZIVIANI, N.; BOTELHO, F. C. Projeto de Algoritmos: Com Implementações em Java e C++. São
+Paulo: Cengage Learning, 2013.
+
+
+
+
+Projeto Pedagógico de Curso                                                                           95
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          15 horas 45 horas     -
+     TEC34        Programação para Dispositivos Móveis             CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+Paradigmas e princípios de desenvolvimento de aplicações móveis: mobilidade, interatividade,
+adaptabilidade, portabilidade e conectividade. Linguagens, ambientes de desenvolvimento,
+processos e padrões de arquitetura para desenvolvimento de aplicações móveis. Bibliotecas para o
+desenvolvimento de aplicações móveis.
+                                    BIBLIOGRAFIA BÁSICA
+DEITEL, P. J.; DEITEL, H. M.; DEITEL, A. Android para Programadores: Uma Abordagem baseada
+em Aplicativos. 2. ed. Porto Alegre: Bookman, 2015.
+RICHARDSON, L.; RUBY, S. RESTful Serviços Web. Rio de Janeiro: Alta Book, 2007.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+                               BIBLIOGRAFIA COMPLEMENTAR
+LECHETA, R. R. Desenvolvendo para iPhone e iPad. 3. ed. São Paulo: Novatec, 2014.
+HURWITZ, J. et al. Arquitetura Orientada a Serviços - SOA: Para Leigos. 2. ed. Rio de Janeiro:
+Alta Books, 2009.
+RESIG, J.; BIBEAVLT, B. Segredos do Ninja JavaScript. São Paulo: Novatec, 2013.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+TONSIG, S. L. MySQL: Aprendendo na Prática. Rio de Janeiro: Ciência Moderna, 2006.
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          60 horas     -        -
+     TEC35              Engenharia de Software                     CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+Introdução e objetivos da engenharia de software. Atividades da engenharia de software. O processo
+de desenvolvimento de software e o produto de software. Ciclo de vida de sistemas e seus
+paradigmas. Uso de modelos, metodologias, técnicas e ferramentas de análise e projeto de sistemas.
+Gerenciamento do projeto. Estimativas de software. Métricas de software. Qualidade de software.
+Reuso, Engenharia Reversa e reengenharia.
+                                    BIBLIOGRAFIA BÁSICA
+GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+
+
+
+Projeto Pedagógico de Curso                                                                     96
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                               BIBLIOGRAFIA COMPLEMENTAR
+CARVALHO, A. M. B. R.; CHIOSSI, T. C. S. Introdução a Engenharia de Software. Campinas, SP:
+UNICAMP, 2001.
+PÁDUA, W. Engenharia de Software. 3. ed. Rio de Janeiro: LTC, 2009.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. LTC, 2009.
+PFLEEGER, S. L. Engenharia de Software: Teoria e Prática. 2. ed. São Paulo: Pearson Prentice
+Hall, 2004.
+REZENDE, D. A. Engenharia de Software e Sistemas de Informação. 3. ed. Rio de Janeiro:
+Brasport, 2005.
+VALENTE, M. T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de
+Software com Produtividade. [S. l.: s. n.], 2020. Disponível em: https://engsoftmoderna.info.
+
+
+                                                               CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                         Teórica    Prática Extensão
+                                                        30 horas 30 horas       -
+     TEC37             Segurança da Informação                    CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Banco de Dados I (TEC21) e Redes de Computadores (TEC22)
+                                      EMENTA
+Os conceitos e os tipos de ativos, ameaças, riscos e vulnerabilidades dos sistemas de informação. O
+conceito e os objetivos da segurança de informações. Gestão de riscos. Planejamento,
+implementação e avaliação de políticas de segurança. Organização da Segurança da Informação:
+gestão de ativos; segurança em recursos humanos; segurança física do ambiente; gestão das
+operações e comunicações; controle de acesso; aquisição, desenvolvimento e manutenção de
+sistemas de informação; gestão de incidentes de Segurança da Informação; gestão da continuidade
+do negócio; conformidade. Ferramentas de segurança. Criptografia, certificação digital e
+infraestruturas de chaves públicas (ICP).
+                                     BIBLIOGRAFIA BÁSICA
+COULOURIS, G. et. al. Sistemas Operacionais Distribuídos: Conceitos e Projeto. 5. ed. Porto
+Alegre: Bookman, 2013.
+STALLINGS, W. Criptografia e Segurança de Redes: Princípios e Práticas. 4. ed. São Paulo:
+Pearson Prentice Hall, 2008.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                               BIBLIOGRAFIA COMPLEMENTAR
+DAVIS, C.; SCHILLER, M.; WHEELER, K. IT Auditing Using Controls to Protect Information
+Assets. 2. ed. [S. l.]: McGraw-Hill, 2011.
+IMONIANA, J. O. Auditoria de Sistemas de Informação. 3. ed. São Paulo: Atlas, 2016.
+LYRA, M. R. Segurança e Auditoria de Sistemas de Informação. São Paulo: Ciência Moderna,
+2009.
+SCHMIDT, P. et al. Fundamentos de Auditoria de Sistemas. São Paulo: Atlas, 2006.
+
+
+
+
+Projeto Pedagógico de Curso                                                                     97
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                          CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                    Teórica   Prática Extensão
+                                                                    45 horas 15 horas     -
+      TEC36                     Sistemas Distribuídos                        CRÉDITOS
+                                                                                 4
+PRÉ-REQUISITOS Redes de Computadores (TEC22)
+                                     EMENTA
+Conceitos básicos: histórico; terminologia; sistemas centralizados, distribuídos, paralelos ou de alto
+desempenho. Arquitetura de sistemas distribuídos. Comunicação em sistemas distribuídos.
+Sincronização em sistemas distribuídos. Algoritmos distribuídos. Sistemas distribuídos tolerantes a
+falhas. Objetos distribuídos. Segurança em sistemas distribuídos.
+                                      BIBLIOGRAFIA BÁSICA
+COULOURIS, G. et. al. Sistemas Operacionais Distribuídos: Conceitos e Projeto. 5. ed. Porto
+Alegre: Bookman, 2013.
+TANENBAUM, A. Sistemas Operacionais Modernos. 2. ed. São Paulo: Prentice Hall, 2003.
+TANENBAUM, A.; STEEN, M. V. Sistemas Distribuídos: Princípios e Paradigmas. 2. ed. São Paulo:
+Pearson Prentice Hall, 2007.
+                                BIBLIOGRAFIA COMPLEMENTAR
+CARDOSO, J. Programação de Sistemas Distribuídos em Java. Portugal: FCA, 2011.
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+KIRNER, C.; MENDES, S. Sistemas Operacionais Distribuídos. São Paulo: Campus, 2006.
+MARQUES, J. A.; GUEDES, P. Tecnologia de Sistemas Distribuídos. Portugual: FCA, 2011.
+SAUVE, J. P.; TEIXEIRA JÚNIOR, J. H. Do Mainframe para a Computação Distribuída:
+Simplificando a Transição. Rio de Janeiro: Infobook, 1996.
+VOGEL, A.; DUDDY, K.; DESJARLAIS, F. Java Programming with CORBA. Indianapolis: John
+WileyConsumer, 2001.
+
+
+                                                               CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                         Teórica     Prática Extensão
+                                                         60 horas       -          -
+     TEC38                 Gestão de Projetos                      CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Administração (COM12) e Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+O conceito e os objetivos do gerenciamento de projetos. Partes Interessadas do projeto. Ciclo de
+vida do projeto. Responsabilidades do gerente de projetos. Iniciação do projeto. Planejamento de um
+projeto. Execução, Monitoramento e controle de um projeto. Encerramento de um projeto.
+Metodologias, técnicas e ferramentas da gerência de projetos.
+                                      BIBLIOGRAFIA BÁSICA
+CLELAND, D. I.; IRELAND, L. R. Gerenciamento de Projetos. 2. ed. Rio de Janeiro: LTC, 2012.
+STONNER, R. Ferramentas de Planejamento: Utilizando o MS Project para Gerenciar
+Empreendimentos. Rio de Janeiro: E-papers, c2001.
+
+
+
+Projeto Pedagógico de Curso                                                                        98
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+VALLE, A. B. et al. Fundamentos do Gerenciamento de Projetos. 2. ed. Rio de Janeiro: FGV,
+2010.
+                                BIBLIOGRAFIA COMPLEMENTAR
+AJAM, M. A. Managing Projects: Methodology Customizable and Adaptable Methodology for
+Managing Projects. [S. I.]: Bookboon, 2013. Disponível em: http://bookboon.com/en/project-
+management-ii-ebook.
+JOSEPH, P. Gerência de Projetos de Tecnologia da Informação: No Caminho Certo, do Início ao
+Fim. Rio de Janeiro: Campus, 2003.
+MTD TRAINING. Managing Projects. [S.                  I.]:     Bookboon,   2013.   Disponível   em:
+http://bookboon.com/en/managing-projects-ebook.
+PASSENHEIM, O. Project Management. [S.                  I.]:   Bookboon,   2009.   Disponível   em:
+http://bookboon.com/en/projectmanagement-ebook.
+PETERSEN, C. The Practical Guide to Project Management. [S. I.]: Bookboon, 2013. Disponível
+em: http://bookboon.com/en/the-practical-guide-to-project-management-ebook.
+RAD, N. K. Understanding the PMBOK Guide. [S. I.]: Bookboon, 2012. Disponível em:
+http://bookboon.com/en/understanding-the-pmbok-guide-ebook.
+
+
+                                                                          CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                    Teórica   Prática Extensão
+                                                                       -         -    75 horas
+      EXT39            Atividades Curriculares de Extensão III              CRÉDITOS
+                                                                                 5
+PRÉ-REQUISITOS Atividades Curriculares de Extensão II (EXT32)
+                                         EMENTA
+Ações de extensão baseadas em perfil de egresso do curso e articuladas com o arranjo local, a
+exemplo de projetos, eventos, oficinas, workshops, videoaulas e atividades de prestação de serviços.
+A escolha das ações deverá considerar, entre outros aspectos, necessidades da comunidade externa
+envolvida, o contexto de execução das atividades previstas e a disponibilidade de recursos
+existentes.
+                                     BIBLIOGRAFIA BÁSICA
+CONSELHO NACIONAL DAS INSTITUIÇÕES FEDERAIS DE EDUCAÇÃO PROFISSIONAL,
+CIENTÍFICA E TECNOLÓGICA. Extensão Tecnológica: Rede Federal de Educação Profissional,
+Científica e Tecnológica. Cuiabá (MT): CONIF/IFMT, 2013.
+DEUS, S. Extensão Universitária: Trajetórias e Desafios. Santa Maria, RS: Ed. PRE-UFSM, 2020.
+LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional.
+Santa Maria, RS: FACOS-UFSM, 2022.
+                                BIBLIOGRAFIA COMPLEMENTAR
+CORRÊA, E. J. (org.). Extensão Universitária: Organização e Sistematização. Belo Horizonte:
+Coopmed, 2007.
+CRISOSTIMO, A. L.; SILVEIRA, R. M. C. F. (org.). A EXTENSÃO Universitária e a Produção do
+Conhecimento: Caminhos e Intencionalidades. Guarapuava: Ed. da Unicentro, 2017.
+MELO, J. F. Extensão Popular. 2.ed. João Pessoa: Editora da UFPB, 2014.
+SÍVERES, S. (org.). A Extensão Universitária como um Princípio de Aprendizagem. Brasília:
+Liber Livro, 2013.

@@ -1,0 +1,27 @@
+ementa_2_semestre
+
+COMPONENTES CURRICULARES OBRIGATÓRIOS DO II SEMESTRE:
+
+Linguagem de Programação I
+PRÉ-REQUISITOS Algoritmos e Programação (CCO01)
+EMENTA: Recursividade. Programação orientada a objetos: abstração de dados; classes e objetos; herança; e polimorfismo. Interfaces e classes abstratas. Depuração de programas. Box e Unboxing. Boas práticas de programação.
+
+Organização e Arquitetura de Computadores
+PRÉ-REQUISITOS Nenhum
+EMENTA: Arquiteturas RISC e CISC. Organização de computadores. Linguagens de montagem. Modos de endereçamento. Interrupção e exceção. Desempenho. Barramento, comunicações, interfaces e periféricos. Hierarquia de memória. Pipeline. Processadores superescalares e superpipeline. Multiprocessadores. Arquiteturas paralelas e não convencionais.
+
+Computador, Ética e Sociedade 
+PRÉ-REQUISITOS Nenhum
+EMENTA: O ser humano: finalidade, direito, função. O pensamento crítico: verdade e interpretação, conhecimento e ideologia. A estratificação social. O estado e as instituições sociais. Ética no mundo contemporâneo. O papel do computador na sociedade contemporânea: impactos, consequências e tendências. Os novos paradigmas da sociedade da informação e seus aspectos econômicos, sociais, políticos, éticos, culturais, étnico-raciais e educacionais.
+
+Matemática Discreta II 
+PRÉ-REQUISITOS Matemática Discreta I (MAT04)
+EMENTA: Teoria dos grafos: representação de grafo; grafo parcial e sub-grafo; grafo completo e grafo bipartido; caminho; percurso; ciclo; circuito; e comprimento.
+
+Cálculo Diferencial Aplicado à Computação
+PRÉ-REQUISITOS Matemática Discreta I (MAT04)
+EMENTA: Limites e continuidade de funções. Diferenciação de funções. Formas indeterminadas: Regra de L’Hospital. Aplicações da derivada: máximos e mínimos de funções. Funções transcendentes elementares. Esboço de curvas. Aplicações da derivada em soluções computacionais.
+
+Administração
+PRÉ-REQUISITOS Nenhum
+EMENTA: As organizações. A administração e suas funções. O administrador e os atributos gerenciais básicos. Abordagens tradicionais da administração: taylorismo, fayolismo, fordismo, relações humanas no trabalho e enfoque sistêmico. Abordagens contemporâneas da administração: gestão da qualidade total e reengenharia de processos. Tópicos em administração de recursos humanos. Tópicos emergentes.
