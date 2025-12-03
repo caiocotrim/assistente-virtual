@@ -1,0 +1,266 @@
+Topografia CARGA HORÁRIA 
+(h) 
+CRÉDITO S 
+TEÓRICA 30 2 
+PRÁTICA 30 2 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: 
+EMENTA: Definições e aplicações em topografia. Unidades de medidas, ângulos e 
+distâncias. Escalas. Equipamentos topográficos. Medidas de ângulo e distância. Métodos de 
+levantamento. Planilhas de cálculo de área. Orientação de desenho de plantas topográficas. 
+Precisão linear e angular. Métodos de cálculo de área. Altimetria. Definições e aplicações. 
+Instrumentos de nivelamento. Métodos de nivelamento. Representação do relevo. Construção 
+de perfis e seções. Levantamento planialtimétrico. Noções de Sistema de Posicionamento 
+Global – GPS. 
+BIBLIOGRAFIA BÁSICA: 
+BORGES, A. C. Topografia Aplicada à Engenharia Civil. 2. ed. São Paulo: Edgard 
+Blucher, 1977. v.1. 1191p. 
+BORGES, Alberto C. Topografia Aplicada à Engenharia Civil. 1. ed. São Paulo: Edgard 
+Blucher, 1992. v. 2. 
+MCCORMAC, J. Topografia. 5 ed. Rio de Janeiro: LTC, 2011. 391 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BORGES, A. C. Exercícios de Topografia. 3. ed. São Paulo: Edgard Blucher, 1975. 192 p. 
+COMASTRI, J. A; TULER, J. C. Topografia: altimetria. 3. ed. Viçosa: Editora UFV, 1999. 
+200p. 
+CASACA, J. M.; MATOS J. L.; DIAS, J. M. B. Topografia geral. Rio de Janeiro: LTC, 
+2011. 208 p. 
+VEIGA, L. A. K.; ZANETTI, M. A. Z.; FAGGION, P. L. Fundamentos de 
+topografia. Curitiba: UFPR, 2012. 228 p. Disponível em: < 
+http://www.cartografica.ufpr.br/docs/topo2/apos_topo.pdf>. Acesso em: 12 de março de 2017. 
+CORRÊA, I. C. S. Topografia aplicada à engenharia civil: 13ª edição revisada e 
+ampliada. Porto Alegre: 2012. 140 p. Disponível em :< 
+http://www.ufrgs.br/igeo/departamentos/geodesia/trabalhosdidaticos/Topografia_Aplic 
+ada_A_Engenharia_Civil/Apostila/TopoAplicada_2012.pdf>. Acesso em: 12 de março de 
+2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+95  
+ 
+Física III CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II e Física II 
+EMENTA: Carga e matéria. O campo elétrico. Lei de Gauss. Potencial elétrico, capacitores e 
+dielétricos. Corrente e resistência. Circuitos de corrente contínua. O campo magnético e suas 
+fontes. Lei de Ámpere. Lei de Faraday. Introdução às Equações de Maxwell. 
+BIBLIOGRAFIA BÁSICA: 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 3: 
+Eletromagnetismo. 9. ed. Rio de Janeiro: LTC, 2012. 
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros: eletricidade e 
+magnetismo, óptica. Rio de Janeiro: LTC, 2011. 530 p. vol.2. 
+YOUNG, HUGH D; FREEDMAN, ROGER A. SEARS E ZEMANSKY. Física III: 
+Eletromagnatismo. 10. ed. São Paulo: Addison Wesley, 2005. 402 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+HALLIDAY, DAVID; RESNICK, ROBERT; KRANE, KENNETH S. Física 3. 5. ed. Rio de 
+Janeiro: LTC, 2004. 
+NUSSENZVEIG, Herch Moysés. Curso de física básica, 3: eletromagnetismo. São Paulo: 
+Edgard Blücher, 2009. 323 p. 
+CORREIA, JORNANDES JESUS. Problemas resolvidos e comentados de eletrostática, 
+eletrodinâmica e eletromagnetismo. Vitória da Conquista. UESB. 2010. 
+LUIZ, ADIR MOYSES. Física 3: Eletromagnetismo: teoria e problemas resolvidos. São 
+Paulo: Livraria da Física, 2009. 260 p 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear e 
+cálculo vetorial. 3. ed. Porto Alegre: Bookman, 2009. v 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+96  
+Geologia  CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Química Geral 
+EMENTA: Crosta terrestre, Mineralogia, Rochas ígneas, metamórficas e sedimentares: 
+origem, classificação, formas de ocorrência, importância geotécnica. Processos endógenos e 
+exógenos. Intemperismo. Formação dos solos. Processos pedogenéticos. Identificação, 
+classificação e funcionalização das formas do relevo. Noções de física do solo 
+ 
+BIBLIOGRAFIA BÁSICA: 
+POPP, J.H. Geologia Geral. Rio de Janeiro: Livros Técnicos e Cient. S.A, 2009. 309 p. 
+SUGUIO, K. Geologia sedimentar. São Paulo: Editora Edgard Blucher, 2003. 400 p. 
+CUNHA, S. B.; GUERRA, A. J. T. Geomorfologia: exercícios, técnicas e aplicações. 2 ed. 
+Rio de Janeiro: Bertrand Brasil, 2002. 343 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+MARTINS, L. A. M. Os recursos físicos da terra: bloco 1 recursos, economia e 
+geologia: uma introdução. São Paulo: Editora da Unicamp, 2003. 108 p. 
+LEPSCH, I.F. Formação e Conservação dos Solos. São Paulo: Oficina de Textos, 2002, 178 
+p. 
+MOREIRA, M. D. Aplicações dos minerais e rochas industriais. Salvador: SBG, 1994. 86 
+p. 
+TEIXEIRA, W. (Org.). Decifrando a terra. São Paulo: Oficina de Textos, 2001. 557 p. 
+WICANDER, R.; MONROE, J. S. Fundamentos de Geologia. São Paulo: Cengage Learning, 
+2009. 508 p. 
+ 
+  
+97  
+ 
+Equações Diferenciais Ordinárias CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II e Álgebra Linear. 
+EMENTA: Equações diferenciais ordinárias lineares de 1ª e 2ª ordem e aplicações. 
+Equações lineares de ordem superior. Resolução de equações diferenciais em séries de 
+potência. Equação de Bessel. Funções de Bessel. Funções ortogonais. Equações de 
+Legendre. Polinômio de Legendre. 
+BIBLIOGRAFIA BÁSICA: 
+BOYCE, W. E.; DIPRIMA,R. C. Equações Diferenciais Elementares e Problemas de 
+Valores de Contorno.7ed. Rio de Janeiro: LTC, 2002. 
+BRONSON, R.; COSTA, G. Equações Diferenciais. Coleção Schaum. 3. ed. Porto Alegre: 
+Bookman, 2008. 
+ZILL, D. G. Equações diferenciais com aplicações em modelagem. 2.ed. São Paulo: 
+Cengage Learning, 2011. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+FIGUEIREDO, D. G.; NEVES, A. F. Equações Diferenciais Aplicadas.3ed. Rio de Janeiro: 
+IMPA 2007. 
+MATOS, M. P. Séries e Equações Diferenciais. São Paulo: Prentice Hall, 2001. 
+11exemplares. 
+MOTTA, A. Equações Diferenciais: introdução. Florianópolis: Publicação do IF-SC, 2009. 
+ZILL, D. G.; CULLEN, M. R. Equações Diferenciais. 3ed. São Paulo: Makron Books, 2001. 
+v.1 
+STEWART, J. Cálculo. V. 2. 7. ed. São Paulo: Cengage Learning, 2013. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+98  
+ 
+Cálculo Diferencial e Integral III CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Álgebra Vetorial e Geometria Analítica e Cálculo Diferencial e Integral 
+II. 
+EMENTA: Funções de Várias Variáveis. Derivação Parcial. Derivada direcional. Máximos e 
+mínimos. Integrais múltiplas. Integrais de linha. Teorema de Green. Integrais de superfícies. 
+Teorema de Stokes. Teorema de Gauss ou da divergência. 
+BIBLIOGRAFIA BÁSICA: 
+LEITHOID, L. O Cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v 2 
+STEWART, J. Cálculo. 7. ed. São Paulo: Cengage Learning, 2013. v 2 
+THOMAS, G. et al. Cálculo. 10. ed. São Paulo: Pearson, 2002. v 2. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ÁVILA, G. Cálculo das funções de várias variáveis. 7 ed. Rio de Janeiro: LTC, 2004. 
+BOULOS, P. Introdução ao cálculo: cálculo diferencial: várias variáveis. 2 ed. São Paulo: 
+Edgard Blücher, 2009. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 2. 5 ed. Rio de Janeiro: LTC, 2011. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 3. 5 ed. Rio de Janeiro: LTC, 2010. 
+MORETTIN, P. A.; HAZZAN, S.; BUSSAB, W. O. Cálculo: funções de uma e várias 
+variáveis. São Paulo: Saraiva, 2005. 
+ 
+Probabilidade e Estatística CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II 
+EMENTA: Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e eventos. 
+Variáveis Aleatórias Unidimensionais: variáveis aleatórias discretas e contínuas. Função de 
+distribuição e função densidade. Probabilidade e distribuição de probabilidades. Variáveis 
+Aleatórias Contínuas: distribuições Normais e Gama; Teoria de hipóteses; Correlação e 
+Regressão. 
+BIBLIOGRAFIA BÁSICA: 
+FONSECA, J. S., MARTINS, G. A. Curso de Estatística. São Paulo: Atlas, 1993. 
+TRIOLA, M. F. Introdução a estatística. Ed. LTC, 2008, 696 p. 
+BUSSAB, W . O.; MORETTIN, P.A. Estatística básica. 6. ed. São Paulo: Saraiva, 2010. 
+560 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOLFARINE, H.; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard Blucher, 
+2005. 290 p. 
+CRESPO, A. A. Estatística fácil. 17 ed. São Paulo: Saraiva, 2002. 
+CRESPO, A. A. Estatística fácil. 19 ed. São Paulo: Saraiva, 2009. 232 p. 
+DEVORE, J. L. Probabilidade e Estatística na Engenharia e Ciências. São Paulo: Cengage 
+Learning, 2011. 712 p. 
+  
+99  
+ 
+Mecânica dos Sólidos CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II e Física I 
+EMENTA: Forças no plano e no espaço. Equivalência de sistemas de forças. Equilíbrio de um 
+corpo rígido no plano e no espaço. Forças distribuídas: centroides e baricentros. Momento 
+estático de primeira e segunda ordem. Análise de estruturas. Forças em vigas e cabos. Atrito. 
+Método dos trabalhos virtuais. 
+BIBLIOGRAFIA BÁSICA: 
+BEER, F. P. Mecânica vetorial para engenheiros: estática. 9 ed. São Paulo: Makron Books, 
+2013. 622 p 
+HIBBELER, R. C. Estática: mecânica para engenharia. 10 ed, São Paulo: Prentice Hall, 
+2005. 540 p. 
+PLESHUA, M. E.; GRAY, G. L.; COSTANZO, F. Mecânica para engenharia: estática. Porto 
+Alegre: Bookman, 2014. 590 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BEER, F. P. Mecânica vetorial para engenheiros: estática.5 ed. São Paulo: Makron Books, 
+2005. 793 p 
+MARTINS, J. B. Mecânica racional: de Newton a mecânica clássica. São Paulo: Ciência 
+Moderna, 1976. 
+HALLIDAY, D. R.; RESNICK, R.; KENNETH, S. K. Física 1. 5 edRio de Janeiro: LTC, 
+2003. 368 p. 
+TIPLER, P. A. Física 1: para cientistas e engenheiros. Rio de Janero: Ed. LTC, 2000. 651 p. 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia, v. 2: álgebra linear 
+e cálculo vetorial. 3 ed. Porto Alegre: Bookman, 2009. 303 p.

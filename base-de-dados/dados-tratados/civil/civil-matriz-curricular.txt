@@ -1,0 +1,283 @@
+Matriz curricular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 1 Introdução à Engenharia Civil 2 30 0 30
+1 Introdução à Programação 4 0 60 60
+1 Álgebra Vetorial e Geometria Analítica 4 60 0 60
+1 Cálculo Diferencial e Integral I 4 60 0 60
+1 Química Geral 4 45 15 60
+1 Expressão Gráfica 4 30 30 60
+1 Física I 4 60 0 60
+26 285 105 0 0 0 0 390
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 2 Introdução a Ciências dos Materiais 4 60 0 60 Química Geral
+ 2 Física II 4 60 0 60 Física I Cálculo Diferencial e Integral I
+ 2 Física Experimental I 4 0 60 60 Física I
+ 2 Álgebra Linear 4 60 0 60 Álgebra Vetorial e Geometria Analítica
+ 2 Cálculo Diferencial e Integral II 4 60 0 60 Cálculo Diferencial e Integral I
+ 2 Desenho Arquitetônico 4 30 30 60 Expressão Gráfica
+ 2 Desenho Auxiliado por computador 3 15 30 45 Expressão Gráfica Introdução à Programação
+ 27 285 120 0 0 0 0 405
+Total 
+Total 
+40  
+ 
+ 
+ 
+ 
+ 
+ 
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 3 Topografia 4 30 30 60
+3 Física III 4 60 0 60 Física II Cálculo Diferencial e
+ 3 Geologia 4 15 45 60 Química Geral
+ 3 Equações Diferenciais Ordinárias 4 60 0 60 Álgebra Linear Cálculo Diferencial e Integral 
+II
+ 3 Cálculo Diferencial e Integral III 4 60 0 60 Álgebra Vetorial e Geometria Analítica 
+Cálculo Diferencial e Integral II
+ 3 Probabilidade e Estatística 4 60 0 60 Cálculo Diferencial e Integral II
+ 3 Mecânica dos Sólidos 4 60 0 60 Física I e Cálculo Diferencial
+ 28 345 75 0 0 0 0 420
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 4 Mecânica dos Solos I 4 45 15 60 Geologia Aplicada à Engenharia
+ 4 Resistência dos Materiais I 3 45 0 45 Mecânica dos Sólidos
+ 4 Física Experimental II 4 0 60 60 Física II
+ 4 Higiene e Segurança no Trabalho 2 0 30 30
+4 Cálculo Numérico 4 45 15 60 Introdução à Programação e Equações 
+Diferenciais Ordinárias
+ 4 Fenômenos de Transporte 4 60 0 60 Equações Diferenciais Ordinárias e Física II
+ 4 Ciências do Ambiente 2 30 0 30
+4 ACEX I 5 0 0 75 75 Desenho Arquitetónico e Desenho Auxiliado 
+por Computador
+ 28 225 120 75 0 0 0 420
+Total 
+Total 
+41  
+ 
+ 
+ 
+ 
+ 
+ 
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 5 Mecânica dos Solos II 4 60 0 60 Mecânica dos Solos I e Mecânica dos Sólidos
+ 5 Resistência dos Materiais II 4 60 0 60 Cálculo Diferencial e Integral III Resistência 
+dos Materiais I
+ 5 Eletricidade Aplicada 4 45 15 60 Física III
+ 5 Sociologia 2 30 0 30
+5 Estruturas Isostáticas 4 60 0 60 Resistência dos Materiais I
+ 5 Hidráulica 4 45 15 60 Fenômenos de Transporte
+ 5 Economia 2 30 0 30
+5 ACEX II 5 0 75 75 ACEX I
+ 29 330 30 75 0 0 0 435
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 6 Materiais de Construção I 4 30 30 60 Introdução a Ciências dos Materiais e 
+Mecânica dos Sólidos
+ 6 Saneamento Básico e Emergências 
+Ambientais 3 45 0 45 Ciências do Ambiente Química Geral 
+Hidráulica
+ 6 Obras Hidráulicas 4 60 0 60 Hidráulica
+ 6 Administração 2 30 0 30
+6 Estruturas Hiperestáticas 4 60 0 60 Estruturas Isostáticas e Resistência dos 
+Materiais II
+ 6 Hidrologia Geral 4 45 15 60 Hidráulica
+ 6 ACEX III 6 0 90 90 ACEX II
+ 27 270 45 90 0 0 0 405
+Total 
+Total 
+42  
+ 
+ 
+ 
+ 
+ 
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 7 Materiais de Construção II 4 30 30 60 Materiais de Cosnstrução I
+ 7 Abastecimento de Água 4 60 0 60
+ Saneamento Básico e Emergências 
+Ambientais, Hidrologia Gera el Materiais de 
+Construção I
+ 7 Instalações Prediais Hidrossanitárias 3 45 0 45 Hidráulica Materiais de Construção I
+ 7 Instituições de Direito 2 30 0 30
+7 Concreto Armado I 4 60 0 60 Estruturas Hiperestáticas e Materiais de 
+Construção I
+ 7 Fundações 4 60 0 60 Mecânica dos Solos II e Materiais de 
+Construção I
+ 7 ACEX IV 5 0 0 75 75 ACEX III
+ 26 285 30 75 0 0 390
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 8 Drenagem Urbana 4 60 0 60 Abastecimento de Água
+ 8 Combate a Incêndio I 4 60 0 60 Instalações Prediais Hidrossanitárias
+ 8 Metodologia de Pesquisa 2 30 0 30
+8 Concreto Armado II 4 60 0 60 Concreto Armado I e Materiais de Construção 
+II
+ 8 Estruturas de Aço 4 60 0 60 Estruturas Hiperestáticas e Materiais de 
+Construção II
+ 8 Estruturas de Madeira 3 45 0 45 Estruturas Hiperestáticas e Materiais de 
+Construção II
+ 8 ACEX V 5 0 0 75 75 ACEX IV
+ 26 315 0 75 0 0 0 390
+Total 
+Total 
+43  
+ 
+ 
+ 
+ 
+ 
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 9 Tecnologia das Construções 4 60 0 60 Concreto Armado II, Materiais de Construção 
+II e Fundações
+ 9 Estradas e Rodovias 4 60 0 60 Topografia
+ 9 TCC I 2 0 0 30 30
+ Aprovação em 80% dos componentes 
+curriculares obrigatórios da matriz curricular 
+do curso de Engenharia Civil.
+ 9 Relações Étnico-Raciais 2 30 0 30
+9 Concreto Protendido 3 45 0 45 Concreto Armado II
+ 9 Optativo I 3 45 0 45 Ver a ementa do componente curricular 
+optativo
+ 9 Optativo II 3 45 0 45 Ver a ementa do componente curricular 
+optativo
+ 21 285 0 0 0 30 0 315
+SEM COMPONENTE CURRICULAR CRÉDITOS
+ CARGA 
+HORÁRIA 
+TEÓRICA (h)
+ CARGA 
+HORÁRIA 
+PRÁTICA (h)
+ ACEX (h) Estágio (h) TCC (h) ACC (h)
+ CARGA 
+HORÁRIA 
+TOTAL (h)
+ PRÉ-REQUISITO (S)
+ 10 Estágio em Engenharia Civil 11 0 0 165 165 Aprovação em 60% da carga horária total do 
+curso
+ 10 Orçamento de Obras 4 60 0 60 Concreto Armado II, Materiais de Construção 
+II, Fundações e Tecnologia das construções
+ 10 TCC II 2 0 0 0 30 30 TCC I
+ 10 Atividades Complementares 4-- 60 60 Ver Resolução n° 01, 01/07/2016
+ 21 60 0 0 165 30 60 315
+Total 
+Total 
+Carga horária teórica total (h) 
+Carga horária prática total (h) 
+2685 
+Carga horária total de TCC (h) 
+525 
+Carga horária total de estágio (h) 
+60 
+Atividades complementares (h) 
+165 
+Atividades Curriculares de Extensão (h) 
+60 
+Total geral (h) 
+390 
+3885
