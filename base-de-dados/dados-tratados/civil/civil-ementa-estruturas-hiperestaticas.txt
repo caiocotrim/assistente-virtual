@@ -1,0 +1,30 @@
+
+ 
+  
+Estruturas Hiperestáticas 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Estruturas Isostáticas, Resistência dos Materiais II e Cálculo Numérico. 
+EMENTA: Método das forças. Método dos deslocamentos. Processo de cross 
+BIBLIOGRAFIA BÁSICA: 
+HIBBELER, R. C. Análise de estruturas, São Paulo: Pearson, 2013, 522 p. SORIANO, H. 
+L. Análise de estruturas: formulações clássicas Rio de Janeiro: Ed. Livraria da Física, 
+2016. 422 p. 
+SORIANO, H. L. Estática das estruturas. Rio de Janeiro: Ed. Ciência Moderna, 2014. 
+422 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOTELHO, M. H. C. Concreto armado: eu te amo para arquitetos. 2 ed. São Paulo: Editora 
+Edgard Blucher, 2006. 224 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 1. 7 ed. São Paulo: 
+Editora Edgard Blucher, 2013. 525 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 2. 4 ed. São Paulo: 
+Editora Edgard Blucher, 2015. 339 p. 
+BEER, F. P. Mecânica vetorial para engenheiros: estática. 9 ed. São Paulo: Makron 
+118 
+119  
+ 

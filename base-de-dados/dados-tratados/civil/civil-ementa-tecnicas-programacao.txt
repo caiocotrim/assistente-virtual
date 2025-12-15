@@ -1,0 +1,28 @@
+Técnicas de Programação CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Introdução à Programação 
+EMENTA: Estrutura de dados e algoritmos de manipulação relacionados: pilhas, listas, filas, 
+árvores e tabelas. Algoritmos de ordenação. Noções de programação orientada a objetos: 
+conceitos básicos, modelo de programação, aplicações em engenharia. 
+BIBLIOGRAFIA BÁSICA: 
+CARBONI, I. de. F. Lógica de programação. São Paulo: Thomson, 2003. 240p. ISBN 85
+221-0316-x. 
+SOUZA, M. A. F. de. Algoritmos e lógica de programação. São Paulo: Thomson, 2005. 
+214p. ISBN8522104646. 
+SEBESTA, R. W. Conceitos de linguagens de programação. 4. ed. Porto Alegre: 
+Bookman, 2011. 792 p. (Tradução: José Carlos Barbosa dos Santos.). ISBN85-7307- 608-9. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BROOKSHEAR, J. G. Ciência da Computação - Uma Visão Abrangente. Porto Alegre: 
+Bookman, 2000. 
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de 
+Computadores - Algoritmos, Pascal e C/C++. São Paulo: Prentice Hall, 2002. 
+SILVEIRA, J. C. S. Conceitos Básicos de Computação. Porto Alegre: II da UFRGS, 1991. 
+PACITTI, T. ATKISON, C. P. Programação e métodos computacionais. 4. ed. Ed. Livros 
+técnicos e científicos, 1983. v. 1. 
+MANZANO, J. A. N. G.; OLIVEIRA, J. F. Algoritmos: lógica para desenvolvimento de 
+programação de computadores. 17 ed. São Paulo: Érica, 2005. 236 p. 

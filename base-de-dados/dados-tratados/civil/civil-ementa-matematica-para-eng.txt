@@ -1,0 +1,36 @@
+Métodos Matemáticos para Engenharia CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral III e Equações Diferenciais Ordinárias 
+EMENTA: Números complexos e fórmula de Euler. Soma e integral de convolução. Série 
+trigonométrica e complexa de Fourier e suas propriedades. Transformada de Laplace e suas 
+propriedades. Transformada de Fourier e suas propriedades. Introdução às equações 
+diferenciais parciais: método de separação de variáveis. 
+BIBLIOGRAFIA BÁSICA: 
+BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de 
+Valores de Contorno. 7 ed. Rio de Janeiro: LTC, 2002. 
+BUTKOV, E. Física matemática. Rio de Janeiro: LTC, 1988. 
+FERNANDEZ, C. de S.; BERNANDES JÚNIOR, N. Introdução às funções de uma variável 
+complexa. Rio de Janeiro: SBM, 2016. 
+ZILL, D. G.; CULLEN, M. R. Equações Diferenciais. Vol. 2. 3 ed. São Paulo: Makron Books, 
+2005. 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia, v.3: equações 
+diferenciais parciais, métodos de Fourier e variáveis complexas. 3 ed. Porto Alegre: 
+Bookman, 2009. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ARFKEN, G.; WEBER, H.; HARRIS, F. Física Matemática - Métodos Matemáticos para 
+Engenharia e Física. 2 ed. Rio de Janeiro: LTC, 2017. 
+ÁVILA, G. S. de S. Variáveis complexas e aplicações. 3 ed. Rio de Janeiro: LTC, 2015. 
+COLWELL, P.; MATHEWS, J. Introdução às variáveis complexas. São Paulo: Edgard 
+Blücher, 1976. 
+FIGUEIREDO, D. G. de. Análise de Fourier e equações diferenciais parciais. 4 ed. Rio de 
+Janeiro: IMPA, 2009. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 4. 5 ed. Rio de Janeiro: LTC, 2013. 
+IÓRIO, V. M. EDP: um curso de graduação. 4 ed. Rio de Janeiro: IMPA, 2016. 
+SNEDDON, I. N. Fourier transforms. New York: Dover Publications, 1995. 
+ZILL, D. G. Equações diferenciais com aplicações em modelagem. 10 ed. São Paulo: 
+Cengage Learning, 2016. 

@@ -1,0 +1,44 @@
+Drenagem Urbana CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Abastecimento de Água, Obras Hidráulicas e Cálculo Numérico. 
+EMENTA: Introdução. Fontes e natureza de águas residuárias. Vazões de contribuição de 
+esgotos. Hidráulica de esgotos. Canalizações de esgotos. Estações elevatórias de esgotos. 
+Estudos hidrológicos. Sistemas de microdrenagem de águas pluviais. Sistema de 
+macrodrenagem de águas pluviais. Galerias, canais e transições. Manutenção de 
+redes de esgotos sanitários e de galerias de águas pluviais. 
+BIBLIOGRAFIA BÁSICA: 
+CANHOLI, A. Drenagem urbana e controle de enchentes. São Paulo: Oficina de Textos, 
+2014. 384 p. 
+GIGHETTO, A. M. Manejo de águas pluviais urbanas. Rio de Janeiro: ABES, 2009. 396 p. 
+CYNAMON, S. E. Sistema não convencional de esgoto sanitário a custo reduzido para 
+pequenas coletividades e áreas periféricas. 2 ed. Rio de Janeiro: Fundação Osvaldo Cruz, 
+1986. 52 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+KOBAYASHI, F. Y.; FAGGION, F. H. M.; BOSCO, L. M.; CHIRINÉA, M. L. B. 
+Drenagem urbana sustentável. São Paulo: USP, 2008. 18 p. Disponível em: 
+<www.pha.poli.usp.br/LeArq.aspx?id_arq=3040>. Acesso em: 13 de março de 2017. 
+FUNASA - FUNDAÇÃO NACIONAL DE SAÚDE. Apresentação de projetos de 
+sistemas de esgotamento sanitário. Brasília: FUNASA, 2008. 30 p. Disponível em: < 
+http://www.funasa.gov.br/site/wp-content/files_mf/eng_esgot2.pdf>. Acesso em: 13 de março 
+de 2017. 
+FUNASA - FUNDAÇÃO NACIONAL DE SAÚDE. Orientações técnicas para 
+apresentação de projetos de sistemas de esgotamento sanitário. Brasília: FUNASA, 2002. 
+26 p. Disponível em: < http://bvsms.saude.gov.br/ 
+bvs/publicacoes/funasa/orienta_projetos_esgoto.pdf>. Acesso em: 13 de março de 2017. 
+PREFEITURA MUNICIPAL DE SÃO PAULO. SMDU - SECRETÁRIA MUNICIPAL DE 
+DESENVOLVIMENTO URBANO. Manual de drenagem urbana e manejo de águas 
+pluviais: gerenciamento do sistema de drenagem urbana. São Paulo: SMDU, 2012. 170
+ p. Disponível em: < http://www.prefeitura.sp.gov.br/ 
+cidade/secretarias/upload/desenvolvimento_urbano/arquivos/manual- drenagem_v1.pdf>. 
+Acesso em: 13 de março de 2017. 
+RIGHETTO, A. M. (Coord.). Manejo de águas pluviais urbanas. Rio de Janeiro: ABES, 2009. 398 
+p. Disponível em: < https://www.finep.gov.br/images/apoio-e-financiamento/historico-de- 
+programas/prosab/prosab5_tema_4.pdf>. Acesso em: 13 de março de 2017. 
+ 
+ 
+ 

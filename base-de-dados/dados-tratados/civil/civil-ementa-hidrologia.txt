@@ -1,0 +1,33 @@
+ 
+Hidrologia Geral CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Hidráulica 
+EMENTA: Componentes do Ciclo hidrológico. Bacias Hidrográficas. Precipitação. Noções 
+de hidrologia Estatística. Infiltração de água no solo. Escoamento superficial: o método 
+racional, o hidrograma de projeto. hidrograma unitário; atenuação e propagação de cheias. 
+Águas subterrâneas. Evapotranspiração. Análise de vazões superficiais. Noções de 
+Hidrossedimentologia. 
+BIBLIOGRAFIA BÁSICA: 
+TUCCI, C. E. M. (org.) Hidrologia: ciência e aplicação. 3. ed. Porto Alegre: Editora da 
+UFRGS/ABRH, 2001. 973 p. 
+PINTO, N. L. S.; HOLTZ, A. C. T.; MARTINS, J. A.; GOMIDE, F. L. S. Hidrologia básica. 
+São Paulo: Editora Edgard Blucher, 1976. 278 p. 
+GARCEZ, L. N.; ALVAREZ, G. A. Hidrologia. 2 ed. São Paulo: Editora Edgard Blucher, 
+1988. 291 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+REBOUÇAS, A. C.(Org.); BRAGA, B. (Org.); TUNDISI, J. G. (Org.). Águas doces no Brasil: 
+capital ecológico, uso e conservação. 3. ed. São Paulo: Escrituras,2006.748 p. GRIBBIN, J. E. 
+Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. São Paulo: Cengage 
+Learning, 2014. 526 p. 
+RIGHETTO, A. M. Manejo de águas pluviais urbanas Rio de Janeiro: ABES, 2009. 396 p. 
+CANHOLI, A. P. Drenagem urbana e controle de enchentes. São Paulo: Oficina de Textos, 
+2005. 302 p. 
+MEDEIROS, S. S. (Org.). Recursos hídricos em regiões áridas e semiáridas. Campina 
+Grande: Instituto Nacional do Semiárido, 2011. 439 p. 
+ 
+ 

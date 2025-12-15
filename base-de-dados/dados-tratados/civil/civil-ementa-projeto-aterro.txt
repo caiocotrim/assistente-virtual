@@ -1,0 +1,31 @@
+Projeto de Aterro Sanitário CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Saneamento Básico, Mecânica dos Solos II e Drenagem Urbana 
+EMENTA: Disposição de Resíduos Sólidos. Quantidade e Composição dos Resíduos. 
+Seleção do Local. Tipos de Aterros. Cálculo de Volume. Cálculo dos Sistemas de Drenagem. 
+Balanço Hídrico. Drenagem de Gases. Tratamento de Percolados. Camada de 
+Impermeabilização. Camadas de Cobertura. Estabilidade de Taludes. Sistema de 
+Monitoramento. Legislação vigente. 
+BIBLIOGRAFIA BÁSICA: 
+LIMA, L. M. Q. Lixo: tratamento e biorremediação. 3 ed. São Paulo, Hemus, 2004. 265 
+p. 
+BARROS, R. M. Tratado sobre resíduos sólidos: gestão, uso e sustentabilidade. Rio de 
+Janeiro: Interciência, 2013. 357 p. 
+CASTILHOS JÚNIOR, A. B. (Coord.). Resíduos sólidos urbanos: aterro sustentável para 
+municípios de pequeno porte. Rio de Janeiro: ABES, 2003. 294 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ARRUDA, P. T. M. Responsabilidade civil decorrente da poluição por resíduos sólidos 
+domésticos. São Paulo: Método, 2004 123 p. 
+SISINNO, C. L. S. Resíduos sólidos, ambiente e saúde: uma visão multidisciplinar. Riode 
+Janeiro: Fiocruz, 2006. 142 p. 
+BIDONE, F. R. A. (Coord.). Metodologias e técnicas de minimização, reciclagem e 
+reutilização de resíduos sólidos urbanos. Rio de Janeiro: ABES, 1999. 65 p. 
+JACOBI, P. R. Gestão compartilhada dos resíduos sólidos no Brasil: inovação com 
+inclusão social. São Paulo: Annablume, 2006. 164 p. 
+GOMES, L. P. (Coord.). Estudos de caracterização e tratabilidade de lixiviados de 
+aterros sanitários para as condições brasileiras. Rio de Janeiro: ABES, 2009. 360 p. 

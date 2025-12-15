@@ -1,0 +1,93 @@
+ESTE ARQUIVO CONTÉM AS MATÉRIAS OBRIGATÓRIAS POR CADA SEMESTRE DO CURSO DE ENGENHARIA CIVIL:
+
+1 Semestre:
+- Introdução a Engenharia Civil
+- Física I
+- Introdução à Programação
+- Álgebra Vetorial e Geometria Analítica
+- Cálculo Diferencial Integral I
+- Química Geral
+- Expressão Gráfica
+
+2 Semestre:
+- Introdução à Ciência dos Materiais  CARGA HORÁRIA 
+- Física II  CARGA HORÁRIA 
+- Física Experimental I  CARGA HORÁRIA 
+- Álgebra Linear  CARGA HORÁRIA 
+- Cálculo Diferencial e Integral II  
+- Desenho Arquitetônico 
+- Desenho Auxiliado por Computador
+
+3 Semestre:
+- Topografia 
+- Física III 
+- Geologia
+- Equações Diferenciais Ordinárias 
+- Cálculo Diferencial e Integral III 
+- Probabilidade e Estatística
+- Mecânica dos Sólidos
+
+4 Semestre:
+- Mecânica dos Solos I  CARGA HORÁRIA 
+- Resistência dos Materiais I  CARGA HORÁRIA 
+- Física Experimental II.  CARGA HORÁRIA 
+- Higiene e Segurança no Trabalho  CARGA HORÁRIA 
+- Cálculo Numérico  CARGA HORÁRIA 
+- Fenômenos de Transporte  CARGA HORÁRIA 
+- Ciências do Ambiente  CARGA HORÁRIA 
+- ACEX I  CARGA HORÁRIA 
+
+5 Semestre:
+- Mecânica dos Solos II  CARGA HORÁRIA 
+- Resistência dos Materiais II  CARGA HORÁRIA 
+- Eletricidade Aplicada  CARGA HORÁRIA 
+- Sociologia  CARGA HORÁRIA 
+- Estruturas Isostáticas  CARGA HORÁRIA 
+- Hidráulica  CARGA HORÁRIA 
+- Economia  CARGA HORÁRIA 
+- ACEX II  CARGA HORÁRIA 
+
+6 Semestre:
+- Materiais de Construção I  CARGA HORÁRIA 
+- Saneamento Básico e Emergências 
+- Obras Hidráulicas  CARGA HORÁRIA 
+- Administração  CARGA HORÁRIA 
+- Estruturas Hiperestáticas  CARGA HORÁRIA 
+- Hidrologia Geral  CARGA HORÁRIA 
+- ACEX III  CARGA HORÁRIA 
+
+7 Semestre:
+- Materiais de Construção II  CARGA HORÁRIA 
+- Abastecimento de Água  CARGA HORÁRIA 
+- Instalações Prediais Hidrossanitárias  CARGA HORÁRIA 
+- Instituições de Direito  CARGA HORÁRIA 
+- Concreto Armado I  CARGA HORÁRIA 
+- Fundações  CARGA HORÁRIA 
+- ACEX IV  CARGA HORÁRIA 
+
+8 Semestre:
+- Drenagem Urbana  CARGA HORÁRIA 
+- Combate a Incêndio I  CARGA HORÁRIA 
+- Metodologia de Pesquisa  CARGA HORÁRIA 
+- Concreto Armado II  CARGA HORÁRIA 
+- Estruturas de Aço  CARGA HORÁRIA 
+- Estruturas de Madeira  CARGA HORÁRIA 
+- ACEX V  CARGA HORÁRIA 
+ 
+9 Semestre:
+- Tecnologia das Construções  CARGA HORÁRIA 
+- Estradas e Rodovias  CARGA HORÁRIA 
+- TCC I  CARGA HORÁRIA 
+- Relações Étnico-Raciais  CARGA HORÁRIA 
+- Concreto Protendido  CARGA HORÁRIA  
+
+10 Semestre:
+- Estágio em Engenharia Civil  CARGA HORÁRIA 
+- Orçamento de Obras  CARGA HORÁRIA 
+- TCC II  CARGA HORÁRIA 
+
+ 
+ 
+   
+
+

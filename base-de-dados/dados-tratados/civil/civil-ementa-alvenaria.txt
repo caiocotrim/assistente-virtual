@@ -1,0 +1,29 @@
+Alvenaria Estrutural CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto Armado II 
+EMENTA: Histórico e evolução da alvenaria de tijolos e blocos como elementos portantes. 
+Campo de aplicação e modo de trabalho dos sistemas estruturais de alvenaria. Materiais. 
+Propriedades básicas dos materiais componentes de alvenaria. Ensaios. Capacidade portante 
+de paredes, placas, vigas de alvenaria. Alvenaria armada e não armada. Distribuição de 
+esforços verticais e horizontais nos elementos portantes. Paredes de contraventamento. 
+Coberturas. Prescrições de normas brasileiras. 
+BIBLIOGRAFIA BÁSICA: 
+RAMALHO, M. A.; CORRÊA, M. R. S. Projeto de edifícios de alvenaria estrutural. São 
+Paulo: Editora PINI, 2008. 174 p. 
+MOHAMAD, G. Construções em alvenaria estrutural: materiais, projeto e desempenho. São 
+Paulo: Blucher, 2015. 355 p. 
+BAUD, G. Manual de pequenas construções: alvenaria e concreto armado. Curitiba: Hemus, 
+2002. 477 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+FRANCO, L. S. Desempenho da alvenaria à compressão. Boletim Técnico da Escola 
+Politécnica de São Paulo, BT20/88. São Paulo, 1988. 28 p. 
+PARSEKIAN, G. A. Comportamento de dimensionamento de alvenaria estrutural. São 
+Carlos: EDUFSCAR, 2013. 625 p. 
+YAZIGI, W. A técnica de edificar. São Paulo: PINI, 2016. 
+AZEREDO, H. A. O Edifício e seu Acabamento. São Paulo: Edgar Blücher, 1987. 178 p. 
+BORGES, A. C. Prática das pequenas construções v. 1. 9 ed. São Paulo: PINI, 2009. 

@@ -1,0 +1,43 @@
+ 
+  
+121  
+ 
+Abastecimento de Água CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Saneamento Básico e Emergências Ambientais, Hidrologia Geral e 
+Materiais de Construção I. 
+EMENTA: Captação. Adução. Bombeamento. Reservação. Distribuição. Projeto. 
+Memorial descritivo. Memória de cálculo. Operação. 
+BIBLIOGRAFIA BÁSICA: 
+GOMES, H. P. Sistemas de abastecimento de água: dimensionamento econômico e 
+operação de redes e elevatórias. João Pessoa, 2009. 277 p. 
+VIANA, G. M. Sistemas públicos de abastecimento de água. João Pessoa, 1999. 260 p. 
+DI BERNARDO, L. Tratamento de água e de abastecimento por filtração em 
+múltiplos etapas. Rio de Janeiro, 1999. 114 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+GARCEZ, L. N. Elementos de engenharia hidráulica e Sanitária. São Paulo: Editora 
+Edgard Blucher, 1976. 356 p. 
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica. 9 ed. 
+São Paulo: Edgard Blucher, 2015. 632p. 
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa: EDUFPB, 
+2009. 460 p. 
+GONÇALVES, R. F. (Coord.). Uso racional de água e energia: conservação de água e energia 
+em sistemas prediais e públicos de abastecimento de água. Rio de Janeiro: PROSAB, 2009. 
+354 p. Disponível em: <https://www.finep.gov.br/images/apoio-e- financiamento/historico
+de-programas/prosab/prosab5_tema_5.pdf>. Acesso em: 13 de março de 2017. 
+FUNASA - FUNDAÇÃO NACIONAL DE SAÚDE. Apresentação de projetos de sistemas 
+de abastecimento de água. Brasília: FUNASA, 2006. 29 p. Disponível em: 
+<http://www.funasa.gov.br/site/wp-content/files_mf/eng_abastec.pdf >. Acesso em: 14 de 
+março de 2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

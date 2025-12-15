@@ -1,0 +1,36 @@
+ 
+Concreto Armado II CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto Armado I e Materiais de Construção II. 
+EMENTA: Dimensionamento na ruptura de barras de seção retangular submetidas a flexão 
+composta. Pilares. Deformação de segunda ordem. Pilares submetidos à flexão composta 
+oblíqua. Pórticos. Marquises. Escadas. Caixas d'água usuais em edifícios. Ação do vento 
+em edifícios. 
+BIBLIOGRAFIA BÁSICA: 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 1. 7 ed. São 
+Paulo: Edgard Blucher, 2014. 525 p. 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 2. 4 ed. São 
+Paulo: Edgard Blucher, 2015. 339 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: princípios básicos do 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1982. 305 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BAUD, G. Manual de pequenas construções: alvenaria e concreto armado. Curitiba: 
+Hemus, 2002. 477 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: casos especiais de 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1979. 161 p. 
+LEONHARDT, F. Construções de concreto – v. 4: verificação da capacidade de utilização. 
+Rio de Janeiro: Interciência, 1979. 210 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto – v. 3: princípios básicos sobre 
+a armação de estruturas de concreto armado. Rio de Janeiro: Interciência, 2007. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

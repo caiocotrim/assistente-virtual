@@ -1,0 +1,28 @@
+ 
+Probabilidade e Estatística CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II 
+EMENTA: Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e eventos. 
+Variáveis Aleatórias Unidimensionais: variáveis aleatórias discretas e contínuas. Função de 
+distribuição e função densidade. Probabilidade e distribuição de probabilidades. Variáveis 
+Aleatórias Contínuas: distribuições Normais e Gama; Teoria de hipóteses; Correlação e 
+Regressão. 
+BIBLIOGRAFIA BÁSICA: 
+FONSECA, J. S., MARTINS, G. A. Curso de Estatística. São Paulo: Atlas, 1993. 
+TRIOLA, M. F. Introdução a estatística. Ed. LTC, 2008, 696 p. 
+BUSSAB, W . O.; MORETTIN, P.A. Estatística básica. 6. ed. São Paulo: Saraiva, 2010. 
+560 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOLFARINE, H.; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard Blucher, 
+2005. 290 p. 
+CRESPO, A. A. Estatística fácil. 17 ed. São Paulo: Saraiva, 2002. 
+CRESPO, A. A. Estatística fácil. 19 ed. São Paulo: Saraiva, 2009. 232 p. 
+DEVORE, J. L. Probabilidade e Estatística na Engenharia e Ciências. São Paulo: Cengage 
+Learning, 2011. 712 p. 
+  
+99  

@@ -1,0 +1,29 @@
+
+Fundações CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Materiais de Construção I e Mecânica dos Solos II. 
+EMENTA: Tipos de fundações. Características e peculiaridades executivas. Capacidade de 
+carga das fundações. Pressões admissíveis. Estimativa de recalque. Recalque admissíveis. 
+Projetos de fundações. 
+BIBLIOGRAFIA BÁSICA: 
+ALONSO, U. R. Dimensionamento de fundações profundas. São Paulo: Editora 
+Edgard Blucher, 2012. 158 p. 
+JOPPERT JR., I. Fundações e contenções de edifícios: qualidade total na gestão de 
+projeto e execução. São Paulo: Pini, 2013. 224 p. 
+ALONSO, U. R. Previsão e controle das fundações: uma introdução ao controle da 
+qualidade em fundações. 2 ed.. São Paulo: Editora Edgard Blucher, 2011. 146 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ALONSO, U. R. Exercícios de fundações. São Paulo: Editora Edgard Blucher, 2012. 158 p. 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 1: fundamentos. 6 ed. Rio de 
+Janeiro: Livros Técnicos e Científicos, 2011. 234 p. 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 2: mecânica das rochas. 6 ed. Rio 
+de Janeiro: Livros Técnicos e Científicos, 2011. 498 p. 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 3: exercícios e problemas 
+resolvidos. 4 ed. Rio de Janeiro: Livros Técnicos e Científicos, 2011. 312 p. 
+PINTO, C. S. Curso básico de mecânica dos solos. 3 ed. São Paulo: Oficina de 
+Textos, 2009. 367 p. 

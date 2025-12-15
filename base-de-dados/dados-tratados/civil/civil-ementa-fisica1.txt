@@ -1,0 +1,32 @@
+
+  
+87  
+Física I CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Cinemática de partículas. Leis de Newton. Trabalho e energia. 
+Conservação de energia. Sistema de partículas. Colisões. Movimento de 
+rotação. Torque. Momento Angular e Rolamento. 
+BIBLIOGRAFIA BÁSICA: 
+HALLIDAY, DAVID; RESNICK, ROBERT; WALKER, JEARL. Fundamentos de 
+Física 1: mecânica. 9. ed. Rio de Janeiro: LTC, 2012. 
+TIPLER, PAUL ALLEN; MOSCA, GENE. Física para cientistas e engenheiros: 
+mecânica, oscilações e ondas, termodinâmica. 5. ed. Rio de Janeiro: LTC, 2006. vol.1. 
+YOUNG, HUGH D; FREEDMAN, ROGER A. SEARS E ZEMANSKY. Física I: 
+mecânica. 10. ed. São Paulo: Addison Wesley, 2005. 368 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia:  álgebra linear e 
+cálculo vetorial. 3. ed. Porto Alegre: Bookman, 2009. v 2. 
+HALLIDAY, DAVID; RESNICK, ROBERT; KRANE, KENNETH S. Física 1. 5. ed. 
+Rio de Janeiro: LTC, 2004. 
+NUSSENZVEIG, HERCH MOYSÉS. Curso de física básica 1: mecânica. 4. ed. São 
+Paulo: Edgard Blücher, 2009. 328 p. 
+JEWETT, JOHN W.; SERWAY, RAYMOND A. Física para cientistas e engenheiros, Vol. 
+1: mecânica. São Paulo: Cengage Learning, 2011. 412p. 
+ALONSO, M.; FINN, E. J. Física: um curso universitário: mecânica. São Paulo: E. Blücher, 
+1972. 481 p.

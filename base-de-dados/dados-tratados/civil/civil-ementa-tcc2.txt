@@ -1,0 +1,15 @@
+TCC II 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 0 0 
+OBRIGATÓRIO 
+TOTAL 30 2 
+PRÉ-REQUISITO: TCC I 
+NÚCLEO: - 
+EMENTA: Desenvolvimento do projeto de pesquisa proposto no TCC I ao longo de um 
+semestre letivo, incluindo a elaboração da versão preliminar da monografia, por parte do 
+estudante com o devido acompanhamento do professor orientador. 
+BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:

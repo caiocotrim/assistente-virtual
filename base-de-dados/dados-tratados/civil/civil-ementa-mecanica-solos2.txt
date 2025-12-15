@@ -1,0 +1,58 @@
+ 
+Mecânica dos Solos II CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Mecânica Geral I e Mecânica dos Solos I 
+EMENTA: Resistência ao cisalhamento dos solos. Ensaios de campo e de laboratório para 
+estudo do comportamento tensão-deformação-resistência dos solos. Métodos de equilíbrio 
+limite. Estabilidade de taludes e encostas. Empuxos de terra. Uso de geossintéticos em 
+geotecnia. Rebaixamento do lençol freático. 
+BIBLIOGRAFIA BÁSICA: 
+PINTO, C. S. Curso básico de mecânica dos solos. 3 ed. São Paulo: Oficina de Textos, 
+2009. 367 p. 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 1: fundamentos. 6 ed. Rio de Janeiro: 
+Livros Técnicos e Científicos, 2011. 234 p. 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 2: mecânica das rochas. 6 ed. Rio de 
+Janeiro: Livros Técnicos e Científicos, 2011. 498 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+CAPUTO, H. P. Mecânica dos solos e suas aplicações v. 3: exercícios e problemas 
+resolvidos. 4 ed. Rio de Janeiro: Livros Técnicos e Científicos, 2011. 312 p. 
+DAS, B.M. Fundamentos de engenharia geotécnica. São Paulo: Cengage Learning, 2014. 
+612 p. 
+WICANDER, R.; MONROE, J. S. Fundamentos de geologia. São Paulo: Cengage Learning, 
+2009. 508 p. 
+CHAMECKI, P. R.; CALLIARI, N. Mecânica dos solos: exercícios. Curitiba: UFPR, 1999. 
+136 p.. Disponível em < http://www.dcc.ufpr.br/mediawiki/images/0/0c/TC- 
+035_Alessander_Apostila_Exerc%C3%ADcios.pdf>. Acesso em: 12 de março de 2017. 
+POPP, J.H. Geologia Geral. Rio de Janeiro: Livros Técnicos e Cient. S.A, 2009. 309 p. 
+Resistência dos Materiais II 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Resistência dos Materiais I e Cálculo Diferencial e Integral III. 
+EMENTA: Tensões normais na flexão composta: caso geral. Tensões de cisalhamento em 
+seções assimétricas. Estados de tensão e de deformação. Critérios de resistência. Linha 
+elástica. Flambagem de barras. 
+BIBLIOGRAFIA BÁSICA: 
+BEER, F.P.; JOHNSTON, E. R. Mecânica dos materiais. 5 ed. Porto Alegre: AMGH, 2011. 
+799 p. 
+HIBBELER, R. C. Resistência dos materiais. 7 ed. São Paulo: Prentice Hall, 2010. 637 p. 
+ARRIVABENE, V. Resistência dos materiais. São Paulo: Makron Books, 1994 400 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BEER, F.P.; JOHNSTON, E. R. Resistência dos materiais. 3 ed. São Paulo: Makron Books, 
+2005. 1255 p. 
+HIBBELER, R. C. Resistência dos materiais. 5 ed. São Paulo: Prentice Hall, 2004. 670 p. 
+BOTELHO, M. H. C. Resistência dos materiais para entender e gostar: um texto 
+curricular. São Paulo: Nobel, 1998. 301 p. 
+POPOV, E. P. Introdução à mecânica dos sólidos. São Paulo: Edgard Blucher, 2005. 534 p. 
+TIMOSHENKO, S. P. Resistência dos materiais. Rio de janeiro: LTC, 1966. 518 p. 
+108 
+109  

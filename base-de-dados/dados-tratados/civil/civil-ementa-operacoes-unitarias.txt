@@ -1,0 +1,27 @@
+Operações Unitárias CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Hidráulica 
+EMENTA:   
+Fluxograma geral de um processo químico, com identificação das correntes de entrada 
+e de saída e das etapas de transformação. Definição de processos unitários e operações 
+unitárias, com exemplos de processos na área ambiental envolvendo ambos os tipos de 
+transformação física e química. Descrição das operações unitárias de transporte: 
+bombeamento de líquidos e ventilação/compressão de gases, transporte mecânico, 
+pneumático e hidráulico de sólidos; sedimentação, filtração, adsorção, centrifugação, 
+peneiramento, filtração por membranas; fragmentação de sólidos, coagulação e 
+floculação e aquecimento e resfriamento de correntes líquidas e gasosas. 
+ 
+BIBLIOGRAFIA BÁSICA: 
+FOUST, A.S. et. al., “Princípios das Operações Unitárias”, Editora Guanabara Dois, 
+1982. 
+ROMBEIRO, A. J. L. O. Técnicas e Operações Unitárias em Química Laboratorial. 
+Lisboa: Fundação Calouste Gulbenkian. 1981. 
+ 
+BIBLIOGRAFIA COMPLEMENTAR: 
+WILLIANS, R.B. and CULP, G.L. - Handbook of Pulic Water Systems, Van Nostrand 
+Reinhold Company, N.Y., 1986, 1113 p. 

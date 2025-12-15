@@ -1,0 +1,52 @@
+Conservação de Rodovias CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Estradas e Rodovias  
+EMENTA:   
+Introdução. Importância da conservação de rodovias. Estratégias de manutenção e 
+reabilitação. Conceito de gerência de pavimentos. O processo de gerência de 
+pavimentos: níveis e decisões. Dados para a gerência de pavimentos: classe dos dados 
+requeridos; gerência do banco de dados. O conceito de serventia – desempenho. 
+Caracterização da irregularidade longitudinal. Equipamentos para avaliação da 
+irregularidade longitudinal. Relação entre irregularidade longitudinal e serventia. 
+Defeitos superficiais dos pavimentos. Tipos de defeitos superficiais, métodos e 
+equipamento para levantamento de defeitos no campo. Índices de defeitos combinados 
+(ICP, IGG). Avaliação da Capacidade Estrutural dos Pavimentos. Análises não
+destrutivas. Equipamentos para medida da deflexão superficial. Métodos de 
+dimensionamento de reforço. Avaliação da Segurança dos Pavimentos. Coeficiente de 
+atrito pneu-pavimento. Importância da micro e da macro textura dos pavimentos. 
+Métodos e equipamentos para avaliação da segurança. Catálogo de Soluções para os 
+Problemas Identificados na Monitoração. Atividades de manutenção e reabilitação em 
+pavimentos asfálticos. Critérios para seleção de atividades de manutenção e reabilitação. 
+ 
+BIBLIOGRAFIA BÁSICA: 
+ARANOVICH, L.A.S. Desempenho de pavimentos de baixo custo no Estado do 
+Paraná. Dissertação de mestrado, COPPE, 1985. 
+ARCHONDO/CALLAO, R. The HDM -III model - highway design and maintenance 
+standards model - world bank. Transportation Department, Washington DC, 1992. 
+CAREY, JR., W.N. e IRICK, P.E. - The Pavement Serviceability - Performance 
+Concept - HRB Bulletin 250 – 1960. 
+DNIT – Departamento Nacional de Infraestrutura de Transportes. Avaliação estrutural 
+dos pavimentos flexíveis. DNIT-PRO 10-79, 1979. 
+DNIT – Departamento Nacional de Infraestrutura de Transportes. Projeto de 
+restauração de pavimentos flexíveis e semi rígidos. DNIT-PRO 159-85, 1985. 
+ 
+BIBLIOGRAFIA COMPLEMENTAR: 
+FERNANDES JR., J.L. Investigação dos efeitos das solicitações do tráfego sobre o 
+desempenho de pavimentos. Tese de doutorado, EESC/USP, 1995. 
+FERNANDES, JR., J.L., ODA, S. e ZERBINI, L.F. – Defeitos e Atividades de 
+Manutenção e Reabilitação em Pavimentos Asfálticos - Escola de Engenharia de São 
+Carlos da USP – 1998. 
+GEIPOT - Empresa Brasileira de Planejamento de Transportes - Pesquisa do 
+Interrelacionamento entre Custos de Construção, Conservação e Utilização de 
+Rodovias - Relatório 1 - Conceitos e Metodologias - Brasília-DF - 1976 
+HUDSON, W.R. e FERNANDES, JR., J.L. - Curso Intensivo sobre Gerência de 
+Pavimentos - Ênfase ao Modelo HDM-III - Departamento de Estradas de Rodagem do 
+Estado de Minas Gerais e Instituto Panamericano de Rodovias - Belo Horizonte - Março 
+de 1994. 
+ 
+171  

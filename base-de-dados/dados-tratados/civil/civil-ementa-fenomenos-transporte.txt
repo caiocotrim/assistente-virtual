@@ -1,0 +1,39 @@
+
+ 
+Fenômenos de Transporte CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Física II e Cálculo Diferencial e Integral II 
+EMENTA: Propriedades dos fluidos e definições. Estática dos fluidos. Conceitos e 
+equações fundamentais do movimento dos fluidos. Análise dimensional e semelhança 
+dinâmica. Efeitos de viscosidade. Resistência fluida. Medidores, transferência de 
+calor: escoamento sem atrito com troca de calor em condutores.] 
+BIBLIOGRAFIA BÁSICA: 
+MUNSON, B. R; OKIISHI, T. H.; YOUNG, D. F. Fundamentos da mecânica dos fluidos. 
+São Paulo: Edgard Blücher, 2004. 571p. (Título original: Fundamentals of fluid mechanics. 
+4. ed. Tradução de:Euryale de Jesus Zerbini).ISBN85-212-0343-8. 
+YOUNG, D F.; MUNSON, B. R.; OKIISHI, T. H. Uma introdução concisa à mecânica dos 
+fluidos. São Paulo: Edgard Blücher, 2005. 372 p. (Título original: A brief introduction to fluid 
+mechanics. 2.ed. Tradução de:Euryale de Jesus Zerbini).ISBN85-212-0360-8. 
+FOX, R. W.; PRITCHARD,P. J.;MCDONALD,A.T. Introdução à mecânica dos fluidos.7. 
+ed. Rio de Janeiro:LTC,2011. 710p. (Título original:Introduction to fluid 
+mechanics 7th. ed. Tradução: Ricardo Nicolau Nassar Koury; Luiz Machado). 
+ISBN9788521617570. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ROMA, W. N. L. Fenômenos de Transporte para Engenharia. Editora Rima, 2003. 
+BRUNETTI, F. Mecânica dos fluidos. São Paulo: Prentice Hall, 2006. 410p. 
+MALISKA, C. R. Transferência de calor e mecânica dos fluidos computacional. 2.ed. Rio 
+de Janeiro:LTC , 1995. 453p. 
+INCROPERA, F. P. et al. Fundamentos de transferência de calor e de massa.6. ed. Rio de 
+Janeiro:LTC , 2011. 643p. (Tradução de: Fundamentals ofhe at and masstransfer). ISBN 
+9788521615842. 
+DIAS, L. R. S. Operações que envolvem transferência de calor e massa. Rio de Janeiro: 
+Interciência, 2009. 63 p. 
+ 
+ 
+ 
+ 

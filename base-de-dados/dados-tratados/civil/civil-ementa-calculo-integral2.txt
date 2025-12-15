@@ -1,0 +1,31 @@
+ 
+91  
+Cálculo Diferencial e Integral II. CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral I. 
+EMENTA: Técnicas de integração. Teorema Fundamental do Cálculo. Aplicação da integral 
+definida. Integrais impróprias. Sucessões e séries numéricas. Séries de potências. Fórmulas e 
+séries de Taylor e de McLaurin. 
+BIBLIOGRAFIA BÁSICA: 
+LEITHOID, L. O Cálculo com geometria analítica. V. 1. 3. ed. São Paulo: Harbra, 
+1994. 
+LEITHOID, L. O Cálculo com geometria analítica V. 2. 3. ed. São Paulo: Harbra, 1994. 
+STEWART, J. Cálculo. V. 1. 7. ed. São Paulo: Cengage Learning, 2013 
+STEWART, J. Cálculo. V. 2. 7. ed. São Paulo: Cengage Learning, 2013. 
+THOMAS, G. et al. Cálculo. V 1. 10 ed. São Paulo: Pearson, 2002. 
+THOMAS, G. et al. Cálculo. V 2. 10 ed. São Paulo: Pearson, 2002. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 1. 5 ed. Rio de Janeiro: LTC, 2011. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 2. 5 ed. Rio de Janeiro: LTC, 2011. 
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: um curso moderno e suas aplicações. 7 ed. 
+Rio de Janeiro: LTC, 2002. 
+MORETTIN, P. A.; HAZZAN, S.; BUSSAB, W. O. Cálculo: funções de uma e várias 
+variáveis. São Paulo: Saraiva, 2005. 
+MUNEM, M. A.; FOULIS, D. J. Cálculo. Rio de Janeiro: LTC, 1982. 
+SIMMONS, G. F. Cálculo com geometria analítica: volume 1. São Paulo: Makron Books, 
+2005. 

@@ -1,0 +1,30 @@
+
+  
+Resistência dos Materiais I 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 0 0 
+TOTAL 45 3 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Mecânica dos Sólidos 
+EMENTA: Tensões e deformações. Lei de Hooke. Solicitações unidimensionais. Ciclo de 
+Mohr. Torção simples. Tensões normais e de cisalhamento na flexão simples de vigas 
+simétricas 
+BIBLIOGRAFIA BÁSICA: 
+BEER, F.P.; JOHNSTON, E. R. Mecânica dos materiais. 5 ed. Porto Alegre: AMGH, 2011. 
+799 p. 
+HIBBELER, R. C. Resistência dos materiais. 7 ed. São Paulo: Prentice Hall, 2010. 637 p. 
+ARRIVABENE, V. Resistência dos materiais. São Paulo: Makron Books, 1994 400 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BEER, F.P.; JOHNSTON, E. R. Resistência dos materiais. 3 ed. São Paulo: Makron 
+Books, 2005. 1255 p. 
+HIBBELER, R. C. Resistência dos materiais. 5 ed. São Paulo: Prentice Hall, 2004. 670 p. 
+BOTELHO, M. H. C. Resistência dos materiais para entender e gostar: um texto 
+curricular. São Paulo: Nobel, 1998. 301 p. 
+POPOV, E. P. Introdução à mecânica dos sólidos. São Paulo: Edgard Blucher, 2005. 534 p. 
+TIMOSHENKO, S. P. Resistência dos materiais. Rio de janeiro: LTC, 1966. 518 p. 
+101 
+102  
+ 

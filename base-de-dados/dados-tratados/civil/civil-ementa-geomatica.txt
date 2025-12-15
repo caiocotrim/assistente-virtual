@@ -1,0 +1,35 @@
+Geomática CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 30 2 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Introdução à Programação 
+EMENTA: Introdução à Ciência do Mapeamento e Cartografia Digital: Significado e 
+aplicação do mapeamento. Cartometria. Teoria da distorção. Projeções cartográficas e 
+Projeções Geodésicas. Representação Cartográfica. Tecnologia Cartográfica. Produção 
+Cartográfica. Cartografia Topográfica e Especial. Cartografia Temática. Conceitos gerais de 
+Geoprocessamento: espaço geográfico, região, relações espaciais, objetos espaciais. Sistemas 
+de Informações Geográficas. Tipos de dados em GIS. Natureza e características de objetos 
+espaciais. Modelo de coleta de dados. Modelo de armazenamento de dados. Modelo de 
+recuperação de dados. Modelo de apresentação de dados. Modelo de referência em GIS: Classes 
+e Objetos Geográficos. Definições. Exemplos Práticos de SIG´s: SPRING, ARCGIS, IDRISI, 
+entre outros. 
+BIBLIOGRAFIA BÁSICA: 
+FITZ, P. R. Cartografia básica. São Paulo : Oficina de Textos, 2010. 143 p. 
+CASACA, J. M.; MATOS, J. L.; DIAS, J. M. B. Topografia geral. Rio de Janeiro: LTC , 2011 . 
+208 p. 
+FLORENZANO, T. G. Iniciação em sensoriamento remoto. 2. ed. São Paulo: Oficina de 
+Textos, 2007. 101 p. (Imagens de satélite para estudos ambientais). 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ALMEIDA, R. D. Do desenho ao mapa: iniciação cartográfica na escola . 3. ed. São Paulo : 
+Contexto , 2004. 115 p. (Coleção Caminhos da geografia). 
+PONZONI, F. J.; SHIMABUKURO, Y. E.; KUPLICH, T.M. Sensoriamento Remoto da 
+Vegetação. São Paulo: Oficina de Textos, 2012. 
+MCCORMAC, J. Topografia . 5 ed. Rio de Janeiro: LTC , 2011 . 391 p. (Tradução: Daniel 
+Carneiro da Silva) 
+SILVA, A. B. Sistemas de Informações Geo-Referenciadas. Campinas: Editora da 
+UNICAMP, 2012, 232. 
+LANG, S.; BLASCHKE, T. Analise da Paisagem com SIG. São Paulo: Oficina de Textos, 2012. 
+424p. 

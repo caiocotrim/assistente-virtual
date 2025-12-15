@@ -1,0 +1,37 @@
+ 
+83  
+Introdução à Programação CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 4 
+PRÁTICA 60 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Introdução à Programação: aplicações dos computadores. Introdução à 
+organização de computadores. Soluções de problemas usando o computador. Processo de 
+desenvolvimento de programas. Algoritmos. Modelos de programação. Introdução a uma 
+linguagem de programação. Tipos de dados (entradas e saídas de dados), operadores e 
+expressões. Comandos de controle de fluxo (decisões e repetições). Agregados de dados 
+homogêneos e heterogêneos. Modularização de programas. 
+Recursividade. Alocação dinâmica de memória. P 
+BIBLIOGRAFIA BÁSICA: 
+CARBONI, I. de. F.. Lógica de programação. São Paulo: Thomson, 2003. 240 p. ISBN 85
+221-0316-x. 
+SOUZA, M. A. F de. Algoritmos e lógica de programação. São Paulo: Thomson, 2005. 214 
+p. ISBN 8522104646. 
+SEBESTA, R. W. Conceitos de linguagens de programação. 4. ed. Porto Alegre: Bookman 
+, 2000. 624 p. (Tradução: José Carlos Barbosa dos Santos.). ISBN 85-7307- 608-9. 
+PACITTI, T.; ATKISON, C. P. Programação e métodos computacionais. 4. ed., Cidade: 
+Livros técnicos e científicos, 1983. v 1. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BROOKSHEAR, J. G. Ciência da Computação - Uma Visão Abrangente. Porto Alegre: 
+Bookman, 2000. 
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de 
+Computadores - Algoritmos, Pascal e C/C++. São Paulo: Prentice-Hall, 2002. 
+CHAPMAN, S. J. Programação em MATLAB para engenheiros. São Paulo: Thomson, 
+2003. 477 p. (Tradução: Flávio Soares Correa da Silva.). ISBN 85-221- 0325-9. 
+MANZANO, J. A. N. G.; OLIVEIRA, J. F.. Algoritmos: lógica para desenvolvimento de 
+programação de computadores. 17. ed. São Paulo: Érica , 2005. 236 p. ISBN 85-7194-718
+x. 
+SILVEIRA, J. C. S. Conceitos Básicos de Computação. Porto Alegre: II da UFRGS, 
