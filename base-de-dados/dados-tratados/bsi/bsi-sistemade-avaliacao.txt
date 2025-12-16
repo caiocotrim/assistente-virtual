@@ -1,0 +1,75 @@
+PROCEDIMENTOS DE AVALIAÇÃO
+4.1 SISTEMA   DE   AVALIAÇÃO   DO   PROCESSO   DE   ENSINO-
+APRENDIZAGEM
+A avaliação de desempenho do discente ocorrerá ao longo de todo o curso,
+em todas as componentes curriculares, com base nas competências adquiridas e de
+maneira   sistemática   e   progressiva.   Tal   avaliação   deve   envolver   os   múltiplos
+aspectos do curso, com o objetivo de verificar os conhecimentos adquiridos, as
+atitudes   e   as   habilidades   incorporadas   ao   longo   do   processo   de   ensino-
+aprendizagem.
+Os critérios de avaliação em cado componente curricular devem ser regidos
+por normas elaboradas pelo Colegiado de Curso, observando-se a compatibilidade
+com   orientações fixadas pelo MEC e com as Normas Acadêmicas do Ensino
+Superior   regulamentadas   no   âmbito   da   Instituição,   conforme   Resolução   nº
+23/2019/CONSUP ou mais atual.
+Respeitando-se   a   natureza   e   a   particularidade   de   cada   componente
+curricular, bem como os métodos e mecanismos de ensino adotados pelos docentes,
+são propostas como instrumentos de avaliação os seguintes procedimentos:
+•Provas dissertativas presenciais;
+•Trabalhos individuais e coletivos;
+•Atividades de investigação, pesquisa ou desenvolvimento;
+•Desenvolvimento de projetos em Computação ou interdisciplinares;
+•Resolução de situações-problema;
+•Estudos realizados de forma independente pelo discente.
+Projeto Pedagógico de Curso 67
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+4.2 SISTEMA DE AVALIAÇÃO DO PROJETO DO CURSO
+Este Projeto Pedagógico deve expressar o novo paradigma de sociedade e
+de educação, de modo a oferecer aos educandos uma formação global e crítica,
+capacitando-os para o exercício da cidadania e a transformação da realidade. Para
+isso, é importante que seja continuamente avaliado em diversas dimensões.
+No   âmbito   do   Sistema   Nacional   de  Avaliação   da   Educação   Superior
+(SINAES) instituído pela Lei Federal nº 10.861, de 14/04/2004, o curso estará sujeito
+à avaliações externas periódicas conduzidas pelo Instituto Nacional de Estudos e
+Pesquisas Educacionais Anísio Teixeira (INEP) que utilizam-se de procedimentos e
+instrumentos diversificados, dentre os quais obrigatoriamente visitas por comissões
+de especialistas da área de Computação. As avaliações objetivam identificar as
+condições de ensino oferecidas aos discentes, em especial as relativas ao perfil do
+corpo docente, às instalações físicas e à organização didático-pedagógica.
+Em atendimento ao SINAES, a Instituição conta com uma Comissão Própria
+de Avaliação (CPA), tratando-se de órgão colegiado formado por membros eleitos de
+todos os segmentos da comunidade acadêmica e de representantes da sociedade
+civil organizada, sendo vedada maioria absoluta por parte de quaisquer de tais
+segmentos. Seu objetivo é conduzir os processos de avaliação internos, bem como
+sistematizar e fornecer, sempre que solicitado, informações ao INEP levando em
+consideração diretrizes, critérios e estratégias emanadas da Comissão Nacional de
+Avaliação da Educação Superior (CONAES) vinculada ao MEC (também instituída
+pela Lei Federal nº 10.861).
+Tendo em vista as dimensões e a diversidade que caracterizam a Instituição,
+o Campus Vitória da Conquista, assim como os demais campi, possui sua própria
+Comissão Setorial de Avaliação (CSA), cabendo a ela conduzir as atividades de
+avaliação do campus juntamente com a CPA. De forma análoga ao observado nos
+cursos de graduação, são utilizados procedimentos e instrumentos diversificados
+para a avaliação, dentre os quais a autoavaliação e a avaliação externa in loco.
+Implementação,   coordenação,   supervisão   e   acompanhamento   das   atividades
+avaliativas e demais atribuições da CPA e da CSA são definidas pela Resolução nº
+Projeto Pedagógico de Curso 68
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+15/2017/CONSUP   (ou   mais   atual)   e   considerando,   para   tal,   o   Plano   de
+Desenvolvimento   Institucional   (PDI),   relatórios   de   autoavaliações   e   demais
+documentos institucionais correlacionados.
+O SINAES prevê ainda avaliação periódica trienal do desempenho dos
+discentes do curso mediante aplicação do Exame Nacional de Desempenho dos
+Estudantes (ENADE). De acordo com o Art. 5º da já aludida Lei Federal 10.861, o
+exame   aferirá   o   desempenho   dos   discentes   em   relação   aos   conteúdos
+programáticos previstos nas diretrizes curriculares do curso, suas habilidades para
+ajustamento  às  exigências  decorrentes  da   evolução   do   conhecimento   e  suas
+competências para compreensão de temas exteriores ao âmbito específico da
+profissão. Para fins de aplicação do exame, são admitidos procedimentos amostrais
+considerando-se apenas discentes matriculados no curso ao final do primeiro e do
+último semestre.
+A avaliação do curso conta ainda com a participação da sociedade (em
+especial representantes da iniciativa privada e instituições públicas), com o intuito de
+alinhar a proposta do curso com as demandas do mercado, de modo a gerar novos
+conhecimentos   que   possam   impactar   na   oferta   de   produtos   e   serviços   que
+proporcionem à população uma melhoria em suas condições sociais.

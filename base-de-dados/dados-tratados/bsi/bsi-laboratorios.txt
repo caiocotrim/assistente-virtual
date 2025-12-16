@@ -1,0 +1,87 @@
+ESTRUTURA DE LABORATÓRIOS
+Conforme citado na seção anterior, o campus dispõe de 8 laboratórios
+didáticos para as diversas atividades da área de Computação. As disposições e
+configurações de equipamentos contidos em cada laboratório segue-se abaixo:
+
+•Laboratório   de   Infraestrutura   de   Redes   de   Computadores:   32
+posições com cadeiras móveis sem braço; 16 microcomputadores
+Speed equipados com processador Intel Pentium 4, com frequência de
+2,4GHz, 2GB DDR2 de memória, 80GB de armazenamento em disco,
+monitor LED de 21”, teclado ABNT e mouse óptico; projetor multimídia
+Epson; 2 condicionadores de ar (split); conexão via rede cabeada; 2
+bancadas para experimentos com 12 posições; 24 banquetas altas
+para bancadas de experimentos; 1 rack de chão 42U; 1 rack de parede
+12U; 6 hubs/switch com 12/24 portas 10/100; 12 patch panel com 24
+portas RJ45 fêmea; 6 alicates de crimpagem para conector RJ45
+macho; 2 alicates crimpagem para conector RJ45 fêmea; 12 testadores
+de conexão para cabo UTP-Cat5 conectorizados RJ45/RJ11 macho; 3
+dispositivos interno-ópticos para rack; 3 dispositivos interno-ópticos
+para parede; 20 conversores de mídia fibra/RJ45 fêmea com fonte de
+alimentação;   4   roteadores   sem   fio   802.11  TP-Link   com   fonte   de
+alimentação; 4 antenas omni-direcional D-Link; 4 dongle USB sem fio
+802.11 D-Link; 4 câmeras IP sem fio 802.11 D-Link; 1 analisador de
+sinal eletromagnético; e 2 antena outdoor parabólica de grade 2,4GHz;
+
+•Laboratório   de   Configuração   de   Redes   de   Computadores:   32
+posições com cadeiras móveis sem braço; 16 microcomputadores HP
+Desktop equipados com processador i7, com frequência de 3,4GHz,
+4GB DDR3 de memória, 1TB de armazenamento em disco, monitor
+LED de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson; 2
+condicionador de ar (split); conexão via rede cabeada; 2 bancadas para
+experimentos com 12 posições; 24 banquetas altas para bancadas de
+experimentos;   1   rack   de   chão   42U;   1   rack   de   parede   12U;   6
+Projeto Pedagógico de Curso 61
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+hubs/switch com 12/24 portas 10/100; 4 roteadores sem fio 802.11 TP-
+Link com fonte de alimentação; 4 antenas omni-direcional D-Link; 4
+dongle USB sem fio 802.11 D-Link; 4 câmeras IP sem fio 802.11 D-
+Link; e 1 roteador VPN D-Link;
+
+•Laboratório   de   Linguagens   de   Programação: 48  posições com
+cadeiras   móveis   sem   braço;   36   microcomputadores   HP   Desktop
+equipados com processador i7, com frequência de 3,4GHz, 4GB DDR3
+de memória, 1TB de armazenamento em disco, monitor LED de 21”,
+teclado   ABNT   e   mouse   óptico;   projetor   multimídia   Epson;   2
+condicionadores de ar (split); conexão via rede cabeada; e 25 carteiras
+com prancheta fixa para aulas teóricas;
+
+•Laboratório de Sistemas Computacionais: 44 posições com cadeiras
+móveis sem braço; 22 microcomputadores HP Desktop equipados com
+processador i7, com frequência de 3,4GHz, 4GB DDR3 de memória,
+1TB de armazenamento em disco, monitor LED  de 21”, teclado ABNT
+e mouse óptico; projetor multimídia Epson; 2 condicionadores de ar
+(split); conexão via rede cabeada; e 25 carteiras com prancheta fixa
+para aulas teóricas;
+
+•Laboratório  de   Metodologia   e   Desenvolvimento   de   Software: 48
+posições com cadeiras móveis sem braço; 21 microcomputadores HP
+Desktop equipados com processador i7, com frequência de 3,4GHz,
+4GB DDR3 de memória, 1TB de espaçamento em disco, monitor LED
+de 21, teclado ABNT e mouse óptico; projetor multimídia Epson; 2
+condicionadores de ar (split); e conexão via rede cabeada;
+
+•Laboratório   de   Metodologia   e   Desenvolvimento   Avançados   de
+Software:   48   posições   com   cadeiras   móveis   sem   braço;   24
+microcomputadores   Vector   equipados   com   processador   i5,   com
+frequência de 3,4GHz, 4GB DDR3 de memória, 1TB de espaçamento
+em disco, dois monitores LED de 21”, teclado ABNT e mouse óptico;
+Projeto Pedagógico de Curso 62
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+projetor multimídia Epson; condicionador de ar (split); e conexão via
+rede cabeada;
+
+•Laboratório   de   Sistemas   Web   e   Distribuídos: 44 posições com
+cadeiras   giratórias   móveis   sem   braço;   22   microcomputadores   HP
+Desktop equipados com processador i7, com frequência de 3,4GHz,
+4GB DDR3 de memória, 1TB de espaçamento em disco, monitor LED
+de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson;
+condicionador de ar (split); conexão via rede cabeada; e 25 carteiras
+com prancheta fixa para aulas teóricas;
+
+•Laboratório   de   Sistemas   Móveis   e   Lúdicos:   48   posições   com
+cadeiras   giratórias   móveis   sem   braço;   24   microcomputadores   HP
+Desktop equipados com processador i7, com frequência de 3,4GHz,
+4GB DDR3 de memória, 1TB de armazenamento em disco, monitor
+LED de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson;
+condicionador de ar (split); conexão via rede cabeada; e 25 carteiras
+com prancheta fixa para aulas teóricas.

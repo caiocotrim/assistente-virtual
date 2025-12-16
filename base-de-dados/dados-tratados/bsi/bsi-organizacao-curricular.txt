@@ -1,0 +1,98 @@
+ORGANIZAÇÃO CURRICULAR
+
+3.2.1 MATRIZ CURRICULAR OBRIGATÓRIA
+No quadro abaixo, é exibida a distribuição dos componentes curriculares por
+semestre.
+Quadro 1: Distribuição de componentes curriculares por semestre
+SEMESTRE COMPONENTE CURRICULAR CÓDIGO CRÉDITOS
+CARGA
+HORÁRIA
+(HORAS)
+
+Semestre I
+Algoritmo e Programação CCO01 4 60
+Fundamentos de Sistemas de Informação CCO03 4 60
+Inglês Aplicado à Computação COM06 4 60
+Introdução à Ciência da Computação CCO05 4 60
+Leitura e Produção de Gêneros Acadêmicos COM02 4 60
+Matemática Discreta I MAT04 4 60
+TOTAL (I SEMESTRE) 24 360
+
+Semestre II
+Administração COM12 4 60
+Cálculo Diferencial Aplicado à Computação MAT11 4 60
+Computador, Ética e Sociedade COM09 4 60
+Linguagem de Programação I CCO07 4 60
+Matemática Discreta II COM10 4 60
+Organização e Arquitetura de Computadores CCO08 4 60
+TOTAL (II SEMESTRE) 24 360
+
+Semestre III Direito Cibernético HUM17 4 60
+Estruturas de Dados CCO14 4 60
+Linguagem de Programação II CCO13 4 60
+Organização, Sistemas e Métodos COM18 4 60
+Projeto Pedagógico de Curso 22
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+Probabilidade e Estatística MAT16 4 60
+Sistemas Operacionais TEC15 4 60
+TOTAL (III SEMESTRE) 24 360
+
+SEMESTRE COMPONENTE CURRICULAR CÓDIGO CRÉDITOS
+CARGA
+HORÁRIA
+(HORAS)
+
+Semestre IV
+Análise e Modelagem de Sistemas TEC20 4 60
+Atividades Curriculares de Extensão I EXT25 6 90
+Banco de Dados I TEC21 4 60
+Empreendedorismo COM24 4 60
+Metodologia da Pesquisa Científica COM19 4 60
+Programação Web I TEC23 4 60
+Redes de Computadores TEC22 4 60
+TOTAL (IV SEMESTRE) 30 450
+
+Semestre V
+Atividades Curriculares de Extensão II EXT32 6 90
+Economia COM31 4 60
+Banco de Dados II TEC28 4 60
+Complexidade de Algoritmos CCO27 4 60
+Processo de Desenvolvimento de Software TEC26 4 60
+Programação Web II TEC30 4 60
+Projeto e Administração de Redes TEC29 4 60
+TOTAL (V SEMESTRE) 30 450
+
+Semestre VI
+Atividades Curriculares de Extensão III EXT39 5 75
+Engenharia de Software TEC35 4 60
+Gestão de Projetos TEC38 4 60
+Inteligência Artificial CCO33 4 60
+Programação para Dispositivos Móveis TEC34 4 60
+Segurança da Informação TEC37 4 60
+Sistemas Distribuídos TEC36 4 60
+TOTAL (VI SEMESTRE) 29 435
+
+Semestre VII 
+Atividades Curriculares de Extensão IV EXT45 5 75
+Desenvolvimento Distribuído na Internet TEC40 4 60
+Interface Homem-Máquina TEC43 4 60
+Optativa A - 4 60
+Qualidade de Software TEC41 4 60
+Projeto Pedagógico de Curso 23
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+Sistemas de Apoio à Decisão TEC44 4 60
+Trabalho de Conclusão de Curso I SUP42 2 30
+TOTAL (VII SEMESTRE) 27 405
+
+SEMESTRE COMPONENTE CURRICULAR CÓDIGO CRÉDITOS
+CARGA
+HORÁRIA
+(HORAS)
+
+Semestre VIII
+Gestão e Governança de TI TEC47 4 60
+Meio Ambiente HUM46 4 60
+Trabalho de Conclusão de Curso II SUP48 2 30
+Optativa B- 4 60
+Optativa C - 4 60
+TOTAL (VIII SEMESTRE) 18 270
