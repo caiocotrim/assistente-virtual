@@ -1,0 +1,52 @@
+CÓDIGO: 14.7.5
+DISCIPLINA: Operações Unitárias
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1115
+OPERAÇÕES
+- Hidráulica
+Ementa:
+Introdução a análise e seleção de processos unitários: cinética e equilíbrio das
+reações químicas; reatores ideais; balanço de massa. Operações unitárias físicas e
+físico-químicas interferentes aos processos de tratamento de águas de abastecimento
+e águas residuárias: coagulação química, floculação, sedimentação, flotação,
+filtração, precipitação química, oxidação química, adsorção, desinfecção.
+Bibliografia básica:
+LIBÂNIO, M. Fundamentos de Qualidade e Tratamento de Água. Campinas:
+Editora Átomo. (5)
+MATOS, S. P. de. Operações Unitárias: Fundamentos, Transformações e Aplicações
+dos Fenômenos Físicos e Químicos. São Paulo: Ed. Érica.
+VON SPERLING, M. Princípios Básicos do Tratamento de Esgotos. Belo
+Horizonte: Universidade Federal de Minas Gerais.(5)
+SANT'ANNA JUNIOR, Geraldo Lippel. Tratamento biológico de efluentes:
+fundamentos e aplicações. Rio de Janeiro: Interciência, 2013. 404 p. ISBN
+9788571932197 (13)
+Bibliografia complementar:
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. A desinfecção da água. Brasília: OMS,
+1999. 20 p. (2)
+GONÇALVES, Ricardo Franci; GONÇALVES, Ricardo Franci. Desinfecção de
+efluentes sanitários. Rio de Janeiro: ABES, 2003. 438 p. ISBN 8786552720. (3)
+KELLNER, Erich; PIRES, Eduardo Cleto. Lagoas de estabilização: projeto e
+operação. Rio de Janeiro: ABES, 1998. 242 p. ISBN 8570221282. (5)
+MENDONÇA, Sérgio Rolim. Lagoas de estabilização e aeradas mecanicamente:
+novos conceitos. João Pessoa: S. Rolim Mendonça, 1990. 388 p. ISBN 85-900009-
+1-5 (broch.) (5)
+SCHNEIDER, René Peter; TSUTIYA, Milton Tomoyuki. Membranas filtrantes para o
+tratamento de água, esgoto e água de reúso. São Paulo: ABES, 2001. 234 p. ISBN
+8590082334. (3)
+Programa de Pesquisas em Saneamento Básico - PROSAB. Nutrientes de esgoto
+sanitário: utilização e remoção. Francisco Suetônio Bastos Mota e Marcos von
+Sperling(coordenadores). Rio de Janeiro: ABES, 2009. 428p. ISBN: 978-85-7022-164-
+3. Disponível em: http://www.finep.gov.br/apoio-e-financiamento-externa/historico-de-
+programa/prosab/produtos;
+Rede Nacional de Tratamento de Esgotos Descentralizados - RENTED.
+Caracterização, Tratamento e Gerenciamento de Subprodutos de Correntes de
+Esgotos Segregadas e Não Segregadas em Empreendimentos Habitacionais.
+André Bezerra dos Santos [org.] Fortaleza: Imprece, 2019. Disponível em:
+http://www.finep.gov.br/apoio-e-financiamento-externa/historico-de-
+programa/prosab/produtos;

@@ -1,0 +1,31 @@
+CÓDIGO: 14.1.7
+DISCIPLINA: Metodologia da Pesquisa Científica
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 30
+Aula: 36
+SUP1058
+PESQUISA
+Ementa:
+Pesquisador e a Comunicação Científica. A Pesquisa e suas Classificações. Métodos
+Científicos. As Etapas da Pesquisa. Revisão de Literatura. Problema e Hipóteses de
+Pesquisa. O Projeto de Pesquisa. Elaboração e Apresentação do Relatório de
+Pesquisa.
+Bibliografia básica:
+GIL, A. C. Como elaborar projetos de pesquisa. São Paulo: Atlas. 19.
+RUIZ, J. A. Metodologia Científica. São Paulo: Atlas. 10
+SOARES, E. Metodologia científica: lógica, epistemologia e normas. São
+Paulo: Atlas. 0
+Bibliografia complementar:
+BITTENCOURT, M. A. L. et al. Normas técnicas para elaboração de trabalhos
+acadêmicos. Ilhéus, Ba: UESC, 2010. 91p. ISBN9788574551968. 1
+BOENTE, A.; BRAGA, G. Metodologia científica contemporânea para
+universitários e pesquisadores. Rio de Janeiro: Brasport. 00
+CRUZ, C. RIBEIRO, U. Metodologia científica: teoria e prática. São Paulo: Axcel
+Books. 0
+OTANI, N.; FIALHO, F. A. P. TCC: métodos e técnicas. Florianópolis: Visual Books.
+SPECTOR, N. Manual para a redação de teses, projetos de pesquisa e artigos
+científicos. Rio de Janeiro: Guanabara Koogan. 00

@@ -1,0 +1,41 @@
+CÓDIGO: 14.4.5
+DISCIPLINA: Introdução à Programação
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1052
+INTRODUÇÃO À
+PROGRAMAÇÃO
+- 60
+Ementa:
+Introdução à organização de computadores. Soluções de problemas usando o
+computador. Áreas da Ciência da Computação. Processo de desenvolvimento de
+programas. Algoritmos. Introdução a uma linguagem de programação. Tipos de dados
+(entradas e saídas de dados). Operadores e expressões. Comando de controle de
+fluxo (decisões e repetições). Agregados de dados homogêneos e heterogêneos.
+Modularização de programas. Portabilidade de programas.
+Bibliografia básica:
+MELO, Ana Cristina Vieira de; SILVA, Flávio Soares Corrêa da. Princípios de
+linguagem de programação. São Paulo: Edgard Blücher, 2011.
+SOUZA, Marco Antonio Furlan de. Algoritmos e lógica de programação. São Paulo:
+Thomson, [2005]
+LOPES, Anita; GARCIA, Guto. Introdução à programação: 500 algoritmos resolvidos.
+Rio de Janeiro: Elsevier, 2002.
+Bibliografia complementar:
+MELO, Ana Cristina Vieira de; SILVA, Flávio Soares Corrêa da. Princípios de
+linguagem de programação. São Paulo: Edgard Blücher, 2011.
+BROOKSHEAR, J. Glenn. Ciência da computação: uma visão abrangente. Porto
+Alegre: Bookman, 2013.
+ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de.
+Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java.
+2. ed. São Paulo: Pearson Prentice Hall, 2007
+ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de.
+Fundamentos da programação de computadores: algoritmos, Pascal e C/C++. São
+Paulo: Pearson Prentice Hall, c2005.
+MANZANO, José Augusto N. G; OLIVEIRA, Jayr Figueiredo de. Algoritmos: lógica
+para desenvolvimento de programação de computadores. 17.ed. São Paulo: Érica,
+2005.

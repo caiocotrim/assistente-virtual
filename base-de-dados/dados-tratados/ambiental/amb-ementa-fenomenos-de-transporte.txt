@@ -1,0 +1,38 @@
+CÓDIGO: 14.5.4
+DISCIPLINA: Fenômenos de Transporte
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1038
+FENÔMENOS DE
+- Física II
+- Equações
+Diferenciais
+Ordinárias
+60 -
+Ementa:
+Propriedades dos fluidos e definições. Estática dos fluidos. Conceitos e equações
+fundamentais do movimento dos fluidos. Análise dimensional e semelhança dinâmica.
+Efeitos de viscosidade. Resistência fluida. Medidores, transferência de calor:
+escoamento sem atrito com troca de calor em condutores.
+Bibliografia básica:
+FOX, R. W.; PRITCHARD,P. J.; McDONALD, A. T. Introdução à Mecânica dos
+Fluidos. Rio de Janeiro: LTC Editora. S.A.(16)
+MUNSON, B. R.; YOUNG, D. T.; OKIISHI, T. H. Fundamentos da Mecânica dos
+Fluidos. São Paulo: Edgard Blucher. (19)
+YOUNG, D F.; MUNSON, B. R.; OKIISHI, T. H. Uma introdução concisa à mecânica
+dos fluidos. São Paulo: Edgard Blücher. (Título original: A brief introduction to fluid
+mechanics. 2.ed. Tradução de:Euryale de Jesus Zerbini). ISBN85-212-0360-8. (12)
+Bibliografia complementar:
+DIAS, L. R. S. Operações que envolvem transferência de calor e massa. Rio de
+Janeiro: Interciência. (2)
+INCROPERA, F. P. et al. Fundamentos de transferência de calor e de massa. Rio
+de Janeiro: LTC. (2)
+MALISKA, C. R. Transferência de calor e mecânica dos fluidos computacional.
+Rio de Janeiro: Livros Técnicos e Científicos S. A. (6)
+ROMA, W. N. L. Fenômenos de transporte para engenharia. São Carlos, SP: Rima
+editora. (2)

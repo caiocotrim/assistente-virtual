@@ -1,0 +1,190 @@
+ORGANIZAÇÃO CURRICULAR 
+27 
+O planejamento e a execução de uma estrutura curricular coerente com a proposta 
+do curso são os principais meios para a efetivação do Projeto Pedagógico. A estrutura 
+curricular planejada para o Curso de Engenharia ambiental do IFBA - Campus Vitória da 
+Conquista configura-se em uma construção lógica que leva em conta o equilíbrio entre teoria 
+e prática dentro de cada disciplina, estabelecendo relações entre os componentes curriculares 
+por meio de disciplinas integradoras. 
+A Matriz Curricular do curso de Engenharia ambiental do Campus Vitória da Conquista 
+foi sistematizada a partir da Resolução CNE/CES n°02/2019, que institui as Diretrizes 
+Curriculares Nacionais dos Cursos de Graduação em Engenharia, definidas pelo Conselho 
+Nacional de Educação. Em atendimento à Resolução nº 01, de 26 de março de 2021, o 
+conteúdo de “Desenho Universal” foi incluído no Componente Desenho Auxiliado por 
+Computador. Além disso, desenvolveu-se uma estrutura curricular básica semelhante aos 
+demais cursos de graduação oferecidos no Campus, para atender à otimização de docentes, 
+salas de aula, laboratórios e oferta de componentes curriculares. 
+O Curso de Engenharia ambiental priorizará o oferecimento dos componentes 
+curriculares dos núcleos Básico, Profissionalizante e Específico no turno diurno, 
+preferencialmente matutino, visando a otimização do tempo para o estudante, que poderá 
+aproveitar o turno oposto para estudos, estágios curriculares ou não, e participação em 
+atividades complementares, bem como participação de projetos de pesquisa e extensão. 
+O Curso de Engenharia ambiental, no contexto do IFBA, foi orientado pelo Projeto 
+Pedagógico Institucional (IFBA, 2013, p. 95) que estabelece que “a arquitetura curricular diz 
+respeito ao desenho e à articulação das diversas áreas de conhecimento, numa concepção 
+integradora e interdisciplinar e numa perspectiva do sujeito histórico-crítico”. 
+Em atendimento às Diretrizes Curriculares Nacionais do Curso de Graduação em 
+Engenharia (Resolução Nº 2, de 24 de abril de 2019), os componentes curriculares do Curso 
+de Engenharia ambiental são classificados em: Núcleo de Conteúdos Básicos; Núcleo de 
+Conteúdos Profissionalizantes; e Núcleo de Conteúdos Específicos. Tais componentes estão 
+diretamente relacionados com as competências que o Curso se propõe a desenvolver.Além 
+disso, são também componentes curriculares as Atividades Complementares de Graduação, 
+o Trabalho de Conclusão de Curso (TCC) e o Estágio Supervisionado, que complementam a 
+formação do acadêmico, oferecendo ao aluno a oportunidade de aplicar seus conhecimentos 
+na solução de problemas. 
+Conforme a Resolução nº. 23/2019, que estabelece as Normas Acadêmicas doEnsino 
+Superior do IFBA, em seu Artigo 15, “o tempo máximo para integralização curricular pelo 
+estudante dos cursos superiores será o dobro do tempo previsto na matriz curricular”. 
+28 
+Em atendimento ao disposto no Artigo 9º da Resolução nº 2, de 24 de abril de 2019, 
+apresentamos a seguir os conteúdos Básicos, Profissionalizantes e Específicos que 
+constituem a matriz curricular do Curso de Engenharia ambiental do Campus Vitória da 
+Conquista, o qual possui a seguinte configuração curricular: 
+4.1. COMPONENTES CURRICULARES DO NÚCLEO BÁSICO 
+Os conteúdos básicos são comuns a todas as áreas da Engenharia, são 
+conhecimentos gerais e obrigatórios, contemplados por diversos componentes curriculares no 
+campo da ciência, tecnologia, administração, economia, humanidades, ciências sociais e 
+cidadania. 
+Conforme a Resolução CNE/CES n° 02/2019, os conteúdos básicos abrangem o 
+elenco de conteúdos comuns a todo profissional da Engenharia, independente da área de 
+concentração profissional. Refere-se ao conjunto de conhecimentos abordados por disciplinas 
+das áreas de Administração e Economia; Algoritmos e Programação; Ciência dos Materiais; 
+Ciências do Ambiente; Eletricidade; Estatística. Expressão Gráfica; Fenômenos de 
+Transporte; Física; Informática; Matemática; Mecânica dos Sólidos; Metodologia Científica e 
+Tecnológica; e Química. Para atender à resolução CNE/CES n° 02/2019, o presente curso 
+está disposto curricularmente da seguinte forma: 
+QUADRO 2 – Componentes Curriculares Obrigatórios do Núcleo Básico 
+Componentes CR CH (h) Pré-requisitos 
+Administração 02 30 Não requer 
+Álgebra Linear 04 60 04 Álgebra Vetorial e Geometria Analítica 
+Álgebra Vetorial e Geometria analítica (AVGA) 60 Não requer 
+Biologia Geral ** 04 60 Não requer 
+Cálculo Diferencial e Integral I (CDI I) 04 60 Não requer 
+Cálculo Diferencial e Integral II (CDI II) 04 60 Cálculo Diferencial e Integral I
+Cálculo Diferencial e Integral III (CDI III) 04 60 Cálculo Diferencial e Integral II  
+Cálculo Numérico 04 60 Equações Diferenciais Ordinárias; Introdução à Programação 
+Desenho Auxiliado por Computador 03 45 Expressão Gráfica; Introdução à Programação 
+Economia 02 30 Não requer 
+Expressão Gráfica 04 60 Não requer 
+Equações Diferenciais Ordinárias (EDO) 04 60 Cálculo Diferencial e Integral II; Álgebra Linear 
+Fenômenos de Transporte 04 60 Física II; Equações Diferenciais Ordinárias 
+Física I 04 60 Não requer 
+Física II 04 60 Física I; Cálculo Diferencial e Integral I 
+Física III 04 60 
+Física Experimental I 04 60 Física I Cálculo Diferencial e Integral II; Física II 
+Higiene e Segurança no Trabalho 03 45 Não requer 
+Introdução à Ciência dos Materiais 04 60 Química Geral 
+Introdução à Programação 04 60 Não requer 
+Introdução ao Estudo da Ética Ambiental 02 30 Não requer 
+Legislação e Direito Ambiental 03 45 Não requer 
+Leitura e Produção de Gêneros Acadêmicos 03 45 Não requer 
+Mecânica dos Sólidos 04 60 Física I 
+Metodologia da Pesquisa Científica 02 30 Não requer 
+Probabilidade e Estatística 04 60 Cálculo Diferencial e Integral II 
+Química Geral 04 60 Não requer 
+Resistência dos Materiais I 03 45 Mecânica dos Sólidos 
+Sociologia 02 30 Não requer 
+TOTAL 101 1515 
+** A Portaria No 1693/1994 do MEC5 institui a disciplina de biologia na formação básica do Curso de Engenharia 
+Ambiental, que é atendida pela disciplina Biologia Geral. 
+ 
+QUADRO 3 – Componentes Curriculares Optativos do Núcleo Básico 
+Componentes CR CH (h) Pré-requisitos 
+Combate a Incêndio 04 60 Expressão Gráfica; Fenômenos de Transporte 
+Empreendedorismo 03 45 Administração 
+Gestão de pessoas 03 45 Administração 
+Gestão da qualidade 03 45 Administração 
+Língua Brasileira de Sinais (Libras) 04 60 Não requer 
+Relações Étnico-Raciais 02 30 Não requer 
+Técnicas de Programação 04 60 Introdução à Programação 
+ 
+4.2. COMPONENTES CURRICULARES DO NÚCLEO PROFISSIONALIZANTE 
+ 
+O núcleo de conteúdos profissionalizantes visa uma formação profissional geral 
+versando sobre um conjunto coerente de tópicos estabelecidos nas diretrizes curriculares e 
+desdobrados numa série de disciplinas que buscam estimular uma atuação crítica e criativa 
+na identificação e resolução de problemas, considerando aspectos econômicos, sociais, 
+ambientais, políticos e culturais dentro de uma visão ética e humanística. Os componentes 
+curriculares estudados no núcleo de conteúdos profissionalizantes têm como objetivo 
+proporcionar a qualificação nas ferramentas estudas na Engenharia ambiental para os 
+discentes. 
+
+QUADRO 4 – Componentes Curriculares Obrigatórios do Núcleo Profissionalizante 
+ 
+Componentes CR CH (h) Pré-requisitos 
+Ecologia Aplicada 04 60 Biologia Geral 
+Estabilidade das Construções 04 60 Resistência dos materiais I 
+Estruturas de Concreto Armado 04 60 Resistência dos Materiais I 
+Geologia 04 60 Química Geral 
+Geoprocessamento 04 60 Introdução à Programação 
+Gestão e Planejamento Ambiental 04 60 Legislação e Direito Ambiental 
+Hidráulica 04 60 Fenômenos de Transporte 
+Hidrologia Geral 04 60 Hidráulica 
+Introdução à Eng. Ambiental 02 30 Não requer 
+Meteorologia e Climatologia 04 60 Cálculo Diferencial e Integral II 
+Microbiologia Ambiental e  Sanitária 04 60 Biologia Geral 
+Obras Hidráulicas 04 60 Hidráulica 
+Operações Unitárias 04 60 Hidráulica 
+Poluição do Solo 04 60 Geologia 
+Química Analítica 04 60 Química Geral 
+Topografia 04 60 
+TOTAL 62 930 
+
+Desenho Auxiliado por Computador 
+QUADRO 5 – Componentes Curriculares Optativos do Núcleo Profissionalizante 
+Componentes CR CH (h) Pré-requisitos 
+Instalações Prediais Hidrossanitárias 04 60 Hidráulica 
+Mecânica dos solos 04 60 Física II; Geologia 
+Química Ambiental 04 60 Química Analítica 
+
+4.3. COMPONENTES CURRICULARES DO NÚCLEO ESPECÍFICO 
+O núcleo de conteúdos específicos refere-se ao conjunto de conhecimentos se 
+constitui em extensões e aprofundamentos do núcleo de conteúdos profissionalizantes, bem 
+como de outros conteúdos destinados a caracterizar modalidades. Estes conteúdos, 
+consubstanciando o restante da carga horária total, serão propostos exclusivamente pela IES. 
+Constituem-se em conhecimentos científicos, tecnológicos e instrumentais necessários para a 
+definição das modalidades de engenharia e devem garantir o desenvolvimento das 
+competências e habilidades próprios da área de Engenharia Ambiental, neste caso. 
+O Engenheiro Ambiental a ser formado nesta instituição terá um conjunto de 
+componentes específicos que serão obrigatórias (675 horas), e 120 horas de componentes 
+optativos. 
+Os componentes curriculares optativos a serem ofertados a cada semestre, serão 
+decididas pelo Colegiado do Curso de Engenharia Ambiental, conforme disponibilidade do 
+corpo docente e solicitação dos estudantes. 
+QUADRO 6 – Componentes Curriculares Obrigatórios do Núcleo Específico 
+Componentes CR CH (h) Pré-requisitos 
+Análise e Avaliação de Impactos Ambientais (AIA) 04 60 Legislação e Direito Ambiental 
+Auditoria e Perícia Ambiental 04 60 Gestão e Planejamento Ambiental; Análise e Avaliação de Impactos Ambientais 
+Educação Ambiental 04 60 Introdução ao Estudo da Ética Ambiental 
+Gestão e Tratamento de Resíduos Sólidos 04 60 Microbiologia Sanitária e Ambiental; Química Analítica; Tratamento de Efluentes 
+Gestão Integrada de Bacias Hidrográficas 03 45 Hidrologia Geral 
+Poluição atmosférica 03 45 Meteorologia e Climatologia; Química Analítica 
+Qualidade da Água 04 60 Microbiologia sanitária e ambiental; Química Analítica 
+Reatores Bioquímicos 03 45 Fenômenos de Transporte; 
+Microbiologia Sanitária e Ambiental 
+Recuperação de Áreas Degradadas 04 60 Poluição do Solo; Análise e Avaliação de Impactos Ambientais 
+Sistemas Urbanos de Esgoto 04 60 Reatores bioquímicos; Hidráulica 
+Tratamento de Efluentes 04 60 Microbiologia Sanitária e Ambiental; Sistemas Urbanos de Esgoto 
+Tratamento e Abastecimento de Água 04 60 Operações Unitárias; Química Analítica; Qualidade da Água 
+TOTAL 45 675 
+ 
+QUADRO 7 – Componentes Curriculares Optativos do Núcleo Específico 
+ 
+Disciplinas CR CH (h) Pré-requisito 
+Análise de Risco 04 60 Análise e Avaliação de Impactos Ambientais 
+Biologia Animal 04 60 Biologia Geral 
+Bioquímica Ambiental 04 60 Biologia Geral; Ecologia Aplicada 
+Biorremediação 04 60 Poluição do Solo; Microbiologia Ambiental e Sanitária 
+Captação e Manejo de Água de Chuva 04 60 Hidrologia Geral 
+Drenagem Urbana 04 60 Tratamento e Abastecimento de Água 
+Energia e Meio Ambiente 04 60 Física I 
+Saúde Pública e Ambiental 04 60 Microbiologia Sanitária e Ambiental 
+História Ambiental 04 60 Ecologia Aplicada 
+Modelagem Ambiental 04 60 Cálculo Numérico 
+Monitoramento Ambiental 04 60 Análise e Avaliação de Impacto Ambiental 
+Planejamento e Desenvolvimento Urbano 04 60 Gestão e Planejamento Ambiental 
+Projeto de Aterro Sanitário 04 60 Estruturas de Concreto Armado; Análise e Avaliação de Impactos Ambientais, Reuso de Águas Residuárias em Regiões 
+Semiáridas 04 60 Hidrologia Geral; Obras Hidráulicas 
+Saneamento Rural 04 60 Microbiologia; Operações unitárias 
+Tecnologias Mais Limpas 04 60 Legislação e Direito Ambiental 
+Tratamento Avançado de Efluentes 04 60 Tratamento de Efluentes; Reatores Bioquímicos 

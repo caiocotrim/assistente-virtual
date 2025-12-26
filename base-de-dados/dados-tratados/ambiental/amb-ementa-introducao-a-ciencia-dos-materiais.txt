@@ -1,0 +1,35 @@
+CÓDIGO: 14.4.4
+DISCIPLINA: Introdução à Ciência dos Materiais
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1050
+INTRODUÇÃO À
+CIÊNCIA DOS
+- Química Geral
+Ementa:
+Estrutura cristalina. Defeitos da estrutura cristalina. Propriedades físicas e Mecânica
+Geral dos materiais. Microestrutura dos materiais. Polímeros orgânicos. Materiais
+metálicos. Materiais cerâmicos. Materiais compostos.
+Bibliografia básica:
+CALLISTER, William D. Ciência e engenharia de materiais: uma introdução. 5. ed.
+Rio de Janeiro: LTC, 2002..
+SHACKELFORD, James F.. Ciência dos materiais. 6. ed. São Paulo: Pearson, 2010.
+ASKELAND, Donald R.; WRIGHT, Wendelin J.. Ciência e engenharia dos materiais.
+3. ed. São Paulo: Cengage Learning, 2016
+Bibliografia complementar:
+VAN VLACK, Lawrence H. Princípios de ciência e tecnologia dos materiais. Rio de
+Janeiro: Campus, 1984.
+BROWN, Lawrence S.; HOLME, Thomas A.. Química geral aplicada à engenharia.
+São Paulo: Cengage Learning, 2010
+VAN VLACK, Lawrence H. Princípios de ciência dos materiais. São Paulo: Blucher,
+2011.
+FERRANTE, M. Seleção de materiais. São Carlos: Ed UFSCar.
+CALLISTER, William D; RETHWISCH, David G.. Ciência e engenharia de materiais:
+uma introduçao. 8. ed. Rio de Janeiro: LTC, 2012.
+ADAMIAN, Rupen. Novos materiais: tecnologia e aspectos economicos. 1. ed. Rio de
+Janeiro: COPPE/UFRJ, 2009.

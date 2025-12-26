@@ -1,0 +1,48 @@
+CÓDIGO: 14.7.7
+DISCIPLINA: Sistemas Urbanos de Esgoto
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+URMANOS DE
+- Reatores
+bioquímicos
+- Hidráulica
+Ementa:
+Estudo do Sistema de Esgotos: Operações, processos, graus e tecnologias de
+tratamento. tratamento preliminar e primário de esgotos concepção e arranjos de
+ETEs. Rede coletora. Estações elevatórias. Relatório técnico preliminar. Processos
+aeróbios e anaeróbios de tratamento de esgotos. Projetos. Estudos de caso.
+Bibliografia básica:
+TSUTIYA, M. T.; SOBRINHO P. A. Coleta e Transporte de Esgoto Sanitário. Rio de
+Janeiro: ABES.
+PEREIRA, J. A.; SOARES, J. M. Rede Coletora de Esgoto Sanitário. Rio de Janeiro:
+Editora ABES.
+VON SPERLING, M. Princípios Básicos do Tratamento de Esgotos. Belo
+Horizonte: Universidade Federal de Minas Gerais. (5)
+TOMAZ, P. Cálculos hidrológicos e hidráulicos para obras municipais:
+piscinões, galerias, bueiros, canais. São Paulo: Navegar.(3)
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica.
+São Paulo: Edgard Blucher. (25)
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. São Paulo: Edgard
+Blücher. (25)
+Bibliografia complementar:
+SCHNEIDER, René Peter; TSUTIYA, Milton Tomoyuki. Membranas filtrantes para o
+tratamento de água, esgoto e água de reúso. São Paulo: ABES, 2001. 234 p. ISBN
+8590082334. (3)
+CYNAMON, Szachna Eliasz. Sistema não convencional de esgoto sanitário a
+custo reduzido, para pequenas coletividades e áreas periféricas. 2. ed. Rio de
+Janeiro: Fundação Oswaldo Cruz, 1986. 52 p. (5)
+CAMPOS, José Roberto (coord.). Tratamento de esgotos sanitários por processo
+anaeróbio e disposição controlada no solo. Rio de Janeiro: ABES, 1999. 464 p.
+(Programa de pesquisa em saneamento básico - Esgoto). (5)
+ANDREOLI, Cleverson Vitório; FERNANDES, Fernando; VON SPERLING, Marcos
+(ed.). Lodo de esgotos: tratamento e disposição final. Belo Horizonte: UFMG,
+2001. 484 p. (Príncipios do tratamento biológico de águas residuárias; 6 ; 6). ISBN 85-
+88556-01-4. (8)
+VON SPERLING, Marcos. Lodos ativados. 2. ed. Belo Horizonte: UFMG, 2002. 428
+p. (Príncipios do tratamento biológico de águas residuárias; 4 ;). ISBN 85-7041-129-
+4. (3)

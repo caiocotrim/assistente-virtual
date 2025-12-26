@@ -1,0 +1,38 @@
+CÓDIGO: 14.8.5
+DISCIPLINA: Poluição Atmosférica
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+SUP1117
+POLUIÇÃO
+- Meteorologia e
+Climatologia
+- Química análitica
+Ementa:
+Química da atmosfera e Conceitos sobre poluição do ar. Classificação dos poluentes.
+Efeitos dos poluentes no ambiente. Poluição do ar em ambientes fechados e abertos.
+Medidas de emissões atmosféricas. Padrões de qualidade do ar. Medidas de
+preservação da qualidade do ar e mitigação de ruído.Monitoramento da qualidade do
+ar. Controle da poluição atmosférica. Modelos de plumas de contaminação. Noções
+de dispersão de poluentes atmosféricos.
+Bibliografia básica:
+BAIRD, C.; CANN, M. Química ambiental . Porto Alegre: Bookman.
+MACINTYRE, A. J. Ventilação Industrial e Controle da Poluição. São Paulo, LTC.
+VESILIND, P. A.; MORGAN, S. M. Introdução à Engenharia Ambiental. São Paulo:
+Editora Cengage.
+Bibliografia complementar:
+EPA. Basic air pollution Meteorology. Self Instructional Manual, APTI Course SI:
+409. Disponível em:
+https://nepis.epa.gov/Exe/ZyPDF.cgi/20011ROL.PDF?Dockey=20011ROL.PDF.
+Acesso em: 27 set. 2023.
+OGA, S.; CAMARGO, M. M. A.; BATISTUZZO, J. A. O. Fundamentos de
+toxicologia. São Paulo: Atheneu.
+OLIVEIRA, J. M. Noções de Ventilação Industrial. Disponível em:
+http://ftp.demec.ufpr.br/disciplinas/TM120/VENTILACAO_INDUSTRIAL.pdf.
+OTTAWAY, J. H. Bioquímica da poluição. São Paulo: E.P.U. (Coleção Temas de
+biologia, vol. 29).
+GIRARD, J. Princípios de química ambiental. Rio de Janeiro: LTC

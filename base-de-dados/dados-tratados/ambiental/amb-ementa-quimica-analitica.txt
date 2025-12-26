@@ -1,0 +1,33 @@
+CÓDIGO: 14.2.7
+DISCIPLINA: Química Analítica
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1122
+ANALÍTICA
+- Química Geral
+30 30
+Ementa:
+Introdução à análise qualitativa. Equilíbrios iônicos. Equilíbrios que envolvem ácidos
+e bases fracas. Solubilidade. Íons complexos e reações de óxido-redução. Aplicação
+desses conceitos à análise química. Separação e identificação de cátions e ânions
+mais comuns.
+Bibliografia básica:
+BACCAN, N. et al. Química analítica quantitativa elementar. São Paulo: Edgard
+Blücher.
+SKOOG, A. D.; WEST, M. D.; HOLLER; CROUCH, S.R.
+Fundamentos de química analítica. São Paulo: Thomson.
+ROCHA, J. C.; ROSA, A. H.; CARDOSO, A. A. Introdução à química ambiental. Porto
+Alegre: Bookman.
+Bibliografia complementar:
+HAGE, D. S.; CARR, J. D. Química analitica e analise quantitativa. São Paulo:
+Pearson.
+HARRIS, D. C. Análise química quantitativa. Rio de Janeiro: LTC. (Título original:
+Quantitative chemical analysis; Tradução de: Jairo Bordinhão).
+HIGSON, S. Química analítica. São Paulo: Mc Graw - Hill..
+VOGEL, A. Química Analítica Qualitativa. São Paulo: Mestre Jou.
+VOGEL, A. I. et al. Análise química quantitativa. Rio de Janeiro: LTC.

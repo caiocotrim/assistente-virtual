@@ -1,0 +1,37 @@
+CÓDIGO: 14.6.3
+DISCIPLINA: Hidráulica
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1104
+- Fenômenos de
+Transporte
+Ementa:
+Escoamento em orifícios, bocais, placas de orifício e Venturi. Escoamento em
+condutos forçados: perdas de carga contínua e localizada, fórmula universal e
+fórmulas empíricas. Distribuição em Marcha. Condutos equivalentes em série e
+paralelo. Condutos interligado reservatórios. Instalações de recalque: bombas
+hidráulicas, curvas características, seleção, diâmetro econômico e projeto. Órgãos
+acessórios das instalações, reservatórios interligados. Golpe de aríete. Associação de
+Bombas.
+Bibliografia básica:
+AZEVEDO NETTO, José M. de. Manual de hidráulica. 8. ed. São Paulo: Edgard
+Blücher, 1998. 25 exemplares
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. São Paulo: Edgard
+Blücher. 13 exemplares
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. São
+Paulo: Cengage Learning. Disponível em: https://ava.ifba.edu.br/login/index.php.
+Bibliografia complementar:
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica.
+São Paulo: Edgard Blucher. 10 exemplares
+BAPTISTA, Márcio Benedito; COELHO, Márcia Maria Lara Pinto. Fundamentos de
+engenharia hidráulica. 4. ed., rev. Belo Horizonte: UFMG. 477 p. 10 exemplares
+CREDER, H. Instalações hidráulicas e sanitárias. Rio de
+Janeiro:LTC.10 exemplares
+CREDER, H. Instalações hidráulicas e sanitárias: exemplo de aplicações, projeto.
+Rio de Janeiro: LTC.6 exemplares
+NEVES. E. T. Curso de hidráulica. Porto Alegre: Globo.4 exemplares

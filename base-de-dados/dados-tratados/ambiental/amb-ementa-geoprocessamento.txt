@@ -1,0 +1,29 @@
+CÓDIGO: 14.5.5
+DISCIPLINA: Geoprocessamento
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1100
+- Introdução à
+Programação
+30 30
+Ementa:
+Noções de Geodésia. Projeções cartográficas e Projeções Geodésicas. Sistema
+Geodésico de Referência. Georreferenciamento. Noções de cartografia. Cartografia
+digital. Cartografia temática. Conceitos gerais de Geoprocessamento. Sistemas de
+Informações Geográficas: entrada de dados, integração dos dados, manipulação e
+geração de mapas temáticos. Geração de modelos numéricos do terreno. Sistema
+GPS. Exemplos de aplicações práticas de imagens de satélite em estudos ambientais.
+Apresentação de softwares disponíveis.
+Bibliografia básica:
+LANG, S.; BLASCHKE, T. Análise da Paisagem com SIG. São Paulo: Oficina de
+Textos. (3)
+SILVA, A. B. Sistemas de Informações Geo-Referenciadas. Campinas: Editora da
+UNICAMP.
+Bibliografia complementar:
+PONZONI, F. J.; SHIMABUKURO, Y. E.; KUPLICH, T.M. Sensoriamento
+Remoto da Vegetação. São Paulo: Oficina de Textos.

@@ -1,0 +1,31 @@
+CÓDIGO: 14.11.23
+DISCIPLINA: Reuso de Águas Residuárias em Regiões Semiáridas
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1128
+RESIDUÁRIAS EM
+REGIÕES
+- Hidrologia Geral;
+- Obras Hidráulicas
+Ementa:
+Sistema de Tratamentos de Águas Residuárias em regiões semiáridas. Potencial do
+Reuso em Regiões Áridas e Semiáridas. Relações Solo-Água-Planta. Balanço de
+Nutrientes. Necessidades Hídricas das Culturas. Técnicas de Disposição de Água
+Residuária no Solo. Aspectos Sanitários do Reuso de Água: Riscos Ambientais e de
+Saúde Pública. Legislação de Reuso. Custos de Sistemas de Reuso. Salinização dos
+Solos. Manejo da Água Residuárias nos Solos. Estudos de Casos.
+Bibliografia básica:
+JORDÃO, E. P.; PESSOA, C. A. Tratamento de Esgotos Domésticos,
+Vol. I. Rio de Janeiro. ABES/BNH. 00
+SILVA, S. A.; MARA, D. D. Tratamento Biológico de Águas Residuárias: Lagoas de
+Estabilização. Rio de Janeiro. ABES. 0
+Bibliografia complementar:
+VON SPERLING, M. Princípios do Tratamento Biológico de Águas Residuária,
+Vol. 2: Princípios Básicos do Tratamento de Esgotos. ABES, 1996. 5
+VON SPERLING, M. Princípios do Tratamento Biológico de Águas Residuárias.
+Vol. 3: Lagoas de Estabilização. ABES.

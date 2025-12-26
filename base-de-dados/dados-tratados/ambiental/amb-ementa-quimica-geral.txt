@@ -1,0 +1,28 @@
+CÓDIGO: 14.1.8
+DISCIPLINA: Química Geral
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1125
+Ementa:
+Química inorgânica: estrutura atômica, tabela periódica, ligações químicas, estudo do
+hidrogênio e outros elementos. Físico-química: Equilíbrio Químico, cinética química,
+eletroquímica. Química orgânica: funções orgânicas. Experimentos de química.
+Bibliografia básica:
+ATKINS, P.; JONES, L. Princípios de Química. Porto Alegre: Bookman. 27
+BRADY, J. E.; HUMISTON, G. E. Química geral: Vols. 1 e 2. Rio de Janeiro: LTC.
+RUSSELL, J. B. Quimica Geral: Vols. 1 e 2. São Paulo: Makron Books. 35
+Bibliografia complementar:
+BROWN, L. S.; HOLME, T. A. Química geral aplicada à engenharia.
+São Paulo: Cengage Learning. 00
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. Química - A
+Ciência Central. São Paulo: Editora Pearson Prentice Hall. 00
+KOTZ, J. C.; TREICHEL, P. M.; WEAVER, G. C. Química geral e
+reações químicas – Vol. 2. São Paulo: Cengage Learning. 00
+MAHAN, B. H.; MYERS, R. J. Química um curso universitário. Menlo Park, Calif.;
+Wokingham: Benjamin/Cummings (Editora Edgar Blücher - Brasil). 12
+SHRIVER, D. F.; ATKINS, P. Química inorgânica. Porto Alegre: Bookman. 16

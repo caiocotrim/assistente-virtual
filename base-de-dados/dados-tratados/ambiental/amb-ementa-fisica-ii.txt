@@ -1,0 +1,35 @@
+CÓDIGO: 14.3.4
+DISCIPLINA: Física II
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1042 FÍSICA II
+- Física I;
+- Cálculo Diferencial
+e Integral I
+60 -
+Ementa:
+Equilíbrio e Elasticidade. Oscilações. Fluidos. Ondas. Teoria Cinética dos Gases.
+Termodinâmica.
+Bibliografia básica:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 2 e
+Fundamentos de Física 4. Rio de Janeiro: LTC. (28 e 11)
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros, Vol. 1 e Vol. 2. Rio
+de Janeiro: LTC.(27)
+YOUNG, H. D.; FREEDMAN, R. A. Sears e Zemansky Fisica II e Física IV. São
+Paulo: Addison Wesley. (7)
+Bibliografia complementar:
+ALONSO, M.; FINN, E. J. Física: Um curso Universitário. Vol. 2. São Paulo: Edgard
+Blücher. (13)
+DAMO, H. S. Física experimental II: mecânica, rotações, calor, fluidos. Caxias do
+Sul: EDUCS. (2)
+HALLIDAY, D.; RESNICK, R.; KRANE, K. S. Física II e Física IV.
+Rio de Janeiro: LTC. (25 e 22)
+NUSSENZVEIG, H. M. Curso de física básica, 1 e 4. São Paulo:Edgard Blücher.
+(17)
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear
+e cálculo vetorial. Volume II. Porto Alegre: Bookman. (9)

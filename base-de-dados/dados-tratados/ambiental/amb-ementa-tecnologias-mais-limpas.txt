@@ -1,0 +1,54 @@
+CÓDIGO: 14.11.26
+DISCIPLINA: Tecnologias mais Limpas
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1131
+MAIS LIMPAS
+- Legislação e direito
+Ambiental
+45 15
+Ementa:
+Identificação de aspectos e impactos ambientais em processos industriais.
+Fluxogramas de processos. Balanço de massa e energia. Ecoeficiência.
+Gerenciamento do processo: minimização deresíduos e diminuição de desperdícios.
+Alternativas energéticas para a indústria. Programa de prevenção a Poluição PP2.
+Identificação de oportunidades de Produção mais Limpa (P+L). Avaliação técnica e
+econômica da viabilidade de implantação de alternativas de P+L. Desenvolvimento de
+projetos de P+L. Simbiose Industrial. mercado ambiental; selos ambientais. Estudo de
+Casos.
+Bibliografia básica:
+SANTOS, M.S.; RIBEIRO, F.M. Série Produção + Limpa. São Paulo: CETESB. Disponível
+em: https://cetesb.sp.gov.br/consumosustentavel/documentos/ .
+SENAI.RS. Questões ambientais e Produção mais Limpa. Porto Alegre, UNIDO, UNEP,
+Centro Nacional de Tecnologias Limpas SENAI, 2003. 126 p. il. (Série Manuais de Produção
+mais Limpa). Disponível em:
+https://www.senairs.org.br/sites/default/files/documents/manual_questoes_ambientais_e_pl.p
+df .
+SENAI.RS. Implementação de Programas de Produção mais Limpa. Porto Alegre, Centro
+Nacional de Tecnologias Limpas SENAI-RS/ UNIDO/INEP, 2003. 42 p. Disponível em:
+https://www.senairs.org.br/sites/default/files/documents/manual_implementacao_pmaisl.pdf .
+Bibliografia complementar:
+SILVA, L. C. S; CATEN, C. S.; GAIA, S. Gestão da transferência de tecnologia verde em
+organizações públicas. Guarujá-SP: Científica Digital, 2023. Open Access. Disponível:
+https://downloads.editoracientifica.com.br/books/978-65-5360-369-1.pdf.
+ÁRTICO, Jair Aparecido; "Economia Circular será o Futuro?", p. 84 -93. In: Gestão 4.0 em
+Tempos de Disrupção. São Paulo: Blucher, 2020. ISBN: 9786555500059, DOI
+10.5151/9786555500059-03. OPEN ACCESS. Disponível em:
+https://openaccess.blucher.com.br/download-pdf/455/21995.
+SILVEIRA, CB., FERNANDES, TM., and PELLEGRINI, B. comps. Cidades saudáveis?
+Alguns olhares sobre o tema [online]. Rio de Janeiro: Editora FIOCRUZ, 2014, 330 p. ISBN:
+978-85-7541-529-0. https://doi.org/10.7476/9788575415290;
+PAULINO, S.R. et al. [org.]. Agendas locais e globais da sustentabilidade: ciência,
+tecnologia, gestão e sociedade. São Paulo : Blucher, 2022. 364 p. ISBN 978-65-5550-155-
+1 (digital). Open Access. Disponível em: https://openaccess.blucher.com.br/download-
+pdf/555.
+PEREIRA, Andréa Franco; "ACV para designers e arquitetos: experiências de
+modelamento do inventário do ciclo de vida", p. 219 -234. In: Ecovisões projetuais:
+pesquisas em design e sustentabilidade no Brasil. São Paulo: Blucher, 2017. ISBN:
+9788580392661, DOI 10.5151/9788580392661-18. OPEN ACCESS. Disponível em:
+https://openaccess.blucher.com.br/download-pdf/351/20553.

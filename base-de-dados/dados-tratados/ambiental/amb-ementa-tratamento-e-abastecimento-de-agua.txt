@@ -1,0 +1,41 @@
+CÓDIGO: 14.9.4
+DISCIPLINA: Tratamento e Abastecimento de Água
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1138
+ABASTECIMENTO
+- Operações Unitárias;
+- Química analítica;
+- Qualidade da Água.
+Ementa:
+Características físicas, químicas e biológicas da água. Padrões de potabilidade.
+Processos gerais de tratamento: pré-oxidação, coagulação, floculação,
+decantação/sedimentação, filtração, desinfecção, fluoretação. Técnicas especiais de
+tratamento de águas. Captação, adução e preservação. Rede de distribuição:
+recomendações de projeto, dimensionamento, rede ramificada e rede malhada.
+Tratamento de água. Dimensionamento das unidades de tratamento de água. Projeto
+de estação convencional de tratamento de água.
+Bibliografia básica:
+HOWE, K. J.; HAND, D. W.; CRITTENDEN, J. C. Princípios de tratamento de água
+[recurso eletrônico] – São Paulo, SP : Cengage, 2016.
+LIB NIO, M. Fundamentos de Qualidade e Tratamento de Água. Campinas: Editora
+Átomo.
+RICHTER, C. A.; NETTO, J. M.de A. Tratamento de Água: Tecnologia Atualizada.
+São Paulo: Edgard Blucher.
+Bibliografia complementar:
+CREDER, H. Instalações hidráulicas e sanitárias. Rio de Janeiro: LTC.
+DI BERNARDO, L. Tratamento de água e de abastecimento por filtração em
+múltiplas etapas. Rio de Janeiro: ABES. (Programa de pesquisa em saneamento
+básico - Água).
+PÁDUA, V. L. (coordenador). Remoção de microrganismos emergentes e
+microcontaminantes orgânicos no tratamento de água para consumo humano.
+Rio de Janeiro: ABES.
+PHILIPPI JUNIOR, A.; GALVÃO JÚNIOR, A. C. (Ed). Gestão do saneamento
+básico: abastecimento de água e esgotamento sanitário. Barueri, SP: Manole.
+RICHTER, C. A. Água: Métodos e Tecnologia de Tratamento. São Paulo: Blucher.
+EMENTAS DOS COMPONENTES DO 10º SEMESTRE

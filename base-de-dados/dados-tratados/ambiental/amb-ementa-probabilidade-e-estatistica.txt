@@ -1,0 +1,36 @@
+CÓDIGO: 14.4.7
+DISCIPLINA: Probabilidade e Estatística
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1062
+ESTATÍSTICA
+Cálculo Diferencial e
+Integral II
+60 -
+Ementa:
+Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e eventos.
+Variáveis Aleatórias Unidimensionais: variáveis aleatórias discretas e contínuas.
+Função de distribuição e função densidade. Probabilidade e distribuição de
+probabilidades. Variáveis Aleatórias Contínuas: distribuições Normais e Gama; Teoria
+de hipóteses; Correlação e Regressão.
+Bibliografia básica:
+FONSECA, Jairo Simon da; MARTINS, Gilberto de Andrade. Curso de estatística. 6.
+ed. São Paulo: Atlas, 1996
+SPIEGEL, Murray R.. Estatística. 3.ed. São Paulo: Pearson Makron Books, 2009.
+TRIOLA, Mario F. Introdução à estatística: atualização da tecnologia. 11. ed. Rio de
+Janeiro: LTC, 2013
+Bibliografia complementar:
+MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de
+probabilidade e estatística. 7. ed. São Paulo: EDUSP, 2010.
+COSTA NETO, Pedro Luiz de Oliveira. Estatística. 2.ed. São Paulo: Blucher, 2009
+MORETTIN, Pedro Alberto; BUSSAB, Wilton de Oliveira. Estatística básica. 8. ed.
+São Paulo: Saraiva, 2013.
+MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de
+probabilidade e estatística. 7. ed. São Paulo: EDUSP, 2010.
+MONTGOMERY, Douglas C.; RUNGER, George C.; HUBELE, Norma Faris.
+Estatística aplicada à engenharia. Rio de Janeiro: LTC , c2004.

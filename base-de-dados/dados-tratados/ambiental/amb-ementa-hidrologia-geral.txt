@@ -1,0 +1,39 @@
+CÓDIGO: 14.7.3
+DISCIPLINA: Hidrologia Geral
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1105
+GERAL
+- Hidráulica
+Ementa:
+Componentes do Ciclo hidrológico. Bacias Hidrográficas. Precipitação. Noções de
+hidrologia Estatística. Infiltração de água no solo. Escoamento superficial: o método
+racional, o hidrograma de projeto. hidrograma unitário; atenuação e propagação de
+cheias. Águas subterrâneas. Evapotranspiração. Análise de vazões superficiais.
+Noções de Hidrossedimentologia.
+Bibliografia básica:
+CARVALHO, N. O. Hidrossedimentologia prática. Rio de Janeiro: CPRM. (5)
+TUCCI, C. E. M. Hidrologia: ciência e aplicação. Porto Alegre: Editora da
+UFRGS/ABRH. (4)
+GARCEZ, L. N.; ALVAREZ, G. A. Hidrologia. São Paulo: Edgard Blucher.(11)
+Bibliografia complementar:
+MORAES, MEB., and LORANDI, R., orgs. Métodos e técnicas de pesquisa em
+bacias hidrográficas [online]. Ilhéus, BA: Editus, 2016, 283p. ISBN 978-85-7455-
+443-3. Available from SciELO Books <http://books.scielo.org>;
+GRIBBIN, J. E. Introdução à hidráulica, hidrologia e gestão de águas pluviais.
+São Paulo: Cengage Learning. (5)
+TOMAZ, P. Cálculos hidrológicos e hidráulicos para obras municipais: piscinões,
+galerias, bueiros, canais. São Paulo: Navegar, c2002. 475 p. ISBN 85-87678-07 (3)
+BRASIL. Departamento Nacional de Infra-Estrutura de Transportes. Instituto de
+Pesquisas Rodoviárias. Manual de Hidrologia Básica para Estrutura de
+Drenagem. 2 ed. Rio de Janeiro, 2005. 133 p. Disponível em:
+https://www.gov.br/dnit/pt-br;
+Guimarães, R. C., Shahidian, S. e Rodrigues, C. M. (2017). Eds. Hidrologia Agrícola,
+2ª edição. ECT e ICAAM. Évora. ISBN: 978-989-8550-40-8 [openAccess] Disponível
+em:
+https://dspace.uevora.pt/rdpc/bitstream/10174/22180/1/Livro_Hidrologia_Agricola.pdf

@@ -1,0 +1,49 @@
+CÓDIGO: 14.7.1
+DISCIPLINA: Análise e Avaliação de Impactos Ambientais
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1084
+AVALIAÇÃO DE
+AMBIENTAIS
+- Legislação e
+Direito Ambiental
+Ementa:
+Conceitos fundamentais. Resoluções do CONAMA. Estudo de Impacto Ambiental e
+Relatório de Impacto Ambiental (EIA/RIMA). Classificação e métodos de avaliação dos
+impactos ambientais. Medidas Mitigadoras. Programas de acompanhamento e
+monitoramento. Licenciamento ambiental. Plano de controle ambiental – PCA.
+Relatórios de controle ambiental – RCA. Técnicas de recuperação de áreas degradas.
+Plano de recuperação de áreas degradadas – PRAD. Estudos de caso.
+Bibliografia básica:
+CUNHA, S. B. da; GUERRA A. J. Avaliação e perícia ambiental. Rio de Janeiro:
+Bertrand do Brasil. (6)
+SANCHÉS, L. E. Avaliação de Impacto Ambiental: conceitos e métodos. São Paulo:
+Oficina de Textos. (5)
+BARBOSA, Rildo Pereira. Avaliação de risco e impacto ambiental. São Paulo:
+Érica/Saraiva, 2014. 144 p. (Eixos. Ambiente e saúde). ISBN 9788536508030. (5)
+Bibliografia complementar:
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA.
+GUIA DE AVALIAÇÃO DE IMPACTO AMBIENTAL: Relação Causal de Referência
+de Sistema de Transmissão de Energia. IBAMA, 2020. Disponível em:
+https://www.gov.br/ibama/pt-br/assuntos/noticias/2020/ibama-lanca-guia-de-
+avaliacao-de-impacto-ambiental-para-licenciamento-de-linhas-de-
+transmissao/20201229Guia_de_Avaliacao_de_Impacto_Ambiental.pdf;
+Companhia Ambiental do Estado de São Paulo - CETESB. Manual para Elaboração
+de Estudos Ambientais com AIA. CETESB, 2019. Disponível em:
+https://cetesb.sp.gov.br/licenciamentoambiental/wp-
+content/uploads/sites/32/2019/12/Manual_EIA_RAP_v_02.pdf;
+LEITE, MM. Análise comparativa dos sistemas de avaliação de impacto
+ambiental. In: LIRA, WS., and CÂNDIDO, GA., orgs. Gestão sustentável dos recursos
+naturais: uma abordagem participativa [online]. Campina Grande: EDUEPB, 2013, pp.
+273-293. ISBN 9788578792824. Disponível em SciELO Books http://books.scielo.org.
+MULLER-PLANTENBERG, Clarita; AB'SABER, Aziz Nacib. Previsão de impactos: o
+estudo de impacto ambiental no Leste, Oeste e Sul : experiências no Brasil, na
+Russia e na Alemanha. 2. ed. São Paulo: EDUSP, 1998. 569 p. ISBN 85-314-0260-
+3 (broch.). (3)
+ROHDE, Geraldo Mario. Geoquímica ambiental e estudos de impacto. 2. ed. São
+Paulo: Signus, 2004. 157 p. ISBN 85-8780-303-4 (broch.). (10)

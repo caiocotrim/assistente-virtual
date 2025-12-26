@@ -1,0 +1,50 @@
+CÓDIGO: 14.11.24
+DISCIPLINA: Saneamento Rural
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1128
+RURAL
+- Microbiologia
+sanitária e ambiental
+-Operações unitárias
+Ementa:
+Introdução aos conceitos de poluição em ambientes aquáticos, terrestres e poluição
+do ar com ênfase em áreas rurais; enfermidades comuns nas zonas rurais ( doenças
+de veiculação hídrica e doenças transmitidas por vetores); Controle de vetores(
+artrópodes e roedores); técnicas de abastecimento de água em zona rural; Alternativas
+simplificadas de abastecimento individual de água para áreas sem rede de distribuição
+( coleta, filtração e desinfecção de águas de poço, nascentes , aguadas e águas de
+chuva); técnicas e gerenciamento de excretas e esgotamento sanitário para locais sem
+água encanada(privada com fossa seca; privada com fossa estanque; privada com
+fossa de fermentação; privada química ); Soluções para tratamento e destinação final
+dos esgotos domésticos onde existe água encanada (tanques sépticos, filtro
+anaeróbio, fossa biodigestora, valas de infiltração, valas de filtração) ; Soluções
+alternativas utilizadas para o gerenciamento de resíduos sólidos em áreas rurais
+(compostagem, biodigestores e biofertilizantes).
+Bibliografia básica:
+BRAGA, B. et al. Introdução a Engenharia Ambiental. São. Paulo: Pearson Prentice
+Hall. 40 exemplares
+ROCHA, A. A. Histórias do saneamento. São Paulo: Blucher. 1 online resource.
+BRASIL. Ministério da Saúde. Fundação Nacional de Saúde. Manual de Saneamento
+/ Ministério da Saúde, Fundação Nacional de Saúde. – 4. ed. – Brasília : Funasa,
+2015.642 p.
+Bibliografia complementar:
+ASSOCIAÇAO BRASILEIRA DE NORMAS TECNICAS. Projeto, construção e
+operação de sistemas de tanques sépticos – NBR 7229.
+ANDREOLI, C. V.; FERNANDES, F.; VON SPERLING, M. (ed.). Lodo de esgotos:
+tratamento e disposição final. Belo Horizonte: UFMG. 484 p.
+BRASIL. Ministério das Cidades. Guia para a elaboração de Planos Municipais de
+Saneamento Básico - Brasília: Ministério das Cidades. 152 p. Online resource.
+CARVALHO, B. de A. Glossário de saneamento e ecologia. Rio de Janeiro:
+Associação Brasileira de Engenharia Sanitária e Ambiental. 203 p. 4 exemplares
+COHEN, SC.. Habitação saudável como um caminho para a promoção da saúde.
+[Tese de doutorado]. Rio de Janeiro: Escola Nacional de Saúde Pública, Fundação
+Oswaldo Cruz.
+PHILIPPI JUNIOR, A. (Ed.); GALVÃO JÚNIOR, A. de C. (Ed). Gestão do saneamento
+básico: abastecimento de água e esgotamento sanitário. Barueri, SP: Manoele,
+2012. xxv, 1153 p. 5 exemplares

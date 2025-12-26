@@ -1,0 +1,34 @@
+CÓDIGO: 14.4.6
+DISCIPLINA: Microbiologia Ambiental e Sanitária
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1111
+SANITÁRIA E
+- Biologia Geral
+Ementa:
+Introdução à sistemática dos principais grupos microbianos (classificação biológica -
+relações filogenéticas e nomenclatura Científica). Caracterização dos principais
+grupos de microrganismos: vírus, bactérias, arqueias, algas, protozoários e fungos.
+Microrganismos de interesse sanitário. Microrganismos de interesse ambiental.
+Bibliografia básica:
+PELCZAR Jr., M. J.; CHAN, E. C. S.; KRIEG, N. R. Microbiologia: conceitos e
+aplicações. Vol. 1 .São Paulo: MAKRON Books.
+PELCZAR Jr., M. J.; CHAN, E. C. S.; KRIEG, N. R. Microbiologia: conceitos e
+aplicações. Vol. 2. São Paulo: MAKRON Books.
+TRABULSI, L. R.; ALTERTHUM, F.; FISCHMAN, O. Microbiologia. São Paulo: Ed.
+Atheneu.
+Bibliografia complementar:
+INGRAHAM, J. L.; INGRAHAM, C. A. Introdução à microbiologia: uma abordagem
+baseada em estudos de casos [recurso eletrônico]. Cengage learning.
+JAWETZ, E. et al. Microbiologia Médica. Rio de Janeiro: McGraw- Hill Interamericana
+do Brasil Ltda.
+MURRAY, P. R.; ROSENTHAL, K. S. et al. Microbiologia Médica. Rio de Janeiro:
+Guanabara Koogan S. A.
+RIBEIRO, Mariangela Cagnoni; SOARES, Maria Magali S. R. Microbiologia prática:
+roteiro manual - bactérias e fungos. São Paulo: Atheneu, 2007.
+TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia. Porto Alegre: Artmed.

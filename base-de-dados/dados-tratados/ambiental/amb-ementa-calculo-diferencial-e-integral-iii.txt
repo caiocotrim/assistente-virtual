@@ -1,0 +1,31 @@
+CÓDIGO: 14.3.1
+DISCIPLINA: Cálculo Diferencial e Integral III
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1015
+DIFERENCIAL E
+- Cálculo Diferencial
+e Integral II
+Ementa:
+Funções de Várias Variáveis. Derivação Parcial. Derivada direcional. Máximos e
+mínimos. Integrais múltiplas. Integrais de linha. Teorema de Green. Integrais de
+superfícies. Teorema de Stokes. Teorema de Gauss ou da divergência.
+Bibliografia básica:
+LEITHOLD, L. Cálculo com geometria analítica, v. 1-3. São Paulo: Harbra. (88
+exemplares)
+STEWART, J. Cálculo 2. São Paulo: Cengage Learning. THOMAS, G.; FINNEY, R.
+Cálculo, v. 2. São Paulo: Pearson. (6 exemplares)
+Bibliografia complementar:
+ÁVILA, G. Cálculo das funções de várias variáveis. Rio de Janeiro: LTC. (51
+exemplares)
+BOULOS, P. Introdução ao cálculo: cálculo diferencial - várias variáveis. São Paulo:
+Edgard Blücher. (7 exemplares)
+GUIDORIZZi, H. Um curso de cálculo, vols. 2 e 3. Rio de Janeiro. LTC. (14)
+MORETTIN, P. A.; HAZZAN, S.; BUSSAB, W. O. Cálculo: funções de uma e várias
+variáveis. São Paulo: Saraiva. (10)
+KAPLAN, W. Cálculo avançado. EBSCO: Blucher 2015. eISBN- 9788574527697

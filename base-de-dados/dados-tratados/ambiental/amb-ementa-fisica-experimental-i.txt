@@ -1,0 +1,36 @@
+CÓDIGO: 14.3.3
+DISCIPLINA: Física Experimental I
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1040
+EXPERIMENTAL 1
+- Física I
+- 60
+Ementa:
+Tratamento estatístico de dados. Experimentos de Mecânica Geral: Medidas, Força
+de Atrito, pêndulo simples, pêndulo físico, Sistema massa-mola, Queda livre,
+Composição de força, Lançamento de projeteis, Ondas estacionárias. Experimentos
+de Termodinâmica: Calorimetria, Dilatação Linear. Experimento de óptica: Difração,
+Refração, Reflexão.
+Bibliografia básica:
+DAMO, H. S. Física experimental II: mecânica, rotações, calor, fluidos. Caxias do
+Sul: EDUCS. (2)
+VUOLO, J. H. Fundamentos da teoria de erros. São Paulo: Edgard Blücher Ltda.
+(21)
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 2: Gravitação,
+Ondas e Termodinâmica. Rio de Janeiro: LTC. (28)
+SERWAY, R.A.; JEWETT Jr, J. W. PRINCÍPIOS DE FÍSICA - Vol. II - Oscilações,
+ondas e termodinâmica trad. 5.ed. São Paulo: Cengage Learning, eISBN
+Bibliografia complementar:
+HELENE, O. A. M.; VANIN, V. R. Tratamento Estatístico de Dados em Física
+Experimental. São Paulo: Edgard Blücher. (12)
+SERWAY, R.A.; JEWETT Jr, J. W. Física para cientistas e engenheiros - Volume
+1 - mecânica trad. 9.ed. São Paulo: Cengage Learning eISBN 9788522127078
+SERWAY, R.A.; JEWETT Jr, J. W. Física para cientistas e engenheiros - Volume
+1 - oscilações, ondas e termodinâmica, trad. 9.ed. São Paulo: Cengage Learning
+eISBN

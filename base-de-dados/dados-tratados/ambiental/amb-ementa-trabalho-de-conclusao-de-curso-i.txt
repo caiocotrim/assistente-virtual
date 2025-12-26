@@ -1,0 +1,31 @@
+CÓDIGO: 14.9.3
+DISCIPLINA: Trabalho de Conclusão de Curso I
+Código
+Componente
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 30
+Aula: 36
+SUP1134
+CONCLUSÃO DE
+Ementa:
+Elaboração de proposta de trabalho científico e/ou tecnológico envolvendo temas
+abrangidos pelo curso e defesa aberta do projeto de pesquisa.
+Bibliografia básica:
+GIL, A. C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2010.
+NASCIMENTO, L. P. Elaboração de projetos de pesquisa: monografia, dissertação,
+tese e estudo de caso, com base em metodologia científica [recurso eletrônico]. São
+Paulo: Cengage Learning, 2012.
+SEVERINO, A. J. Metodologia do trabalho científico. São Paulo: Cortez.
+Bibliografia complementar:
+APPOLINÁRIO, F. Metodologia da ciência: filosofia e prática da
+pesquisa [recurso eletrônico]. São Paulo : Cengage Learning, 2012.
+APPOLINÁRIO, F. Metodologia científica [recurso eletrônico]. São Paulo, SP :
+Cengage, 2016.
+LÜDORF, S. M. A. Metodologia da pesquisa: do projeto ao trabalho de conclusão
+de curso. Curitiba: Appris.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. São
+Paulo: Atlas.
+SANTOS, J. A.; PARRA FILHO, D. Metodologia científica [recurso eletrônico]. São
+Paulo : Cengage Learning, 2011.
