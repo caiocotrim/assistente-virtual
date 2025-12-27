@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Análise de Sinais e Sistemas
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Métodos Matemáticos para Engenharia
+60 0 0 0 0 60
+CO-REQUISITOS
+Sinais contínuos e discretos no tempo. Operações com sinais. Tipos e propriedades de sinais.
+Sistemas contínuos e discretos no tempo. Sistemas
+lineares invariantes no tempo. Sistemas representados por equações diferenciais e diferença. Análise
+de Fourier para sinais e sistemas contínuos e
+discretos no tempo. Convolução contínua e discreta. Análise de sistemas através de polos e zeros.
+Diagrama de Bode. Transformada Z. Introdução a
+filtragem.
+HAYKIN, Simon; Barry V. Veen. Sinais e Sistemas. Artmed Editora S.A.
+HSU, Hwei . Sinais e Sistemas. Editora Bookman, 2004.
+GIROD, Bernd. Sinais e Sistemas. LTC, 2003.
+LATHI, B. P. Sinais e sistemas lineares. 2. ed. Porto Alegre, RS: Bookman, 2007;
+ROBERTS, Michael J. Fundamentos em sinais e sistemas. São Paulo, SP: McGraw-Hill, 2009.
+OPPENHEIM, A. V., WILLSKY, A. S., NAWAB, S. H. Signals & Systems. 2. ed. New Jersey: Prentice Hall, c1997.
+AGUIRRE, L. A. Introdução à identificação de sistemas: técnicas lineares e não lineares aplicadas a
+sistemas reais. 2. ed. Belo Horizonte: UFMG,
+2004.
+HANSELMAN, D., LITTLEFIELD, B. Matlab 6: curso completo. Tradução: Martins, Cláudia Sant'Ana. São
+Paulo: Prentice Hall, 2003.

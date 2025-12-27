@@ -1,0 +1,21 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Princípios de Comunicações
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Análise de Sinais e Sistemas
+60 0 0 0 0 60
+CO-REQUISITOS
+Introdução aos Sistemas de Comunicação. Transmissão de Sinais. Densidade Espectral de Energia e de
+Potência. Modulação Linear. Modulação
+Angular. Modulação por Pulso. Introdução aos Sistemas de Comunicação Digitais.
+CARVALHO, Rogerio Muniz. Comunicações analógicas e digitais. Rio de Janeiro : LTC , 2009.
+RAPPAPORT, Theodore S. Comunicações sem fio: princípios e práticas. 2 ed. São Paulo: Pearson Education do Brasil, 2009.
+HAYKIN, Simon S. Sistemas de comunicação: analógicos e digitais. 4. ed . Porto Alegre : Bookman , 2004.
+ALENCAR, Marcelo Sampaio de. Sistemas de comunicações. São Paulo: Érica, 2001,
+VICENTE, Soares Neto. Telecomunicações: sistemas de modulação . São Paulo : Érica , 2005.
+NASCIMENTO, Juarez do. Telecomunicações. 2. ed. São Paulo : Makron Books , 2000.
+MEDEIROS, Julio Cesar de Oliveira. Princípios de telecomunicações: teoria e prática . São Paulo : Érica , 2005.
+Lima Júnior, Almir Wirth. Formação e aperfeiçoamento profissional em TELECOMUNICAÇÕES & REDES DE
+COMPUTADORES. Rio de Janeiro: Axcel
+Books, 2003.

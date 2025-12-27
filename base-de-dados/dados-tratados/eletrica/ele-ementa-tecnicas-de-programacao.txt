@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Técnicas de Programação
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Introdução à Programação
+0 60 0 0 0 60
+CO-REQUISITOS
+Estrutura de dados e algoritmos de manipulação relacionados: pilhas, listas, filas, árvores e
+tabelas. Algoritmos de ordenação. Noções de
+programação orientada a objetos: conceitos básicos, modelo de programação, aplicações em engenharia.
+TANENBAUM, Aaron M.; LANGSAM, Y.; AUGENSTEIN, M. J. Estruturas de Dados usando C. Makron Book, São Paulo, 1995.
+SCHILDT, H. C Completo e Total. Makron Books, São Paulo, 1997.
+SCHILDT, H. C++ Fundamentos e práticas. Makron Books, São Paulo, 2004.
+KOFFMAN, E. B., WALFGANG, PAUL A.T. Objetos, Abstração, Estruturas de Dados e Projeto usando C++.
+LTC – Livros Técnicos e Científicos, Rio de
+Janeiro, 2008.
+ASCENCIO, Ana F.G. e CAMPOS, Edilene A. V. Fundamentos da Programação de Computadores – Algoritmos,
+Pascal e C/C++. São Paulo: Prentice
+Hall, 2002.
+CARBONI, Irene de Fátima. Lógica de Programação. Thomson: São Paulo, 2003.
+LOPES, Anita e GARCIA, Guto. Introdução à Programação – 500 Algoritmos Resolvidos. Editora Campos: Rio de Janeiro, 2002.
+DEITEL, Harvey M. C#, como programar. São Paulo: Makron Books, 2003. 1153p.---

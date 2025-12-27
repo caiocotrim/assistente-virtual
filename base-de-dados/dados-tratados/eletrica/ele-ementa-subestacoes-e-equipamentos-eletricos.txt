@@ -1,0 +1,30 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Subestações e Equipamentos Elétricos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Generalidades sobre equipamentos elétricos, normas técnicas, especificações e guias de aplicação.
+Transformadores de potência. Reatores em
+derivação. Buchas para transformadores e reatores. Isoladores. Transformadores de corrente e de
+potencial. Para-raios. Chaves seccionadoras.
+Disjuntores. Capacitores em derivação, capacitores série. Reguladores de tensão. Aterramentos.
+Equipamentos de medição. Subestações: tipos,
+arranjos e barramentos. Linhas de transmissão CA e CC (estrutura básica). Técnicas de ensaios
+elétricos aplicados a equipamentos elétricos e
+elaboração de laudos técnicos. Projeto básico de detalhamento e desenho de subestações. Normas
+técnicas. Introdução aos FACTS.
+MACINTYRE, Archibald Joseph, Equipamentos Industriais e de Processo, Editora LTC, 1997.
+MAMEDE FILHO, João. Manual de Equipamentos Elétricos Vol. 1. Editora LTC.
+MAMEDE FILHO, João. Manual de Equipamentos Elétricos Vol. 2. Editora LTC.
+BARROS, Benjamim Ferreira; RICARDO, Luis Gedra, Cabine Primária. Subestações de Alta Tensão de
+Consumidor. 2a Edição. São Paulo: Editora
+Érica, 2011.
+FRONTIN, Sérgio O. et alii. Equipamentos de alta tensão – prospecção e hierarquização de inovações
+tecnológicas. Brasília, Teixeira, 2013.
+D’AJUZ, Ary, et alii. Equipamentos elétricos; especificação e aplicação em subestações de alta
+tensão. Rio de Janeiro, FURNAS, 1985.
+CALLISTER, W. Fundamento da ciência e engenharia dos materiais. SP: LTC, 2006.
+RESENDE, Sergio. Materiais e dispositivos eletrônicos. Editora Livraria da Física. 2008.

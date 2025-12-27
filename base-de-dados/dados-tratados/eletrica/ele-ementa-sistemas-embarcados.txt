@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas Embarcados
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Analógico
+45 15 0 0 0 60
+CO-REQUISITOS
+Histórico de desenvolvimento dos microcontroladores; Introdução aos microcontroladores. Hardware de
+microcontroladores. Firmware; Simulação
+de hardware e firmware; Arquitetura de conversores A/D e D/A. Arquiteturas de sistemas embarcados.
+Aplicações e desenvolvimento de projetos
+relacionados à automação.
+OLIVEIRA , André Schneider de, ANDRADE, Fernando Souza de. Sistemas Embarcados Hardware e Firmware
+na prática. 2a. Ed. Editora Érica. 2010.
+IBRAHIM, Dougan. PIC Microcontroller Projects in C: basic to advanced. 2nd Ed. Newnes. 2014.
+LIMA, C. B., VILLAÇA, M. V. M. AVR e Arduino: técnicas de projeto. 2a Ed. Florianópolis: Ed. dos autores, 2012.
+CETINKUNT, S. Mecatrônica. Rio de Janeiro: LTC, 2008.
+BOLTON, W. Mecatrônica: uma abordagem multidisciplinar. 4a Ed. Porto Alegre: Bookman, 2010.
+HOROWITZ, P., HILL, W. A Arte da Eletrônica: circuitos eletrônicos e microeletrônica. 3a. Ed. Porto
+Alegre: Bookman, 2017.
+SCHILDT, H. C Completo e Total. 3a. Ed. São Paulo: Pearson Makron Books, 1997.
+SOUSA, D. R. de, SOUZA, D. J. de. Desbravando o PIC24: conheça os microcontroladores de 16 bits. São Paulo: Érica, 2008.

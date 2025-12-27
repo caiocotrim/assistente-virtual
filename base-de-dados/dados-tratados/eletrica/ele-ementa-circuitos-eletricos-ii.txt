@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Circuitos Elétricos II
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Circuitos Elétricos I
+60 15 0 0 0 75
+CO-REQUISITOS
+Análise de circuitos em corrente alternada: senoides, fasores, impedância, admitância. Métodos de
+análise de circuitos em regime estacionário
+senoidal: nodal, malhas, teoremas de superposição, transformação de fontes, teorema de Thévenin e de
+Norton. Analise de potência em CA:
+potência média, instantânea, valor RMS ou eficaz, potência aparente, fator de potência e potência
+complexa. Circuitos trifásicos equilibrados e
+desequilibrados, conexão estrela-triângulo. Circuitos de acoplamento magnético. Resposta em
+frequência. Modelagem computacional aplicada na
+análise de circuitos elétricos em corrente alternada.
+HAYT, W. H.; KEMMERLY, J. E.; DURBIN, J. E. Análise de Circuitos em Engenharia. 8. ed. São Paulo: McGrawhill, 2014.
+ALEXANDER, Charles K.; SADIKU, M. N. O. Fundamentos de Circuitos Elétricos. 5. ed. São Paulo: McGraw-Hill Brasil, 2013.
+COSTA, Vander Menengoy da. Circuitos Elétricos Lineares Enfoques Teórico E Prático. São Paulo: Interciência, 2013.
+NILSSON, James W.; RIEDEL., E Susan A.. Circuitos Elétricos. 8. ed. São Paulo: Pearson, 2008.
+IRWIN, David J.. Introdução à Análise de Circuitos Elétricos. Rio de Janeiro: Ltc, 2005.
+SADIKU, Matthew N. O.; MUSA, Sarhan; ALEXANDER, Charles K.. Análise de Circuitos Elétricos com
+Aplicações. São Paulo: McGraw-Hill, 2014.
+EDMINISTER, J. A. Circuitos Elétricos, Coleção Schaum. São Paulo: McGraw-Hill, Makron Books, Pearson Education, 1991.
+COSTA, Vander Menengoy da. Circuitos Elétricos Lineares Enfoques Teórico E Prático. São Paulo:
+Editora Interciência, 2013.

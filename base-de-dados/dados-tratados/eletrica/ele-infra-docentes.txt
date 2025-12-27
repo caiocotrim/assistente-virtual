@@ -1,0 +1,79 @@
+INFRAESTRUTURA DOCENTES (PROFESSORES) 
+Essa seção apresenta informações sobre a coordenação de registros escolares, dos 
+técnicos de laboratórios e das instalações gerais do campus. 
+10.1. CORPO DOCENTE 
+O corpo docente sobre da área técnica específica em eletrotécnica, eletrônica e 
+automação que atende o curso de Engenharia Elétrica é especificado na Tabela 24.  
+ 
+Tabela 24 – Corpo docente com formação em Eng. Elétrica. 
+Docente  R.T.  Graduação  Titulação  Área de Atuação  CV Lattes 
+Alberto dos Santos Rebouças EBTT DE  Eng. Elétrica  Doutor em Eng. Industrial  Eletrônica  http://lattes.cnpq.br/1808253758965898 
+Cléia Santos Libarino EBTT DE Eng. da Computação Mestre em Eng. Elétrica  Automação  http://lattes.cnpq.br/0168353916026552
+Clodoaldo Gomes Messias EBTTDE  Eng. Elétrica  Especialista em Educação  Eletrônica  http://lattes.cnpq.br/6348570154342763  
+Danilo Brito Almeida EBTT40h  Eng. Elétrica Especialista em Engenharia de Segurança no Trabalho Eletrotéc.  http://lattes.cnpq.br/6029634047770809  
+Diego Habib Santos Nolasco EBTT DE  Eng. Elétrica Doutor em Engenharia Elétrica e Computação Eletrotéc.  http://lattes.cnpq.br/2255122679308538 
+Diego Salvador de Almeida Ramos EBTT DE  Eng. Elétrica Mestre em Engenharia Elétrica Eletrotéc.  http://lattes.cnpq.br/9768667538097980 
+Edvaldo Moraes Ruas EBTT DE  Eng. Elétrica Especialista em Eletricidade na Agropecuária Eletrônica  http://lattes.cnpq.br/6402957918931796  
+Eleilson Santos Silva EBTT DE  Eng. Elétrica Especialista em Engenharia de Segurança no Trabalho Eletrotéc.  http://lattes.cnpq.br/3283068063376878  
+Elvio Prado da Silva EBTT DE  Eng. Elétrica  Mestre em Mecatrônica  Eletrotéc.  http://lattes.cnpq.br/9848632321158495 
+Everard Lucas Silva Cardoso EBTT DE  Eng. Elétrica Especialista em Ciências Físicas de Matemática Eletrotéc.  http://lattes.cnpq.br/8946158781980284  
+Gabriel Vidal Negreiros Bezerra  EBTT DE   Eng. Elétrica Mestrado em Engenharia Elétrica Eletrotéc.  http://lattes.cnpq.br/7603022844978260 
+José Alberto Diaz Amado M.S/DE  Eng. Eletrônica Doutor em Engenharia Elétrica e Computação Automação  http://lattes.cnpq.br/4676804219079636  
+Jaime dos Santos Filho EBTT DE  Eng. Elétrica Doutor em Estatística e Experimento. Agropecuário Eletrônica  http://lattes.cnpq.br/4952605573534246  
+João Erivando Soares Marques M.S/ DE  Eng. Mecânico Doutor em Engenharia Mecânica Automação Automação  http://lattes.cnpq.br/6743633999783212  
+Juan Lieber Marin EBTT DE  Eng. Elétrica Mestre em Engenharia Elétrica Eletrônica  http://lattes.cnpq.br/2908136113143833  
+Kenedy Marconi Geraldo dos Santos EBTT DE  Eng. Elétrica Doutor em Engenharia Elétrica Eletrônica  http://lattes.cnpq.br/8500221110577713 
+Leonardo Souza Caires EBTT DE  Eng. Elétrica Mestre em Engenharia Elétrica Eletrotéc. http://lattes.cnpq.br/02287843357117977
+Luciano Ferraz dos Santos Silva EBTT DE  Eng. Elétrica Mestre em Desenvolvimento e Meio Ambiente Eletrotéc.  http://lattes.cnpq.br/4779725844852851 
+Marcelo Mendonça Dos Santos EBTT DE Eng. da Computação Mestre em Mecatrônica  Eletrônica  http://lattes.cnpq.br/4271397173667661  
+Pablo Martins de Oliveira EBTT DE  Eng. Elétrica Especialista em Gestão da Manutenção Eletrotéc. http://lattes.cnpq.br/2312463931787475 
+Rodrigo Assis Bonfim EBTT DE Eng. Eletrônica e Telecomun. Mestre em Engenharia Elétrica Automação  http://lattes.cnpq.br/6149703009736160  
+Wesley de Almeida Souto EBTT DE  Eng. Elétrica Doutor Engenharia Mecânica Automação Automação  http://lattes.cnpq.br/6395093149666173  
+Wilton Lacerda Silva EBTT DE  Eng. Elétrica Doutor em engenharia Elétrica Eletrônica http://lattes.cnpq.br/7128501944536142   
+ 
+10.2. EQUIPE TÉCNICO-PEDAGÓGICA 
+10.2.1. Coordenação de Registros Escolares 
+A  Coordenação  de  Registros  Escolares  (CORES)  é  responsável  pelo 
+acompanhamento da vida acadêmica dos alunos no que se refere a matrícula, notas, 
+históricos e emissão de diplomas no campus de Vitória da Conquista.  As atividades 
+desenvolvidas na CORES são realizadas de acordo com a legislação e normas vigentes 
+na instituição. A Tabela 25 apresenta a equipe de técnica da CORES. 
+
+Tabela 25 – Corpo administrativo do setor da CORES. 
+SERVIDOR  FUNÇÃO DO SERVIDOR 
+Igor Meira Ribeiro  Coordenador da CORES 
+André Porto Humberto  Assistente em Administração 
+Diego Nunes da Silva  Assistente em Administração 
+Maria Aparecida Almeida Mendonça  Assistente em Administração 
+Naiara de Souza Almeida Dias  Assistente em Administração 
+Walter Costa Santos  Auxiliar em Administração 
+Cássio Viana Santos  Assistente em Administração 
+Alexandre Siqueira Ruas  Assistente em Administração 
+ 
+10.2.2. Técnicos de Laboratórios 
+A Tabela 26 apresenta a equipe de técnicos de laboratórios para dar suporte ao 
+curso de engenharia elétrica. 
+ 
+Tabela 26 – Corpo dos Técnicos de Laboratório. 
+SERVIDOR  CARGO  FUNÇÃO DO SERVIDOR 
+Elton Rodrigo Pereira Veiga Técnico de Lab. Eletrônica
+Iggor Lincolln B. da Silva  Técnico de Lab. Informática 
+Israel dos Santos Aguiar  Técnico de Lab. Informática 
+Rogério dos Santos T. Silva Técnico de Lab. Eletrotécnica 
+Disponibilizar  aos  usuários  de  laboratórios: 
+materiais,  ferramentas  e  equipamentos  para 
+utilização. Orientar os usuários quanto às normas 
+gerais de utilização de laboratórios e de segurança. 
+Dar suporte aos coordenadores de área, por meio de 
+informação  de  dados  referentes  aos laboratórios. 
+Orientar  quanto  às  reservas  de  laboratórios. 
+Assessorar  os  usuários  em  situações  eventuais 
+como  por  exemplo:  cursos,  seminários,  semanas 
+tecnológicas, projetos de extensão, dentro outros.
+
+Yuri Oliveira do Val  Assistente de Áudio Visual 
+Fornecer  suporte técnico às  aulas  e eventos  que 
+requeiram  o  uso  de  equipamentos  de  som  e 
+imagem. Dar apoio em transmissões dos eventos 
+por meio do YouTube. Realizar o gerenciamento da 
+agenda do auditório principal do Campus. 

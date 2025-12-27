@@ -1,0 +1,33 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Qualidade de Energia Elétrica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução ao sistema de energia elétrica (SEE), energia elétrica comercial, chaveamento do SEP.
+Qualidade de energia elétrica (definição e análise
+dos itens de qualidade, padrões de desempenho da rede básica de distribuição, causas, efeitos e
+soluções). Distúrbios na energia elétrica
+(classificação dos distúrbios, normas relacionadas, transitórios, variação, sag, swell,
+desequilíbrio, distorção, offset CC, nothing, ruído). Distúrbios na
+distribuição de energia elétrica. Harmônicos em sistemas elétricos (efeitos e causas, distorção
+harmônica total (THD), espectro harmônico), fator de
+potência e fator de crista; principais soluções (UPS, DPS, transformadores isoladores, filtros
+passivos e ativos), análise dos distúrbios causados pelos
+conversores estáticos em geral, análise de níveis de distúrbios máximos permitidos por normas,
+monitoramento da qualidade de energia,
+importância do aterramento para a qualidade de energia.
+MARTINHO, Edson. Distúrbios da Energia Elétrica. 3° Ed. rev., São Paulo, Editora Érica, 2013.
+LOPEZ, Ricardo Aldabó. Qualidade na Energia Elétrica. 2° Ed., São Paulo, Artliber Editora, 2013.
+LEÃO, Ruth; SAMPAIO, Raimundo; ANTUNES, Fernando. 1° Ed., Harmônicos em Sistemas Elétricos. Rio de
+Janeiro, Editora Elsevier, 2014.
+KAGAN, Nelson; ROBBA Ernesto e SCHMIDT, Hernán. Estimação de Indicadores de Qualidade da Energia
+Elétrica. São Paulo, Editora Blucher, 2014.
+DE LA ROSA, F. C., Harmonics and Power Systems. CRC Press, USA, 2006.
+DUGAN, R.C., MCGRANAGHAN, M.F., Surya Santoso & H.W. Beaty, Electrical Power Systems Quality,
+McGraw-Hill, 2nd Edition, 2002.
+BOLLEN, M. H. Understanding Power Quality Problems: Voltage Sags and Interruptions. Wiley-IEEE
+Press, New York, USA, 2000.
+ARRILLAGA , J., WATSON, N. R., Power Systems Harmonics, John Wiley and Sons, 2003.

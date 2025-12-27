@@ -1,0 +1,28 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Operação e Controle de Sistemas Elétricos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Análise de Sistemas Elétricos de Potência
+60 0 0 0 0 60
+CO-REQUISITOS
+Controle carga-frequência: análise estática de uma área isolada, análise estática da freqüência e
+intercâmbio. Análise dinâmica do controle de
+geração e intercâmbio. Operação econômica: distribuição de carga entre unidades geradoras, despacho
+econômico e controle automático da
+geração. Estabilidade: conceituação, equação de oscilação e modelos de máquinas síncronas, critério
+de áreas e simulação dinâmica de sistemas
+com várias máquinas.
+PRABHA, Kundur - Power System Stability and Control; MCGRAW-HILL
+MONTICELLI, Alcir; Ariovaldo Garcia, Introdução A Sistemas De Energia Elétrica, Editora Unicamp, 2000.
+KAGAN, Nelson; Carlos César Barioni de Oliveira; Ernesto João Robba, Introdução Aos Sistemas de
+Distribuição de Energia Elétrica, Edgard Blucher.
+GLOVER, J. D., SARMA, M. S., Power System Analysis and Design, 3 ed., Thomson Learning, Inc., 2002.
+STEVENSON Jr., WILLIAM D., Elementos de Análise de Sistemas de Potência. 2a Edição, McGraw-Hill, 1986.
+OLIVEIRA, Carlos Cesar Barioni de et al. Introducão a sistemas elétricos de potência: componentes
+simétricas. São Paulo: E. Blucher, 2000. 467 p.
+DAS, J.C., Power System Analysis: Short-Circuit Load Flow and Harmonics, Second Edition (Power
+Engineering (Willis)) Hardcover – 2011.
+CERA, Luiz Zanetta Junior. Fundamentos de sistemas elétricos de potencia. 1. Ed. São Paulo: Editora
+Livraria da Física, 2006. 312 p. Isbn
+8588325411.

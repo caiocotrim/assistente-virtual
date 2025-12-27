@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Processamento Digital de Sinais
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Análise de Sinais e Sistemas
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução, vantagens e aplicações. Interface Analógico-Digital: Amostragem, Quantização e
+Reconstrução de Sinais. Transformada Discreta de
+Fourier. Transformada Rápida de Fourier (FFT). Filtros de Resposta ao Impulso Finita. Filtros de
+Resposta ao Impulso Infinita. Métodos de projeto de
+filtros digitais.
+LYONS, R. G.; Understanding Digital Signal Processing. Prentice Hall, Third Edition.
+LI, F. F; COX, T. J.; Digital Signal Processing in Audio and Acoustical Engineering; CRC Press. 2019
+DINIZ, P. S. R.; Barros da Silva, E. A.; Netto, S. L. Processamento Digital de Sinais: Projeto e
+Análise de Sistemas. Porto Alegre: Bookman, 2004.
+KUO, Sem M.; Gan, Woon-Seng. Digital Signal Processors: Architectures, Implementations, and
+Applications. New Jersey: Pearson Educationl, 2004
+HAYKIN, Simon; Veen, Barry Van. Sinais e Sistemas. Porto Alegre: Bookman, 2001.
+LATHI, B. P. Sinais e Sistemas Lineares. Porto Alegre: Bookman, 2007.
+ROBERTS, Michael J. Fundamentos em Sinais e Sistemas. São Paulo: McGraw-Hill, 2009.

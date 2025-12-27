@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Mecânica dos Sólidos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Física I
+60 0 0 0 0 60
+CO-REQUISITOS
+Forças no plano e no espaço. Equivalência de sistemas de forças. Equilíbrio de um corpo rígido no
+plano e no espaço. Forças distribuídas: centroides
+e baricentros. Momento estático de primeira e segunda ordem. Análise de estruturas. Forças em vigas
+e cabos. Atrito. Método dos trabalhos
+virtuais.
+BEER, F. P. Mecânica vetorial para engenheiros: estática. 9 ed. São Paulo: Makron Books, 2013. 622 p
+HIBBELER, R. C. Estática: mecânica para engenharia. 10 ed, São Paulo: Prentice Hall, 2005. 540 p.
+PLESHUA, M. E.; GRAY, G. L.; COSTANZO, F. Mecânica para engenharia: estática. Porto Alegre: Bookman, 2014. 590 p.
+BEER, F. P. Mecânica vetorial para engenheiros: estática.5 ed. São Paulo: Makron Books, 2005. 793 p
+MARTINS, J. B. Mecânica racional: de Newton a mecânica clássica. São Paulo: Ciência Moderna, 1976.
+HALLIDAY, D. R.; RESNICK, R.; KENNETH, S. K. Física 1. 5 edRio de Janeiro: LTC, 2003. 368 p.
+TIPLER, P. A. Física 1: para cientistas e engenheiros. Rio de Janero: Ed. LTC, 2000. 651 p.
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia, v. 2: álgebra linear e cálculo
+vetorial. 3 ed. Porto Alegre: Bookman, 2009. 303 p.

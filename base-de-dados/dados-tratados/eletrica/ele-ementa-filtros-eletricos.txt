@@ -1,0 +1,24 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Filtros Elétricos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+Eletrônica
+Análise de Sinais e Sistemas
+CO-REQUISITOS
+Análise e síntese de filtros analógicos ativos e passivos. Função de transferência e diagramas de
+Bode. Estudo de aproximações Chebyshev,
+Butterworth, Cauer e Bessel. Conversores de impedância. Filtros em cascata. Transformações em
+frequência e escalamentos, Síntese de redes
+Lader, Filtros a capacitores chaveados. Filtros a capacitores comutados. Filtros digitais.
+FILHO, Sidnei Noceti. Filtro Seletores de Sinais, 4a edição, Editora: UFSC.
+DARYANANI, Gobind. Principles of Active network Synthesis and Design, Bell Laboratories, Inc.
+LATHI, B. P. Sinais e Sistemas Lineares. 2ª Ed., Porto Alegre, Editora Bookman, 2006. 856p.
+SCHAUMANN, R. Design of. Analog Filters. Portland State University. Mac E. Van Valkenburg. Oxford.
+New York. Oxford university press.
+CHEN, Way-Kay. The Circuits and Filter Handbook, CRC Press. 3rd Edition. E-Book ISBN 9781315222387.
+GEROMEL, J.C., PALHARES, A.G.B. Análise Linear de Sistemas Dinâmicos: teoria, ensaios práticos e
+exercícios, Ed. Edgar Blücher, 2004.
+FRANKLIN, G. F., POWELL, J.D., NAEINI, A.E. Feedback Control of Dynamic Systems, 3ª Ed; Addison-Wesley, 1994.
+HAYKIN, S., VAN VEEN, B. Sinais e Sistemas. Bookman, Porto Alegre, 2001.

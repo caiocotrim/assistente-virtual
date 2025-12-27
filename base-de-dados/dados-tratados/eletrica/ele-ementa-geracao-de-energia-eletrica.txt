@@ -1,0 +1,25 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Geração de Energia Elétrica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Conversão Eletromecânica
+45 15 0 0 0 60
+CO-REQUISITOS
+Tecnologia das fontes de geração de energia por hidroelétricas, eólicas, solar fotovoltaicas,
+células a combustível e maremotriz. Tecnologia das
+fontes de energia térmicas por termoelétricas a carvão, petróleo, vapor, gás, biomassa, nuclear,
+termossolares e geotérmicas. Impactos ambientais
+dos diversos tipos de sistemas de Geração de Energia Elétrica. Geração Distribuída e suas
+legislações. Conceitos introdutórios ao Sistema Elétrico
+Brasileiro: Transmissão e Distribuição de energia, Sistema Interligado Nacional (SIN), Balanço
+Energético Nacional (BEN). Planos estratégicos do
+setor elétrico.
+REIS, Lineu Belico Dos. Geração De Energia Elétrica - Tecnologia, Inserção O. Editora Manole, 1ª Edição, 2003 - 340 Pág.
+ELGERD, O.I. Introdução À Teoria De Sistemas De Energia Elétrica Mcgraw Hill Do Brasil.
+MONTICELLI, A.J. Fluxo De Carga Em Redes De Energia Elétrica Edgard Blucher, 1983.
+S.J. CHAPMAN. Electric Machinery Fundamentals. New York: McGraw-Hill, 1998.
+MOHAN, Ned. Máquinas Elétricas e Acionamentos – Curso Introdutório. Editora: LTC, ano de 2015, ISBN: 9788521627623;
+KOSOW, Irving, Máquinas Elétricas e Transformadores, Editora Globo, 4° Edição, 1982, Porto Alegre;
+MARTIGNONI, Alfonso. Máquinas Elétricas de Corrente Contínua. São Paulo: EDART, 1995;
+NASAR, S. A. Máquinas elétricas. São Paulo: McGraw-Hill-Coleção Schaum, 1984.

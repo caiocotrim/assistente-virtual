@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Dispositivos Eletrônicos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Circuitos Elétricos I
+60 15 0 0 0 75
+CO-REQUISITOS
+Física e propriedades de semicondutores. Junção PN. Estudo das características de diodos de junção.
+Diodos retificadores. Diodos Zener. Tipos
+especiais de diodos. Transistor bipolar e transistor efeito de campo. Tecnologia e fabricação.
+Polarização. Características dos amplificadores: análise
+de pequenos sinais, ganho, eficiência, distorção, ruído, resposta em frequência, impedância de
+entrada e saída, configurações e estabilidade.
+Implementações de portas lógicas. Reguladores transistorizados.
+SEDRA, ADEL S., SMITH, Kenneth C. Microeletrônica. 5a Ed. Pearson, 2007.
+BOYLESTAD, ROBERT L., NASHELSKY, L. Dispositivos Eletrônicos e Teoria de Circuitos. 11a Ed. Pearson. 2013.
+RAZAVI, BEHZAD. Fundamentos de Microeletrônica. LTC. 2010.
+HORENSTEIN, M. N. Microeletrônica: circuitos e dispositivos. Prentice-Hall, 1996.
+HOROWITZ, P.; HILL, W. A Arte da Eletrônica. Bookman, 3a Ed., 2017.
+TOOLEY, MIKE. Circuitos Eletrônicos, Fundamentos e Aplicações. Elsevier Editora Ltda., 2006.
+MALVINO, A. P.; BATES, D. J. Eletrônica. Vol. 1 e 2, AMGH, 8a Ed., 2016.
+MARKUS, M. Sistemas analógicos, circuitos com diodos e transistores, 8ª edição, 2008, Érica.

@@ -1,0 +1,20 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Álgebra Linear
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Álgebra Vetorial e Geometria Analítica
+60 0 0 0 0 60
+CO-REQUISITOS
+Matrizes e sistemas de equações lineares. Espaços vetoriais. Transformações lineares. Determinantes.
+Autovalores e autovetores. Diagonalização de
+operadores.
+ANTON, H.; RORRES, C. Álgebra linear com aplicações. 8 ed. Porto Alegre: Bookman, 2001.
+BOLDRINI, J. L. et al. Álgebra Linear. 3 ed. São Paulo: Harbra, 1986.
+CALLIOLI, C. A; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra linear e aplicações. 6 ed. São Paulo: Atual, 2003.
+LANG, S. Álgebra linear e suas aplicações. Rio de Janeiro: Ciência Moderna, 2003.
+LIMA, E. L. Álgebra linear. 8 ed. Rio de Janeiro: IMPA, 2018.
+LIPSCHUTZ, S.; L. M. Álgebra linear. 4 ed. Porto Alegre: Bookman, 2011.
+POOLE, D. Álgebra linear. São Paulo: Thomson, 2004.
+STEINBRUCH, A.; WINTERLE, P. Álgebra linear. 2 ed. São Paulo: Makron Books, 2005.
+SEMESTRE 3

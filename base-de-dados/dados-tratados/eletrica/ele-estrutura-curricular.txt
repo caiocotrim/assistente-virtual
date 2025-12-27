@@ -1,0 +1,126 @@
+ESTRUTURA CURRICULAR 
+O planejamento e a execução de uma estrutura curricular coerente com a proposta 
+do curso são os principais meios para a efetivação do Projeto Pedagógico do Curso. A 
+estrutura curricular planejada para o curso de Engenharia Elétrica do IFBA, campus de 
+Vitória  da  Conquista  configura-se  em  uma  construção  lógica  que  leva  em  conta  o 
+equilíbrio entre teoria e prática dentro de cada componente curricular e estabelece essas 
+relações por meio de componentes curriculares integradoras. 
+A matriz curricular proposta neste projeto foi sistematizada a partir da Resolução 
+CNE/CES 02/2019 em complemento com a Resolução CNE/CES 01/2021, de forma a 
+22 
+ 
+cumprir as Diretrizes Curriculares Nacionais para o Ensino de Engenharia, definidas pelo 
+Conselho Nacional de Educação. Os eixos formativos propostos também consideraram 
+as resoluções vigentes do CONFEA/CREA, tais como a Resolução 1010/2005, com o 
+objetivo de estruturar e relacionar as ênfases possibilitadas pelo curso com as respectivas 
+habilitações profissionais.  
+A estrutura curricular proposta considera os demais cursos superiores ofertados 
+pelo IFBA, campus de Vitória da Conquista, sendo composta por núcleos de disciplinas 
+comuns a vários cursos, de forma a otimizar os recursos concernentes a laboratórios, salas 
+de aulas, turnos de ofertas de componentes curriculares, bem como os recursos humanos 
+de docentes, técnicos administrativos e terceirizados. 
+O curso de Engenharia Elétrica, no contexto do IFBA, foi orientado pelo Projeto 
+Pedagógico  Institucional  (PPI)  (IFBA,  2013b)  que  pretende  formar  engenheiros  na 
+perspectiva crítica e emancipatória, e é então efetivado por meio da respectiva matriz 
+curricular e do plano de ensino de cada componente curricular, envolvendo ementa, 
+objetivo, conteúdo programático, metodologia de ensino, avaliação da aprendizagem e 
+referências bibliográficas, conforme a Resolução 23 de 16 de maio de 2019, que trata das 
+Normas Acadêmicas do Ensino Superior do IFBA, alinhados com o perfil do egresso e 
+com os objetivos geral e específicos do curso.  
+O egresso ao curso terá como habilitação bacharelado em Engenharia Elétrica com 
+ênfase(s) em área(s) específica(s), de acordo com o percurso formativo percorrido pelo 
+discente, levando em consideração a flexibilização curricular concedida e as limitações 
+impostas pela carga horária total do curso. O curso oferece três possibilidades de ênfase: 
+Automação e Controle, Eletrônica e Eletrotécnica. 
+O regime do curso será em sistemas de créditos, contendo o total de 263 créditos. 
+A carga horária está distribuída em 2715 horas para carga horária teórica sem PFC, 60 
+horas de carga horária teórica de PFC, 540 horas para práticas nas disciplinas, 405 horas 
+para extensão curricular, 165 horas para estágio obrigatório, 60 horas para atividades 
+curriculares complementares, totalizando 3945 horas para todo o curso. O tempo mínimo 
+de integralização para o discente é de 5 anos. Conforme a resolução n° 23 de 23 de maio 
+de 2019 que trata das Normas Acadêmicas do Ensino Superior do IFBA tem-se: 
+ 
+Art.  15º  -  o  tempo  máximo  para  integralização  curricular  pelo 
+estudante dos cursos superiores será o dobro do tempo previsto na 
+matriz curricular. 
+23 
+ 
+A Tabela 2 resume a distribuição de cargas horárias referentes à teoria, prática, extensão, 
+atividades curriculares complementares, estágio obrigatório e projeto final de curso. A 
+Tabela 3 ilustra os limites de tempo de integralização do curso.  
+Tabela 2 – Distribuição total de carga horária em termos das atividades curriculares. 
+Totalização das Cargas Horárias  Horas (relógio)  Créditos 
+Carga Horária Total Teórica sem PFC  2715  181 
+Carga Horária Total Prática  540  36 
+Carga Horária Total de Atividades Curriculares de Extensão  405  27 
+Carga Horária Total de Atividades Curriculares Complementares  60  4 
+Carga Horária Total de Estágio  165  11 
+Carga Horária Total Teórica de PFC   60  4 
+Carga Horária Total sem ACEX  3540  236 
+Carga Horária Total com ACEX  3945  263 
+ 
+Tabela 3 – Carga horária total e tempo de integralização do curso. 
+Carga Horária Total:  3945 h 
+Tempo mínimo de integralização  5 anos 
+Tempo máximo de integralização  10 anos 
+ 
+O curso está estruturado para atender o que determina a Resolução CNE/CES n° 
+02/2019,  que  Institui  Diretrizes  Curriculares  Nacionais  do  Curso  de  Graduação  em 
+Engenharia, bem como a Resolução CNE/CES 2/2007 que dispõe sobre a carga horária 
+mínima e procedimentos relativos à integralização e duração dos cursos de graduação, 
+bacharelados, na modalidade presencial. 
+Os conhecimentos teóricos e práticos serão articulados em quatro dimensões: 
+ensino, pesquisa e extensão, estágio e atividades complementares. A dimensão ensino 
+contempla todo o conteúdo prático e experimental previsto na matriz curricular, bem 
+como o incentivo aos trabalhos inter e multidisciplinares. Além disso, como parte do 
+perfil do curso, o conteúdo teórico será apresentado considerando suas aplicações em 
+pesquisa, inovação. Na dimensão pesquisa e extensão, o discente poderá desenvolver 
+habilidades e competências concernentes ao mundo do trabalho em diferentes áreas, como 
+por  exemplo,  extensão  tecnológica,  desenvolvimento  social,  pesquisa  industrial, 
+processos industriais e desenvolvimento de produto. Na dimensão estágio, o aluno será 
+inserido em um ambiente profissional real, onde terá as condições de se relacionar com o 
+24 
+ 
+cotidiano  da  profissão,  aplicar  e  compreender  melhor  as  técnicas  e  conhecimentos 
+adquiridos durante o curso. Por fim, na dimensão atividades complementares, o aluno 
+será incentivado a se envolver em atividades de diferentes naturezas, possibilitando a 
+ampliação do conhecimento e proporcionando a reflexão humana e o desenvolvimento 
+sociocultural. 
+Na  organização  da  estrutura  curricular  e,  sobretudo,  no  processo  da  prática 
+pedagógica será adotada a diversificação do currículo e das metodologias de ensino, no 
+sentido de colaborar para a remoção das barreiras pedagógicas e para o desenvolvimento 
+de  métodos  apropriados  às  individualidades  de  discentes  que  apresentem  alguma 
+necessidade  específica.  Deverão  ser  rigorosamente  observadas  e  aplicadas  técnicas 
+diferenciadas de ensino e estudo conforme cada caso específico, para contemplar as 
+demandas individuais do discentes com necessidades específicas. Para tanto, se fará 
+necessário  adotar  procedimentos  como  flexibilização  do  tempo  para  a  execução  de 
+atividades, pranchas de comunicação, texto impresso e ampliado, softwares ampliadores 
+de comunicação alternativa, leitores de tela, entre outros. 
+Nesse  contexto,  será  imperativo  também  fortalecer  e  ampliar  as  ações  da 
+Coordenação de Atendimento às Pessoas com Necessidades Específicas (CAPNE) no 
+campus, tendo em vista seu papel de interlocutor entre os estudantes que fazem parte 
+desse universo e toda a equipe de profissionais que atuam direta e/ou indiretamente com 
+esse  público.  Assim,  por  meio  desse  canal  institucional  e  das  atividades  por  ele 
+desenvolvidas,  espera-se  colaborar  para  a  disseminação  de  práticas  curriculares  e 
+pedagógicas  que  visem  ao  reconhecimento  de  todos  os  estudantes,  bem  como  seu 
+potencial, ultrapassando as barreiras das deficiências, contribuindo com um processo 
+contínuo e permanente de inclusão e integração pautados na percepção do indivíduo, sem 
+preconceitos,  estigmas,  estereótipos  e/ou  discriminações,  conforme  preconiza  o  PPI 
+(IFBA, 2013b). 
+A interdisciplinaridade e a transversalidade estão presentes no desenvolvimento 
+curricular.  Os  componentes  curriculares  ofertados  no  mesmo  semestre  estabelecem 
+relação de análise e interpretação de conteúdo, com o fim de propiciar condições de 
+apropriação, pelo estudante, de um conhecimento mais complexo e contextualizado. Essa 
+estratégia de abordagem e tratamento do conhecimento é aplicada ao longo do curso. 
+Assim, considera-se entrelaçados os componentes curriculares ao longo do curso. 
+A aplicação da transversalidade parte do pressuposto de que a complexidade dos 
+temas da engenharia elétrica não pode ser resolvida a partir de componentes curriculares 
+25 
+ 
+isolados  e  nem  pela  somatória  deles.  Portanto,  o  ensino  da  engenharia  envolve  a 
+complexidade que responde aos problemas relacionados a esta temática. Assim, o uso da 
+transversalidade ao longo do curso norteia para uma formação integrada relacionada com 
+as  questões  atuais  da sociedade como  a questão ambiental,  os  direitos  humanos, as 
+relações  étnico-raciais,  a  ética,  temas  relacionados  à  pessoa  com  deficiência  nos 
+respectivos  campos  de  conhecimento  para  contemplar  a  lei  13146/2015,  o  uso  das 
+tecnologias na prática do engenheiro eletricista e a preocupação social

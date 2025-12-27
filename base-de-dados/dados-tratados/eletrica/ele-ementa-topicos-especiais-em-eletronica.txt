@@ -1,0 +1,14 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Tópicos Especiais em Eletrônica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+CO-REQUISITOS
+Conteúdo específico para novas tecnologias e/ou para assuntos não abordados ao longo do curso que
+irão contribuir para o eixo formativo na
+ênfase de Automação e Controle. Tópicos abordados conforme estratégia acadêmica da coordenação do
+curso, NDE e colegiado.
+Bibliografia básica conforme o conteúdo a ser ministrado.
+Bibliografia complementar conforme conteúdo a ser ministrado.
+ÊNFASES DE ELETROTÉCNICA

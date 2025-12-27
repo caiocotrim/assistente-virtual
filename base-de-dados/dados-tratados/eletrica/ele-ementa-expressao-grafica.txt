@@ -1,0 +1,21 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Expressão Gráfica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+15 45 0 0 0 60
+CO-REQUISITOS
+Instrumentação, normas e convenções. Construções geométricas fundamentais. Métodos descritivos.
+Mudanças de planos. Rotação (rebatimento)
+de planos. Sistemas de projeções e perspectivas axonométricas.
+PRINCIPE JÚNIOR, A. R. Noções de geometria descritiva Vol. 1. São Paulo: Nobel, 1983. 311 p.
+PRINCIPE JÚNIOR, A. R. Noções de geometria descritiva Vol. 2. São Paulo: Nobel, 1983. 327 p.
+BUENO, C. P.; PAPAZOGLOU, R. S. Desenho técnico para engenharias. Curitiba: Juruá Editora, 2008. 196 p.
+VOLLMER, D. Desenho técnico. Rio de Janeiro: Ao Livro Técnico, 1982. 114 p. MAGUIRE, D. E.; SIMMONS,
+C. H. Desenho Técnico. Rio de Janeiro:
+Hemus, 2004. 257 p.
+CARVALHO, B. A. Desenho geométrico. 3 ed. Rio de Janeiro: Ao Livro Técnico, 2005. 332 p.
+MICELI, M. T.; FERREIRA, P. Desenho técnico básico. 4 ed. Rio de Janeiro: Imperial Milênio, 2010. 143 p.
+FRENCH, T. E.; VIERCK. C. J. Desenho Técnico e tecnologia gráfica. 8 ed. São Paulo: Globo, 2011. 1093 p.
+MAGUIRE, D. E.; SIMMONS, C. H. Desenho Técnico. Rio de Janeiro: Hemus, 2004---
+SEMESTRE 2

@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Instrumentação Eletrônica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica
+45 15 0 0 0 60
+CO-REQUISITOS
+Técnicas de medição, instrumentos analógicos e digitais. Erros de medição, quantização, ruídos.
+Condicionadores de sinais. Amplificadores para
+Instrumentação. Transdutores de posição, nível, temperatura, força, vazão, aceleração, etc.
+Características dos medidores: precisão, resolução,
+calibração, linearidade. Utilização de sensores inteligentes. Equipamentos de medição virtual.
+BALBINOT, A. e BRUSAMARELLO, V.J. Instrumentação e Fundamentos de Medidas. Rio de Janeiro. Editora LTC, 2006, Volume I.
+BHUYAN, Manabendra. Instrumentação Inteligente: Princípios e Aplicações. LTC, 2013.
+AGUIRRE, Luis. Fundamentos de Instrumentação. Pearson, 2013.
+FIGLIOLA, Richard S.; BEASLEY, Donald E. Teoria e projeto para medições mecânicas. Rio de Janeiro: LTC, 2007.
+FIALHO, Arivelto Bustamante. Instrumentação industrial: conceitos, aplicações e análises. 4. ed.
+rev. e atual. São Paulo: Livros Érica, 2006.
+THOMAZINI & ALBUQUERQUE, Sensores indústrias, fundamentos e Aplicações. 7ª edição, Editora Erica, 2011.
+BALBINOT, A. e BRUSAMARELLO, V.J. Instrumentação e Fundamentos de Medidas. Volume II. Rio de Janeiro. Editora LTC, 2006.
+ALVES, J. J. L. A. Instrumentação, Controle e Automação de Processos. 2ª ed. Rio de Janeiro: LTC, 2010

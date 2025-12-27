@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas Digitais
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Introdução à Programação
+60 15 0 0 0 75
+CO-REQUISITOS
+Sistemas de numeração e códigos binários. aritmética binária. Portas lógicas. Álgebra de Boole.
+Análise e síntese de circuitos combinacionais. Análise
+e síntese de circuitos sequenciais. Conceitos de projeto de sistemas digitais com circuitos
+universais. Introdução à lógica programável. Aplicações em
+automação e controle.
+VAHID, Frank. Sistemas Digitais. Bookman, 2008.
+TOCCI, Ronald, WIDMER, Neal, MOSS, Gregory. Sistemas Digitais: princípios e aplicações. 11ª Ed. Pearson, 2011.
+PEDRONI, Volnei A. Eletrônica Digital Moderna e VHDL. Elsevier, 2010.
+FLOYD, Thomas. Sistemas Digitais: projeto, otimização e HDLs. 9ª Ed. Bookman, 2007.
+PEDRONI, Volnei A. Circuit Design and Simulation with VHDL. 2nd Ed. MIT Press, 2010.
+SEDRA, Adel S., SMITH, Kenneth C. Microeletrônica. 5ª Ed. Pearson, 2007.
+ERCEGOVAC, Milos LANG, Tomás, MORENO, Jaime H. Introdução aos Sistemas Digitais. Porto Alegre:
+Bookman, 2000.. Ed. Érica, 2011.
+AGARWAL, C. B., Digital Principles and Circuits. Global Media, 2006.---

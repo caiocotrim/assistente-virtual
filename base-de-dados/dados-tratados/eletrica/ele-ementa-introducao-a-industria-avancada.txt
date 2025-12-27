@@ -1,0 +1,21 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução a Indústria Avançada
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Analógico
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução a industria 4.0, Inteligencia artificial, Robotica avançada, Internet das coisas,
+Manufatura Aditiva, Realidade Virtual, Realidade
+aumentada.
+Stevan Junior SL, Leme MO, Santos MM. Indústria 4.0 – Fundamentos. Perspectivas e Aplicações. São Paulo: Érica, 2018.
+Schwab KA. Quarta Revolução Industrial. 1a ed. São Paulo: EDIPRO, 2016.
+Dias EM, Dias LM, Brito E. Automação & Sociedade: Quarta Revolução Revolução
+Firjan. Indústria 4.0 no Brasil: oportunidades, perspectivas e desafios. SENAI e Finep. Jan 2019.
+Brynjolfsson E, & McAfee A. (2014). The second machine age: Work, progress, and prosperity in a time
+of brilliant technologies. WW Norton &
+Company (disponível em PDF).
+Gilchrist A. Industry 4.0: The Industrial Internet of Things. 1a. New York: Apress, 2016.
+Volpato N. Manufatura Aditiva: Tecnologias e aplicações da impressão 3D. 1a ed. São Paulo: Blucher, 2017.
+Hurwitz , Nugent A, Halper F, Kaufman M. Big data para leigos. 1a ed. Rio de Janeiro: Alta books, 2015.

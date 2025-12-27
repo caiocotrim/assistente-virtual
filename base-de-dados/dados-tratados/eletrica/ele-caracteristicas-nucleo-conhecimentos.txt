@@ -1,0 +1,92 @@
+CARACTERÍSTICAS DOS NÚCLEOS DE CONHECIMENTOS 
+Conforme  as  DCNs  dos  cursos  de  engenharia  (DCN,  2019),  todo  curso  de 
+engenharia,  independente  da  sua  modalidade  deve  estruturar  suas  componentes 
+curriculares  em  um  núcleo  de  conteúdos  básicos,  um  núcleo  de  conteúdos 
+profissionalizantes e um núcleo de conteúdos específicos que caracterizam a modalidade. 
+Além  disso,  a  Extensão  Curricular,  o  Projeto  Final  de  Curso  (PFC),  o  Estágio 
+Supervisionado  e  as  Atividades  Curriculares  Complementares  (ACC)  de  Graduação 
+complementam a formação do acadêmico de forma coerente com a proposta do curso, 
+oferecendo  ao  aluno  a  oportunidade  de  aplicar  seus  conhecimentos  em  Engenharia 
+Elétrica.  
+O curso está organizado em dez semestres, perpassando por uma proposta de 
+integração vertical e horizontal. A primeira busca integrar o conjunto dos componentes 
+curriculares ofertados ao longo dos cinco anos e a segunda visa articular os componentes 
+curriculares dos três núcleos de conteúdo do curso ofertados em cada semestre. Essa 
+articulação que perpassa a formação do engenheiro eletricista ressalta a importância da 
+ligação  entre  teoria  e  prática,  aproximando  os  discentes  da  realidade  do  mundo  do 
+trabalho. Os principais problemas postos pela prática profissional são apresentados e 
+vivenciados em componentes curriculares práticos, nos laboratórios, em visitas técnicas, 
+no estágio, em atividades de extensão e em atividades de pesquisa. A relação teórico-
+prática corporifica o trabalho docente, considerando que essa articulação tem origem na 
+própria atuação docente e orienta a mesma, possibilitando o confrontamento empírico 
+com  a  realidade  profissional  que  resulta  na  compreensão  e  realização  do  processo 
+dialético da aprendizagem. Uma formação que contempla essa demanda teórico-prática 
+possibilita a superação entre teoria e prática e poderá proporcionar a superação das 
+dificuldades dos discentes. 
+26 
+ 
+Os três núcleos curriculares disponibilizam componentes curriculares optativos 
+com a finalidade de favorecer a flexibilidade curricular. As DCNs para os cursos de 
+engenharia substituem o conceito rígido de grade curricular para um mais amplo que pode 
+ser traduzido pelo conjunto de experiências de aprendizado que o estudante incorpora 
+durante o seu processo formativo. No sentido desse currículo mais amplo, no curso de 
+Engenharia Elétrica do IFBA, campus de Vitória da Conquista a flexibilidade é acolhida 
+através da oferta de disciplinas optativas, apresentando a possibilidade de desamarrar a 
+estrutura rígida de condução do curso e favorecer ao estudante imprimir ritmo e direção 
+ao seu curso. Para um maior espectro de atuação profissional o currículo do curso de 
+Engenharia Elétrica do IFBA, campus de Vitória da Conquista oferece disciplinas que 
+cobrem as três ênfases do curso: Automação e Controle, Eletrônica e Eletrotécnica. 
+Para integralizar o currículo pleno, o aluno deverá cumprir toda a carga horária 
+prevista para as componentes curriculares referentes à: 
+  Núcleo de conteúdos básicos; 
+  Núcleo de conteúdos profissionalizantes; 
+  Núcleo de conteúdos específicos e optativos; 
+  Atividades curriculares de extensão; 
+  Estágio supervisionado obrigatório; 
+  Projeto final de curso; 
+  Atividades curriculares complementares; 
+A  Tabela  4 ilustra  a composição  da  carga  horária  dos  grupos  em  termos  da 
+distribuição dos núcleos curriculares. 
+Tabela 4 – Composição de carga horária por núcleos curriculares. 
+Totalização das Cargas Horárias  Horas (relógio)  Créditos  % C.H. Total 
+C. H. Conteúdo Básico  1185  79  30,04 % 
+C. H. Conteúdo Profissionalizante  720  48  18,25 % 
+C. H. Conteúdo Específico e Optativo  1350  90  34,24 % 
+C. H. Atividades Curriculares de Extensão  405  27  10,27 % 
+C. H. Estágio Supervisionado   165  11  4,18 % 
+C. H. Projeto Final de Curso   60  4  1,52 % 
+C. H. Atividades Curriculares Complementares  60  4  1,52 % 
+Carga Horária Total  3945  263  100% 
+ 
+4.1.1.  Núcleo de Conteúdos Básicos 
+As  componentes  curriculares  relacionadas  ao  núcleo  de  conteúdo  básico  são 
+aquelas  associadas  à  base  da  formação  de  matemática,  física,  química  e  ciências 
+gerenciais.  As  componentes  curriculares  do  núcleo  básico  estão  localizadas, 
+preferencialmente, nos primeiros semestres, obedecendo à ordem natural de evolução de 
+conteúdo.  A  estrutura  curricular  proposta  considera  as  recomendações  feitas  pelo 
+parágrafo 3°, do artigo 9°, da Resolução CNE/CES 02/2019: 
+ 
+§ 3º Devem ser previstas as atividades práticas e de laboratório, tanto 
+para os conteúdos básicos como para os específicos e profissionais, 
+com  enfoque  e  intensidade  compatíveis  com  a  habilitação  da 
+engenharia, sendo indispensáveis essas atividades nos casos de Física, 
+Química e Informática. 
+4.1.2.  Núcleo de Conteúdos Profissionalizantes 
+O  núcleo  de  conteúdos  profissionalizantes  versa  sobre  tópicos  diretamente 
+relacionados às competências que se propõe a desenvolver com o curso de Engenharia 
+Elétrica. 
+4.1.3.  Núcleos de Conteúdos Específicos 
+O núcleo de conteúdos específicos se constitui em extensões e aprofundamentos 
+do Núcleo de Conteúdo Profissionalizante, bem como de outros tópicos destinados a 
+caracterizar a modalidade Engenharia Elétrica, assim como as ênfases do curso. Este 
+conteúdo  constitui-se  em  conhecimentos  científicos,  tecnológicos  e  instrumentais 
+necessários  para  a  definição  da  modalidade  e  assegura  o  desenvolvimento  das 
+competências e habilidades previstas para o curso. 
+De acordo com o parágrafo 2° do artigo 9°, da Resolução CNE/CES 02/2019, os 
+núcleos de formação profissionalizante e específico se caracterizam por concentrarem 
+disciplinas profissionalizantes e especificas dos cursos de Engenharia: 
+ 
+§2º Além desses conteúdos básicos, cada curso deve explicitar no 
+Projeto Pedagógico do Curso os conteúdos específicos e profissionais, 
+assim como os objetos de conhecimento e as atividades necessárias 
+para o desenvolvimento das competências estabelecidas.

@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Gerência, Planejamento e Controle da Produção
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Administração
+60 0 0 0 0 60
+CO-REQUISITOS
+Gerência da qualidade total. Conceito de sistema produtivo. Gerenciamento da produção no contexto
+atual. Atividades básicas de PCP. Sistemas
+utilizados no PCP. Integração entre o PCP e uma estratégia de manufatura.
+CORRÊA, H. L.; GIANESI, I. G. N.; CAON, M. Planejamento, Programação e Controle da Produção (MRP II
+/ ERP: conceitos, uso e implantação). 2a.
+edição, São Paulo: Gianesi Corrêa & Associados. Atlas. 2001.
+SLACK, N.; CHAMBERS, S.; JOHNSTON, R. Administração da Produção. 2a. edição, São Paulo: Atlas, 2002.
+ROSSOMANO, Victor Henrique. Planejamento e Acompanhamento da Produção. Editora Pioneira.
+DAVIS, Mark M.; AQUILANO, Nicholas J.; CHASE, Richard B. Fundamentos da administração da produção.
+3. ed. Porto Alegre: Bookman, 2001.
+GAITHER, N. e FRAZIER, G. Administração da Produção e Operações. 8. ed. São Paulo: Ed. Thomson Learning, 2001.
+RITZMAN, Larry P.; KRAJEWSKI, Lee J. Administração da produção e operações. São Paulo: Pearson Prentice Hall, 2004.
+STEVENSON, W. J. Administração das operações de produção. 6. ed. Rio de Janeiro: LTC, 2001.
+TUBINO, D. F. Planejamento e Controle da Produção: teoria e prática. 2. Ed. São Paulo: Atlas, 2009.

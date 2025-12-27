@@ -1,0 +1,21 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Projeto em Engenharia Elétrica I
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Metodologia da Pesquisa Científica
+30 0 0 0 0 30
+CO-REQUISITOS
+Elaboração de um projeto de pesquisa de Projeto Final de Curso sob orientação docente, versando
+sobre tema relevante de Engenharia Elétrica.
+Revisões bibliográficas, dimensionamentos e pesquisa.
+BRANDÃO, C. R. A pergunta a várias mãos: a experiência da pesquisa no trabalho do educador. São Paulo: Cortez, 2003.
+CHIZZOTTI, A. Pesquisa em ciências humanas e sociais. 4 ed. São Paulo: Cortez, 2000.
+SEVERINO, A. J. Metodologia do trabalho científico. 21 ed. São Paulo: Cortez, 2000.
+ANDRADE, Maria Margarida de, HENRIQUES, Antonio. Língua Portuguesa: Noções básicas para cursos
+superiores. 8.ed. São Paulo: Atlas, 2008.
+FACHIN, Odília. Fundamentos de metodologia. 5. ed. São Paulo: Saraiva, 2006.
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas, 2002.
+LAKATOS, Eva Maria; MARCONI, Maria de Andrade. Metodologia do trabalho científico. 7.ed. São Paulo: Atlas, 2007.
+SALOMON, Délcion Vieira. Como fazer uma monografia. 11. ed. São Paulo: Martins Fontes, 2004.
+PLANO DE ENSINO DE ENGENHARIA ELÉTRICA

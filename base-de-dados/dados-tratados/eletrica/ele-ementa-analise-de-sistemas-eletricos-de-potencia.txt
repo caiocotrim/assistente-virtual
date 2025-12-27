@@ -1,0 +1,37 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Análise de Sistemas Elétricos de Potência
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Modelos dos equipamentos do sistema de potência. Modelo de usina geradoras. Modelo de
+transformadores. Banco de transformadores
+monofásicos (Y-Y, Δ-Δ e Y-Δ). Transformador defasador. Transformadores com três enrolamentos.
+Transformador regulador e outros. Modelos de
+Linhas de transmissão: cálculo de parâmetros de uma linha de transmissão (resistência, indutância e
+capacitância). Relações entre tensões e
+correntes em sistemas de transmissão: linha curta, linha média e linha longa. Linha com e sem
+perdas. SIL da linha (Surge Impedance Loading).
+Modelos de carga (medição e estimação da característica da carga pelo método dos mínimos quadrados;
+modelos de impedância constante,
+corrente constante, potência constante e ZIP. Matriz admitância de barra. Matriz de impedância de
+barra. Estudo de fluxo de potência (equações
+básicas). Aplicação dos métodos de Gauss e Gauss-Seidel e de Newton-Raphson. Introdução ao método
+desacoplado rápido. Curto-circuito
+(conceitos, tipos de curto-circuito, curto simétrico, condições de pré-falta, componentes
+simétricas, curtos-circuitos assimétricos). Redes de
+sequência (modelos de sistema voltados ao estudo de curto). Introdução à estabilidade em sistemas de
+potência. Modelagem computacional dos
+algoritmos de fluxo de carga e de faltas elétricas.
+ELGERD, O.. Introdução à Teoria de Sistemas de Energia Elétrica. Ed. McGraw-Hill;
+ROBBA, J. E. Introdução a Sistemas Elétricos de Potência – Componentes Simétricos. Ed. Edgard Blucher.
+STEVENSON, W. Elementos de Análise de Sistemas de Potência. Ed. McGraw-Hill
+CAMINHA, Amadeu Casal, Introdução à Proteção dos Sistemas Elétricos. Editora: Edgard Blucher.
+OLIVEIRA, C.C.B de; SCHMIDT, H.P., KAGAN, N., ROBBA, E.J. Introdução a sistemas elétricos de
+potência: Componentes simétricas. 2. ed. rev. e
+ampl. São Paulo: Edgard Blucher, 2007.
+ZANETA Jr., L.C. Fundamentos de Sistemas Elétricos de Potência. Editora Livraria da Física, 2008.
+KINDERMANN, Geraldo. Curto-circuito. 5. ed. mod. amp. Florianópolis: Ed. do Autor, 2010. 239 p. ISBN 9788590085393.
+SAADAT, Hadi. Power system analysis. 2nd ed. Boston: McGraw Hill, c2002. xix,712p. ISBN 9780072847963.

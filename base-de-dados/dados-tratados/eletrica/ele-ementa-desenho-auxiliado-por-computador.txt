@@ -1,0 +1,32 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Desenho Auxiliado por Computador
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+30 15 0 0 0 45
+Expressão Gráfica
+Introdução à Programação
+CO-REQUISITOS
+Introdução ao Projeto Arquitetônico. Ergonomia e Antropometria. Metodologias para projetos
+específicos com ênfase na acessibilidade espacial.
+Projeto de acessibilidade conforme a NBR 9050/2015. Modelagem computacional 2D/3D. Resolução de
+problemas geométricos. Gráfica
+computacional aplicada ao Desenho Projetivo. Técnicas de visualização computacional dos modelos elaborados.
+MACDOWELL, I.; GOMES, A. R. C. Autocad 2000: curso passo a passo. 2 ed. Goiânia: Editora Terra, 2001. 128 p.
+OMURA, G.; CALLORI, B. R. Autocad 2000: guia de referência. São Paulo: Makron Books, 2000. 333 p.
+FRENCH, T. E.; VIERCK. C. J. Desenho Técnico e tecnologia gráfica. 8 ed. São Paulo: Globo, 2011. 1093 p.
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 9050: Acessibilidade a edificações,
+mobiliário, espaços e equipamentos. Rio
+de Janeiro: ABNT, 2015.
+BERNARDES, M. M. S.; PIRES, R. W.; SCHWETZ, P. F. Apostila de Autocad 2022. Porto Alegre: UFRGS,
+2021, 83 p. Disponível em:<
+https://lume.ufrgs.br/bitstream/handle/10183/232419/001134399.pdf?sequence=1&isAllowed=y > . Acesso
+em: 01 de agosto de 2022.
+CARVALHO, B. A. Desenho geométrico. 3 ed. Rio de Janeiro: Ao Livro Técnico, 2005. 332 p.
+GONÇALVES, A. C.; DIAS, A. B.; SOUSA, A.; GUIMARÃES, R. C. Desenho técnico assistido por computador:
+elementos de apoio para unidade
+curricular. Évora: Universidade de Évora, 2011. Disponível em:<
+https://dspace.uevora.pt/rdpc/bitstream/10174/4786/5/Apontamentos_teoricos_DTAC_ 2011.pdf>. Acesso
+em: 12 de março de 2017.
+MICELI, M. T.; FERREIRA, P. Desenho técnico básico. 4 ed. Rio de Janeiro: Imperial Milênio, 2010. 143 p.
+QUARTO SEMESTRE

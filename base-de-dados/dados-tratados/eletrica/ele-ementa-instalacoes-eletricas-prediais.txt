@@ -1,0 +1,34 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Instalações Elétricas Prediais
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+60 15 0 0 0 75
+CO-REQUISITOS
+Introdução às instalações elétricas e normas técnicas vigentes. Noções de projeto. Dimensionamento e
+distribuição de circuitos de força e
+iluminação baseados nas normas técnicas vigentes. Diagramas de ligação de interruptores, sensores de
+presença, e tomadas em planta baixa.
+Dimensionamento de eletrodutos e condutores. Dimensionamento de dispositivos proteção e
+alimentadores. Cálculo de fator de demanda.
+Sistemas de aterramentos aplicados em instalações elétricas. Desenhos de diagramas elétricos
+unifilares e multifilares. Dimensionamento de
+medidores de energia elétrica individuais e coletivos com base nas normas da concessionária local.
+Balanceamento de carga em instalações
+trifásicas. Introdução a análise e dimensionamento de sistema de proteção contra descargas
+atmosféricas (SPDA). Introdução ao cabeamento
+estruturado.
+COTRIM, Ademaro A. M. B. Instalações elétricas. 4. ed. São Paulo: Pearson Prentice Hall, 2005. 678 p.
+CREDER, Hélio. Instalações elétricas. 15. ed. Rio de Janeiro: LTC, 2006. 479 p.
+MAMEDE FILHO, João. Instalações elétricas industriais: Exemplo de aplicação de projeto. 6. ed. Rio
+de Janeiro: LTC, 2001. 777 p.
+LIMA FILHO, Domingos Leite. Projetos de instalações elétricas prediais. 12. ed. São Paulo: Érica, 2011. 272 p.
+KANASHIRO, Nelson Massao; NERY, Norberto. Instalações Elétricas Industriais, São Paulo: Editora Érica, 2014.
+Associação Brasileira de Normas Técnicas. Iluminância de Interiores: NBR ISSO/CIE 8995-1. Rio de
+Janeiro: ABNT, 2013.46p.
+Associação Brasileira de Normas Técnicas. Instalações elétricas de baixa tensão: NBR 5410. Rio de
+Janeiro: ABNT, 2005. 128 p.
+Associação Brasileira de Normas Técnicas. Proteção de estruturas contra descargas atmosféricas parte
+2: gerenciamento de risco: NBR 5419-2. Rio
+de Janeiro: ABNT, 2015. 104 p.

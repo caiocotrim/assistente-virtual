@@ -1,0 +1,108 @@
+Tabela 6 – Componentes curriculares do primeiro semestre. 
+1º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. 
+Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Álgebra Vetorial e Geometria Analítica -  -  B  4  60  -  -  -  -  60 
+Cálculo Diferencial e Integral I  -  -  B  4  60  -  -  -  -  60 
+Expressão Gráfica  -  -  P  4  15  45  -  -  -  60 
+Física I  -  -  B  4  60  -  -  -  -  60 
+Introdução à Engenharia Elétrica  -  -  P  2  30  -  -  -  -  30 
+Introdução à Programação  -  -  P  4  -  60  -  -  -  60 
+Química Geral  -  -  B  4  45  15  -  -  -  60 
+Totais 1º Semestre:  26  270  120  -  -  -  390 
+
+Tabela 7 – Componentes curriculares do segundo semestre. 
+2º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Álgebra Linear   Álgebra Vetorial e Geometria 
+Analítica  -  B  4  60  -  -  -  -  60 
+Cálculo Diferencial e Integral II   Cálculo Diferencial e Integral I  -  B  4  60  -  -  -  -  60 
+Física II   Física I Cálculo Diferencial e Integral I Laboratório de Física Experimental I  B  4  60  -  -  -  -  60 
+Introdução à Ciência dos Materiais   Química Geral  -  P  4  60  -  -  -  -  60 
+Física Experimental I   Física I   Física II  B  4  -  60  -  -  -  60 
+Sistemas Digitais    Introdução à Programação  -  P  5  60  15  -  -  -  75 
+Técnicas de Programação   Introdução à Programação  -  P  4  -  60  -  -  -  60 
+Totais 2º Semestre:  29  300  135  -  -  -  435 
+
+Tabela 8 – Componentes curriculares do terceiro semestre. 
+3º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H.Total 
+Cálculo Diferencial e Integral III   Cálculo Diferencial e Integral II  -  B  4  60  -  -  -  -  60 
+Desenho Auxiliado por Computador   Expressão Gráfica   Introdução à Programação -  P  3  30  15  -  -  -  45 
+Equações Diferenciais Ordinárias   Álgebra Linear  Cálculo Diferencial e Integral II -  B  4  60  -  -  -  -  60 
+Física III   Física II  Cálculo Diferencial e Integral II  Laboratório de Física Experimental II B  4  60  -  -  -  -  60 
+Física Experimental II   Física I Cálculo Diferencial e Integral II   Física III  B  4  -  60  -  -  -  60 
+Mecânica dos Sólidos   Física I  -  B  4  60  -  -  -  -  60 
+Probabilidade e Estatística   Cálculo Diferencial e Integral II  -  B  4  60  -  -  -  -  60 
+Totais 3º Semestre:  27  330  75  -  -  -  405 
+
+Tabela 9 – Componentes curriculares do quarto semestre. 
+4º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+ACEX I  -  -  Ex  6  -  -  90  -  -  90 
+Cálculo Numérico   Equações Diferenciais Ordinárias  Introdução à Programação -  B  4  45  15  -  -  -  60 
+Ciências do Ambiente  -  -  B  2  30  -  -  -  -  30 
+Circuitos Elétricos I   Física III  Equações Diferenciais Ordinárias -  P  5  60  15  -  -  -  75 
+Eletromagnetismo   Física III  Cálculo Diferencial e Integral III -  P  5  60  15  -  -  -  75 
+Métodos Matemáticos para Engenharia   Equações Diferenciais Ordinárias  -  P  4  60  -  -  -  -  60 
+Resistência dos Materiais I   Mecânica dos Sólidos  -  B  3  45  -  -  -  -  45 
+Totais 4º Semestre:  29  300  45  90  -  -  435
+ 
+Tabela 10 – Componentes curriculares do quinto semestre. 
+5º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+ACEX II   ACEX I  -  Ex  6  -  -  90  -  -  90 
+Análise de Sinais e Sistemas   Métodos Matemáticos para Engenharia  -  E  4  60  -  -  -  -  60 
+Circuitos Elétricos II   Circuitos Elétricos I  -  E  5  60  15  -  -  -  75 
+Dispositivos Eletrônicos   Circuitos Elétricos I  -  E  5  60  15  -  -  -  75 
+Fenômenos de Transporte   Física II  Equações Diferenciais Ordinárias -  P  4  60  -  -  -  -  60 
+Ondas e Linhas   Eletromagnetismo  -  E  4  45  15  -  -  -  60 
+Totais 5º Semestre:  28  285  45  90  -  -  420 
+
+Tabela 11 – Componentes curriculares do sexto semestre. 
+6º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+ACEX III   ACEX II  -  Ex  6  -  -  90  -  -  90 
+Combate a Incêndio    Fenômenos de Transporte  Expressão Gráfica -  P  4  60  -  -  -  -  60 
+Controle Analógico   Análise de Sinais e Sistemas  -  E  5  60  15  -  -  -  75 
+Conversão Eletromecânica   Eletromagnetismo  Circuitos Elétricos II -  E  5  60  15  -  -  -  75 
+Eletrônica   Dispositivos Eletrônicos  -  E  5  60  15  -  -  -  75 
+Sistemas Elétricos de Potência   Cálculo Numérico  Circuitos Elétricos II -  E  5  60  15  -  -  -  75 
+Totais 6º Semestre:  30  300  60  90  -  -  450  
+ 
+Tabela 12 – Componentes curriculares do sétimo semestre. 
+7º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+ACEX IV   ACEX III  -  Ex  6  -  -  90  -  -  90 
+Controle Digital   Controle Analógico  -  E  5  60  15  -  -  -  75 
+Eletrônica de Potência   Eletrônica  -  E  5  60  15  -  -  -  75 
+Ênfase I  -  -  E  4  60  -  -  -  -  60 
+Instalações Elétricas Prediais    Sistemas Elétricos de Potência  -  E  5  60  15  -  -  -  75 
+Máquinas Elétricas   Conversão Eletromecânica  -  E  5  60  15  -  -  -  75 
+Totais 7º Semestre:  30  300  60  90  -  -  450
+
+Tabela 13 – Componentes curriculares do oitavo semestre. 
+8º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+ACEX V   ACEX IV  -  Ex  3  -  -  45  -  -  45 
+Economia  -  -  B  2  30  -  -  -  -  30 
+Ênfase II  -  -  E  4  60  -  -  -  -  60 
+Ênfase III  -  -  E  4  60  -  -  -  -  60 
+Ênfase IV  -  -  E  4  60  -  -  -  -  60 
+Higiene e Segurança do Trabalho  -  -  B  2  30  -  -  -  -  30 
+Metodologia da Pesquisa Científica  -  -  B  2  30  -  -  -  -  30 
+Totais 8º Semestre:  21  270  -  45  -  -  315 
+
+ 
+Tabela 14 – Componentes curriculares do nono semestre. 
+9º Semestre  Pré-Requisitos  Co-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Administração  -  -  B  2  30  -  -  -  -  30 
+Ênfase V  -  -  E  4  60  -  -  -  -  60 
+Ênfase VI  -  -  E  4  60  -  -  -  -  60 
+Optativa I  -  -  O  4  60  -  -  -  -  60 
+Optativa II  -  -  O  4  60  -  -  -  -  60 
+Projeto em Engenharia Elétrica I   Metodologia da Pesquisa Científica  -  PFC  2  30  -  -  -  -  30 
+Totais 9º Semestre:  20  300  -  -  -  -  300 
+ 
+Tabela 15 – Componentes curriculares do décimo semestre. 
+10º Semestre  Pré-Requisitos  Co-
+Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Atividades Curriculares Complementares  -  -  ACC  4  -  -  -  -  60  60 
+Estágio Supervisionado  -  -  Es  11  -  -  -  165  -  165 
+Instituições de Direito  -  -  B  2  30  -  -  -  -  30 
+Projeto em Engenharia Elétrica II   Projeto em Engenharia Elétrica I  -  PFC  2  30  -  -  -  -  30 
+Relações Étnico-Raciais  -  -  B  2  30  -  -  -  -  30 
+Sociologia do Trabalho  -  -  B  2  30  -  -  -  -  30 
+Totais 10º Semestre:  23  120  -  -  165  60  345

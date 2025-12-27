@@ -1,0 +1,29 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Acionamentos de Máquinas Elétricas
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Máquinas Elétricas
+30 30 0 0 0 60
+CO-REQUISITOS
+Introdução aos sistemas de acionamentos elétricos. Relação torque x conjugado x velocidade.
+Dimensionamento e aplicação de dispositivos para
+acionamentos de motores elétricos. Partidas eletromecânicas (tipo direta, estrela-triângulo, com
+reversão e compensadora). Partida de motor
+Dahlander. Partidas de motores de indução monofásicos. Parametrização de conversores de frequência.
+Variação de velocidade de motores
+elétricos de indução. Partida remota com conversor de frequência. Parametrização e partida de motor
+de indução com Sofstarter. Aplicações de
+motores. Acionamentos de motores elétricos com controladores lógicos programáveis. Acionamento
+remoto de motores elétricos com IHM.
+Projetos de acionamentos de motores elétricos.
+FITZGERALD, A. E.; KINGSLEY, Charles; UMANS, Stephen D. Máquinas Elétricas: com introdução à
+eletrônica de potência. Porto Alegre: Bookman,
+2006.
+FRANCHI, Claiton Moro. Acionamentos elétricos. 4. ed. São Paulo: Érica, 2010.
+MAMEDE FILHO, João. Instalações elétricas industriais. 8. ed. Rio de Janeiro, RJ: LTC, 2010
+BIM, E., Máquinas elétricas e acionamento. 3ª ed., Elsevier, Rio de Janeiro, 2014.
+DEL TORO, V. Fundamentos de Máquinas Elétricas, Prentice-Hall do Brasil, São Paulo, 2013.
+FILIPPO FILHO, G., Motor de Indução, 2ª Edição, Érica, São Paulo, 2013.
+NASCIMENTO, G. Comandos Elétricos - Teoria e Atividades, Érica, São Paulo, 2011.
+PRUDENTE, F. Automação Industrial - PLC: Teoria e Aplicações. Curso Básico. Editora LTC, 1ª ed., 2007

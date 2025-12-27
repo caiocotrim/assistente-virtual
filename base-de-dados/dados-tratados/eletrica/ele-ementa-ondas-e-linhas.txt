@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Ondas e Linhas
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletromagnetismo
+45 15 0 0 0 60
+CO-REQUISITOS
+Campos variáveis no tempo e equações de Maxweel. Campos Quasi-estáticos. Equações de onda no domínio
+do tempo e da frequência. Onda plana
+uniforme. Teoria dos Potenciais. Condições de contorno. Teorema de Poynting. Polarização de uma onda
+Plana Uniforme. Reflexão e refração em
+interfaces materiais. Solução TEM da equação de onda. Equação do Telegrafista. Parâmetros
+distribuídos de uma linha de transmissão. Linhas sem
+perdas. Linhas sem distorção. Linhas com perdas. Impedância e Admitância de uma linha de
+transmissão. Reflexão e transmissão. Ondas
+Estacionárias. Casamento de impedâncias. Carta de Smith. Materiais ópticos.
+HAYT Jr, William Hart; Buck, John A.. Eletromagnetismo. Rio de Janeiro: LTC.
+SADIKU, Matthew N. O.. Elementos de eletromagnetismo. Porto Alegre: Bookman.
+HALLIDAY, David; Resnick, Robert; Walker, Jearl. Fundamentos de Física 3: eletromagnetismo. Rio de Janeiro: LTC.
+CLAYTON R. Paul, Eletromagnetismo para Engenheiros, LTC, Rio de Janeiro.
+REITZ J. R.; Milford F. J., Christy, R.W.. Fundamentos da Teoria Eletromagnética. Editora Campus.
+KRAUS, J. D.; Fleisch, D. A.; Electromagnetics with Applications. New York, McGraw-Hill.
+EDMINISTER, J. A. Eletromagnetismo. São Paulo: McGraw-Hill do Brasil.
+WENTWORTH, S.M., Fundamentos de Eletromagnetismo com Aplicações em Engenharia. Tradução Abelardo
+Podcameni, Gláucio Lima Siqueira.
+Rio de janeiro: Livros Técnicos e Científicos Editora S.A.

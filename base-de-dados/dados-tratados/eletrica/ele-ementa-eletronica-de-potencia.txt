@@ -1,0 +1,31 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Eletrônica de Potência
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica
+60 15 0 0 0 75
+CO-REQUISITOS
+Características e princípios de operação de dispositivos semicondutores de potência: O diodo de
+Potência, o diodo Schottky, o transistor bipolar de
+Potência, o MOSFET de potência, o IGBT, o Tiristor e o GTO; Conversores CA/CC: Retificadores a Diodo
+de meia onda e onda Completa, Retificadores
+a Tiristor de meia onda e onda completa, Estudo da Comutação, retificadores com filtro capacitivo
+puro; Circuitos de Comando; Conversores CC/CC:
+Conversor Buck, Conversor Boost, Conversor Buck-bost, SEPIC, Zeta; Projeto de Dissipadores;
+Conversores CC/CA: Conversores CC/CA de Tensão e
+de corrente; Comutação Não dissipativa.
+RASHID, Muhammad H. Eletrônica de Potência, Dispositivos, Circuitos e Aplicações. 4ª Ed. São Paulo:
+Pearson Education do Brasil, 2014.
+BARBI, Ivo. Eletrônica de Potência. 6a Ed. Florianópolis: Do Autor, 2005.
+HART, DANIEL W. Eletrônica de Potência – Analise e projetos de circuitos. Ed. AMGH, 2012.
+AHMED, Ahsfaq. Eletrônica de Potência. São Paulo: Prentice Hall, 2000.
+ALMEIDA, J. L. Dispositivos Semicondutores Tiristores: controle de potência em CC e CA. São Paulo: Ed. Érica, 2011.
+DEVAIR A. e SALVADOR, P. Eletrônica de Potência - Conversores de Energia CA/CC Teoria, Prática e
+Simulação. Ed. Érica, 2011.
+MARTINS, D. Cruz, Barbi, I. Conversores CC-CC Básicos NãoIsolados, Edição dos Autores, 4° Edição
+Revisada. Site para vendas:
+http://inep.sites.ufsc.br/livros/.
+GIMENEZ, S. Pinillos e Arrabaça, D. Aparecido. Eletrônica De Potência: Conversores De Energia CA/CC
+- Teoria, Prática e Simulação, 1° Edição, Ano
+de 2011, ISBN: 9788536503714.

@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Proteção de Sistemas Elétricos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Análise de Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Filosofia geral de proteção de sistemas elétricos. Cálculo de parâmetros de linha, transitórios
+eletromagnéticos (ondas viajantes em linhas de
+transmissão, sobretensões atmosféricas e de manobras, sobretensões sustentadas, curto-circuito).
+Princípios operativos e tipos de relés. Introdução
+aos relés digitais. Proteção de sistemas elétricos (geradores, transformadores, barramentos, linhas
+de transmissão). Fundamentos da transmissão
+em corrente contínua. Curto-circuito. Introdução ao estudo da modelagem computacional aplicado na
+análise de proteção de sistemas elétricos.
+CAMINHA, Amadeu Casal. Introdução à Proteção dos Sistemas Elétricos. Edgard Blucher;
+ARAÚJO, Carlos André S; Cândido, José Roberto R.; De Souza, Flávio Câmara; Dias, Marcos Pereira,
+Proteção de Sistemas Elétricos, Editora:
+Interciência, Edição: 1/2002;
+MAMEDE FILHO, J.; MAMEDE, D. R., Proteção de Sistemas Elétricos de Potência. Rio de Janeiro: LTC, 2016.
+GREENWOOD, A., Electrical transientes in Power Systems. 2nd Ed. John Wiley & Sons, 1991.
+HEWITSON, L.G.; BROWN, M.; RAMESH, B., Practical Power System Protection. Elsevier, 2004.
+ANDERSON, P. M., Power System Protection. IEEE Press Power Engineering Series, 1999.
+DAS, J. C. Power System Analysis: Short-Circuit Load Flow and Harmonics. Marcel Dekker, 2002.
+KINDERMANN, G.; CAMPAGNOLO, J. M. Aterramento Elétrico, 5. ed., Florianópolis: Edição do autor Labplan, 2002.

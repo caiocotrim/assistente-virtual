@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Física I
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+CO-REQUISITOS
+Cinemática de partículas. Leis de Newton. Trabalho e energia. Conservação de energia. Sistema de
+partículas. Colisões. Movimento de rotação.
+Torque. Momento Angular e Rolamento.
+HALLIDAY, D; RESNICK, R; WALKER, J. Fundamentos de Física 1: mecânica. 9. ed. Rio de Janeiro: LTC, 2012.
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros: mecânica, oscilações e ondas,
+termodinâmica. 5. ed. Rio de Janeiro: LTC, 2006,
+Volume I.
+YOUNG, H D.; FREEDMAN, R. A. SEARS E ZEMANSKY. Física I: mecânica. 10. ed. São Paulo: Addison Wesley, 2005. 368 p.
+ALONSO, M.; FINN, E. J. Física: um curso universitário: mecânica. São Paulo: E. Blücher, 1972.
+HALLIDAY, D.; RESNICK, R.; KRANE, K. S. Física 1. 5. ed. Rio de Janeiro: LTC, 2004.
+JEWETT, J. W.; SERWAY, R. A. Física para cientistas e engenheiros: mecânica. Volume I. São Paulo:
+Cengage Learning, 2011.
+NUSSENZVEIG, H. M. Curso de física básica 1: mecânica. 4. ed. São Paulo: Edgard Blücher, 2009.
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear e cálculo vetorial.
+Volume II. 3. ed. Porto Alegre: Bookman, 2009.---

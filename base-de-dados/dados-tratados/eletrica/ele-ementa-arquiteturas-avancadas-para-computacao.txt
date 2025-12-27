@@ -1,0 +1,20 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Arquiteturas Avançadas para Computação
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica
+60 0 0 0 0 60
+CO-REQUISITOS
+Organização de Processador central. Teoria de paralelismo. Interconexão de processadores e memórias.
+Computação distribuída. Arquiteturas RISC
+e CISC. Arquiteturas dedicadas. Arquiteturas paralelas e escaláveis. Avaliação de desempenho.
+STALLINGS, Willians, Arquitetura e Organização de Computadores, Editora: Makron Books.
+HEURING, Vincent P.; Murdocca, Miles J., Introdução à Arquitetura de Computadores, Editora: Campus
+WEBER, Raul Fernando, Fundamentos de Arquitetura de Computadores. Editora: Sagra-luzzatto
+DELGADO, Jose; RIBEIRO, Carlos. Arquitetura de Computadores. 2. ed. Rio de Janeiro: LTC, 2009.
+MONTEIRO, Mario A. Introdução a organização de Computadores. Editora LTC, 2002.
+TOCCI Ronald, Neal Widmer e Gregory Moss, Sistemas Digitais: Princípios e Aplicações, 8a ed, Prentice-Hall, 2003;
+VAHID, Frank, Sistemas Digitais: Projeto, Otimização e HDL, Editora Bookman, 2008;
+PEDRONI, Volnei A. Eletrônica digital moderna e VHDL. Rio de Janeiro (RJ): Elsevier, c2010. [20],
+619 p. ISBN 9788535234657

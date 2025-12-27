@@ -1,0 +1,28 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas de Processamento de Áudio e Vídeo
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica
+45 15 0 0 0 60
+CO-REQUISITOS
+Estudo das características e mecanismos da percepção visual e auditiva. Características básicas da
+voz. Propriedades dos sinais de áudio e vídeo.
+Processamento analógico e digital dos sinais de áudio e vídeo. Estudo dos processos de geração,
+compressão, gravação, transmissão e recepção de
+sinais de áudio e vídeo. Circuitos e características de amplificadores de áudio. Características de
+microfones e alto-falantes.
+ABRAHAM ALCAIM . Fundamentos do Processamento de Sinais de Voz e Imagem. 1ª edição, Editora Interciência, 2011.
+ANDREAS SPANIAS, Ted Painter & Venkatraman Atti. Audio Signal Processing and Coding. 1ª edição,
+Editora John Wiley & Sons, 2007.
+MARCELO SAMPAIO ALENCAR. Televisão Digital. 2ª edição, Editora Érica, 2012.
+ITU-T Recommendation MPEG-1 Layer III | ISO/IEC 11172-3:1993 (MP3), Information technology -- Coding
+of moving pictures and associated
+audio for digital storage media at up to about 1,5 Mbit/s -- Part 3: Audio-- Part 3: Audio, 1993
+ITU-T Recommendation MPEG-2 Layer III | ISO/IEC 13818-3:1998 (MP3), Information technology --
+Generic coding of moving pictures and
+associated audio information -- Part 3: Audio, 1998
+ITU-T Recommendation H.264 | ISO/IEC 14496-10:2005 (MPEG-4), Advanced Video Coding for Generic
+Audiovisual Services, Int’l Telecomm.
+Union | Int’l Organization for Standardization, Geneva, Switzerland, 2005.
+ITU-T Recommendation H.264 | Nested context language (NCL) and Ginga-NCL, 2011.

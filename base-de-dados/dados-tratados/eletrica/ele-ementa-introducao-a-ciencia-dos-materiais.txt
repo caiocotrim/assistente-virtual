@@ -1,0 +1,25 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução à Ciência dos Materiais
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Química Geral
+60 0 0 0 0 60
+CO-REQUISITOS
+Estrutura e ligação atômica. Ligações químicas. Tipos de materiais com aplicações nos campos das
+engenharias. Estruturas cristalina e amorfa.
+Defeitos da estrutura cristalina Estruturas versus propriedades: materiais metálicos, cerâmicos e
+poliméricos. Deformação elástica e plástica..
+Introdução sobre os materiais metálicos: ligas ferrosas e não ferrosas. Diagrama de Fase Fe-C.
+Tratamento Térmico. Ensaios dos Materiais.
+Introdução sobre materiais cerâmicos, poliméricos e compósitos.
+CALLISTER JR., William D. Ciência e engenharia de materiais: uma introdução. 8. ed. Rio de Janeiro: LTC, 2012.
+VAN VLACK, Lawrence H. Princípios de ciência e tecnologia dos materiais. 4. ed. atual. e ampl. Rio
+de Janeiro: Campus: Elsevier, 1984. 567 p.
+SMITH, William F.; HASHEMI, Javad. Fundamentos de engenharia e ciência dos materiais. 5. ed. Porto Alegre: AMGH, 2012.
+CALLISTER JR., William D. Fundamentos da ciência e engenharia de materiais. 2. ed. Rio de Janeiro: LTC, 2006.
+CHIAVERINI, Vicente. Tecnologia mecânica: volume 1 - estrutura e propriedades das ligas metálicas.
+2. ed. São Paulo: Pearson, 1986. xiv, 266 p.
+GENTIL, Vicente. Corrosão. 6. ed. Rio de Janeiro: LTC, 2011.
+GERE, James M. Mecânica dos materiais. São Paulo: Cengage Learning, ©2010.
+NEWELL, James. Fundamentos da moderna engenharia e ciência dos materiais. Rio de Janeiro: LTC, 2010.---

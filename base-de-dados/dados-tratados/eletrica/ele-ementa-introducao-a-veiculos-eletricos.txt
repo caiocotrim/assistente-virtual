@@ -1,0 +1,29 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução a Veículos Elétricos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+Máquinas Elétricas
+Eletrônica de Potência
+CO-REQUISITOS
+Comparação entre veículos elétricos de combustão interna e híbridos(funcionamento de todos os
+sensores e atuadores do sistema de injeção
+direta(flex)); estruturas típicas de veículos elétricos e híbridos; índices de desempenho; baterias
+e outras fontes de energia; sistemas de
+acionamento elétrico (tração) e recarga de baterias para veículos elétricos e híbridos; infra-
+estrutura de apoio; veículos elétricos e híbridos
+comerciais.
+FITZGERALD e KINGSLEY. Máquinas Elétricas. McGraw Hill, 2014 .
+MAX MMAURO. Veículos elétricos e Híbridos: Fundamentos, Características e Aplicações. Érica, 2020.
+HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física. Eletromagnetismo. Vol. 3. 6ª
+Edição. Editora LTC, 2003.
+Tom Denton, Veículos Elétricos e Híbridos, Blucher, 2018
+MARTINS, Jorge; BRITO, F. P. Carros elétricos. 2011
+CUNHA, Vinicius Carnelossi, Aplicação de sistemas de armazenamento de energia em redes de
+distribuição com elevada penetração de geração
+fotovoltaica e veículos elétricos. 2017
+Infra-estrutura de Carregamento e Sistemas de Armazenamento para Veículos Elétricos Capa comum , M
+Venkatesh Naik, Niraj Kumar Chaudhary,
+Srinivasan Pradabane , 2021
+LARMINIE, James; LOWRY, John. Electric vehicle technology explained. John Wiley & Sons, 2012.
