@@ -1,0 +1,36 @@
+DESENVOLVIMENTO DE
+SOFTWARE PARA O ENSINO
+DE QUÍMICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Optativa Período:
+Pré-Requisito:
+Informática
+Aplicada à
+Educação
+Coordenação:
+CSI
+Ementa:
+Lógica de programação e programação estruturada. Linguagem de definição de algoritmos.
+Estrutura de um algoritmo. Estudo de linguagem de programação de aplicação didática.
+Estudo teórico e prático de linguagem de programação para aplicação dos conceitos de
+construção de programas estruturados. Linguagem de programação. Construção de
+algoritmos aplicados ao ensino da química.
+Objetivos:
+ Aplicar os conhecimentos relacionados às tecnologias de informação e comunicação,
+aliado à formação pedagógica, no sentido de desenvolver softwares para serem utilizados
+como ferramentas em sua prática profissional.
+BIBLIOGRAFIA BÁSICA:
+FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de programação: a construção
+de algoritmos e estruturas de dados. 3ª ed. São Paulo: Pearson Hall, 2008.
+SOUZA, M. A. F. Algoritmos e lógica de programação. São Paulo: Thomson, 2005.
+WIRTH, N. Algoritmos e Estruturas de Dados. Rio de Janeiro: PHB.
+BIBLIOGRAFIA COMPLEMENTAR:
+DROZDEK, A. Estrutura de dados e algoritmos em C++.São Paulo: Cengage Learning,
+2002.
+FARRER, H. et all. Programação Estruturada de Computadores: Algoritmos
+Estruturados. Rio de Janeiro: Guanabara.
+GOODRICH, M. T.; TAMASSIA, R. Estrutura de dados e algoritmos em Java. 2ª ed.
+Porto Alegre: Bookman, 2002.

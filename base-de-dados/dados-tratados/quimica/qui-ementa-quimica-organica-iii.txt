@@ -1,0 +1,39 @@
+QUÍMICA ORGÂNICA III
+Carga Horária (h) Créditos
+Teórica 30 2
+Prática - -
+TOTAL 30 2
+Obrigatória
+Período:
+Sétimo
+Pré-Requisito:
+Química
+Orgânica II
+Coordenação:
+CLIQUI
+Ementa:
+Fundamentos teóricos dos métodos espectrométricos. Métodos espectrométricos de análise
+de compostos orgânicos: UV-visível, Infravermelho (IV), Ressonância Magnética Nuclear,
+Espectrometria de Massas. Identificação de estruturas orgânicas pela interpretação de
+espectros de IV, UV, RMN e EM.
+Objetivos:
+ Fornecer ao aluno fundamentos teóricos das principais técnicas espectrométricas de
+análise instrumental, utilizada na identificação de compostos orgânicos, bem como no
+monitoramento de reações orgânicas.
+BIBLIOGRAFIA BÁSICA:
+BARBOSA, L. C. A. Espectroscopia no Infravermelho. 1. ed. Viçosa: UFV, 2011.
+PAVIA, D. L. et al. Introdução à espectroscopia. 5. ed. São Paulo: Cengage Learning,
+2020.
+SILVERSTEIN, R. M.; WEBSTER, F. X.; KIEMLE, D. J. Identificação Espectrométrica
+de Compostos Orgânicos. 8. ed. Rio de Janeiro: LTC, 2019.
+BIBLIOGRAFIA COMPLEMENTAR:
+BRUICE, P. Y. Química Orgânica. v. 2. 4. ed. São Paulo: Ed. Prentice Hall Brasil, 2006.
+MCMURRY, J. Química Orgânica. v. 1. 7. ed. São Paulo: Cengage Learning, 2011.
+MCMURRY, J. Química Orgânica. v. 2. 7. ed. São Paulo: Cengage Learning, 2011.
+BRUICE, P. Y. Química Orgânica. v. 1. 4. ed. São Paulo: Ed. Prentice Hall Brasil, 2006.
+SALA, O. Fundamentos da Espectroscopia RAMAN e no Infravermelho. 2. Ed. São
+Paulo: UNESP, 2008.
+SOLOMONS, T. W. G.; FRYHLE, C. Química Orgânica. v. 1, 9. ed., Rio de Janeiro: LTC,
+2008.
+VOLLHARDT, K. P; SCHORE, N. E. Química Orgânica – Estruturas e Funções. 6. ed.
+Porto Alegre: Bookman, 2013.

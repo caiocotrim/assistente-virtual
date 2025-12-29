@@ -1,0 +1,38 @@
+FÍSICO-QUÍMICA III
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+ensino 15 1
+TOTAL 60 4
+Optativa Período:
+Pré-Requisito:
+Físico-química
+II; Física III
+Coordenação:
+CLIQUI
+Ementa: Mecânica Quântica e estrutura atômica: noções básicas de mecânica Quântica
+compreendendo a partícula livre e confinada, o oscilador harmônico, o rotor rígido, os átomos
+de hidrogênio e hélio, suas funções de onda e níveis energéticos. II. Espectroscopia: noções
+básicas de espectroscopia rotacional, vibracional e eletrônica.
+Objetivos:
+ Compreender as questões referentes as origens da mecânica quântica (física-clássica,
+dualidade onda-partícula, radiação do corpo negro, espectros atômicos e moleculares,
+relações de De Broglie), equação de Schröndinger, interpretação de Born (probabilidade,
+normalização, quantização), densidade de probabilidade, auto valores e auto funções,
+operadores, princípio da incerteza, partícula na caixa, tunelamento, níveis de energia, funções
+de onda, movimento de rotação e o spin.
+ Compreender as ligações químicas a partir da visão quântica: Aproximação de Born
+Oppenheimer, TLV e TOM). Espectroscopia Rotacional e Vibracional, transição eletrônica
+e Ressonância Magnética.
+BIBLIOGRAFIA BÁSICA:
+BALL, D. W. Físico-química.v2. São Paulo: Thomson Learning, 2016.
+BOHR, N. Física atômica e conhecimento humano. Rio de Janeiro: Contra Ponto, 1995.
+BRAGA, J. P. Fundamentos de química quântica. Viçosa: Ed. UFV, 2010.
+TIPLER, P. A.; LLEWELLYN, R. A. Física moderna. 5ª ed. Rio de Janeiro: LTC, 2012.
+BIBLIOGRAFIA COMPLEMENTAR:
+BALL, D. W. Físico-química.v1. São Paulo: Thomson Learning, 2016.
+HALLIDAY, D.; RESNICK, R.; KRANE, K. S. Física 4. 5ª ed. Rio de Janeiro: LTC, 2004
+PIRES, A. S. T. Evolução das idéias da física. 2ª ed. São Paulo: Editora Livraria da física,
+2008.
+NUSSENZVEIG, H. M. Curso de física básica: Ótica, relatividade, física quântica.Vol.
+4. 1ª Ed. São Paulo: Editora Blucher, 2010.

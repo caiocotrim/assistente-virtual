@@ -1,0 +1,42 @@
+TRATAMENTO DE ÁGUAS E
+EFLUENTES
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática 15 1
+TOTAL 60 4
+Optativa
+Período:
+Pré-Requisito:
+Química
+Analítica II
+Coordenação:
+CEAMB
+Ementa:
+Principais Parâmetros de Qualidade da Água; Introdução aos Processos de Tratamento de
+Água e Efluentes; Coagulação; Floculação; Sedimentação; Flotação; Filtração e Desinfecção;
+Processos Oxidativos de Tratamento de Água e Efluentes; Processos Oxidativos Avançados;
+Adsorção; Troca Iônica; Membranas: Microfiltração, Ultrafiltração, Nanofiltração, Osmose
+Inversa e Eletrodiálise; Processos Biológicos Associados à Membranas. Legislação
+ambiental correlata.
+Objetivos:
+ Conhecer as principais etapas envolvidas em processos convencionais e modernos para
+tratamento de águas e efluentes líquidos.
+ Identificar na legislação vigente os parâmetros estabelecidos para o controle e a disposição
+de efluentes líquidos.
+BIBLIOGRAFIA BÁSICA:
+LEME, F. P. Teoria e técnicas de tratamento de água. 2ª Ed. Rio de Janeiro: ABES, 1990.
+VON SPERLING, M., Princípios básicos do tratamento de esgotos. Belo Horizonte:, MG:
+DESA, 1996.
+VIANNA, M. R. Casas de química para estações de tratamento de água. 2ª ed. Belo
+Horizonte: Imprimetur Artes Ltda, 2001.
+BIBLIOGRAFIA COMPLEMENTAR:
+DI BERNARDO, L.; Algas e suas influências na qualidade das águas e nas tecnologias
+de tratamento. Rio de Janeiro: ABES, 1995.
+SANT’ANA JR, G. L. S. Tratamento biológico de efluentes: Fundamentos e aplicações.
+Rio de Janeiro: Interciência, 2010.
+CAMPOS, J. R. (coord). Tratamento de esgotos sanitários por processo anaeróbico e
+disposição controlada no solo. Rio de Janeiro: ABES, 1999.
+SCHNEIDER, R. P.; TSUTIYA, M. T. Membranas filtrantes para o tratamento de água,
+esgoto e água de reuso. São Paulo: ABES, 2001.
+POVINELLI, J. (coord). Tratamento de água de abastecimento por filtração em
+múltiplas etapas. Rio de Janeiro: ABES, 1999.

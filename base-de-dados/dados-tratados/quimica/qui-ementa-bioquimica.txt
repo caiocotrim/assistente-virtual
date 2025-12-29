@@ -1,0 +1,43 @@
+BIOQUÍMICA
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática 15 1
+TOTAL 60 4
+Obrigatória
+Período:
+Oitavo
+Pré-Requisito:
+Química Orgânica II
+Coordenação:
+CLIQUI
+Ementa:
+Estudos de cinética enzimática. Metabolismo dos carboidratos. Lipídeos e proteínas.
+Bioquímica dos Péptidos e das Proteínas. Bioquímica dos Hormônios. Biossíntese e
+degradação de aminoácidos e o ciclo da uréia. DNA e replicação. RNA. Inter-relação
+metabólica. Práticas de laboratório: Microscopia Celular; Estudo prático dos tampões de
+interesse bioquímico. Técnicas e procedimentos em bioquímica. Extração, purificação e
+caracterização de proteínas. Separação cromatográfica de pigmentos vegetais. Fermentação.
+Metabolismo oxidativo.
+Objetivos:
+ Compreender os processos biológicos ao nível das transformações moleculares dos
+constituintes celulares como as biomoléculas e as principais vias metabólicas relacionadas
+ao crescimento dos organismos vivos.
+ Reconhecer as principais vias metabólicas e as enzimas atuantes, analisando a importância
+de sua regulação para o organismo.
+ Desenvolver conhecimentos básicos que levem o acadêmico a perceber a relação entre as
+reações bioquímicas e a fisiologia.
+BIBLIOGRAFIA BÁSICA:
+LEHNINGER, A. L.; NELSON, D. L.; COX, M. M. Princípios de bioquímica.5ª ed. São
+Paulo: Sarvier, 2011.
+NEPOMUCENO, M. F.; RUGGIERO, A. C. Manual de bioquímica: Roteiros de análises
+bioquímicas qualitativas e quantitativas. Ribeirão Preto: Tecmedd, 2004.
+QUEIROZ, J. H. Práticas de bioquímica. Viçosa, MG: UFV, 2012.
+BIBLIOGRAFIA COMPLEMENTAR:
+CAMPBELL, M. K. Bioquímica.3ª ed. Porto Alegre: Artmed, 2006.
+CHAMPE, P. C.; HARVEY, R. A.; FERREIR, D. R. Bioquímica ilustrada.3ª ed. Porto
+Alegre: Artmed, 2006.
+KOOLMAN, J.; ROHN, K. H. Bioquímica: Texto e Atlas.3ª ed. Porto Alegre: Artmed,
+2005.
+MARZZOCO, A.; TORRES, B. B. Bioquímica básica. 3ª ed. Rio de Janeiro: Guanabara
+Koogan, 2007.
+OTTAWAY, J. H. Bioquímica da poluição. São Paulo: EPU, 2005.

@@ -1,0 +1,38 @@
+QUÍMICA INORGÂNICA I
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória Período:
+Terceiro
+Pré-Requisito:
+Química Geral II
+Coordenação:
+CLIQUI
+Ementa:
+Tabela Periódica e Propriedades Gerais dos Elementos. Estrutura Eletrônica dos Átomos.
+Modelo Atômico de Bohr. Ligações químicas. Geometria molecular e teorias de ligação; O
+hidrogênio e seus compostos. Elementos do bloco s. Elementos do bloco p. Correlação dos
+conteúdos com o cotidiano e com o ensino de Química.
+Objetivos:
+ Identificar grupos na tabela periódica de acordo com as configurações eletrônicas dos
+elementos e relacionar a reatividade dos elementos com a forma elementar dos mesmos e
+suas configurações eletrônicas.
+ Reconhecer as energias envolvidas nos processos de ganho, perda ou compartilhamento
+de elétrons como importantes para o entendimento da reatividade dos elementos.
+ Entender as alterações de entalpia e entropia envolvidas na formação e reatividades de
+compostos dos elementos químicos.
+BIBLIOGRAFIA BÁSICA:
+KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C. Química geral e reações químicas. v. 1.
+6.ed. São Paulo: Cengage Learning, 2010..
+LEE, J. D. Química Inorgânica Não Tão Concisa. São Paulo, Edgar Blücher, 5. Ed. 1999.
+SHRIVER, D. F.; ATKINS, P. W. Química inorgânica. 4.ed. Porto Alegre: Bookman, 2008.
+BIBLIOGRAFIA COMPLEMENTAR:
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio
+Ambiente. 3.ed. Porto Alegre: Editora Bookman, 2012.
+BRADY, J. E.; HUMISTON, G.E. Química geral. v. 1. 2.ed. Rio de Janeiro: LTC, 2011.
+MAHAN, B. H.; MYERS, R.J. Química: um curso universitário. São Paulo: Edgard
+Blucher, 2005.
+RUSSELL, J.B. Química Geral. v. 1. 2.ed. São Paulo: Makron Books, 2004.

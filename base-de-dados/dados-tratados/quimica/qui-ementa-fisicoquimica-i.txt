@@ -1,0 +1,37 @@
+FÍSICO-QUÍMICA I
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória
+Período:
+Sexto
+Pré-Requisito:
+Cálculo II;
+Química Geral II
+Coordenação:
+CLIQUI
+Ementa:
+Gases reais. Estudo das relações p-v-t de substâncias puras e misturas gasosas. Princípios da
+termodinâmica. Formalismo termodinâmico: energia interna, entalpia, termoquímica,
+entropia, energia livre (Helmholt) e entalpia livre (energia de Gibbs). Potenciais
+termodinâmicos. Termodinâmica de sistema de composição variável. Equilíbrio químico.
+Objetivos:
+ Conhecer as propriedades dos gases e sua importância para o estudo da matéria.
+ Entender os processos de transformação de energia envolvidos nas transformações
+químicas e físicas da matéria.
+ Desenvolver capacidade de raciocínio científico na solução de problemas relacionados ao
+comportamento dos gases, à termoquímica e ao equilíbrio químico.
+BIBLIOGRAFIA BÁSICA:
+CASTELLAN, G. W. Fundamentos de Físico-Química. 1.ed. Rio de Janeiro: LTC, 2003.
+LEVINE, I, N. Físico-Química. Vol.1. 6.ed. Rio de Janeiro, LTC, 2016.
+MOORE, W. J. Físico-Química. Vol. 1 e 2, 4.ed. São Paulo. Edgard Blucher, 1976.
+BIBLIOGRAFIA COMPLEMENTAR:
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio
+Ambiente. Editora Bookman, 2006.
+BALL, D. W. Físico-Química. Vol. 1. São Paulo: Cengage Learning, 2016.
+MAHAN, B. H. Química: um curso universitário. 2.ed. São Paulo: Editora Edgard Blucher
+LTDA, 2005.
+RUSSEL, J. B. Química Geral. Vol. 1 e 2. São Paulo. McGraw-Hill, 2004.

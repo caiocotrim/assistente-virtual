@@ -1,0 +1,45 @@
+FÍSICA EXPERIMENTAL I
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória
+Período:
+Terceiro
+Pré-Requisito:
+Matemática
+Básica; Cálculo
+Diferencial para
+Química
+Coordenação:
+CDNC
+Ementa:
+Medidas físicas. Sistemas de unidades: processos de medidas em física, aparelhos básicos de
+medidas de comprimento, massa, tempo, tratamento de erros, representação gráfica dos
+fenômenos. Experiências sobre movimentos de sistemas mecânicos simples, movimento
+linear e angular, energia mecânica. Leis de Newton e os princípios de conservação da
+mecânica clássica.
+Objetivos:
+ Assegurar ao discente, os conhecimentos básicos de estatística, elaboração e análise de
+dados em forma de tabelas e gráficos, instrumentos de medidas e dos conceitos e
+fundamentais da Mecânica Clássica (Cinemática, Dinâmica e Leis de Conservação) suas
+aplicações buscando o desenvolvimento da capacidade de pensar sobre os fenômenos em
+termos físicos e descrevê-los em termos da linguagem matemática.
+ Investigar as técnicas e ferramentas de laboratório experimental e realizar experimentos
+que corroboram a Mecânica Clássica. A cinemática e a dinâmica das partículas, as leis da
+conservação, de energia e de momento linear, bem como a cinemática e a dinâmica de corpos
+rígidos sob a ótica experimental.
+BIBLIOGRAFIA BÁSICA:
+DAMO, H. S. FÍSICA EXPERIMENTAL I: mecânica, rotações, calor, fluidos. 2. ed.
+Caxias do Sul, RS: EDUCS, 1985.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol.1. 9. ed. Rio de
+Janeiro: LTC, 2012.
+HELENE; O.; VANIN, V. Tratamento estatístico de dados em física experimental, 2ª ed,
+E. Blücher, 1991.
+BIBLIOGRAFIA COMPLEMENTAR:
+ALONSO, M.; FINN, E. J. Física – Um curso Universitário.Vol.1. 2. ed. São
+Paulo: Edgard Blücher, 2014.
+SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física I – Mecânica. 10. ed. São
+Paulo: Addison Wesley,2005.
+SERWAY, R. A.; JEWETT JR., John W. Física para cientistas e engenheiros, volume 1:
+mecânica. São Paulo: Cengage Learning, 2017.

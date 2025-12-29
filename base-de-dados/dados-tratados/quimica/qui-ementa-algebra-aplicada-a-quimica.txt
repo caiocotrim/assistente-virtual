@@ -1,0 +1,35 @@
+ÁLGEBRA APLICADA À
+QUÍMICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Obrigatória Período:
+Segundo
+Pré-Requisito:
+Nenhum
+Coordenação:
+CDNC
+Ementa:
+Cálculo vetorial: vetores, operações com vetores. Retas. Matrizes: operações com matrizes.
+Matrizes inversas. Sistemas de equações lineares.
+Objetivos:
+ Capacitar o aluno a reconhecer, identificar e representar curvas planas e superfícies.
+ Utilizar a linguagem básica e ferramentas, na forma de matrizes e vetores, para a
+análise e resolução de alguns problemas geométricos no espaço euclidiano bi e
+tridimensional, tais como a visualização e classificação de curvas e superfícies nesses
+espaços.
+ Aplicar os Conhecimentos relacionados a Química que necessitam do uso da Álgebra.
+BIBLIOGRAFIA BÁSICA:
+ANTON, H.; RORRES, C. Álgebra linear com aplicações. 8 ed. Porto Alegre: Bookman,
+2001.
+BOLDRINI, J. L. et al. Álgebra Linear. 3 ed. São Paulo: Harbra, 1986.
+CALLIOLI, C. A; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra linear e aplicações. 6
+ed. São Paulo: Atual, 2003.
+STEINBRUCH, A.; WINTERLE, P. Álgebra linear. 2 ed. São Paulo: Makron Books, 2005.
+STEINBRUCH, A.; WINTERLE, P. Geometria analítica. 2 ed. São Paulo: Makron Books,
+2004.
+BIBLIOGRAFIA COMPLEMENTAR:
+LEHMANN, C. H. Geometria analítica. 8 ed. São Paulo: Globo, 2007.
+REIS, G. L.; SILVA, V. V. Geometria analítica. 2 ed. Rio de Janeiro: LTC, 2007.
+WINTERLE, P. Vetores e Geometria Analítica. 2 ed. São Paulo: Pearson, 2014.

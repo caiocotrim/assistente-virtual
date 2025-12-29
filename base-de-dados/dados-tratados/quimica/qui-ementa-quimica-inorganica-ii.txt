@@ -1,0 +1,40 @@
+QUÍMICA INORGÂNICA II
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória
+Período:
+Quarto
+Pré-Requisito:
+Química
+Inorgânica I
+Coordenação:
+CLIQUI
+Ementa:
+Elementos de Transição: propriedades gerais dos elementos do bloco d. Química dos Compostos
+de Coordenação: aspectos gerais e históricos. nomenclatura dos compostos de coordenação.
+Teoria do Campo Cristalino, Teoria da Ligação de Valência e Teoria do Orbital Molecular
+aplicada a compostos de coordenação. Estabilidade. Reações e aplicações. Cores associadas aos
+complexos. Correlação dos conteúdos com o cotidiano e com o ensino de Química.
+Objetivos:
+ Desenvolver conteúdos da Química Inorgânica que permita ao discente reconhecer a relação
+estrutura - reatividade nos compostos inorgânicos.
+ Estabelecer conexão entre ligações químicas, estruturas e reatividade dos mais diversos
+compostos inorgânicos.
+ Estudar a química inorgânica de coordenação, suas propriedades e aplicações. Todos estes
+conteúdos deverão estar em convergência com as práticas de ensino de química.
+BIBLIOGRAFIA BÁSICA:
+LEE, J. D. Química Inorgânica Não Tão Concisa. 5.ed .São Paulo, Edgar Blücher, 1999.
+RUSSELL, J. B. Quimica geral: v. 2. 2. ed. São Paulo: Makron Books, 2004
+SHRIVER, D. F.; ATKINS, P. W. Química inorgânica. 4.ed. Porto Alegre: Bookman, 2008.
+BIBLIOGRAFIA COMPLEMENTAR:
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio
+Ambiente. Editora Bookman, 2012.
+BRADY, J. E; Humiston, G.E. Química geral. v. 2. Rio de Janeiro: LTC, 2011.
+KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C. Química geral e reações químicas. v. 2. 6.ed.
+São Paulo: Cengage Learning, 2010.
+MAHAN, B. H.; MYERS, R.J. Química: um curso universitário. São Paulo: Edgard Blucher,
+2005.

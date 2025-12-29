@@ -1,0 +1,50 @@
+RELAÇÃO DOS COMPONENTES CURRICULARES EQUIVALENTES ENTRE AS 
+MATRIZES CURRICULARES 
+Quadro 5 - Equivalências entre os currículos 2017 e 2023. 
+Currículo 2017  Currículo 2023  Situação 
+Fundamentos da matemática (60 h) Matemática  Básica (60 h)  Mudança da ementa e atualização da bibliografia 
+Química Geral II (90 h)  Química Geral II (60 h)  Redução  da  carga  horária  e atualização da bibliografia 
+Cálculo I (60 h)  Cálculo  Diferencial  para Química (60 h) Mudança do nome, da ementa, dos pré-requisitos  e  atualização  da bibliografia 
+Cálculo II (60 h)  Cálculo  Integral  para Química (60 h) Mudança do nome, da ementa, dos pré-requisitos  e  atualização  da bibliografia 
+Geometria  Analítica  e Álgebra Vetorial (60 h) Álgebra Aplicada à Química (60 h) Mudança do nome, da ementa, dos pré-requisitos  e  atualização  da bibliografia 
+Cálculo III (30 h)  -  Exclusão  do  componente curricular 
+Física I (60 h: 45 de teoria e 15 de prática de ensino) Física I (60 h de teoria)  Mudança  da  ementa,  dos  pré-requisitos,  retirada  das  15  h  de prática  de  ensino,  aumento  da carga horária teórica de 45 para 60 h e atualização da bibliografia. 
+Física II (60 h: 45 de teoria e 15 de prática de ensino) Física II (60 h de teoria)  Mudança  da  ementa,  dos  pré-requisitos,  retirada  das  15  h  de prática  de  ensino,  aumento  da carga horária teórica de 45 para 60 h e atualização da bibliografia. 
+Física Experimental II (30 h)  Física Experimental II (30 h)  Mudança da ementa e atualização da bibliografia. 
+Física III (30 h)  Física III (30 h)  Mudança da ementa, dos objetivos, dos pré-requisitos e atualização da bibliografia
+Estágio  Supervisionado  em Química I (120 h) Estágio  Supervisionado  em Química I (90 h) Redução  da  carga  horária, atualização  da  ementa  e  da bibliografia 
+Metodologia  e  Prática  do Ensino em Química II (90 h: 30 de teoria e 60 de prática de ensino) Metodologia  e  Prática  do Ensino em Química II (90 h de prática de ensino) Mudança da ementa, dos objetivos, aumento  da  carga  horária  de prática de ensino de 60 para 90 h, assumindo  assim  as  horas  de prática  de  ensino  retiradas  das Físicas  I  e  II,  retirada  da  carga horária  teórica  e  atualização  da bibliografia. 
+Estágio  Supervisionado  em Química II (120 h) Estágio  Supervisionado  em Química II (105 h) Redução  da  carga  horária, atualização  da  ementa  e  da bibliografia 
+Estágio  Supervisionado  em Química III (135 h) Estágio  Supervisionado  em Química III (105 h) Redução  da  carga  horária  e atualização da bibliografia 
+Química Orgânica III (45 h)  Química Orgânica III (30 h)  Redução  da  carga  horária  e atualização da bibliografia 
+Estágio  Supervisionado  em Química IV (150 h) Estágio  Supervisionado  em Química IV (105 h) Redução  da  carga  horária  e atualização da bibliografia Avaliação da aprendizagem (30 h) 
+-  Exclusão do Componente 
+Didática I (60 h)  Didática (60 h)  Mudança  do  nome,  da  ementa  e dos objetivos 
+Educação Inclusiva I (30 h)  Educação  Para  Inclusão  e Diversidade (30 h) Mudança  do  nome,  da  ementa  e dos objetivos 
+Comunicação e Informação (60 h) Comunicação e Informação (60 h) Mudança da ementa e atualização da bibliografia 
+Metodologia  e  Prática  do Ensino em Química I (60 h) Metodologia  e  Prática  do Ensino em Química I (60 h) Mudança da ementa, dos objetivos, da carga horária de PE atualização da bibliografia 
+Química Orgânica I (60 h)  Química Orgânica I (60 h)  Mudança da ementa e atualização da bibliografia 
+Química  Orgânica Experimental I (60 h) Química  Orgânica Experimental I (60 h) Mudança da ementa e atualização da bibliografia 
+Química Analítica I (60 h)  Química Analítica I (60 h)  Mudança  da  ementa,  dos  pré-requisitos  e  atualização  da bibliografia 
+Química Orgânica II (60 h)  Química Orgânica II (60 h)  Mudança da ementa e atualização da bibliografia 
+Química  Orgânica Experimental II (60 h) Química  Orgânica Experimental II (60 h) Mudança da ementa e atualização da bibliografia 
+Metodologia da Pesquisa do Ensino em Química (30 h) Metodologia da Pesquisa do Ensino em Química (30 h) Mudança da ementa e atualização da bibliografia 
+Química Analítica II (60 h)  Química Analítica II (60 h)  Mudança  dos  pré-requisitos  e atualização da bibliografia 
+Físico-Química II (60 h)  Físico-Química II (60 h)  Mudança da ementa e atualização da bibliografia 
+Físico-Química Experimental II (45 h) Físico-Química Experimental II (30 h) Redução  da  carga  horária  e atualização da bibliografia  
+Química Orgânica III (45 h)  Química Orgânica III (30 h)  Redução  da  carga  horária  e atualização da bibliografia 
+Química  Analítica Instrumental (60 h) Química  Analítica Instrumental (60 h) Mudança  dos  pré-requisitos  e atualização da bibliografia 
+Química Inorgânica I (60 h)  Química Inorgânica I (60 h)  Mudança da ementa e atualização da bibliografia 
+Química  Inorgânica Experimental I (30 h) Química  Inorgânica Experimental I (30 h) Mudança da ementa e atualização da bibliografia 
+Química Inorgânica II (60 h)  Química Inorgânica II (60 h)  Mudança da ementa, dos objetivos e atualização da bibliografia 
+Química  Inorgânica Experimental II (30 h) Química  Inorgânica Experimental II (30 h) Mudança da ementa, dos objetivos e atualização da bibliografia 
+História da Química (30 h) Filosofia da Ciência (45 h) História  e  Filosofia  da Ciência  para  o  Ensino  de Química (30 h) Fusão  dos  componentes curriculares  e  redução  de  carga horária 
+Currículo  e  Novas Tecnologias (60 h) Currículo,  Tecnologias  e Diversidade na Escola (60 h) Mudança do nome, da ementa, dos objetivos  e  atualização  da bibliografia 
+Educação  de  Jovens  e Adultos (60 h) Educação  de  Jovens, Adultos e Idosos (60 h) Mudança do nome, da ementa, dos objetivos  e  atualização  da bibliografia 
+Sociologia  da  Educação  I (60 h) Sociologia  da  Educação   (60 h) 
+Mudança do nome e da ementa Filosofia  da  Educação  I     (60 h) Filosofia da Educação (30 h)  Mudança do nome, carga horária, ementa e pré-requisito 
+História  da  Educação  I      (60 h) História da Educação   (60 h)  
+Mudança do nome Psicologia  da  Educação  I (60 h) Psicologia da Educação  (60 h) Mudança  do  nome  e  de  pré-requisito 
+Informática  Aplicada  a Educação I (60 h) Informática  Aplicada  a Educação (60 h) 
+Mudança do nome Organização  da  Educação Brasileira (30h) e Avaliação de aprendizagem (30h) Políticas  e  Gestão  da Educação (60h) Mudança  de  nome,  ementa  e aumento da carga horária. 
+Química Ambiental (60h)  Química Ambiental (60h)  Mudança de pré-requisito

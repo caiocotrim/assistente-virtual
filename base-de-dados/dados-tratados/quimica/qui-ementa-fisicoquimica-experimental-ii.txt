@@ -1,0 +1,40 @@
+FÍSICO-QUÍMICA
+EXPERIMENTAL II
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória
+Período:
+Sétimo
+Pré-Requisito:
+Físico-química I;
+Físico-química
+Experimental
+Coordenação:
+CLIQUI
+Ementa:
+Práticas de laboratório: determinação dos volumes molares parciais dos componentes numa
+solução binária. Determinação do diagrama de equilíbrio líquido vapor de um sistema
+binário, usando a refratometria. Destilação fracionada. Estudo da miscibilidade parcial entre
+dois líquidos. Estudo da variação da condutância com a temperatura. Comparação entre
+eletrólitos fortes e Eletrólitos fracos. Determinação da constante de uma célula. Estudo da
+ordem de uma reação química.
+Objetivos:
+ Desenvolver no estudante a capacidade de determinar experimentalmente propriedades
+físico-químicas da matéria, de organizar os dados obtidos, bem como interpretá-los e discuti-
+los.
+ Desenvolver a capacidade de raciocínio científico na solução de problemas relacionados
+à eletroquímica, fenômenos de superfícies e cinética química.
+BIBLIOGRAFIA BÁSICA:
+BALL, D. W. Físico-química.v2. São Paulo: Thomson Learning, 2016
+CASTELLAN, G. W. Fundamentos de Físico-Química. 1.ed. Rio de Janeiro: LTC, 2003.
+MOORE, W. J. Físico-Química. Vol. 1 e 2, 4.ed. São Paulo. Edgard Blucher, 1976.
+RANGEL, R. N. Práticas de físico-química. 3. ed. rev. e ampl. São Paulo: Edgard Blücher,
+2006
+BIBLIOGRAFIA COMPLEMENTAR:
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio
+Ambiente. Editora Bookman, 2006.
+MAHAN, B. H. Química: um curso universitário. 2.ed. São Paulo: Editora Edgard Blucher
+LTDA, 2005.
+RUSSEL, J. B. Química Geral. Vol. 1 e 2. São Paulo. McGraw-Hill, 2004

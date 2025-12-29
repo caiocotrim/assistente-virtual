@@ -1,0 +1,39 @@
+ANÁLISE DE ALIMENTOS
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Optativa
+Período:
+Pré-Requisito:
+Química
+Analítica I
+Coordenação:
+CLIQUI
+Ementa:
+Técnicas de coleta, preparo e preservação de amostras de alimentos e reagentes. Tipos de
+equipamentos utilizados na redução da amostra bruta em laboratório. Métodos de análise
+bromatológica de acordo com os manuais técnicos de procedimento analíticos: Acidez em
+alimentos. Determinação dos teores de umidade, cinzas, proteínas, carboidratos, lipídios,
+fibras e outros constituintes. Utilização de técnicas instrumentais em análise de alimentos.
+Rotulagem e Legislação Bromatológica.
+Objetivo:
+ Compreender os processos e as técnicas de análises envolvidos no controle de qualidade
+em alimentos, desde a obtenção da matéria-prima até o consumo final.
+BIBLIOGRAFIA BÁSICA:
+BOBBIO, P. A.; BOBBIO, F. O. Química do processamento de alimentos. 3. ed. São
+Paulo: Varela, 2001.
+EVANGELISTA, J. Alimentos: um estudo abrangente: nutrição, utilização, alimentos
+especiais e irradiados, coadjuvantes, contaminação, interações. São Paulo: Atheneu,
+2005.
+INSTITUTO ADOLFO LUTZ. Normas analíticas do Instituto Adolfo Lutz. 4 ª Edição.
+São Paulo: Instituto Adolfo Lutz, 2004.
+BIBLIOGRAFIA COMPLEMENTAR:
+BOBBIO, P. A.; BOBBIO, F. O. Manual de Laboratório de Química de Alimentos. Varela
+- Edição: Reimpressão, 2003, 136 p
+CECCHI, H. M. Fundamentos Teóricos e Práticos em Análise de Alimentos. Ed.
+UNICAMP, 212p, 1999.
+MASSAGUER, P. R.Microbiologia dos processos alimentares. São Paulo: Varela, 2005.
+JAY, J. M. Microbiologia de alimentos. 6ª. ed. Porto Alegre: Artmed, 2005
+TERRA, N. N.; BRUM, M. A. R. Carne e seus derivados: técnicas de controle de
+qualidade. São Paulo: Nobel, 1988.

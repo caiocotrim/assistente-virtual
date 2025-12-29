@@ -1,0 +1,47 @@
+ANÁLISE FÍSICO-QUÍMICA
+DA ÁGUA
+Carga Horária (h) Créditos
+Teórica 30 2
+Prática 30 2
+TOTAL 60 4
+Optativa
+Período:
+Pré-Requisito:
+Química
+Analítica II
+Coordenação:
+CLIQUI
+Ementa:
+Fundamentos da análise de águas. Metodologias de análise físico-química de águas.
+Indicadores e padrões de qualidade de águas; Indicadores e padrões relacionados à qualidade
+estética da água (turbidez, cor e dureza); indicadores e padrões relacionados ao equilíbrio
+ácido-base (pH, alcalinidade e acidez); indicadores e padrões relacionados ao conteúdo
+orgânico (DBO, DQO, Sólidos); indicadores e padrões relacionados ao teor de nutrientes (N
+e P).
+Objetivos:
+ Aplicar os conhecimentos da análise química na determinação dos parâmetros de
+qualidade de águas.
+ Conhecer os procedimentos de análise físico-química de águas.
+ Compreender como os valores dos parâmetros físico-químicos de águas estão
+relacionados com a qualidade ambiental dos recursos hídricos.
+BIBLIOGRAFIA BÁSICA:
+BALL, D. W. Físico-química. v2. São Paulo: Thomson Learning, 2016.
+BACCAN, N.; de ANDRADE, J.C.; GODINHO, O.E; BARONE, J.S. Química analítica
+quantitativa elementar. 3ª ed. São Paulo: Ed. Edgar Blucker Ltda, 2001.
+REBOUÇA, A. C.; BRAGA, B.; TUNDISI, J. G. (organizadores). Águas doces do Brasil:
+Capital ecológico, uso e conservação. 3ª Ed., São Paulo: Escritos Editora, 2006.
+ROCHA, J. C; ROSA, A. H e CARDOSO, A. C. Introdução à química ambiental. 2ª ed.
+Porto Alegre: Bookman, 2010.
+BIBLIOGRAFIA COMPLEMENTAR:
+CETESB, Índice de qualidade das águas. Série de relatórios, Anexo III, 2007.
+CETESB (São Paulo); Brandão C. J, Botelho M. J. C, Sato M. I. Z, Lamparelli L. C,
+organizadores. Guia Nacional de Coleta e Preservação de amostras: água, sedimento,
+comunidades aquáticas e efluentes líquidos.São Paulo: CETESB; Brasília: ANA; 2011.
+EMBRAPA – Manual de procedimentos de amostragem e análise físico-química de
+água. Lucilia Maria Parron; Daphne Heloisa de Freitas Muniz; Claudia Mara Pereira.
+Embrapa Florestas, 2011.
+Normas e portarias nacionais: ABNT, CONAMA (357/2005), CEPRAM, Vigilância
+sanitária, etc: Portaria MS PORTARIA Nº 2.914, DE 12 DE DEZEMBRO DE 2011,
+Resolução CONAMA no 357 de março de 2005.
+VON SPERLING, M. Estudos e modelagem da qualidade da água de rios. Belo
+Horizonte, MG: DESA, 2007.

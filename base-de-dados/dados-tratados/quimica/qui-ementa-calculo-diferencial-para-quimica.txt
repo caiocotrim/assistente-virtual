@@ -1,0 +1,35 @@
+CÁLCULO DIFERENCIAL
+PARA QUÍMICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Obrigatória
+Período:
+Segundo
+Pré-Requisito:
+Matemática
+Básica
+Coordenação:
+CDNC
+Ementa:
+Noções de limites e continuidade de funções. Derivadas de funções. Regras de derivação.
+Taxas de variação. Derivadas de funções implícitas. Aplicação das derivadas na Química.
+Objetivos:
+● Compreender e aprofundar os conceitos básicos de limites, derivadas e integrais de
+funções, para utilização na Química. Desenvolver competência técnica na utilização de tais
+conceitos. Desenvolver no futuro professor a habilidade necessária no trato com definições e
+demonstrações, bem como desenvolver estratégias de ensino.
+BIBLIOGRAFIA BÁSICA:
+LEITHOLD, L. O Cálculo com Geometria Analítica. v. 1. 3. ed. São Paulo: Harbra, 1990.
+STEWART, J. Cálculo. v. 1. 6. ed. São Paulo: Cengage Learning, 2010.
+STEWART, J. Cálculo. v. 1. 7. ed. São Paulo: Cengage Learning, 2013.
+THOMAS, G. et al. Cálculo. Vol. 1. 10.ed. São Paulo: Pearson, 2002.
+BIBLIOGRAFIA COMPLEMENTAR:
+ÁVILA, G. Cálculo das funções de uma variável. Vol. 1. 7. ed. Rio de Janeiro: LTC, 2003.
+BOULOS, P. Introdução ao Cálculo. Vol. 1, 2. ed. São Paulo: Edgard Blucher, 2005.
+GUIDORIZZI, H. Um curso de cálculo. Vol. 1 e 2, 5. ed. Rio de Janeiro: LTC, 2011.
+MUNEM, M. A.; FOULIS, D. J. Cálculo. Vol. 1. Rio de Janeiro: LTC, 1982.
+SIMMONS, G. Cálculo com geometria analítica. Vol. 1. São Paulo: Pearson Makron
+Books, 2005.
+3º SEMESTRE

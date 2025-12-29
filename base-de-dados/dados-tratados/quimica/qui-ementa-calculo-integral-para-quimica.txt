@@ -1,0 +1,37 @@
+CÁLCULO INTEGRAL PARA
+QUÍMICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Obrigatória
+Período:
+Terceiro
+Pré-Requisito:
+Álgebra Aplicada
+à Química;
+Cálculo
+Diferencial para
+Química
+Coordenação:
+CDNC
+Ementa:
+Primitiva (antiderivada) de uma função. Integrais definidas. Teorema fundamental do
+cálculo. Integrais indefinidas. Técnicas de integração: integração por substituição, integração
+por partes e integrais trigonométricas. Funções de duas e três variáveis: definição, domínio e
+imagem, gráficos e conjuntos de nível. Introdução às derivadas parciais.
+Objetivos:
+● Proficiência no uso da integral definida de funções de uma ou duas variáveis reais e
+domínio da teoria dos campos planares de vetores, para aplicação na Química.
+BIBLIOGRAFIA BÁSICA:
+LEITHOID, L. O Cálculo com geometria analítica. Vol. 1 e 2. 3. ed. São Paulo: Harbra,
+1990.
+STEWART, J. Cálculo. Vol. 1. 6 ed. São Paulo: Cengage Learning, 2010.
+STEWART, J. Cálculo. Vol. 1 e 2. 7. ed. São Paulo: Cengage Learning, 2013.
+THOMAS, G. et al. Cálculo. Vol. 1 e 2. 10.ed. São Paulo: Pearson, 2003.
+BIBLIOGRAFIA COMPLEMENTAR:
+ÁVILA, G. Cálculo das funções de uma variável. Vol. 1. 7. ed. Rio de Janeiro: LTC, 2003.
+GUIDORIZZI, H. Um curso de cálculo. Vol. 1 e 2, 5. ed. Rio de Janeiro: LTC, 2011.
+MUNEM, M. A.; FOULIS, D. J. Cálculo. Vol. 1. Rio de Janeiro: LTC, 1982.
+SIMMONS, G. Cálculo com geometria analítica. Vol. 1. São Paulo: Pearson Makron
+Books, 2005.

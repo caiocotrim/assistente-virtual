@@ -1,0 +1,48 @@
+QUÍMICA ANALÍTICA I
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória
+Período:
+Sexto
+Pré-Requisito:
+Química
+Inorgânica I;
+Química
+Inorgânica
+Experimental I;
+Probabilidade e
+estatística
+Coordenação:
+CLIQUI
+Ementa:
+Análise qualitativa, aparelhos e operações. Equilíbrio ácido-base, de solubilidade e de
+complexação. Análise por via úmida. Análise por via seca. Análise de cátions e de ânions.
+Princípios fundamentais da química analítica. Medidas de massa e volume em química
+analítica. Erros e tratamento dos dados analíticos. Ácidos e bases em meio aquoso. Cálculos
+de pH. Volumetria de neutralização. Equilíbrio de complexação e volumetria por formação
+de complexos. Reações de precipitação e volumetria por precipitação. Introdução aos
+métodos gravimétricos.
+Objetivos:
+ Discutir os princípios de equilíbrio químico relacionados à identificação e quantificação
+de espécies químicas, utilizando métodos clássicos de análise química (gravimetria e
+volumetria), reconhecendo suas potencialidades e limitações na precisão e exatidão de cada
+método.
+BIBLIOGRAFIA BÁSICA:
+HARRIS, D. C. Análise química quantitativa, 7.ed. Rio de Janeiro: LTC, 2008. (Título
+original: Quantitative chemical analysis; Tradução de: Jairo Bordinhão).
+SKOOG, A. D.; WEST, M. D.; HOLLER; CROUCH, S.R. Fundamentos de química
+analítica. 9. ed. São Paulo: Thomson, 2014.
+VOGEL, A. I. et al. Análise química quantitativa. 6.ed. Rio de Janeiro: LTC, 2002.
+BIBLIOGRAFIA COMPLEMENTAR:
+BACCAN, N. et al. Química analítica quantitativa elementar. 3. ed. São Paulo: Edgard
+Blücher, 2001.
+HAGE, D. S.; CARR, J. D. Química Analítica e Análise Quantitativa. 1.ed. Pearson
+Education, 2012.
+KOBAL Jr., J.; SARTÓRIO, H. Química Analítica Quantitativa. São Paulo: Editora
+Moderna, 1982.
+OHLWEILER, O. A. Química analítica quantitativa. 3.ed. Rio de Janeiro: LTC , 1982.
+VOGEL, A. Química Analítica Qualitativa. 5. ed. Mestre Jou, 1981.

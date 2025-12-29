@@ -1,0 +1,41 @@
+FÍSICA III
+Carga Horária (h) Créditos
+Teórica 30 2
+Prática - -
+TOTAL 30 2
+Obrigatória
+Período:
+Quinto
+Pré-Requisito:
+Física II; Cálculo
+Integral para
+Química; Física
+Experimental II
+Coordenação:
+CDNC
+Ementa:
+Fundamentos da relatividade restrita e geral de Einstein. Radiação do corpo negro. Hipótese
+de Planck. Efeito fotoelétrico. Emissão atômica e molecular. Átomo de Bohr. Efeito
+Compton. Dualidade onda-partícula. A função de onda e a Equação de Schrödinger. Átomo
+de Hidrogênio e Efeito Zeeman. Spin. Princípio de exclusão de Pauli.
+Objetivos:
+ Fornecer ao aluno os elementos necessários à compreensão dos fenômenos não explicados
+pela Física Clássica, bem como a construção de uma nova teoria (Mecânica Quântica).
+ Estudar a física desenvolvida no século XX, relacionada com a formulação da natureza da
+matéria em seus aspectos teóricos e experimentais, discutindo os novos fenômenos
+descobertos com o desenvolvimento da nova teoria.
+ Contextualizar historicamente a evolução dos conceitos físicos dos conteúdos abordados
+em física moderna
+BIBLIOGRAFIA BÁSICA:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol. 4 . 7. ed. Rio
+de Janeiro: LTC, 2006.
+SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física IV – Ótica e Física
+Moderna. 10. ed. São Paulo: Addison Wesley,2005.
+TIPLER, P. A; LLEWELLYN, R. A. Física moderna. 5. ed. Rio de Janeiro: LTC, 2012.
+BIBLIOGRAFIA COMPLEMENTAR:
+BOHR, N. H. D. Física atômica e conhecimento humano: ensaios 1932-1957. Rio de
+Janeiro: Contraponto, 1995.
+EISBERG, R.; RESNICK, R. Física Quântica: Átomos, Moléculas, Sólidos, Núcleos e
+Partículas, 21a edição. Editora Campus, 1979.
+NUSSENZVEIG, H. M. Curso de Física Básica - 4 Ótica, Relatividade e Física Quântica.
+São Paulo: Edgard Blücher, 2010.
