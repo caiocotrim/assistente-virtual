@@ -1,9 +1,9 @@
 Curso: Engenharia Elétrica  
 Assunto: Estrutura Administrativa do Curso  
-Sinônimos comuns: NDE, Colegiado, Comissão do Curso, Gestão do Curso  
+Sinônimos comuns: NDE, Colegiado, Comissão do Curso, Gestão do Curso, Professores do curso de Engenharia Elétrica
 Descrição: Este documento apresenta a composição do Núcleo Docente Estruturante (NDE) e do Colegiado do Curso de Engenharia Elétrica do IFBA, detalhando os membros que compõem essas instâncias administrativas. O NDE é responsável por orientar a formação acadêmica e curricular do curso, enquanto o Colegiado atua na gestão e supervisão das atividades acadêmicas, garantindo a qualidade do ensino e a representação discente. A estrutura organizacional é fundamental para o funcionamento eficaz do curso e para a implementação de melhorias contínuas na formação dos alunos.
 
-NÚCLEO DOCENTE ESTRUTURANTE – NDE 
+NÚCLEO DOCENTE(PROFESSORES) ESTRUTURANTE – NDE 
 PORTARIA Nº 044/2023 de 30 de março de 2023 
  
 Cláudio Rodolfo Sousa de Oliveira 

@@ -1,5 +1,5 @@
 Curso: Licenciatura em Química  
-Assunto: Núcleo Docente Estruturante e Corpo Docente  
+Assunto: Núcleo Docente Estruturante e Corpo Docente/Professores
 Sinônimos comuns: NDE, corpo docente, professores do curso, estrutura docente  
 Descrição: O documento aborda a estrutura e funcionamento do Núcleo Docente Estruturante (NDE) do curso de Licenciatura em Química, destacando suas atribuições na elaboração e atualização do Projeto Pedagógico. Além disso, apresenta informações sobre o corpo docente, incluindo titulação e formação dos professores, enfatizando a qualificação e a experiência dos docentes que atuam no curso, bem como a importância de sua contribuição para a formação dos alunos e para a educação básica.
 
@@ -35,7 +35,7 @@ pertencem a carreira EBTT  (28 docentes), sob o Regime de Dedicação Exclusiva 
  
 Quadro 9 - Docentes que atuam no Curso de Licenciatura em Química. 
  
-DOCENTE  REGIME DE 
+DOCENTE(PROFESSORES) REGIME DE 
 TRABALHO 
 ADMISSÃO  GRADUAÇÃO/ HABILITAÇÃO  TITULAÇÃO 
 Alessandro Santos Santana  DE  09/08/2011  Licenciatura em Química  Mestrado 
