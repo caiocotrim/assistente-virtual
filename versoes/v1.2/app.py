@@ -131,7 +131,7 @@ def responder(mensagem, historico):
     chain = ({"context": retriever, "question": RunnablePassthrough()} | prompt | llm)
     resposta = chain.invoke(mensagem)
     return resposta.content
-
+    
 
 interface = gradio.ChatInterface(fn=responder)
 interface.launch() 
