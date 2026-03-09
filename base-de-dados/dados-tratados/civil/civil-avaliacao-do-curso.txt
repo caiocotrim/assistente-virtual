@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Avaliação do Curso  
+Sinônimos comuns: Avaliação institucional, avaliação de desempenho, autoavaliação, avaliação acadêmica  
+Descrição: A avaliação do curso de Engenharia Civil visa analisar as condições de ensino, incluindo o corpo docente, infraestrutura e organização pedagógica. Utilizando dados do SINAES e relatórios da Comissão Própria de Avaliação (CPA), a avaliação considera a participação de discentes e docentes para identificar áreas de melhoria. Aspectos como estrutura curricular, utilização de espaços educativos, atuação docente e inserção no mercado de trabalho são avaliados para garantir a qualidade do ensino e a formação adequada dos alunos. A participação ativa da comunidade acadêmica é fundamental para o aprimoramento contínuo do curso.
+
 4.21 AVALIAÇÃO DO CURSO 
 A avaliação do curso de graduação tem como objetivo identificar as condições de ensino 
 oferecidas aos discentes, em especial as relativas ao perfil do corpo docente, às instalações físicas e à 

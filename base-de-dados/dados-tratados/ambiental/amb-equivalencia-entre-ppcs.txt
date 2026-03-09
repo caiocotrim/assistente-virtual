@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Equivalências Curriculares  
+Sinônimos comuns: Mudanças no currículo, Atualizações de disciplinas, Comparação de currículos  
+Descrição: O documento apresenta uma análise detalhada das equivalências entre os currículos de Engenharia Ambiental de 2013.2 e 2022, destacando as alterações nos nomes, objetivos e cargas horárias de diversas disciplinas. Essas mudanças visam a adequação às ementas dos cursos de Engenharia do campus, refletindo a evolução das diretrizes acadêmicas e a necessidade de atualização dos conteúdos abordados. A descrição das disciplinas inclui fusões, reduções de carga horária e atualizações de ementas, proporcionando uma visão clara das transformações no currículo do curso.
+
 Equivalências entre os currículos 2013.2 e 2022  
 CURRÍCULO 2013.2 - CURRÍCULO 2022 - SITUAÇÂO 
 AMBV04 - Ecologia de Ambientes Aquáticos (60h), AMBV05 - Ecologia de Ambientes Terrestres (60h) - Ecologia Aplicada (60h) - Fusão dos componentes curriculares com redução de carga horária. 

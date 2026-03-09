@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Componentes Curriculares  
+Sinônimos comuns: Disciplinas, Matérias, Cursos Optativos  
+Descrição: Este documento aborda a estrutura curricular do curso de Engenharia Elétrica, especificamente a disciplina optativa II, incluindo informações sobre pré-requisitos e co-requisitos, além de referências bibliográficas essenciais para o desenvolvimento do conteúdo. A compreensão desses componentes é fundamental para a formação acadêmica dos alunos, permitindo uma melhor organização e planejamento dos estudos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 COMPONENTE CURRICULAR
 Optativa II

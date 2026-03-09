@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Geral Experimental  
+Sinônimos comuns: Química Experimental, Laboratório de Química, Práticas de Química  
+Descrição: Este documento aborda a disciplina de Química Geral Experimental I, que se concentra na formação prática dos alunos em laboratório. Os estudantes aprenderão sobre segurança em ambientes químicos, técnicas laboratoriais fundamentais e a aplicação de conceitos de Química Geral no cotidiano. A carga horária total é de 30 horas, com ênfase em experiências práticas que visam desenvolver habilidades metodológicas e científicas essenciais para a formação em Química. A bibliografia básica e complementar oferece suporte teórico para as atividades práticas, garantindo uma compreensão aprofundada dos temas abordados.
+
 QUÍMICA GERAL
 EXPERIMENTAL I
 Carga Horária (h) Créditos

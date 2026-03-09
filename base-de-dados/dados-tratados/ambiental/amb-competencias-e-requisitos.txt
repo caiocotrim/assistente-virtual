@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Competências do Engenheiro Ambiental  
+Sinônimos comuns: Habilidades do Engenheiro Ambiental, Capacidades do curso de Engenharia Ambiental, Formação em Engenharia Ambiental  
+Descrição: O documento aborda as competências essenciais que um graduado em Engenharia Ambiental deve desenvolver, conforme regulamentações do Ministério da Educação e do Conselho Federal de Engenharia. Destaca tanto as competências gerais, como a capacidade de formular soluções de engenharia e trabalhar em equipe, quanto as específicas, que incluem atividades relacionadas à gestão ambiental, análise de impactos e consultoria. A formação é voltada para atender às demandas do mercado, preparando o profissional para atuar em diversas áreas, como saneamento e meio ambiente, com ênfase em ética e atualização contínua.
+
 Competências 
 A área de Engenharia Ambiental foi criada pela Portaria nº 1.693, de 5 de dezembro 
 de 1994, do Ministério de Estado da Educação e do Desporto. A Resolução nº 218, de 29 de 

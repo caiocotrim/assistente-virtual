@@ -1,0 +1,5 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas de Concreto  
+Sinônimos comuns: Concreto armado, estruturas de betão, engenharia de estruturas  
+Descrição: Este documento aborda os princípios fundamentais das estruturas de concreto, incluindo suas propriedades, métodos de cálculo e análise estrutural. Explora as técnicas de dimensionamento, os tipos de concreto utilizados e as normas técnicas aplicáveis. Além disso, discute a durabilidade e a manutenção das estruturas, bem como as inovações e tendências atuais na engenharia civil relacionadas ao uso do concreto.
+

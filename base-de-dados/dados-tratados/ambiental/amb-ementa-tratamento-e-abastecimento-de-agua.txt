@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Tratamento e Abastecimento de Água  
+Sinônimos comuns: Tratamento de água, Abastecimento hídrico, Qualidade da água  
+Descrição: Este documento aborda os princípios fundamentais do tratamento e abastecimento de água, incluindo características físicas, químicas e biológicas da água, padrões de potabilidade e processos de tratamento como coagulação, floculação e desinfecção. Também discute técnicas especiais de tratamento, captação e adução, além de recomendações para o projeto e dimensionamento de redes de distribuição de água. A bibliografia inclui obras essenciais para aprofundamento no tema, proporcionando uma base sólida para estudantes e profissionais da área.  
+------------------------------------------------------------
+
 CÓDIGO: 14.9.4
 DISCIPLINA: Tratamento e Abastecimento de Água
 Código

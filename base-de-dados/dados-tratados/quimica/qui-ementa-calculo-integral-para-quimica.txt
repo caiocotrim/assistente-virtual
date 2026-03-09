@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Cálculo Integral  
+Sinônimos comuns: Cálculo para Química, Cálculo I, Cálculo Avançado  
+Descrição: O curso de Cálculo Integral para Química aborda conceitos fundamentais de integração, incluindo primitivas, integrais definidas e indefinidas, além de técnicas de integração como substituição e partes. Os alunos aprenderão a aplicar esses conceitos em funções de uma ou duas variáveis, com foco na relevância para a Química. O conteúdo também introduz derivadas parciais e a teoria dos campos planares de vetores, preparando os estudantes para desafios matemáticos em contextos químicos.
+
 CÁLCULO INTEGRAL PARA
 QUÍMICA
 Carga Horária (h) Créditos

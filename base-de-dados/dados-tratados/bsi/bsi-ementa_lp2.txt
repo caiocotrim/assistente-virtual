@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Linguagem de Programação II  
+Sinônimos comuns: LP2, Programação II, Linguagens II  
+Descrição: A disciplina de Linguagem de Programação II aborda conceitos avançados de programação, incluindo tratamento de exceções, programação genérica e manipulação de arquivos e streams. Os alunos também aprendem a desenvolver interfaces gráficas básicas e a implementar fluxos de controle paralelo, além de serem introduzidos às boas práticas de programação. O conteúdo é fundamentado em bibliografia específica que inclui obras renomadas sobre Java, proporcionando uma base sólida para o desenvolvimento de aplicações.
+
 ementa_lp2
 
 CÓDIGO                   COMPONENTE CURRICULAR

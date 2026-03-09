@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Instalações Elétricas Prediais  
+Sinônimos comuns: Projetos elétricos, instalações elétricas, circuitos elétricos, sistemas elétricos  
+Descrição: Este documento aborda os fundamentos e práticas relacionadas às instalações elétricas prediais, incluindo o dimensionamento e a distribuição de circuitos de força e iluminação, conforme as normas técnicas vigentes. São discutidos tópicos como diagramas de ligação, dimensionamento de eletrodutos e condutores, sistemas de aterramento, e análise de proteção contra descargas atmosféricas. O conteúdo é essencial para a formação de profissionais capacitados em projetar e implementar instalações elétricas seguras e eficientes.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Instalações Elétricas Prediais

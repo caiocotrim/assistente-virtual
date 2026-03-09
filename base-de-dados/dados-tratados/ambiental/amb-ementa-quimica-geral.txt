@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Química Geral  
+Sinônimos comuns: Química Básica, Química Fundamental, Química Inorgânica e Orgânica  
+Descrição: Este documento aborda a disciplina de Química Geral, que integra conceitos fundamentais de química inorgânica, físico-química e química orgânica. A ementa inclui tópicos como estrutura atômica, tabela periódica, ligações químicas, equilíbrio químico, cinética química e funções orgânicas, além de experiências práticas em laboratório. A bibliografia básica e complementar fornece uma base sólida para o estudo e aplicação dos princípios químicos na engenharia ambiental.
+
 CÓDIGO: 14.1.8
 DISCIPLINA: Química Geral
 Código

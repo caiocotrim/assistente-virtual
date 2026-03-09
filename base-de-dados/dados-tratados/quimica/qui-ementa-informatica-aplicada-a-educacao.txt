@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Informática Aplicada à Educação  
+Sinônimos comuns: Informática na Educação, Tecnologia Educacional, TICs na Educação  
+Descrição: O curso de Informática Aplicada à Educação visa capacitar os alunos a utilizar ferramentas tecnológicas no processo de ensino-aprendizagem, abordando desde editores de texto e planilhas até softwares educacionais e sistemas de gerenciamento. Os estudantes aprenderão a integrar as Tecnologias da Informação e Comunicação (TICs) nas práticas pedagógicas, promovendo um ambiente educacional mais dinâmico e eficaz. A ementa inclui a análise de software educacional e a utilização de recursos da web, preparando os futuros educadores para enfrentar os desafios da educação contemporânea.
+
 INFORMÁTICA APLICADA À
 EDUCAÇÃO
 Carga Horária (h) Créditos

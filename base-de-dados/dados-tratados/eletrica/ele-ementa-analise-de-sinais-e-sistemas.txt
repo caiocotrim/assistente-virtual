@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Análise de Sinais e Sistemas  
+Sinônimos comuns: Sinais e Sistemas, Teoria de Sinais, Sistemas Lineares  
+Descrição: Este documento aborda a disciplina de Análise de Sinais e Sistemas, essencial para a formação em Engenharia Elétrica. A disciplina explora conceitos fundamentais como sinais contínuos e discretos, operações com sinais, e sistemas lineares invariantes no tempo. Além disso, inclui tópicos avançados como análise de Fourier, convolução, e a utilização de ferramentas como a Transformada Z e o Diagrama de Bode. A bibliografia recomendada oferece uma base sólida para o estudo e compreensão dos princípios que regem a análise de sistemas e sinais, preparando os alunos para aplicações práticas na engenharia.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Análise de Sinais e Sistemas

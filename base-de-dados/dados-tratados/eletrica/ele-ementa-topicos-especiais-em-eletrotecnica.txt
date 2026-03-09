@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Tópicos Especiais em Eletrotécnica  
+Sinônimos comuns: Eletrotécnica Avançada, Eletrotécnica Especializada  
+Descrição: Este documento aborda conteúdos específicos em Eletrotécnica, focando em novas tecnologias e temas não cobertos durante o curso regular. Destina-se a enriquecer a formação dos alunos na área de Automação e Controle, alinhando-se às diretrizes acadêmicas do curso. A bibliografia inclui referências básicas e complementares, proporcionando uma base sólida para o aprendizado dos tópicos abordados.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Tópicos Especiais em Eletrotécnica

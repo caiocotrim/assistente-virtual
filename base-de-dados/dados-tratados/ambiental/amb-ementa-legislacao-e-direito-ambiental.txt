@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Legislação e Direito Ambiental  
+Sinônimos comuns: Direito Ambiental, Normas Ambientais, Legislação Ecológica  
+Descrição: Este documento aborda a disciplina de Legislação e Direito Ambiental, explorando a evolução histórica e os princípios constitucionais que regem a proteção do meio ambiente. Inclui uma análise detalhada das principais leis federais, estaduais e municipais relacionadas ao meio ambiente, como a Política Nacional de Meio Ambiente e o Código Florestal, além de discutir a responsabilidade jurídica em questões ambientais e o processo de licenciamento ambiental. A ementa também contempla estudos de caso e bibliografia relevante para aprofundamento no tema.
+
 CÓDIGO: 14.6.4
 DISCIPLINA: Legislação e Direito Ambiental
 Código

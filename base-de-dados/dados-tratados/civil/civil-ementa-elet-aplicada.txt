@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Eletricidade Aplicada  
+Sinônimos comuns: Eletricidade, Instalações Elétricas, Circuitos Elétricos  
+Descrição: O curso de Eletricidade Aplicada aborda os fundamentos da eletricidade, incluindo conceitos de tensão, corrente, potência e energia. Os alunos aprenderão sobre condutores, isolantes, e as diferenças entre corrente contínua e alternada. O conteúdo inclui a análise de circuitos monofásicos e trifásicos, além de técnicas de medição de grandezas elétricas. O curso também introduz a geração, transmissão e distribuição de energia elétrica, bem como as normas técnicas relacionadas a instalações elétricas. Os estudantes desenvolverão habilidades em projeto e dimensionamento de instalações elétricas prediais, incluindo a proteção de motores de pequeno porte e sistemas de aterramento. A bibliografia abrange obras fundamentais e complementares que suportam o aprendizado teórico e prático da disciplina.
+
 
 Eletricidade Aplicada CARGA HORÁRIA 
 (h) 

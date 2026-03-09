@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Desenho Técnico  
+Sinônimos comuns: Desenho geométrico, Geometria descritiva, Representação gráfica  
+Descrição: O curso de Desenho Técnico aborda os fundamentos da instrumentação, normas e convenções essenciais para a representação gráfica em engenharia. Os alunos aprendem a construir figuras geométricas, aplicar métodos descritivos e realizar mudanças de planos, incluindo rotação e rebatimento. O conteúdo também abrange sistemas de projeções e perspectivas axonométricas, preparando os estudantes para a prática profissional na elaboração de projetos e desenhos técnicos.
+
   
 86  
 Expressão Gráfica CARGA HORÁRIA 

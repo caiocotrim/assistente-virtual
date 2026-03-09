@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Circuitos Elétricos II  
+Sinônimos comuns: Circuitos AC II, Análise de Circuitos II, Circuitos Elétricos Avançados  
+Descrição: O curso de Circuitos Elétricos II aborda a análise de circuitos em corrente alternada, incluindo conceitos fundamentais como senoides, fasores, impedância e admitância. Os alunos aprenderão métodos de análise em regime estacionário, como as técnicas nodal e de malhas, além de teoremas importantes como os de superposição, Thévenin e Norton. O conteúdo também abrange a análise de potência em CA, circuitos trifásicos e acoplamento magnético, além de modelagem computacional aplicada. Este curso é essencial para a compreensão avançada de circuitos elétricos e suas aplicações práticas na engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Circuitos Elétricos II

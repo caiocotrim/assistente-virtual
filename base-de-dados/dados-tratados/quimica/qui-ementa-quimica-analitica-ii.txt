@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Analítica II  
+Sinônimos comuns: Química Analítica Avançada, Métodos de Análise Química  
+Descrição: O curso de Química Analítica II aborda os princípios fundamentais dos métodos de oxirredução, incluindo a Equação de Nernst e a volumetria de oxirredução. Os alunos explorarão técnicas de eletroanálise, como potenciometria e condutometria, visando a compreensão das reações de oxirredução e suas aplicações práticas na quantificação de substâncias químicas. O conteúdo é essencial para a formação de profissionais capacitados em análises químicas, com ênfase em métodos instrumentais e suas relevâncias no cotidiano.
+
 QUÍMICA ANALÍTICA II
 Carga Horária (h) Créditos
 Teórica 45 3

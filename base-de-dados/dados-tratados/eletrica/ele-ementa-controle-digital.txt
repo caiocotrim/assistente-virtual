@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Controle Digital  
+Sinônimos comuns: Controle Discreto, Sistemas de Controle Digital, Controle Eletrônico  
+Descrição: O curso de Controle Digital aborda os fundamentos e técnicas de controle em sistemas discretos, enfatizando a implementação e otimização de controladores digitais. Os alunos aprenderão sobre modelos matemáticos, análise de sistemas, e a aplicação prática de controladores lógicos programáveis em ambientes de automação. O conteúdo inclui a introdução a sistemas não lineares e a interligação de sistemas distribuídos, preparando os estudantes para desafios contemporâneos na engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Controle Digital

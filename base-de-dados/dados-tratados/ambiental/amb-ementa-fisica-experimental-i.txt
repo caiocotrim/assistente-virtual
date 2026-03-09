@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Física Experimental I  
+Sinônimos comuns: Física I Experimental, Experimentos de Física, Física Prática  
+Descrição: Este documento aborda a disciplina de Física Experimental I, que integra conceitos fundamentais da mecânica, termodinâmica e óptica através de experimentos práticos. Os alunos aprenderão a realizar medições, aplicar o tratamento estatístico de dados e explorar fenômenos físicos como força de atrito, pêndulos, ondas e calorimetria. A bibliografia inclui obras essenciais para aprofundamento teórico e prático, proporcionando uma base sólida para a compreensão dos princípios físicos aplicados em contextos ambientais.
+
 CÓDIGO: 14.3.3
 DISCIPLINA: Física Experimental I
 Código

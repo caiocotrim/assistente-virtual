@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Aprendizado de Máquina  
+Sinônimos comuns: Machine Learning, Aprendizado de Máquina Supervisionado, Aprendizado Não-Supervisionado  
+Descrição: O documento aborda os fundamentos do aprendizado de máquina, incluindo técnicas de aprendizado supervisionado, como regressão linear e logística, além de máquinas de vetores de suporte e árvores de decisão. Também explora o aprendizado não-supervisionado, com foco em clustering e detecção de anomalias. A seção sobre redes neurais de aprendizado profundo discute algoritmos de backpropagation, redes convolucionais e arquiteturas avançadas, destacando suas aplicações em análise de dados e detecção de imagens. O conteúdo é essencial para estudantes que desejam compreender e aplicar conceitos de inteligência artificial em projetos de engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução a Aprendizado de Máquina

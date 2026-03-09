@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Cálculo Diferencial Aplicado à Computação  
+Sinônimos comuns: Cálculo, Cálculo Diferencial, Cálculo para Computação  
+Descrição: Esta disciplina aborda conceitos fundamentais de cálculo diferencial, essenciais para a compreensão de problemas computacionais. Os alunos aprenderão sobre limites, continuidade, diferenciação de funções e suas aplicações, incluindo a identificação de máximos e mínimos. O curso também explora formas indeterminadas e a Regra de L'Hospital, além de funções transcendentes e esboço de curvas, preparando os estudantes para aplicar esses conhecimentos em soluções computacionais.
+
 ementa_calculo
 
 Cálculo Diferencial Aplicado à Computação

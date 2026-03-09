@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Recuperação de Áreas Degradadas  
+Sinônimos comuns: Recuperação de solos, Reabilitação de áreas, Restauração ambiental  
+Descrição: Este documento aborda a disciplina de Recuperação de Áreas Degradadas, explorando os principais mecanismos de degradação do solo, como a erosão, e as estratégias para sua recuperação. Inclui a importância da vegetação ciliar, programas de revegetação e a adequação ambiental de diferentes unidades naturais. Também discute a legislação pertinente e os impactos ambientais de projetos agroflorestais e de irrigação, fornecendo uma base teórica e prática para a gestão ambiental e a restauração de ecossistemas degradados.
+
 CÓDIGO: 14.8.4
 DISCIPLINA: Recuperação de Áreas Degradadas
 Código

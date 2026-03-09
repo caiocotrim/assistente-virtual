@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas de Aterramentos e SPDA  
+Sinônimos comuns: Aterramento elétrico, Projeto de aterramento, Sistema de proteção contra descargas atmosféricas  
+Descrição: Este documento aborda os fundamentos e técnicas relacionadas aos sistemas de aterramento e ao projeto de Sistemas de Proteção contra Descargas Atmosféricas (SPDA). São discutidos conceitos básicos, aplicações práticas, e a influência do aterramento no desempenho de sistemas elétricos. O conteúdo inclui métodos de medição, modelagem eletromagnética, e considerações de segurança, além de referências bibliográficas relevantes para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas de Aterramentos e Projeto de SPDA

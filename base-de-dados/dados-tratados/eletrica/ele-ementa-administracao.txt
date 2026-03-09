@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Administração  
+Sinônimos comuns: Gestão, Teoria Administrativa, Princípios de Administração  
+Descrição: O documento aborda os fundamentos da administração, incluindo suas funções e o papel do administrador. Explora tanto abordagens tradicionais, como o taylorismo e fayolismo, quanto contemporâneas, como gestão da qualidade total e reengenharia de processos. Também discute tópicos relevantes em administração de recursos humanos e produção, além de questões emergentes relacionadas à identidade e políticas de valorização. É uma leitura essencial para entender as dinâmicas organizacionais e a aplicação de teorias administrativas no contexto atual.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Administração

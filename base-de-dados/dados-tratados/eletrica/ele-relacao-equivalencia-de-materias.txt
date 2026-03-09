@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Equivalência Curricular  
+Sinônimos comuns: Relação de disciplinas, Comparação de currículos, Disciplinas equivalentes  
+Descrição: Este documento apresenta uma análise detalhada das equivalências entre as componentes curriculares dos currículos de Engenharia Elétrica de 2006 e 2023. A tabela contida no texto destaca as disciplinas que foram mantidas, excluídas ou renomeadas, permitindo uma compreensão clara das mudanças no plano de ensino ao longo dos anos. Essa informação é crucial para alunos e professores que buscam entender as alterações na formação acadêmica e suas implicações na formação profissional.
+
 RELAÇÃO DAS COMPONENTES EQUIVALENTES ENTRE AS MATRIZES 
 CURRICULARES 
 A Tabela 23 apresenta a relação de equivalência entre as componentes curriculares 

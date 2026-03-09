@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Topografia  
+Sinônimos comuns: Geometria de terrenos, Levantamento topográfico, Medidas de relevo  
+Descrição: Este documento aborda os fundamentos e aplicações da topografia, incluindo unidades de medida, ângulos, distâncias e escalas. Explora equipamentos topográficos, métodos de levantamento, cálculos de área e altimetria, além de técnicas de nivelamento e representação do relevo. Também introduz o Sistema de Posicionamento Global (GPS) e fornece referências bibliográficas essenciais para aprofundamento no tema.
+
 CÓDIGO: 14.6.7
 DISCIPLINA: Topografia
 Código Componente (NÚCLEO

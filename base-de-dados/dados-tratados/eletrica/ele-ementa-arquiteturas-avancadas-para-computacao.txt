@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Arquiteturas Avançadas para Computação  
+Sinônimos comuns: Arquitetura de Computadores, Sistemas de Computação, Estruturas de Processadores  
+Descrição: Este documento aborda as arquiteturas avançadas utilizadas na computação, incluindo tópicos como organização de processadores, paralelismo, interconexão de processadores e memórias, além de arquiteturas RISC e CISC. É fundamental para compreender o desempenho e a eficiência dos sistemas computacionais modernos, sendo essencial para alunos que desejam aprofundar-se nas tecnologias de computação e suas aplicações práticas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Arquiteturas Avançadas para Computação

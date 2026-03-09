@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Pesquisa Orientada  
+Sinônimos comuns: Pesquisa guiada, acompanhamento de pesquisa, orientação de TCC  
+Descrição: A disciplina de Pesquisa Orientada é voltada para o acompanhamento das atividades de pesquisa dos alunos, focando na elaboração de trabalhos de conclusão de curso. O curso enfatiza a aplicação de metodologias adequadas, a precisão conceitual e a coerência interna dos projetos, além de abordar questões éticas relacionadas à pesquisa, especialmente quando envolve seres humanos. Os alunos são incentivados a explorar temas relevantes para o estágio e o desenvolvimento de suas pesquisas, promovendo uma compreensão aprofundada das práticas de pesquisa, ensino e extensão na área da Química.
+
 PESQUISA ORIENTADA
 Carga Horária (h) Créditos
 Teórica 30 2

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Atividades Curriculares de Extensão 5  
+Sinônimos comuns: ACEX 5, Extensão Universitária, Projeto de Extensão  
+Descrição: O componente curricular Atividades Curriculares de Extensão 5 (ACEX 5) é fundamental para a formação dos estudantes de Engenharia Ambiental, promovendo a interação com a comunidade e a aplicação prática dos conhecimentos adquiridos ao longo do curso. Os alunos são incentivados a identificar e analisar demandas sociais, desenvolvendo soluções que integrem teoria e prática. Através de atividades de extensão, os estudantes colaboram com a comunidade, contribuindo para a melhoria de processos e produtos, enquanto os docentes orientam e validam as iniciativas propostas. A bibliografia é adaptada conforme o projeto em desenvolvimento, garantindo relevância e contextualização.
+
 CÓDIGO: 14.8.7
 DISCIPLINA: Atividades Curriculares de Extensão 5 (ACEX)
 Código

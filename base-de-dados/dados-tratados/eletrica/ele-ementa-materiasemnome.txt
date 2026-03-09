@@ -1,1 +1,6 @@
+Curso: Engenharia Elétrica  
+Assunto: Introdução ao Curso  
+Sinônimos comuns: Engenharia Elétrica I, Primeira fase da Engenharia Elétrica  
+Descrição: O primeiro semestre do curso de Engenharia Elétrica é fundamental para a formação do aluno, abordando conceitos básicos e introdutórios que servirão de base para disciplinas mais avançadas. Neste período, os estudantes são apresentados a temas essenciais da engenharia, incluindo matemática, física e princípios de eletricidade, preparando-os para os desafios futuros na área.
+
 SEMESTRE 1

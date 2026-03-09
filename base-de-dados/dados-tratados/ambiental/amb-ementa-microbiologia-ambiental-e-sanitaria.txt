@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Microbiologia Ambiental e Sanitária  
+Sinônimos comuns: Microbiologia, Microbiologia Sanitária, Microbiologia Ambiental  
+Descrição: Este componente curricular aborda a sistemática e a caracterização dos principais grupos de microrganismos, incluindo vírus, bactérias, arqueias, algas, protozoários e fungos, com foco em suas aplicações e relevância tanto na saúde pública quanto no meio ambiente. Os alunos explorarão as relações filogenéticas e a nomenclatura científica, além de estudar microrganismos de interesse sanitário e ambiental, preparando-os para desafios práticos na área de Engenharia Ambiental.
+
 CÓDIGO: 14.4.6
 DISCIPLINA: Microbiologia Ambiental e Sanitária
 Código Componente (NÚCLEO

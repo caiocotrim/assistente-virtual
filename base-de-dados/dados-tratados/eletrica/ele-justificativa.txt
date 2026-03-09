@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Importância do curso de Engenharia Elétrica no IFBA  
+Sinônimos comuns: Eng. Elétrica, curso de Engenharia, Engenharia Elétrica do IFBA  
+Descrição: O curso de Engenharia Elétrica do IFBA, campus de Vitória da Conquista, destaca-se como uma oportunidade única de formação superior na região, oferecendo ênfases em Automação e Controle, Eletrônica e Eletrotécnica. Desde sua criação em 2006, tem contribuído para a inclusão social e o desenvolvimento econômico local, formando profissionais capacitados para atuar em diversas áreas do setor público e privado. A proposta curricular do curso é interdisciplinar, preparando os alunos para enfrentar os desafios do mercado de trabalho e fomentar a inovação e o empreendedorismo na área de engenharia.
+
 JUSTIFICATIVA 
 A  educação  é  uma  das  ferramentas  mais  efetivas  de  inclusão  social.   Neste 
 contexto, o município de Vitória da Conquista se destaca por ser considerado um polo 

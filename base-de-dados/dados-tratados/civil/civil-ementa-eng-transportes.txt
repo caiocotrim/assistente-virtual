@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Engenharia de Transportes  
+Sinônimos comuns: Transporte, Sistemas de Transporte, Mecânica de Veículos  
+Descrição: O curso de Engenharia de Transportes aborda os princípios fundamentais que regem os sistemas de transporte, incluindo a mecânica da locomoção de veículos ferroviários e rodoviários, análise de fluxos de tráfego e controle de tráfego em interseções. Os alunos aprenderão sobre a importância econômica do sistema de transporte, resistência ao movimento, consumo de combustível e modelos de fluxo de tráfego, tanto macroscópicos quanto microscópicos. A disciplina também inclui a calibração de semáforos e a capacidade viária, preparando os estudantes para desafios práticos e teóricos na área de transportes.
+
 Engenharia de Transportes CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas Embarcados  
+Sinônimos comuns: Microcontroladores, Automação, Firmware, Hardware  
+Descrição: Este documento aborda os fundamentos e aplicações de sistemas embarcados, com foco em microcontroladores e suas arquiteturas. Inclui tópicos como controle analógico, simulação de hardware e firmware, e desenvolvimento de projetos voltados para automação. O conteúdo é essencial para estudantes que desejam compreender a integração de hardware e software em sistemas eletrônicos, preparando-os para desafios práticos na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas Embarcados

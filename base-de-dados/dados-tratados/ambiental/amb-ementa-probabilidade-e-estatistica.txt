@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Probabilidade e Estatística  
+Sinônimos comuns: Estatística, Análise Estatística, Probabilidade  
+Descrição: Este documento aborda os fundamentos de Probabilidade e Estatística, essenciais para a compreensão de fenômenos aleatórios e determinísticos. Inclui tópicos como variáveis aleatórias unidimensionais, funções de distribuição, distribuições normais e gama, além de teorias de hipóteses, correlação e regressão. A bibliografia básica e complementar oferece uma base sólida para o estudo e aplicação dos conceitos estatísticos em contextos acadêmicos e profissionais.
+
 CÓDIGO: 14.4.7
 DISCIPLINA: Probabilidade e Estatística
 Código

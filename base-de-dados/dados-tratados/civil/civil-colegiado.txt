@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Coordenação e Colegiado  
+Sinônimos comuns: Coordenação do curso, corpo docente, colegiado de professores  
+Descrição: O documento apresenta a estrutura organizacional do curso de Engenharia Civil, destacando a coordenação e o colegiado responsável pela gestão acadêmica. Inclui a lista de professores que compõem o colegiado e o núcleo docente estruturante, evidenciando suas funções e titulações. Essa informação é essencial para entender a governança do curso e a formação do corpo docente, além de facilitar a comunicação entre alunos e professores.
+
 CURSO DE ENGENHARIA CIVIL 
 COORDENADOR DO CURSO DE ENGENHARIA CIVIL 
 Professor Dr. Carlos Amilton Silva Santos

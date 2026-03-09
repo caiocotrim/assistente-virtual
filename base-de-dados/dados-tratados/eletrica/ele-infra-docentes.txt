@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Corpo Docente e Coordenação de Registros Escolares  
+Sinônimos comuns: Professores, Equipe Docente, Coordenação Acadêmica, Registros Acadêmicos  
+Descrição: Este documento fornece uma visão detalhada sobre a infraestrutura docente do curso de Engenharia Elétrica, incluindo a formação e especializações dos professores que compõem o corpo docente, bem como as funções da Coordenação de Registros Escolares. As informações são essenciais para entender a qualificação dos educadores e a gestão acadêmica, refletindo a qualidade do ensino e suporte aos alunos durante sua trajetória acadêmica.
+
 INFRAESTRUTURA DOCENTES (PROFESSORES) 
 Essa seção apresenta informações sobre a coordenação de registros escolares, dos 
 técnicos de laboratórios e das instalações gerais do campus. 

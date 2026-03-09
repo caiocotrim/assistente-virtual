@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Gerenciamento de Energia e Manutenção Elétrica  
+Sinônimos comuns: Gestão de Energia, Manutenção Elétrica, Manutenção de Sistemas Elétricos  
+Descrição: Este documento aborda os conceitos fundamentais de gerenciamento de energia e manutenção elétrica, incluindo práticas de manutenção corretiva, preventiva e preditiva. Discute técnicas modernas como TPM, RCM e RBM, além de aspectos de confiabilidade e programação da manutenção em sistemas elétricos. O conteúdo também abrange o gerenciamento do consumo de energia, regulamentação do setor elétrico e eficiência energética, proporcionando uma visão abrangente e atualizada sobre a manutenção e gestão de energia em ambientes industriais.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Gerenciamento de Energia e Manuteção Elétrica

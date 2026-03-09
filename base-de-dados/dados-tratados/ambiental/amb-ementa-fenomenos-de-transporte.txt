@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Fenômenos de Transporte  
+Sinônimos comuns: Mecânica dos Fluidos, Transporte de Fluidos, Dinâmica de Fluidos  
+Descrição: A disciplina de Fenômenos de Transporte aborda as propriedades e comportamentos dos fluidos, incluindo a estática e dinâmica dos mesmos. Os alunos exploram conceitos fundamentais como análise dimensional, efeitos de viscosidade e resistência fluida, além de técnicas de transferência de calor em sistemas de escoamento. A bibliografia abrange obras clássicas e contemporâneas, proporcionando uma base sólida para a compreensão dos fenômenos que regem o transporte de fluidos e suas aplicações na engenharia ambiental.  
+------------------------------------------------------------
+
 CÓDIGO: 14.5.4
 DISCIPLINA: Fenômenos de Transporte
 Código

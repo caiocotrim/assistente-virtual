@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Biblioteca do IFBA  
+Sinônimos comuns: Biblioteca do IFBA, acervo da biblioteca, serviços bibliotecários  
+Descrição: A Biblioteca do IFBA, localizada no Campus de Vitória da Conquista, é um espaço dedicado ao apoio didático e cultural, oferecendo acesso a uma vasta gama de recursos informacionais, incluindo o Portal de Periódicos da CAPES e outras bases de dados relevantes. Com um acervo diversificado, a biblioteca visa facilitar o processo de ensino e aprendizagem, promovendo a cultura e o hábito da leitura entre seus usuários. Além disso, disponibiliza serviços como empréstimo domiciliar, consulta no local, levantamento bibliográfico, normalização de trabalhos acadêmicos, e orientação sobre o uso do acervo, contribuindo significativamente para a formação acadêmica dos alunos.
+
 BIBLIOTECA 
 A Biblioteca do IFBA, Campus Vitória da Conquista, constitui-se em um espaço 
 reservado  para  fins  didáticos  e  culturais.  Ela  participa  da  dinâmica  de  disseminação  de 

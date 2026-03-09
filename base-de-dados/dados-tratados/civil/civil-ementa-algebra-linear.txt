@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Álgebra Linear  
+Sinônimos comuns: Álgebra Matricial, Álgebra Vetorial  
+Descrição: O curso de Álgebra Linear aborda conceitos fundamentais como matrizes, sistemas de equações lineares, espaços vetoriais, transformações lineares, determinantes, autovalores e autovetores, além da diagonalização de operadores. Com uma carga horária total de 60 horas e 4 créditos, é uma disciplina obrigatória do núcleo básico, com pré-requisitos em Álgebra Vetorial e Geometria Analítica. A bibliografia inclui obras clássicas e contemporâneas, proporcionando uma base sólida para a aplicação dos conceitos em diversas áreas da engenharia.
+
   
 Álgebra Linear 
 CARGA HORÁRIA 

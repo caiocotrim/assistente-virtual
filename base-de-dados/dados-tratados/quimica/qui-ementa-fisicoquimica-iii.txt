@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Físico-Química III  
+Sinônimos comuns: Mecânica Quântica, Estrutura Atômica, Espectroscopia  
+Descrição: O curso de Físico-Química III aborda conceitos fundamentais da mecânica quântica e sua aplicação na estrutura atômica, incluindo tópicos como a partícula livre e confinada, espectros atômicos e moleculares, e a interpretação de Born. Os alunos exploram a relação entre a mecânica quântica e as ligações químicas, além de técnicas espectroscópicas, como espectroscopia rotacional e vibracional. O conteúdo é essencial para a compreensão das bases teóricas que sustentam a química moderna e suas interações com a física.
+
 FÍSICO-QUÍMICA III
 Carga Horária (h) Créditos
 Teórica 45 3

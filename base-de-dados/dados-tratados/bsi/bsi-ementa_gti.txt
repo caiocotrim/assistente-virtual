@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Gestão e Governança de TI  
+Sinônimos comuns: Governança de Tecnologia da Informação, Gestão de TI, Alinhamento de TI e Negócios  
+Descrição: A disciplina de Gestão e Governança de TI aborda o alinhamento estratégico entre a tecnologia da informação e os objetivos organizacionais, enfatizando o planejamento estratégico de sistemas de informação. Os alunos exploram conceitos de governança corporativa, gerenciamento de serviços de TI e frameworks relevantes, como ITIL e COBIT. A ementa inclui metodologias para aferição e gestão de desempenho, preparando os estudantes para atuar na integração eficaz entre TI e negócios, fundamental para a competitividade das organizações.
+
 ementa_gti
 
  GESTÃO E GOVERNANÇA DE TI

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Inorgânica II  
+Sinônimos comuns: Química Inorgânica Avançada, Química dos Compostos de Coordenação  
+Descrição: O curso de Química Inorgânica II aborda as propriedades gerais dos elementos de transição, com foco na química dos compostos de coordenação. Os alunos exploram teorias fundamentais, como a Teoria do Campo Cristalino e a Teoria da Ligação de Valência, além de estudar a estabilidade, reações e aplicações práticas desses compostos. O conteúdo é interligado ao cotidiano e à prática do ensino de química, permitindo uma compreensão aprofundada da relação entre estrutura e reatividade nos compostos inorgânicos.
+
 QUÍMICA INORGÂNICA II
 Carga Horária (h) Créditos
 Teórica 45 3

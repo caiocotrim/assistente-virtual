@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 2º Semestre  
+Sinônimos comuns: Matérias do segundo semestre, disciplinas obrigatórias, currículo do 2º semestre  
+Descrição: Este documento apresenta as disciplinas obrigatórias do segundo semestre do curso de Bacharelado em Sistemas de Informação, abrangendo áreas fundamentais como programação, arquitetura de computadores, ética e sociedade, matemática discreta, cálculo diferencial e administração. Cada disciplina é acompanhada de sua ementa e pré-requisitos, proporcionando uma visão clara do conteúdo a ser estudado e das competências a serem desenvolvidas ao longo do semestre.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 2 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 COMPONENTES CURRICULARES OBRIGATÓRIOS DO II SEMESTRE:

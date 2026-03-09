@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Cálculo Diferencial  
+Sinônimos comuns: Cálculo, Derivadas, Limites, Cálculo para Química  
+Descrição: O curso de Cálculo Diferencial para Química aborda conceitos fundamentais como limites, continuidade e derivadas de funções, com ênfase em suas aplicações na área química. Os alunos desenvolverão habilidades técnicas essenciais para a compreensão e utilização desses conceitos, preparando-os para futuras atividades docentes e para a resolução de problemas práticos na química. A disciplina é obrigatória e requer conhecimentos prévios em Matemática Básica, sendo oferecida no segundo período do curso.
+
 CÁLCULO DIFERENCIAL
 PARA QUÍMICA
 Carga Horária (h) Créditos

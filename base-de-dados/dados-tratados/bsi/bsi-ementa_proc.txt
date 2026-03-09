@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Processo de Desenvolvimento de Software  
+Sinônimos comuns: Desenvolvimento de Software, Metodologias de Software, Engenharia de Software  
+Descrição: Este componente curricular aborda os fundamentos e práticas do processo de desenvolvimento de software, incluindo suas fases, fluxos de trabalho, iterações e papéis envolvidos. Os alunos aprenderão sobre diferentes metodologias, com ênfase nas ágeis, e como aplicá-las em projetos reais. O curso é essencial para a formação em Sistemas de Informação, preparando os estudantes para enfrentar desafios práticos na área de desenvolvimento de software.
+
 ementa_proc
 
 CÓDIGO               COMPONENTE CURRICULAR

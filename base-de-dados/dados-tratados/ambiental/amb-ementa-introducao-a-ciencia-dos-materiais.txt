@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Introdução à Ciência dos Materiais  
+Sinônimos comuns: Ciência dos Materiais, Materiais de Engenharia, Engenharia de Materiais  
+Descrição: A disciplina de Introdução à Ciência dos Materiais aborda os fundamentos da estrutura e propriedades dos materiais, incluindo aspectos como a estrutura cristalina, defeitos, microestrutura e as características físicas e mecânicas dos materiais. O curso explora diferentes categorias de materiais, como polímeros, metais, cerâmicos e compostos, proporcionando uma base sólida para a compreensão das aplicações e seleções de materiais em engenharia ambiental e outras áreas. A bibliografia inclui obras clássicas e atualizadas que complementam o aprendizado teórico e prático.  
+------------------------------------------------------------
+
 CÓDIGO: 14.4.4
 DISCIPLINA: Introdução à Ciência dos Materiais
 Código

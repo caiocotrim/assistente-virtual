@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Topografia  
+Sinônimos comuns: Geodésia, Levantamento Topográfico, Medidas de Terreno  
+Descrição: Este documento aborda a disciplina de Topografia, essencial para a formação em Engenharia Civil, com foco nas definições, aplicações e metodologias de levantamento de terrenos. Inclui tópicos como unidades de medida, ângulos, distâncias, escalas, e o uso de equipamentos topográficos. A ementa também cobre métodos de cálculo de área, altimetria, e a representação do relevo, além de introduzir conceitos de Sistema de Posicionamento Global (GPS). A bibliografia básica e complementar oferece referências fundamentais para aprofundamento no tema.
+
 Topografia CARGA HORÁRIA 
 (h) 
 CRÉDITO S 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Instalações Elétricas Industriais  
+Sinônimos comuns: Instalações elétricas em indústrias, Projetos elétricos industriais, Sistemas elétricos industriais  
+Descrição: Este documento aborda o estudo das instalações elétricas industriais, incluindo a análise de normas técnicas, dimensionamento de condutores e infraestrutura, além de desenhos de diagramas elétricos. São discutidos aspectos como iluminação industrial, proteção de circuitos, correção de fator de potência e sistemas de aterramento. O conteúdo também abrange o projeto de subestações elétricas de média tensão e a introdução a sistemas de geração automatizados, proporcionando uma base sólida para a prática profissional na área de engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Instalações Elétricas Industriais

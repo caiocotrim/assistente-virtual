@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Ciência dos Materiais  
+Sinônimos comuns: Materiais de Construção, Materiais de Engenharia  
+Descrição: Este documento aborda a disciplina de Introdução à Ciência dos Materiais, essencial para a formação em Engenharia Civil. A ementa inclui tópicos como estrutura cristalina, defeitos, propriedades físicas e mecânicas, além de uma análise detalhada de diferentes tipos de materiais, como polímeros, metais, cerâmicas e compósitos. A bibliografia básica e complementar fornece uma base sólida para o estudo e compreensão das características e aplicações dos materiais na engenharia.
+
 Introdução à Ciência dos Materiais CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Geração de Energia Elétrica  
+Sinônimos comuns: Geração de energia, produção de eletricidade, fontes de energia elétrica  
+Descrição: Este documento aborda os fundamentos da geração de energia elétrica, incluindo as diversas fontes de geração, como hidroelétricas, eólicas, solares e térmicas. Discute também os impactos ambientais associados a esses sistemas, a legislação pertinente à geração distribuída e conceitos básicos do sistema elétrico brasileiro, como transmissão, distribuição e o Sistema Interligado Nacional. Além disso, apresenta referências bibliográficas essenciais para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Geração de Energia Elétrica

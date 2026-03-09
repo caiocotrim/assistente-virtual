@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Mecânica dos Sólidos  
+Sinônimos comuns: Estática, Análise Estrutural, Forças em Sólidos  
+Descrição: O curso de Mecânica dos Sólidos aborda os princípios fundamentais da estática, incluindo o estudo das forças no plano e no espaço, o equilíbrio de corpos rígidos e a análise de estruturas. Os alunos aprenderão sobre forças distribuídas, centroides, baricentros, momentos estáticos e atrito, utilizando métodos como o dos trabalhos virtuais. O conteúdo é essencial para a compreensão de fenômenos mecânicos aplicados à engenharia elétrica e prepara os estudantes para desafios práticos na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Mecânica dos Sólidos

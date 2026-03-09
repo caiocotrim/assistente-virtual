@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Probabilidade e Estatística  
+Sinônimos comuns: Estatística, Probabilidade, Estatística Básica  
+Descrição: O componente curricular de Probabilidade e Estatística oferece uma introdução aos conceitos fundamentais da estatística, incluindo técnicas de representação gráfica, medidas de tendência central e dispersão, além de abordar fenômenos aleatórios e determinísticos. Os alunos aprenderão sobre variáveis aleatórias, distribuições de probabilidade, correlação e regressão, preparando-os para aplicar esses conceitos em contextos práticos e acadêmicos. A ementa é complementada por uma bibliografia abrangente, que inclui obras clássicas e atualizadas na área.
+
 ementa_prob
 
  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO

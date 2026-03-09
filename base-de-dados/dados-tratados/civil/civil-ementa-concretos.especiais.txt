@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Concretos Especiais  
+Sinônimos comuns: Concreto Avançado, Concreto de Alta Performance, Concreto Diferenciado  
+Descrição: O curso de Concretos Especiais aborda a dosagem e as características de diferentes tipos de concreto, incluindo alta resistência, auto adensável, com polímeros, leve e reforçado com fibras. Os alunos aprenderão sobre as normas técnicas relevantes e a aplicação prática desses materiais em projetos estruturais, preparando-os para enfrentar desafios contemporâneos na engenharia civil. A disciplina é optativa e requer conhecimentos prévios em Concreto Armado I e Materiais de Construção II.
+
 Concretos Especiais 
 CARGA HORÁRIA 
 (h) 

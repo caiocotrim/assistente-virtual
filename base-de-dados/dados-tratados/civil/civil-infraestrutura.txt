@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Infraestrutura do Campus  
+Sinônimos comuns: Estrutura física, instalações do curso, espaços acadêmicos  
+Descrição: O documento apresenta uma análise detalhada da infraestrutura disponível no campus Vitória da Conquista do IFBA, destacando a área construída, salas de aula, laboratórios, auditórios e outros espaços essenciais para o funcionamento do curso de Engenharia Civil. A descrição abrange a quantidade e a finalidade de cada espaço, incluindo áreas específicas para coordenação, docentes e atividades práticas, além de informações sobre a biblioteca e seu acervo. Essa infraestrutura é fundamental para garantir a qualidade do ensino e o suporte às atividades acadêmicas e de pesquisa.
+
 8 INFRAESTRUTURA
  O campus Vitória da Conquista está instalado numa área de 40.040 m². Atualmente, a 
 instituição dispõe de 1.800 m2 de salas de aula, 1.208,50 m2 de laboratórios e dois auditórios. 

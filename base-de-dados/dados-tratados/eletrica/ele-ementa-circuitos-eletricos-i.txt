@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Circuitos Elétricos I  
+Sinônimos comuns: Análise de Circuitos, Circuitos Elétricos, Circuitos I  
+Descrição: O curso de Circuitos Elétricos I aborda os fundamentos da análise de circuitos em corrente contínua, incluindo conceitos essenciais como leis de circuitos, divisores de tensão e corrente, além de transformações entre configurações de circuitos. Os alunos aprenderão métodos de análise, como os métodos nodal e de malha, e teoremas importantes, como os de Thévenin e Norton. O curso também inclui a análise de circuitos de primeira e segunda ordem, com foco em suas respostas naturais e ao degrau, além de introduzir a modelagem computacional aplicada à análise de circuitos elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Circuitos Elétricos I

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Estágio Supervisionado  
+Sinônimos comuns: Estágio, Prática Profissional, Estágio Curricular  
+Descrição: O Estágio Supervisionado é uma etapa crucial na formação do estudante de Engenharia Ambiental, permitindo a aplicação prática dos conhecimentos adquiridos ao longo do curso. Os alunos devem desenvolver atividades em instituições conveniadas ao IFBA, sob a orientação de um professor da área. A conclusão do estágio está condicionada à elaboração e aprovação de um relatório individual que documente as experiências e aprendizagens obtidas durante o período de atuação profissional. A bibliografia utilizada será definida conforme a área específica de atuação do estudante, garantindo que o conteúdo esteja alinhado com as demandas do mercado e as necessidades do estágio.
+
 CÓDIGO: 14.10.1
 DISCIPLINA: Estágio Supervisionado
 Código

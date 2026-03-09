@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Componentes Curriculares por Semestre  
+Sinônimos comuns: Disciplinas do curso, Matérias do curso, Grade curricular  
+Descrição: Este documento apresenta a estrutura curricular do curso de Engenharia Elétrica, detalhando os componentes obrigatórios e eletivos distribuídos ao longo dos semestres. Inclui informações sobre pré-requisitos, co-requisitos, carga horária teórica e prática, além dos créditos correspondentes a cada disciplina. É uma ferramenta essencial para estudantes que buscam entender a organização do curso e planejar sua trajetória acadêmica.
+
 Matérias por semestre do curso de elétrica.
 
 Tabela 6 – Componentes curriculares do primeiro semestre. 

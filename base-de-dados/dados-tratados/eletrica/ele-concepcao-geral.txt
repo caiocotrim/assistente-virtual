@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Concepção do Curso  
+Sinônimos comuns: Estrutura do curso, Objetivos do curso, Formação em Engenharia Elétrica  
+Descrição: O documento apresenta a concepção do curso de Engenharia Elétrica do IFBA Campus de Vitória da Conquista, detalhando seus objetivos gerais e específicos, além do perfil profissional esperado para os egressos. Destaca a formação técnica e científica necessária, as competências que os alunos devem desenvolver e a importância da relação entre teoria e prática. O curso visa atender às demandas do mercado de trabalho e promover o desenvolvimento sustentável, alinhando-se às diretrizes curriculares nacionais e às necessidades socioeconômicas da região.
+
 CONCEPÇÃO DO CURSO 
 3.1.  OBJETIVO GERAL 
 O curso de Engenharia Elétrica do IFBA Campus de Vitória da Conquista tem 

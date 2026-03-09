@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Tecnologias mais Limpas  
+Sinônimos comuns: Produção mais Limpa, P+L, Ecoeficiência  
+Descrição: O componente curricular "Tecnologias mais Limpas" aborda a identificação e análise de aspectos e impactos ambientais em processos industriais, promovendo a compreensão de fluxogramas, balanços de massa e energia, e estratégias para a minimização de resíduos. O curso explora alternativas energéticas, programas de prevenção à poluição, e a viabilidade econômica de projetos de Produção mais Limpa. Além disso, discute a simbiose industrial e a importância de selos ambientais, utilizando estudos de caso para ilustrar a aplicação prática dos conceitos.
+
 CÓDIGO: 14.11.26
 DISCIPLINA: Tecnologias mais Limpas
 Código

@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Física I  
+Sinônimos comuns: Física Geral, Mecânica, Física Básica  
+Descrição: A disciplina de Física I aborda os fundamentos da cinemática e dinâmica de partículas, explorando as leis de Newton, trabalho e energia, além de conceitos de conservação de energia e colisões. O curso também inclui o estudo do movimento de rotação, torque, momento angular e rolamento, proporcionando uma base sólida para a compreensão dos princípios físicos aplicáveis em diversas áreas da engenharia ambiental. A bibliografia abrange obras clássicas e contemporâneas, essenciais para o aprofundamento no tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.2.6
 DISCIPLINA: Física I
 Código

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Física Experimental I  
+Sinônimos comuns: Física Experimental, Experimentos de Física, Laboratório de Física  
+Descrição: Este documento aborda a disciplina de Física Experimental I, que é fundamental para o curso de Engenharia Elétrica. A disciplina inclui a realização de experimentos práticos em Mecânica Geral, Termodinâmica e Óptica, proporcionando aos alunos a oportunidade de aplicar conceitos teóricos em situações experimentais. Os conteúdos abordam desde medidas e forças até fenômenos como difração e refração, além de enfatizar o tratamento estatístico de dados experimentais. A bibliografia recomendada oferece uma base sólida para o entendimento e a execução dos experimentos, sendo essencial para a formação do engenheiro elétrico.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Física Experimental I

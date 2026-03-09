@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Análise e Avaliação de Impactos Ambientais  
+Sinônimos comuns: Avaliação de Impacto Ambiental, EIA, RIMA, Licenciamento Ambiental  
+Descrição: Este documento aborda os conceitos fundamentais da Análise e Avaliação de Impactos Ambientais, incluindo as resoluções do CONAMA, a elaboração de Estudos de Impacto Ambiental (EIA) e Relatórios de Impacto Ambiental (RIMA). Discute métodos de avaliação, medidas mitigadoras, programas de monitoramento e licenciamento ambiental, além de técnicas para recuperação de áreas degradadas. A bibliografia inclui obras essenciais para aprofundamento no tema, tornando-se uma referência valiosa para estudantes e profissionais da área.  
+------------------------------------------------------------
+
 CÓDIGO: 14.7.1
 DISCIPLINA: Análise e Avaliação de Impactos Ambientais
 Código

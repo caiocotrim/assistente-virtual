@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Composição das Disciplinas das Ênfases  
+Sinônimos comuns: Disciplinas do curso, Componentes curriculares, Ênfases em Engenharia  
+Descrição: Este documento detalha a estrutura curricular do curso de Engenharia Elétrica, abordando as diferentes ênfases disponíveis, como Automação e Controle, Eletrônica e Eletrotécnica. Cada ênfase é composta por um conjunto específico de componentes curriculares, totalizando 360 horas, além de permitir a habilitação em até duas ênfases mediante a conclusão de disciplinas obrigatórias e optativas. As tabelas apresentadas fornecem uma visão clara dos pré-requisitos, créditos e carga horária de cada componente, facilitando a compreensão da flexibilidade curricular e das exigências para a formação dos alunos.
+
 Composição das Disciplinas das Ênfases 
 Para cada ênfase oferecida no curso está previsto um conjunto de componentes 
 curriculares  próprias.  Para  cada  ênfase  estão  previstas  10  componentes  curriculares, 

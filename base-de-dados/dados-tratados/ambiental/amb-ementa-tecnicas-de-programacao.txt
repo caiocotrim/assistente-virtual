@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Técnicas de Programação  
+Sinônimos comuns: Programação, Algoritmos, Estruturas de Dados  
+Descrição: O componente curricular de Técnicas de Programação aborda conceitos fundamentais de programação, incluindo estruturas de dados como pilhas, listas, filas, árvores e tabelas, além de algoritmos de ordenação. O curso também introduz a programação orientada a objetos, explorando seus princípios e aplicações práticas na engenharia. Os alunos são incentivados a desenvolver habilidades analíticas e de resolução de problemas por meio da implementação de algoritmos e manipulação de dados, preparando-os para desafios técnicos na área ambiental.
+
 CÓDIGO: 14.11.25
 DISCIPLINA: Técnicas de Programação
 Código Componente (NÚCLEO

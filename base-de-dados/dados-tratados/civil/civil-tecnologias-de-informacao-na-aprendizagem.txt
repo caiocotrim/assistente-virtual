@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Tecnologias de Informação e Comunicação no Ensino  
+Sinônimos comuns: TICs, tecnologia educacional, ferramentas digitais, ensino online  
+Descrição: O documento aborda a integração das Tecnologias de Informação e Comunicação (TICs) no processo de ensino-aprendizagem do curso de Engenharia Civil, destacando como essas tecnologias transformam a dinâmica entre alunos e professores. São discutidos os benefícios da utilização de ferramentas digitais, como softwares e dispositivos móveis, que promovem maior interatividade, flexibilidade e acesso à informação. Além disso, enfatiza a importância do uso de recursos como CAD e linguagens de programação, que são essenciais para a formação dos estudantes, preparando-os para o mercado de trabalho e enriquecendo as práticas pedagógicas ao longo do curso.
+
 6 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO – TICS NO PROCESSO 
 ENSINO- APRENDIZAGEM 
 As Tecnologias de Informação e Comunicação (TICs) contribuem para que possamos 

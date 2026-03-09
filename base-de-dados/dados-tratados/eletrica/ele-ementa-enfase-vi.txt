@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Plano de Ensino  
+Sinônimos comuns: Currículo, Estrutura do Curso, Guia de Estudos  
+Descrição: O plano de ensino de Engenharia Elétrica apresenta a estrutura curricular e os componentes obrigatórios para a formação dos alunos, incluindo a carga horária e os pré-requisitos necessários para o desenvolvimento das disciplinas. Este documento é fundamental para orientar os estudantes sobre os conteúdos a serem abordados e as expectativas acadêmicas ao longo do curso.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 COMPONENTE CURRICULAR
 Ênfase VI

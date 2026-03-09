@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Introdução à Programação  
+Sinônimos comuns: Programação Básica, Lógica de Programação, Algoritmos  
+Descrição: Este documento aborda os fundamentos da programação, incluindo a organização de computadores, resolução de problemas, desenvolvimento de programas e a introdução a uma linguagem de programação. Os tópicos incluem tipos de dados, operadores, controle de fluxo, e a modularização de programas, proporcionando uma base sólida para o aprendizado em Ciência da Computação e suas aplicações na Engenharia Ambiental. A bibliografia recomendada oferece recursos adicionais para aprofundamento no tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.4.5
 DISCIPLINA: Introdução à Programação
 Código

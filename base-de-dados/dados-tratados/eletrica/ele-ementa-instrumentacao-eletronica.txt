@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Instrumentação Eletrônica  
+Sinônimos comuns: Medidas Eletrônicas, Instrumentação, Medição Eletrônica  
+Descrição: O documento aborda os fundamentos da instrumentação eletrônica, incluindo técnicas de medição, tipos de instrumentos analógicos e digitais, e a análise de erros de medição. Discute também a importância dos condicionadores de sinais e amplificadores, além de transdutores utilizados para medir diversas grandezas físicas como temperatura e força. A descrição das características dos medidores, como precisão e calibração, é essencial para a compreensão da aplicação de sensores inteligentes e equipamentos de medição virtual no contexto da engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Instrumentação Eletrônica

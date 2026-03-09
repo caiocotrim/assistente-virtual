@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Higiene e Segurança do Trabalho  
+Sinônimos comuns: Segurança do Trabalho, Gestão de Riscos, Saúde Ocupacional  
+Descrição: Este documento aborda a disciplina de Higiene e Segurança do Trabalho, focando na legislação trabalhista e previdenciária, normas regulamentadoras, agentes de riscos ambientais e medidas de controle. Inclui também a importância de programas e profissionais na gestão da segurança e saúde no ambiente de trabalho, além de estatísticas sobre acidentes e doenças ocupacionais e princípios de prevenção e combate a incêndios. A bibliografia sugere leituras fundamentais e complementares para aprofundamento no tema.
+
 CÓDIGO: 14.3.5
 DISCIPLINA: Higiene e Segurança do Trabalho
 Código

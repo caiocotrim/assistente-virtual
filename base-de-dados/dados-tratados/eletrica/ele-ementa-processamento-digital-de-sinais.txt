@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Processamento Digital de Sinais  
+Sinônimos comuns: DSP, Processamento de Sinais, Sinais Digitais  
+Descrição: O Processamento Digital de Sinais é uma disciplina fundamental na Engenharia Elétrica que aborda técnicas e métodos para manipulação de sinais digitais. Inclui tópicos como amostragem, quantização, transformadas de Fourier, e design de filtros digitais. O conhecimento adquirido é essencial para aplicações em diversas áreas, como telecomunicações, áudio e processamento de imagens, permitindo a análise e a melhoria da qualidade dos sinais.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Processamento Digital de Sinais

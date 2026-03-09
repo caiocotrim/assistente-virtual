@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Geologia  
+Sinônimos comuns: Geologia Geral, Geologia Aplicada, Geologia para Engenharia  
+Descrição: O curso de Geologia aborda os fundamentos da crosta terrestre, incluindo a mineralogia e a classificação das rochas ígneas, metamórficas e sedimentares. Os alunos estudam a origem e a importância geotécnica desses materiais, além de processos endógenos e exógenos, intemperismo e formação dos solos. O conteúdo também inclui a identificação e classificação das formas do relevo, bem como noções de física do solo, essenciais para a prática da Engenharia Civil. A bibliografia abrange obras clássicas e contemporâneas que aprofundam os temas tratados.  
+------------------------------------------------------------
+
 
  
 96  

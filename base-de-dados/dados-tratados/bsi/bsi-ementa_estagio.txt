@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Estágio Supervisionado  
+Sinônimos comuns: Estágio, Estágio Curricular, Estágio Obrigatório  
+Descrição: A disciplina de Estágio Supervisionado é uma etapa crucial na formação do aluno, proporcionando a aplicação prática dos conhecimentos adquiridos ao longo do curso. Com uma carga horária total de 330 horas, sendo 30 horas de acompanhamento e 300 horas de atividade prática, o estágio permite ao estudante desenvolver habilidades em ambientes reais de trabalho. O curso abrange a elaboração de um Plano de Estágio e a produção de um Relatório Final, além de oferecer orientação contínua durante o processo. A bibliografia recomendada inclui obras sobre metodologia científica, essenciais para a elaboração de projetos e relatórios acadêmicos.
+
 ementa_estagio
 
 ESTÁGIO

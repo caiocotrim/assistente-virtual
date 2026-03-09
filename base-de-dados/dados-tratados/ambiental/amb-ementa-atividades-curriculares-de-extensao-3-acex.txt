@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Atividades Curriculares de Extensão 3  
+Sinônimos comuns: ACEX 3, Extensão Universitária, Atividades de Extensão  
+Descrição: O componente curricular Atividades Curriculares de Extensão 3 (ACEX 3) é fundamental para a formação dos estudantes de Engenharia Ambiental, pois visa a interação prática com a comunidade, permitindo a identificação e análise de demandas sociais. Os alunos aplicam conhecimentos adquiridos em disciplinas anteriores para desenvolver produtos e processos que promovam melhorias na sociedade. As atividades são planejadas e executadas em colaboração com docentes, com foco na integração de saberes e na discussão dos resultados com a comunidade, contribuindo para a formação de um profissional engajado e consciente de seu papel social.
+
 CÓDIGO: 14.6.8
 DISCIPLINA: Atividades Curriculares de Extensão 3 (ACEX)
 Código

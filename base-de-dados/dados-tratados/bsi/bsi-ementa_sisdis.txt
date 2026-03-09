@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Sistemas Distribuídos  
+Sinônimos comuns: Sistemas Distribuídos, Distribuição de Sistemas, Sistemas de Computação Distribuída  
+Descrição: O componente curricular de Sistemas Distribuídos aborda os fundamentos teóricos e práticos relacionados à arquitetura e funcionamento de sistemas que operam em ambientes distribuídos. Os alunos exploram conceitos como comunicação, sincronização, algoritmos e segurança em sistemas distribuídos, além de aprender sobre a tolerância a falhas e objetos distribuídos. O curso é essencial para a formação em tecnologia da informação, preparando os estudantes para enfrentar desafios contemporâneos na área de computação.
+
 ementa_sisdis
 
 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO

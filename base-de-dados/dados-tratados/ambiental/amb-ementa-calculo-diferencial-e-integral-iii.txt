@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Cálculo Diferencial e Integral III  
+Sinônimos comuns: Cálculo III, Cálculo Multivariável, Cálculo Avançado  
+Descrição: O componente curricular Cálculo Diferencial e Integral III aborda conceitos fundamentais de funções de várias variáveis, incluindo derivação parcial e derivadas direcionais. O curso explora técnicas para encontrar máximos e mínimos, além de integrais múltiplas e de linha. Os alunos também estudam teoremas importantes como o de Green, Stokes e Gauss, que são essenciais para a compreensão de fenômenos em diversas áreas da engenharia. A bibliografia inclui obras clássicas e complementares que oferecem uma base sólida para o aprendizado e aplicação dos conceitos abordados.
+
 CÓDIGO: 14.3.1
 DISCIPLINA: Cálculo Diferencial e Integral III
 Código

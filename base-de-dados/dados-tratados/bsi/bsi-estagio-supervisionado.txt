@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Estágio Supervisionado  
+Sinônimos comuns: Estágio, Estágio Curricular, Estágio Prático  
+Descrição: O Estágio Supervisionado é uma atividade curricular que visa integrar a teoria à prática, permitindo que os alunos do curso de Bacharelado em Sistemas de Informação desenvolvam competências profissionais em ambientes reais de trabalho. Embora a realização do estágio não seja obrigatória, os alunos têm a opção de contabilizar horas de estágio como atividade complementar, desde que sigam os regulamentos estabelecidos pela instituição. A escolha do supervisor e o registro do estágio são responsabilidades do aluno, que deve buscar orientação junto ao corpo docente da área de Computação.
+
 ESTÁGIO SUPERVISIONADO
 A Resolução CES/CNE nº 5/2016, em seu Art. 7º, apresenta as seguintes
 considerações e objetivos em relação ao Estágio Supervisionado:

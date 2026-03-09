@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Cálculo Diferencial e Integral I  
+Sinônimos comuns: Cálculo I, Cálculo Diferencial, Cálculo Integral  
+Descrição: O curso de Cálculo Diferencial e Integral I aborda os conceitos fundamentais de limites, continuidade e diferenciação, além de explorar formas indeterminadas e aplicações das derivadas. Os alunos aprenderão a construir primitivas, essenciais para a compreensão de funções e suas aplicações em diversas áreas da engenharia. Este conteúdo é crucial para a formação em Engenharia Elétrica, servindo como base para disciplinas mais avançadas e práticas profissionais.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Cálculo Diferencial e Integral I

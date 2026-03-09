@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Obras Hidráulicas  
+Sinônimos comuns: Hidráulica, Projetos Hidráulicos, Engenharia Hidráulica  
+Descrição: Este documento aborda a disciplina de Obras Hidráulicas, focando em aproveitamentos hidráulicos, análise de barragens, dimensionamento de vertedores e bacias de dissipação, além de discutir os impactos ambientais associados a essas obras. A ementa inclui tópicos como a estabilidade de barragens, métodos de dimensionamento e a importância de projetos hidráulicos na engenharia ambiental. A bibliografia apresenta referências essenciais e complementares para aprofundamento no tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.7.4
 DISCIPLINA: Obras Hidráulicas
 Código Componente (NÚCLEO

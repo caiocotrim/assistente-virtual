@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Sistemas de Apoio à Decisão  
+Sinônimos comuns: SAD, Sistemas de Decisão, Sistemas de Apoio à Gestão  
+Descrição: O componente curricular aborda a interseção entre dados, informação e conhecimento, focando no processo decisório dentro das organizações. Explora as características e funcionalidades de sistemas de informação, incluindo OLTP e sistemas de apoio à gestão, além de conceitos de Data Warehouse, Data Marts, Data Mining e OLAP. O curso também discute tendências emergentes em tecnologias aplicadas a Sistemas de Apoio à Decisão, preparando os alunos para enfrentar desafios práticos na área.
+
 ementa_sad
 
  CÓDIGO               COMPONENTE CURRICULAR

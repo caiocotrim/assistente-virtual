@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Cálculo Diferencial e Integral III  
+Sinônimos comuns: Cálculo III, Cálculo Multivariável, Cálculo Avançado  
+Descrição: O curso de Cálculo Diferencial e Integral III aborda conceitos fundamentais relacionados a funções de várias variáveis, incluindo derivação parcial, derivadas direcionais, e a análise de máximos e mínimos. Além disso, explora integrais múltiplas, integrais de linha e superfícies, e os teoremas de Green, Stokes e Gauss, que são essenciais para a compreensão de fenômenos em diversas áreas da engenharia. A disciplina é obrigatória e requer conhecimentos prévios em Álgebra Vetorial, Geometria Analítica e Cálculo II, sendo crucial para o desenvolvimento de habilidades analíticas e matemáticas no contexto da Engenharia Civil.
+
 
 98  
  

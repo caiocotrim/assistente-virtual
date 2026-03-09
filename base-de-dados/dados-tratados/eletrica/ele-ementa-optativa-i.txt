@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Optativa I  
+Sinônimos comuns: Disciplina Optativa, Curso Eletivo  
+Descrição: Este documento apresenta informações sobre a disciplina Optativa I do curso de Engenharia Elétrica do IFBA, incluindo detalhes sobre pré-requisitos e co-requisitos, além de referências bibliográficas essenciais para o desenvolvimento das atividades acadêmicas. A disciplina é projetada para complementar a formação dos alunos, oferecendo uma abordagem diversificada e flexível dentro do currículo.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 COMPONENTE CURRICULAR
 Optativa I

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Justificativa para o Curso de Engenharia Civil  
+Sinônimos comuns: Motivos para o curso, Razões para a formação, Fundamentação do curso  
+Descrição: Este documento apresenta uma análise detalhada das necessidades e oportunidades do setor de construção civil na Bahia, enfatizando a importância da formação de engenheiros civis qualificados. Destaca o crescimento do emprego na construção civil, as características regionais que favorecem a atuação profissional e a relevância da formação técnica e ética do engenheiro civil. Além disso, aborda a complexidade da cadeia produtiva do setor e a demanda por mão de obra qualificada, ressaltando o papel do engenheiro civil no desenvolvimento social e econômico da região.
+
 JUSTIFICATIVA 
 A região de abrangência do Campus Vitória da Conquista apresenta características 
 peculiares que possibilitam a fixação de pessoal qualificado, quer no serviço público, pela 

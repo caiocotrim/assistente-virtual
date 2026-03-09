@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Auditoria e Perícia Ambiental  
+Sinônimos comuns: Auditoria Ambiental, Perícia Ambiental, Gestão Ambiental, Análise de Impactos  
+Descrição: Este documento aborda a disciplina de Auditoria e Perícia Ambiental, enfocando conceitos fundamentais como sistemas de gestão ambiental, tipos de auditoria e suas etapas, incluindo atividades pré, durante e pós-auditoria. Também discute a responsabilidade civil relacionada à degradação e poluição ambiental, além de apresentar referências normativas e bibliografia essencial para aprofundamento no tema. A disciplina é crucial para a formação de profissionais capacitados a realizar auditorias e perícias que assegurem a conformidade ambiental e a mitigação de impactos negativos.
+
 CÓDIGO: 14.8.1
 DISCIPLINA: Auditoria e Perícia Ambiental
 Código

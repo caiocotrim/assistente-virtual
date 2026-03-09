@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Resistência dos Materiais I  
+Sinônimos comuns: Mecânica dos Sólidos, Análise Estrutural, Materiais Estruturais  
+Descrição: Este documento aborda os fundamentos da Resistência dos Materiais I, incluindo conceitos essenciais como tensões e deformações, a Lei de Hooke, e solicitações unidimensionais. O conteúdo é direcionado a estudantes de Engenharia Elétrica, preparando-os para a análise de estruturas e materiais sob diferentes condições de carga. A disciplina é crucial para a compreensão do comportamento mecânico de materiais e a aplicação de teorias em projetos de engenharia. Além disso, são indicadas referências bibliográficas que complementam o aprendizado e aprofundam o conhecimento na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Resistência dos Materiais I

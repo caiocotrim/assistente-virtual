@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Probabilidade e Estatística  
+Sinônimos comuns: Estatística, Probabilidade, Análise Estatística  
+Descrição: O curso de Probabilidade e Estatística é fundamental para a formação em Engenharia Civil, abordando conceitos essenciais como fenômenos aleatórios, variáveis aleatórias, distribuições de probabilidade e suas aplicações em contextos práticos. Os alunos aprenderão a diferenciar entre fenômenos determinísticos e aleatórios, além de explorar distribuições normais e gama, correlação e regressão, preparando-os para a análise de dados e tomada de decisões informadas em projetos de engenharia.
+
  
 Probabilidade e Estatística CARGA HORÁRIA 
 (h) 

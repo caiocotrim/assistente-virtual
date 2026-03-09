@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas de Aço  
+Sinônimos comuns: Estruturas metálicas, Cálculo de estruturas de aço, Dimensionamento de aço  
+Descrição: Este documento aborda a disciplina de Estruturas de Aço, que é parte do núcleo específico do curso de Engenharia Civil. Com uma carga horária total de 60 horas e 4 créditos, a disciplina explora conceitos fundamentais como ações e segurança, além de detalhar os diferentes tipos de elementos estruturais, incluindo tracionados, comprimidos e fletidos. O conteúdo também abrange o dimensionamento, detalhamento, fabricação e montagem de estruturas metálicas, proporcionando uma base teórica sólida e prática para futuros engenheiros civis. A bibliografia inclui obras essenciais e complementares que servem como referência para o aprofundamento no tema.
+
 
 Estruturas de Aço CARGA HORÁRIA 
 (h) 

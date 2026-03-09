@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Química Ambiental  
+Sinônimos comuns: Química do meio ambiente, Química ecológica, Química ambiental aplicada  
+Descrição: A disciplina de Química Ambiental aborda os contaminantes presentes no meio ambiente, como metais pesados e pesticidas, e suas interações com solos e sedimentos. Explora os ciclos biogeoquímicos dos elementos, os processos químicos que ocorrem na atmosfera, solo e sistemas aquáticos, além de discutir fontes energéticas e o impacto ambiental. Inclui técnicas de tratamento de resíduos e a análise das leis e normas vigentes no Brasil relacionadas ao meio ambiente, promovendo uma compreensão crítica e aplicada dos desafios ambientais contemporâneos.
+
 CÓDIGO: 14.11.21
 DISCIPLINA: Química Ambiental
 Código Componente (NÚCLEO

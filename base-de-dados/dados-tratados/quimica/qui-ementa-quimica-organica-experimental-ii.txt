@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Orgânica Experimental II  
+Sinônimos comuns: Química Orgânica II, Experimentos de Química Orgânica, Práticas de Química Orgânica  
+Descrição: Este curso aborda a identificação e reatividade de classes de compostos orgânicos, incluindo técnicas de síntese e reações específicas como esterificação e oxidação. Os alunos aprenderão a realizar experimentos práticos, calcular rendimentos e aprofundar conhecimentos em análises químicas. A disciplina é fundamental para a formação em Química, proporcionando habilidades essenciais para a prática laboratorial e a pesquisa na área.
+
 QUÍMICA ORGÂNICA
 EXPERIMENTAL II
 Carga Horária (h) Créditos

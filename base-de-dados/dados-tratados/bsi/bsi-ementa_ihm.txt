@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Interface Homem-Máquina  
+Sinônimos comuns: IHM, Interação Humano-Computador, Design de Interfaces  
+Descrição: Este componente curricular aborda os princípios fundamentais da interação entre usuários e sistemas computacionais, explorando estilos de interação, processos e arquiteturas de interfaces. Os alunos aprenderão metodologias e técnicas para a concepção, projeto e avaliação de interfaces, além de ferramentas práticas para o desenvolvimento de sistemas interativos. A disciplina é essencial para a formação em design e usabilidade, preparando os estudantes para criar experiências de usuário eficientes e intuitivas.
+
 ementa_ihm
 
 CÓDIGO               COMPONENTE CURRICULAR

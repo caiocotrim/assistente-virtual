@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Projeto de Rodovias  
+Sinônimos comuns: Estradas, Geometria de Estradas, Traçado de Rodovias  
+Descrição: Este documento aborda a disciplina de Projeto de Rodovias, com foco na classificação das rodovias, conceitos de nível de serviço e escolha do traçado. Inclui elementos essenciais para o projeto geométrico, como curvas horizontais, superelevação e superlargura, além do estudo do perfil longitudinal e curvas de concordância vertical. A bibliografia básica e complementar fornece referências fundamentais para aprofundamento no tema, sendo crucial para a formação de engenheiros civis capacitados na área de infraestrutura viária.
+
 Estradas e Rodovias CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

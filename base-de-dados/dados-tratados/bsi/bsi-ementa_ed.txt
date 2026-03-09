@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Estruturas de Dados  
+Sinônimos comuns: Estruturas de Dados, Estruturas de Informação, Dados Estruturados  
+Descrição: O componente curricular de Estruturas de Dados aborda a organização e manipulação de dados em diferentes formatos, incluindo estruturas estáticas e dinâmicas. Os alunos aprenderão sobre listas encadeadas, pilhas, filas, heaps e árvores, incluindo árvores de busca binária e suas variações, como árvores AVL e B. O curso enfatiza a implementação e aplicação dessas estruturas em problemas computacionais, preparando os estudantes para desafios práticos em programação e desenvolvimento de software.
+
 ementa_ed
 
 CÓDIGO                   COMPONENTE CURRICULAR

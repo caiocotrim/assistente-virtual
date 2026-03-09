@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Química Inorgânica I  
+Sinônimos comuns: Química Inorgânica, Química Geral II, Química do Bloco S e P  
+Descrição: O curso de Química Inorgânica I aborda a tabela periódica e as propriedades gerais dos elementos, explorando a estrutura eletrônica dos átomos e os modelos atômicos, como o de Bohr. Os alunos aprenderão sobre ligações químicas, geometria molecular e teorias de ligação, além de estudar o hidrogênio e seus compostos, bem como os elementos dos blocos s e p. O conteúdo é correlacionado com situações do cotidiano e práticas de ensino, visando desenvolver habilidades para identificar grupos na tabela periódica, compreender a reatividade dos elementos e as energias envolvidas em processos químicos. A bibliografia inclui obras fundamentais e complementares que suportam o aprendizado e aprofundamento na área.  
+------------------------------------------------------------
+
 QUÍMICA INORGÂNICA I
 Carga Horária (h) Créditos
 Teórica 45 3

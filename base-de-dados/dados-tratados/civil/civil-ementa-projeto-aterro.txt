@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Projeto de Aterro Sanitário  
+Sinônimos comuns: Aterro, Gestão de Resíduos, Disposição de Resíduos Sólidos  
+Descrição: O curso aborda os princípios e práticas relacionados ao projeto de aterros sanitários, incluindo a disposição adequada de resíduos sólidos, análise da quantidade e composição dos resíduos, seleção de locais apropriados, tipos de aterros e cálculos necessários para volume e sistemas de drenagem. Os alunos aprenderão sobre balanço hídrico, drenagem de gases, tratamento de percolados, impermeabilização e camadas de cobertura, além de aspectos de estabilidade de taludes e monitoramento. A legislação vigente e referências bibliográficas complementares são também discutidas, proporcionando uma visão abrangente e atualizada sobre a gestão de resíduos sólidos.
+
 Projeto de Aterro Sanitário CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

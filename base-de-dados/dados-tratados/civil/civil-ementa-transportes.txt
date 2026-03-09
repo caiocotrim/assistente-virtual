@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Transporte Aéreo e Hidroviário  
+Sinônimos comuns: Transporte de Cargas, Logística Aérea e Marítima, Infraestrutura de Transporte  
+Descrição: Este documento aborda os fundamentos do transporte aéreo e hidroviário, incluindo a organização, planejamento e características das aeronaves e embarcações. Discute a localização e o projeto de aeródromos, além de aspectos de hidráulica fluvial e marítima. O conteúdo é essencial para a compreensão da infraestrutura necessária para a movimentação de cargas, considerando aspectos técnicos e normativos relevantes para a Engenharia Civil.
+
 Aeroportos, Portos e Vias Navegáveis CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

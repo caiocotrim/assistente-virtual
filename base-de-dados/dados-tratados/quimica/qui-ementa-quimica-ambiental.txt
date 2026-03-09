@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Ambiental  
+Sinônimos comuns: Química do meio ambiente, Química ecológica, Química ambiental aplicada  
+Descrição: O curso de Química Ambiental aborda a interação entre contaminantes, como metais pesados e pesticidas, e os diversos componentes do meio ambiente, incluindo solos, sedimentos e sistemas aquáticos. Os alunos exploram os ciclos biogeoquímicos, processos químicos atmosféricos e as implicações socioeconômicas das interações químicas. O curso também enfatiza a importância da legislação ambiental brasileira e técnicas de tratamento de resíduos, preparando os estudantes para disseminar conhecimentos sobre a preservação e uso sustentável dos recursos naturais.
+
 QUÍMICA AMBIENTAL
 Carga Horária (h) Créditos
 Teórica 45 3

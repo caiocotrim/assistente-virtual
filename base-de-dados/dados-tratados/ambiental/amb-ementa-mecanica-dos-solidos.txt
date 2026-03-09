@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Mecânica dos Sólidos  
+Sinônimos comuns: Estática, Mecânica Vetorial, Análise Estrutural  
+Descrição: A disciplina de Mecânica dos Sólidos aborda os princípios fundamentais que regem as forças e o equilíbrio de corpos rígidos, tanto no plano quanto no espaço. Os alunos aprenderão sobre sistemas de forças, centroides, baricentros, e momentos estáticos, além de técnicas de análise de estruturas e o impacto do atrito. O conteúdo é essencial para a compreensão de como as forças atuam em vigas e cabos, preparando os estudantes para desafios práticos na engenharia ambiental. A bibliografia inclui obras clássicas e complementares que aprofundam o conhecimento em física e mecânica aplicada.  
+------------------------------------------------------------
+
 CÓDIGO: 14.3.6
 DISCIPLINA: Mecânica dos Sólidos
 Código

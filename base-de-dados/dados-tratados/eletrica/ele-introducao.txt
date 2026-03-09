@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Projeto Pedagógico do Curso  
+Sinônimos comuns: PPC, currículo de Engenharia Elétrica, diretrizes do curso  
+Descrição: O Projeto Pedagógico do Curso de Engenharia Elétrica do IFBA é um documento que resulta de um esforço colaborativo entre docentes e instâncias acadêmicas, visando a formação de engenheiros eletricistas capacitados para enfrentar as constantes mudanças tecnológicas e científicas. Este PPC está alinhado às Diretrizes Curriculares Nacionais e ao Plano de Desenvolvimento Institucional do IFBA, refletindo as necessidades educacionais e socioeconômicas da Bahia. O documento enfatiza a importância da qualidade e equidade no ensino, promovendo um aprendizado inclusivo e multidisciplinar, com foco na cidadania e na aplicação prática dos conhecimentos em contextos sociais dinâmicos.
+
 INTRODUÇÃO 
 O Projeto Pedagógico do Curso (PPC) de Engenharia Elétrica do Instituto Federal 
 de Educação Ciência e Tecnologia (IFBA), campus de Vitória da Conquista, resulta de 

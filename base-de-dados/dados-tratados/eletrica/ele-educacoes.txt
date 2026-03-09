@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Educação Ambiental e Direitos Humanos  
+Sinônimos comuns: Educação Ambiental, Direitos Humanos, LIBRAS, Segurança do Trabalho  
+Descrição: O curso de Engenharia Elétrica do IFBA integra a educação ambiental e a educação em direitos humanos em sua grade curricular, promovendo a conscientização e a participação ativa dos alunos em projetos e eventos relacionados. Através de componentes curriculares obrigatórios e atividades extracurriculares, como a Semana do Meio Ambiente e a Jornada Cultural, o curso busca fomentar a interdisciplinaridade e a transversalidade, alinhando-se às diretrizes legais vigentes. Além disso, oferece disciplinas optativas como LIBRAS e aborda medidas de prevenção e combate a incêndios, garantindo uma formação abrangente e socialmente responsável.
+
 Educação Ambiental 
 O curso de Engenharia Elétrica tem, entre as suas prioridades, efetuar a inclusão 
 da educação ambiental nas práticas indissociáveis do ensino, da pesquisa e da extensão, 

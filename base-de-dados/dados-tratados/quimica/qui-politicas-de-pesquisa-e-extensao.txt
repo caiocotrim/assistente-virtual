@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Política de Pesquisa e Extensão  
+Sinônimos comuns: Pesquisa no IFBA, Extensão no IFBA, Programas de Iniciação Científica  
+Descrição: O documento aborda a Política de Pesquisa e Extensão do Instituto Federal da Bahia, destacando a importância da pesquisa como atividade integrada ao ensino e à extensão. Apresenta os programas de fomento à pesquisa, como PIBIC e PIBITI, e as bolsas disponíveis para alunos, além de descrever a atuação da Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação (PRPGI) e da Coordenação de Pesquisa, Pós-Graduação e Inovação (CPPGI) no campus Vitória da Conquista. A extensão é definida como um conjunto de atividades que conecta saberes acadêmicos e a realidade social, promovendo a interação do IFBA com a comunidade.
+
 A Política de Pesquisa 
 A pesquisa no Instituto Federal de Educação, Ciência e Tecnologia da Bahia é 
 entendida como uma atividade de produção de conhecimento e, nesse sentido, está sempre 

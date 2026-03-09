@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Atividades Curriculares de Extensão  
+Sinônimos comuns: ACEX 2, Extensão Universitária, Projetos de Extensão  
+Descrição: O componente curricular Atividades Curriculares de Extensão 2 (ACEX 2) é fundamental para a formação dos estudantes de Engenharia Ambiental, pois visa a interação prática com a comunidade, permitindo a identificação e análise de demandas sociais. Através de atividades contextualizadas, os alunos aplicam conhecimentos adquiridos em sala de aula para desenvolver produtos e processos que promovam melhorias na sociedade. Este componente também envolve a elaboração de projetos pelos docentes, que devem ser discutidos e validados pelo Colegiado do Curso e pela Coordenação de Extensão, garantindo a relevância e a qualidade das ações propostas.
+
 CÓDIGO: 14.4.8
 DISCIPLINA: Atividades Curriculares de Extensão 2 (ACEX 2)
 Código

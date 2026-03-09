@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Redes de Computadores  
+Sinônimos comuns: Redes, Redes de Dados, Comunicação de Dados  
+Descrição: Este componente curricular aborda a história e evolução das redes de computadores, explorando os modelos de referência OSI e TCP/IP, além de detalhar a arquitetura TCP/IP e suas camadas. Os alunos aprenderão sobre a camada de aplicação, transporte, redes, controle de acesso ao meio, controle lógico de link e camada física, proporcionando uma base sólida para a compreensão das tecnologias de rede e sua aplicação prática. A bibliografia inclui obras fundamentais que aprofundam o conhecimento em interligação de redes e comunicação de dados.
+
 ementa_redes
 
 CÓDIGO              COMPONENTE CURRICULAR

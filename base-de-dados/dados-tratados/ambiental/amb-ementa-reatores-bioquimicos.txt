@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Reatores Bioquímicos  
+Sinônimos comuns: Reatores Enzimáticos, Reatores Biológicos, Engenharia Bioquímica  
+Descrição: Este documento aborda os fundamentos dos reatores bioquímicos, incluindo a cinética de reações catalisadas por enzimas e microrganismos, além de técnicas de cálculo e projeto de reatores. Explora processos enzimáticos e fermentativos, tanto descontínuos quanto contínuos, e discute a ampliação de escala em processos biotecnológicos. O conteúdo é complementado por estudos de caso e referências bibliográficas essenciais para aprofundamento na área.
+
 CÓDIGO: 14.6.5
 DISCIPLINA: Reatores Bioquímicos
 Código

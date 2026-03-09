@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Física Experimental II  
+Sinônimos comuns: Física II, Experimentos de Física, Eletromagnetismo e Óptica  
+Descrição: O curso de Física Experimental II é uma disciplina obrigatória do quarto período, com foco em experimentos práticos nas áreas de eletromagnetismo, óptica geométrica, óptica física e física moderna. Os alunos desenvolverão habilidades em estatística, elaboração e análise de dados, além de aprender a utilizar instrumentos de medição. A disciplina visa aprofundar a compreensão dos conceitos fundamentais da física, promovendo a investigação prática e a aplicação de teorias em contextos experimentais. A bibliografia inclui obras clássicas e contemporâneas que suportam o aprendizado e a prática experimental.
+
 FÍSICA EXPERIMENTAL II
 Carga Horária (h) Créditos
 Teórica - -

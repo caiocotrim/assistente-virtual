@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Química Analítica  
+Sinônimos comuns: Química Analítica Quantitativa, Análise Química, Química Analítica Qualitativa  
+Descrição: Este documento aborda a disciplina de Química Analítica, focando em conceitos fundamentais como análise qualitativa, equilíbrios iônicos, reações de ácido-base e solubilidade. A ementa inclui a separação e identificação de cátions e ânions, além de aplicações práticas desses conceitos na análise química. A bibliografia básica e complementar oferece uma variedade de referências essenciais para aprofundamento no tema, sendo útil para estudantes que buscam compreender as técnicas e teorias da química analítica no contexto ambiental.  
+------------------------------------------------------------
+
 CÓDIGO: 14.2.7
 DISCIPLINA: Química Analítica
 Código Componente (NÚCLEO

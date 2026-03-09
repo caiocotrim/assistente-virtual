@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Controle Inteligente  
+Sinônimos comuns: Controle Avançado, Controle Automático, Sistemas de Controle Inteligente  
+Descrição: O controle inteligente é uma área da engenharia elétrica que integra técnicas de inteligência artificial, como redes neurais e lógica fuzzy, para otimizar sistemas de controle e automação. Este campo é essencial para o desenvolvimento de soluções inovadoras em processos industriais, permitindo a tomada de decisões mais eficientes e adaptativas. O estudo abrange desde fundamentos teóricos até aplicações práticas, preparando os alunos para enfrentar desafios contemporâneos na automação e controle de sistemas complexos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Controle Inteligente

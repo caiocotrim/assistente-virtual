@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Concreto Armado I  
+Sinônimos comuns: Estruturas de Concreto, Concreto Estrutural, Concreto Reforçado  
+Descrição: O curso de Concreto Armado I aborda os fundamentos e as propriedades do concreto armado, incluindo suas características físicas e mecânicas. Os alunos aprendem sobre os processos de retração, deformação lenta e aderência, além de técnicas de dimensionamento de lajes e vigas, considerando aspectos como flexão, torção e cisalhamento. A disciplina é essencial para a formação em Engenharia Civil, preparando os estudantes para o projeto e análise de estruturas de concreto.
+
 Concreto Armado I CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

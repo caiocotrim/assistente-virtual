@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Atividades Curriculares de Extensão  
+Sinônimos comuns: ACEX 1, Extensão Universitária, Atividades de Extensão  
+Descrição: O componente curricular "Atividades Curriculares de Extensão 1" (ACEX 1) é fundamental para a formação dos estudantes de Engenharia Ambiental, pois visa a interação prática com a comunidade. Através da identificação e análise de demandas sociais, os alunos desenvolvem projetos que promovem melhorias e inovações, aplicando conhecimentos adquiridos em sala de aula. Este processo envolve a elaboração de atividades pelos docentes, que devem ser discutidas e validadas em conjunto com o Colegiado do Curso e a Coordenação de Extensão, garantindo uma abordagem integrada e contextualizada.
+
 CÓDIGO: 14.2.8
 DISCIPLINA: Atividades Curriculares de Extensão 1 (ACEX 1)
 Código

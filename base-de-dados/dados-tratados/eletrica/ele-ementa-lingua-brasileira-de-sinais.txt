@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Língua Brasileira de Sinais  
+Sinônimos comuns: LIBRAS, Linguagem de Sinais, Comunicação em Sinais  
+Descrição: Este documento aborda a Língua Brasileira de Sinais (LIBRAS), enfatizando a importância do vocabulário, a estrutura gramatical e a aquisição da linguagem por surdos. Inclui tópicos sobre a fonologia, morfologia, uso de expressões faciais e a semântica e pragmática da língua. O conteúdo é essencial para a formação de tradutores e intérpretes, promovendo a inclusão e a comunicação efetiva entre surdos e ouvintes.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Língua Brasileira de Sinais

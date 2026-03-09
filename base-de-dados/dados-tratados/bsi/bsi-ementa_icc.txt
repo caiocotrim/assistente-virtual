@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Introdução à Ciência da Computação  
+Sinônimos comuns: ICC, Introdução à Computação, Fundamentos de Computação  
+Descrição: Este curso oferece uma visão geral da Ciência da Computação, abordando o histórico da área, as diversas possibilidades de atuação profissional e os fundamentos dos sistemas computacionais modernos. Os alunos aprenderão sobre sistemas digitais e analógicos, transformações de bases numéricas, lógica de Boole, codificação de dados, além de conceitos essenciais sobre software, linguagens de programação e compilação. A disciplina também introduz diferentes paradigmas de programação, preparando os estudantes para desafios futuros na área.
+
 ementa_icc
 
 Introdução à Ciência da Computação

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Introdução à Engenharia Ambiental  
+Sinônimos comuns: Introdução à Engenharia, Fundamentos da Engenharia Ambiental, Engenharia Ambiental I  
+Descrição: Este componente curricular aborda os fundamentos da Engenharia Ambiental, incluindo a matriz curricular do curso, a história da engenharia e a evolução da Engenharia Ambiental no Brasil. Os alunos exploram o perfil profissional do engenheiro ambiental, o mercado de trabalho e as perspectivas futuras da área. A disciplina também discute legislação, ética profissional, ciclos biogeoquímicos, impactos ambientais das atividades humanas e poluição dos recursos naturais. Além disso, são abordadas noções de tratamento e reaproveitamento de resíduos, ciência e tecnologia, e considerações gerais sobre projetos na área ambiental.
+
 CÓDIGO: 14.1.4
 DISCIPLINA: Introdução à Engenharia Ambiental
 Código Componente (NÚCLEO

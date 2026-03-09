@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Desenvolvimento de Software para Ensino de Química  
+Sinônimos comuns: Programação para Química, Algoritmos no Ensino, Software Didático em Química  
+Descrição: Este documento aborda a criação de softwares voltados para o ensino de Química, enfatizando a lógica de programação e a construção de algoritmos. O curso visa capacitar os alunos a aplicar tecnologias de informação e comunicação em suas práticas pedagógicas, desenvolvendo ferramentas que facilitem o aprendizado dos conceitos químicos. A ementa inclui tanto aspectos teóricos quanto práticos, com foco em linguagens de programação aplicáveis ao contexto educacional.
+
 DESENVOLVIMENTO DE
 SOFTWARE PARA O ENSINO
 DE QUÍMICA

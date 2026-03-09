@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas por Semestre  
+Sinônimos comuns: Matérias do curso, Componentes curriculares, Disciplinas do Bacharelado  
+Descrição: Este documento apresenta a grade curricular do curso de Bacharelado em Sistemas de Informação, detalhando as disciplinas oferecidas em cada semestre, seus códigos, créditos e carga horária. A estrutura curricular é organizada para proporcionar uma formação abrangente, incluindo áreas fundamentais como programação, matemática, ética, e gestão de projetos, além de disciplinas específicas que preparam os alunos para os desafios do mercado de trabalho na área de tecnologia da informação.
+
 MATERIAS POR SEMESTRE DO CURSO SISTEMAS DE INFORMAÇÃO
 
 SEMESTRE COMPONENTE CURRICULAR CÓDIGO CRÉDITOS

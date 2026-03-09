@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Metodologia de Ensino e Aprendizagem  
+Sinônimos comuns: Métodos de ensino, abordagens pedagógicas, práticas educativas  
+Descrição: Este documento aborda as metodologias de ensino e aprendizagem no contexto da Engenharia Civil, enfatizando a importância de uma Pedagogia Crítica que promova a construção significativa do conhecimento. Destaca o papel ativo do aluno e a função mediadora do professor, além de discutir a flexibilidade no planejamento curricular e a integração entre teoria e prática. As diretrizes curriculares são apresentadas como fundamentais para o desenvolvimento de competências e habilidades, promovendo a criatividade, o senso crítico e a socialização do saber. O texto também sugere a utilização de recursos didáticos variados e a importância da atualização constante dos materiais pedagógicos.
+
 METODOLOGIA DE ENSINO E APRENDIZAGEM  
 Atualmente, os processos de ensino e de aprendizagem estão fundamentados em bases 
 legais, que apresentam diretrizes orientadoras de práticas pautadas em uma Pedagogia Crítica, 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Combate a Incêndio  
+Sinônimos comuns: Prevenção de Incêndios, Segurança Contra Incêndios, Projeto de Combate a Incêndio  
+Descrição: Este documento aborda os princípios e práticas essenciais para o combate a incêndios, incluindo a classificação de incêndios, métodos de extinção, agentes extintores e normas de segurança. Também são discutidos aspectos técnicos do Projeto de Prevenção e Combate a Incêndio (PPCI), como controle de materiais, saídas e sinalização de emergência, além de referências bibliográficas relevantes para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Combate a Incêndio

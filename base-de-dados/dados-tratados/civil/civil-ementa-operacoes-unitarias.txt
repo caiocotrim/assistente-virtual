@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Operações Unitárias  
+Sinônimos comuns: Processos Unitários, Operações de Transporte, Transformações Físicas e Químicas  
+Descrição: Este documento aborda as operações unitárias essenciais em processos químicos, destacando fluxogramas, identificação de correntes e etapas de transformação. São explorados exemplos práticos na área ambiental, incluindo transporte de líquidos e gases, sedimentação, filtração, e outros processos físicos e químicos. A ementa também menciona a importância de entender as operações de transporte mecânico e hidráulico, além de técnicas de aquecimento e resfriamento, fundamentais para a formação em Engenharia Civil.
+
 Operações Unitárias CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

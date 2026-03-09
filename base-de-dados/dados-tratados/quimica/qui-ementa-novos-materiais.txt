@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Novos Materiais  
+Sinônimos comuns: Materiais Avançados, Ciência dos Materiais, Engenharia de Materiais  
+Descrição: Este documento aborda a disciplina de Novos Materiais, que explora a classificação e as propriedades de diversos tipos de materiais, incluindo sólidos cristalinos e não cristalinos, ligas metálicas, cerâmicos, polímeros e compósitos. A ementa inclui tópicos como deformação elástica e plástica, diagramas de fases, transformações de fase e a necessidade de novos materiais, como cristais líquidos e biomateriais. Os objetivos da disciplina são proporcionar uma compreensão das relações entre a composição química, a estrutura e as propriedades dos materiais, além de enfatizar a importância da sustentabilidade na ciência dos materiais. A bibliografia básica e complementar oferece referências essenciais para aprofundamento no tema.  
+------------------------------------------------------------
+
 NOVOS MATERIAIS
 Carga Horária (h) Créditos
 Teórica 60 4

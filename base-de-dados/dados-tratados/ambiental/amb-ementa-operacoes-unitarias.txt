@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Operações Unitárias  
+Sinônimos comuns: Processos Unitários, Tratamento de Água, Tratamento de Efluentes  
+Descrição: Este documento aborda a disciplina de Operações Unitárias, focando na análise e seleção de processos fundamentais para o tratamento de águas e efluentes. São discutidos conceitos de cinética e equilíbrio das reações químicas, além de reatores ideais e balanço de massa. A ementa inclui operações físicas e físico-químicas como coagulação, floculação, sedimentação, e desinfecção, essenciais para a formação de profissionais capacitados na área ambiental. A bibliografia abrange obras clássicas e contemporâneas que fundamentam o conhecimento necessário para a prática e pesquisa em saneamento básico.
+
 CÓDIGO: 14.7.5
 DISCIPLINA: Operações Unitárias
 Código Componente (NÚCLEO

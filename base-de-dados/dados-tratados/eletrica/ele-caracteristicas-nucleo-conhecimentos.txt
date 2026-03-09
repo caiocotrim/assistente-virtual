@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Estrutura Curricular  
+Sinônimos comuns: Grade curricular, componentes curriculares, núcleos de conhecimento  
+Descrição: O documento aborda a estrutura curricular do curso de Engenharia Elétrica do IFBA, destacando a organização em núcleos de conteúdos básicos, profissionalizantes e específicos. Enfatiza a importância da integração entre teoria e prática, promovendo a aplicação dos conhecimentos em situações reais através de estágios, atividades de extensão e laboratórios. Além disso, menciona a flexibilidade curricular proporcionada por disciplinas optativas, permitindo que os alunos personalizem sua formação e ampliem suas oportunidades profissionais nas áreas de Automação e Controle, Eletrônica e Eletrotécnica.
+
 CARACTERÍSTICAS DOS NÚCLEOS DE CONHECIMENTOS 
 Conforme  as  DCNs  dos  cursos  de  engenharia  (DCN,  2019),  todo  curso  de 
 engenharia,  independente  da  sua  modalidade  deve  estruturar  suas  componentes 

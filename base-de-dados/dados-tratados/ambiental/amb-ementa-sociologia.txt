@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Sociologia Industrial  
+Sinônimos comuns: Sociologia da Produção, Sociologia do Trabalho, Sociologia Econômica  
+Descrição: Este documento aborda as origens e transformações da produção industrial, explorando conceitos fundamentais como capitalismo, Fordismo, Taylorismo e Toyotismo. A disciplina analisa a relação entre trabalho e coesão social, além de discutir a sociedade em rede e a cultura do consumo. A bibliografia inclui obras essenciais para a compreensão das dinâmicas sociais e econômicas contemporâneas, oferecendo uma base teórica sólida para estudantes da área.
+
 CÓDIGO: 14.6.6
 DISCIPLINA: Sociologia
 Código

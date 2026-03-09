@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Atividades Curriculares de Extensão  
+Sinônimos comuns: ACEX, Extensão Universitária, Atividades de Extensão  
+Descrição: Este documento aborda as diretrizes e a implementação das Atividades Curriculares de Extensão (ACEX) no curso de Engenharia Elétrica do IFBA, campus de Vitória da Conquista. As ACEX são componentes obrigatórias que totalizam 405 horas, correspondendo a 10,27% da carga horária total do curso. O texto detalha a estrutura das ACEX, incluindo a distribuição semestral, pré-requisitos e procedimentos para registro e validação das atividades, além de ressaltar a importância da curricularização da extensão conforme as legislações vigentes.
+
 Atividades Curriculares de Extensão 
 Em atendimento à Resolução CNE/CES nº 07 de 18 de dezembro de 2018, que 
 estabelece as diretrizes para a extensão na educação superior brasileira e regimenta o 

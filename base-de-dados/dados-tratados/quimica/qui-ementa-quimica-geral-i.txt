@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Geral I  
+Sinônimos comuns: Química Básica, Introdução à Química, Fundamentos de Química  
+Descrição: O curso de Química Geral I oferece uma introdução aos princípios fundamentais da química, abordando tópicos como estrutura atômica, ligações químicas, reações químicas e estequiometria. Com uma carga horária total de 60 horas, o curso visa desenvolver habilidades analíticas e de resolução de problemas, além de destacar a importância da química nas ciências e no cotidiano. É uma disciplina obrigatória do primeiro período, sem pré-requisitos, essencial para a formação de licenciados em química. A bibliografia inclui obras clássicas e contemporâneas, proporcionando uma base sólida para o aprendizado.
+
 QUÍMICA GERAL I
 Carga Horária (h) Créditos
 Teórica 45 3

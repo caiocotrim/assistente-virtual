@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Estruturas de Concreto Armado  
+Sinônimos comuns: Concreto Armado, Estruturas de Concreto, Engenharia de Estruturas  
+Descrição: Este documento aborda os fundamentos e propriedades do concreto armado, incluindo a interação entre aço e concreto. São discutidas classificações das estruturas, definição de cargas e esforços solicitantes, além de conceitos de flexão simples e cisalhamento. O conteúdo é essencial para o desenvolvimento de projetos de lajes, pilares e reservatórios, proporcionando uma base sólida para a prática profissional na área de Engenharia Ambiental. A bibliografia inclui obras fundamentais e complementares que aprofundam o conhecimento sobre o tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.6.2
 DISCIPLINA: Estruturas de Concreto Armado
 Código Componente (NÚCLEO

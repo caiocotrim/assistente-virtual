@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Física Experimental II  
+Sinônimos comuns: Física II, Eletromagnetismo, Experimentos de Física  
+Descrição: O curso de Física Experimental II aborda conceitos fundamentais da eletromagnetismo, incluindo medidas elétricas, circuitos elétricos, e leis de Kirchhoff. Os alunos realizarão experimentos práticos que envolvem a análise de circuitos em série e paralelo, além de explorar fenômenos magnéticos e suas aplicações. A disciplina é essencial para a formação em Engenharia Civil, pois fornece uma base sólida em princípios físicos que são aplicáveis em diversas áreas da engenharia. A bibliografia inclui obras clássicas e contemporâneas que complementam o aprendizado teórico e prático.
+
  
 Física Experimental II. CARGA HORÁRIA 
 (h) 

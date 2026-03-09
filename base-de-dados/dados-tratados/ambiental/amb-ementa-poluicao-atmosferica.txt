@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Poluição Atmosférica  
+Sinônimos comuns: Poluição do ar, Contaminação atmosférica, Qualidade do ar  
+Descrição: Este documento aborda os fundamentos da poluição atmosférica, incluindo a química da atmosfera, a classificação e os efeitos dos poluentes, tanto em ambientes fechados quanto abertos. Discute medidas de controle e monitoramento da qualidade do ar, padrões de qualidade, e estratégias de mitigação de ruídos. A ementa também inclui noções sobre dispersão de poluentes e modelos de plumas de contaminação, proporcionando uma visão abrangente e técnica sobre a temática, essencial para a formação em Engenharia Ambiental.  
+------------------------------------------------------------
+
 CÓDIGO: 14.8.5
 DISCIPLINA: Poluição Atmosférica
 Código

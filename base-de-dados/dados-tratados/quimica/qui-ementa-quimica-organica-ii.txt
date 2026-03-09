@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Orgânica II  
+Sinônimos comuns: Química Orgânica Avançada, Química Orgânica II, Química Orgânica 2  
+Descrição: O curso de Química Orgânica II aborda as principais classes de compostos orgânicos, suas propriedades e reações, incluindo álcoois, éteres, compostos aromáticos, fenóis, aminas, aldeídos, cetonas e ácidos carboxílicos. Os alunos aprenderão sobre os mecanismos de reações orgânicas, estereoquímica e a relação entre estrutura e reatividade. O curso também introduz conceitos de química orgânica aplicados ao meio ambiente e ao estudo de biomoléculas como carboidratos, aminoácidos, proteínas e enzimas, promovendo o desenvolvimento de habilidades práticas e metodológicas na síntese orgânica.
+
 QUÍMICA ORGÂNICA II
 Carga Horária (h) Créditos
 Teórica 45 3

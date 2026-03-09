@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Inglês Aplicado à Computação  
+Sinônimos comuns: Inglês para Computação, Inglês Técnico, Inglês na Informática  
+Descrição: O curso de Inglês Aplicado à Computação visa desenvolver habilidades linguísticas essenciais para a compreensão e produção de textos técnicos na área de tecnologia. Os alunos aprenderão estratégias de leitura, ampliação de vocabulário e gramática básica, com foco em terminologias específicas de eletrônica e computação. O uso de dicionários e a prática de elaboração de textos em inglês são componentes fundamentais, preparando os estudantes para o mercado de trabalho globalizado.
+
 ementa_ingles
 
 Inglês Aplicado à Computação 

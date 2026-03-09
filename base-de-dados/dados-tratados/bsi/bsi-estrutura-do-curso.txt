@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Estrutura do Curso  
+Sinônimos comuns: Organização do curso, Disposição curricular, Estrutura curricular  
+Descrição: Este documento detalha a estrutura do curso de Bacharelado em Sistemas de Informação, abordando aspectos como a carga horária total, a distribuição de disciplinas obrigatórias e optativas, além das atividades complementares e do Trabalho de Conclusão de Curso (TCC). Também são apresentados os prazos para integralização curricular e as normas que regem a matrícula e a permanência dos alunos, enfatizando a importância de seguir os pré-requisitos e o regime semestral das aulas.
+
 ESTRUTURA DO CURSO
 Neste capítulo são evidenciadas algumas características importantes que
 estão relacionadas à estrutura do Curso. São abordados temas necessários para o

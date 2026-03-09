@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Matriz Curricular  
+Sinônimos comuns: Grade curricular, estrutura curricular, disciplinas do curso  
+Descrição: A matriz curricular do Bacharelado em Sistemas de Informação apresenta a distribuição dos componentes curriculares ao longo dos semestres do curso, detalhando os códigos, créditos e carga horária de cada disciplina. Essa organização é fundamental para o planejamento acadêmico dos alunos, permitindo uma visão clara das exigências e progressões necessárias para a conclusão do curso. A estrutura abrange áreas essenciais como programação, sistemas, matemática e gestão, refletindo as competências que os graduandos devem desenvolver para atuar no mercado de trabalho.
+
 ORGANIZAÇÃO CURRICULAR
 
 3.2.1 MATRIZ CURRICULAR OBRIGATÓRIA

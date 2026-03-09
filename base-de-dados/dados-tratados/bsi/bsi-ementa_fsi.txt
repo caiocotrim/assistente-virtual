@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Fundamentos de Sistemas de Informação  
+Sinônimos comuns: Introdução a Sistemas de Informação, Princípios de SI, Conceitos de Sistemas de Informação  
+Descrição: Este documento aborda os fundamentos essenciais dos Sistemas de Informação, incluindo seus princípios, objetivos e funções. Explora as dimensões tecnológica, organizacional e humana, além de categorizar os diferentes tipos de sistemas e sua hierarquia. É uma base crucial para a compreensão do papel dos sistemas de informação nas organizações e seu impacto nas operações e na tomada de decisões.
+
 ementa_fsi
 
 Fundamentos de Sistemas de Informação

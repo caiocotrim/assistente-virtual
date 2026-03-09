@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Atividades Curriculares de Extensão I  
+Sinônimos comuns: Extensão I, Atividades de Extensão, Projetos de Extensão  
+Descrição: O componente curricular "Atividades Curriculares de Extensão I" visa promover a integração entre a formação acadêmica e a realidade social, através de ações práticas que atendam às necessidades da comunidade. Os alunos são incentivados a desenvolver projetos, eventos e oficinas que reflitam o perfil de egresso do curso, considerando o contexto local e a disponibilidade de recursos. Este componente é fundamental para a formação de profissionais comprometidos com a responsabilidade social e a aplicação do conhecimento em situações reais.
+
 ementa_acexI
 
  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO

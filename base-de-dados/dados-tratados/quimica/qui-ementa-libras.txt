@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Língua Brasileira de Sinais (LIBRAS)  
+Sinônimos comuns: Língua de Sinais, Comunicação em LIBRAS, Sinais  
+Descrição: O curso de LIBRAS oferece uma introdução ao vocabulário e à estrutura da Língua Brasileira de Sinais, abordando aspectos como fonologia, morfologia e a importância das expressões faciais na comunicação. Os alunos aprenderão sobre a escrita de sinais e a análise semântica e pragmática, promovendo uma compreensão prática e teórica do sistema de sinais. A disciplina é obrigatória no terceiro período e não possui pré-requisitos, sendo fundamental para a formação de educadores capacitados a interagir com a comunidade surda.
+
 LIBRAS
 Carga Horária (h) Créditos
 Teórica 30 2

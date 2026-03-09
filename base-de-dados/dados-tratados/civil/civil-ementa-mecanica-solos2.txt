@@ -1,3 +1,14 @@
+Curso: Engenharia Civil  
+Assunto: Mecânica dos Solos II  
+Sinônimos comuns: Mecânica dos Solos Avançada, Geotecnia II  
+Descrição: O curso de Mecânica dos Solos II aborda a resistência ao cisalhamento dos solos, com foco em ensaios de campo e laboratório que investigam o comportamento tensão-deformação-resistência. Os alunos aprendem sobre métodos de equilíbrio limite, estabilidade de taludes e encostas, empuxos de terra e a aplicação de geossintéticos em geotecnia, além de técnicas para rebaixamento do lençol freático. A disciplina é essencial para a formação profissional em engenharia civil, preparando os estudantes para desafios práticos na área.  
+------------------------------------------------------------  
+Curso: Engenharia Civil  
+Assunto: Resistência dos Materiais II  
+Sinônimos comuns: Mecânica dos Materiais II, Estruturas II  
+Descrição: A disciplina de Resistência dos Materiais II explora tensões normais na flexão composta, tensões de cisalhamento em seções assimétricas e estados de tensão e deformação. Os alunos estudam critérios de resistência, a linha elástica e a flambagem de barras, proporcionando uma compreensão aprofundada dos princípios que regem o comportamento dos materiais sob carga. Este conhecimento é fundamental para o desenvolvimento de projetos estruturais seguros e eficientes na engenharia civil.  
+------------------------------------------------------------
+
  
 Mecânica dos Solos II CARGA HORÁRIA 
 (h) 

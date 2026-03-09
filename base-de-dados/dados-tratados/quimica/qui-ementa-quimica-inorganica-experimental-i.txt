@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Química Inorgânica Experimental I  
+Sinônimos comuns: Química Inorgânica I, Laboratório de Química Inorgânica, Química Experimental  
+Descrição: Este documento aborda a disciplina de Química Inorgânica Experimental I, que tem como foco a segurança em laboratório e a manipulação de diversos compostos inorgânicos, incluindo metais alcalinos e suas reações. A ementa inclui a formação de hidróxidos, óxidos e a caracterização de elementos de diferentes grupos da tabela periódica. O curso visa desenvolver habilidades práticas e teóricas essenciais para a formação do estudante, preparando-o para o reconhecimento e a manipulação segura de substâncias químicas em um ambiente laboratorial. A bibliografia básica e complementar oferece suporte teórico para aprofundamento nos temas abordados.  
+------------------------------------------------------------
+
 QUÍMICA INORGÂNICA
 EXPERIMENTAL I
 Carga Horária (h) Créditos

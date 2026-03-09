@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Dados Gerais do Curso  
+Sinônimos comuns: Licenciatura em Química, Curso de Química, Formação em Química  
+Descrição: O documento apresenta informações essenciais sobre o curso de Licenciatura em Química, incluindo a habilitação do profissional, regime acadêmico, número de vagas, turnos de funcionamento, duração do curso e carga horária total. Além disso, são destacados os reconhecimentos e renovações do curso, bem como indicadores de desempenho como ENADE e notas de avaliação. Essas informações são fundamentais para estudantes interessados em compreender a estrutura e as exigências do curso, além de fornecer um panorama sobre a formação de professores de Química na Educação Básica.  
+------------------------------------------------------------
+
 DADOS GERAIS 
 Os dados gerais do curso de Licenciatura em Química podem ser visualizados no 
 Quadro 1. 

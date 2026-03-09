@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Matriz Curricular  
+Sinônimos comuns: Grade curricular, plano de estudos, disciplinas do curso  
+Descrição: A matriz curricular do curso de Engenharia Civil apresenta a estrutura organizacional das disciplinas, incluindo créditos, carga horária teórica e prática, pré-requisitos e componentes adicionais como estágio e trabalho de conclusão de curso (TCC). Este documento é essencial para orientar os alunos sobre o percurso acadêmico, facilitando a compreensão das inter-relações entre as disciplinas e a carga total exigida para a conclusão do curso.
+
 Matriz curricular 
  
  

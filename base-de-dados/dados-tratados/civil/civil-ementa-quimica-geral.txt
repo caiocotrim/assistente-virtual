@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Química Geral  
+Sinônimos comuns: Química básica, Química para engenharia, Química inorgânica e orgânica  
+Descrição: O curso de Química Geral oferece uma introdução abrangente aos princípios fundamentais da química, abordando tópicos como estrutura atômica, tabela periódica, ligações químicas, e reações envolvendo hidrogênio e outros elementos. Além disso, explora conceitos de físico-química, incluindo equilíbrio químico e cinética, e introduz funções orgânicas na química orgânica. O componente prático complementa a teoria com experimentos que reforçam a compreensão dos conceitos químicos, essenciais para a formação do engenheiro civil.
+
 
 Química Geral CARGA HORÁRIA 
 (h) 

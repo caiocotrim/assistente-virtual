@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Desenho Auxiliado por Computador  
+Sinônimos comuns: Desenho Técnico, CAD, Modelagem 2D/3D  
+Descrição: O componente curricular de Desenho Auxiliado por Computador aborda a introdução ao projeto arquitetônico, com foco em ergonomia, antropometria e acessibilidade. Os alunos aprendem metodologias específicas para projetos, incluindo a aplicação da NBR 9050/2015. O curso também inclui modelagem computacional em 2D e 3D, resolução de problemas geométricos e técnicas de visualização computacional, preparando os estudantes para a prática profissional em desenho projetivo.
+
 CÓDIGO: 14.5.3
 DISCIPLINA: Desenho Auxiliado por Computador
 Código

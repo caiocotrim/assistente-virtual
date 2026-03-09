@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Qualidade de Energia Elétrica  
+Sinônimos comuns: Qualidade da energia, Análise de energia elétrica, Distúrbios elétricos  
+Descrição: Este documento aborda a qualidade da energia elétrica, incluindo a definição e análise dos principais itens que a compõem, como padrões de desempenho da rede de distribuição, causas e efeitos dos distúrbios elétricos, e soluções para mitigação. São discutidos diversos tipos de distúrbios, como harmônicos, variações de tensão e ruídos, além de técnicas de monitoramento e a importância do aterramento. O conteúdo é essencial para a compreensão dos desafios e soluções na gestão da qualidade da energia elétrica em sistemas elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Qualidade de Energia Elétrica

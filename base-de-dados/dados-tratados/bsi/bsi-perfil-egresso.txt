@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Perfil do Egresso  
+Sinônimos comuns: Formação do profissional, Competências do egresso, Habilidades do graduado  
+Descrição: O perfil do egresso do curso de Bacharelado em Sistemas de Informação é delineado por duas áreas principais de atuação: inovação e gerenciamento da informação, e desenvolvimento de sistemas. Os graduados são preparados para alinhar a tecnologia da informação às estratégias organizacionais, promovendo vantagens competitivas. Além disso, possuem habilidades em implementar e gerenciar sistemas de informação, contribuindo para a evolução contínua dos processos organizacionais. O egresso é visto como um agente transformador, capaz de incorporar novas tecnologias e impactar positivamente as organizações e a sociedade.
+
 PERFIL DO EGRESSO
 As organizações contemporâneas têm na Tecnologia da Informação um
 elemento imprescindível, na medida em que as soluções tecnológicas automatizam

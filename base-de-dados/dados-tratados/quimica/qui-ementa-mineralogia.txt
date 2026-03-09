@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Mineralogia  
+Sinônimos comuns: Geologia, Cristalografia, Estudo de Minerais  
+Descrição: A disciplina de Mineralogia aborda a importância dos minerais e sua relação com a química, explorando a estrutura e composição da Terra, ciclos geoquímicos e a classificação de minerais e cristais. Os alunos aprenderão sobre mineralogia física e química, além de aplicações práticas na indústria e na gestão ambiental. O curso também enfatiza a relação entre propriedades físico-químicas e a identificação de minerais, preparando os estudantes para compreender a transição das indústrias extrativas rumo ao desenvolvimento sustentável.
+
 MINERALOGIA
 Carga Horária (h) Créditos
 Teórica 60 4

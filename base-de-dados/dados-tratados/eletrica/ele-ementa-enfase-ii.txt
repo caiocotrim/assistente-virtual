@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Componentes Curriculares  
+Sinônimos comuns: Disciplinas, Matérias, Cursos  
+Descrição: Este documento apresenta informações sobre os componentes curriculares do curso de Engenharia Elétrica no IFBA, incluindo detalhes sobre pré-requisitos e co-requisitos, além de referências bibliográficas essenciais para o desenvolvimento das atividades acadêmicas. É fundamental para a organização do plano de ensino e para a compreensão da estrutura curricular do curso.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 COMPONENTE CURRICULAR
 Ênfase II

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Abastecimento de Água  
+Sinônimos comuns: Sistemas de abastecimento, Redes de água, Distribuição de água  
+Descrição: O curso aborda os principais aspectos do abastecimento de água, incluindo captação, adução, bombeamento, reservação e distribuição. Os alunos aprenderão a elaborar projetos e memoriais descritivos, além de realizar cálculos necessários para a operação eficiente de sistemas de abastecimento. A bibliografia abrange obras fundamentais sobre dimensionamento econômico, operação de redes e eficiência energética, proporcionando uma base sólida para a prática profissional na área de engenharia hidráulica e sanitária.
+
  
   
 121  

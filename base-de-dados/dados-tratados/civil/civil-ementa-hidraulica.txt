@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Hidráulica  
+Sinônimos comuns: Hidráulica aplicada, Engenharia hidráulica, Sistemas hidráulicos  
+Descrição: O curso de Hidráulica aborda os princípios fundamentais do escoamento de fluidos, incluindo técnicas de hidrometria e análise de condutos forçados. Os alunos aprenderão sobre perdas de carga, instalação e seleção de bombas hidráulicas, além de projetar sistemas interligados e entender fenômenos como o golpe de aríete. A disciplina é essencial para a formação em Engenharia Civil, proporcionando conhecimentos práticos e teóricos necessários para o desenvolvimento de projetos hidráulicos eficientes e sustentáveis.
+
  
 Hidráulica CARGA HORÁRIA 
 (h) 

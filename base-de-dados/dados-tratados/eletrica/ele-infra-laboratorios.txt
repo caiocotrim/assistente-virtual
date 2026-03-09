@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Laboratórios do IFBA  
+Sinônimos comuns: laboratórios de engenharia, laboratórios técnicos, espaços de prática, laboratórios de pesquisa  
+Descrição: O documento apresenta uma categorização detalhada dos laboratórios disponíveis no IFBA, campus de Vitória da Conquista, dividindo-os em não específicos e específicos para o curso de Engenharia Elétrica. São listados 30 laboratórios que atendem às necessidades de ensino, pesquisa e extensão, incluindo laboratórios de química, física, automação, eletrônica e eletrotécnica. A descrição inclui informações sobre a área, bloco e capacidade de alunos por turma, evidenciando a infraestrutura necessária para a formação prática dos estudantes.
+
 LABORATÓRIOS 
 Os laboratórios que compõem a estrutura do IFBA, campus de Vitória da Conquista 
 são  aqui  categorizados  como  ambientes  não  específicos  e  específicos  ao  curso  de 

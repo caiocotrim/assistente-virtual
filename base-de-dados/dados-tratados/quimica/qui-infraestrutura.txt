@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Infraestrutura do Campus  
+Sinônimos comuns: Estrutura física, instalações, recursos do campus  
+Descrição: Este documento detalha a infraestrutura do campus do IFBA, abordando as coordenações responsáveis pelos registros escolares, apoio ao ensino, pesquisa e extensão, além das instalações físicas disponíveis. Inclui informações sobre salas de aula, laboratórios, gabinetes, e outros espaços que suportam as atividades acadêmicas e administrativas, destacando a adequação dos recursos para atender as demandas do curso de Licenciatura em Química.
+
 INFRAESTRUTURA 
 Essa  seção  apresenta  informações  sobre  a  coordenação  de  registros  escolares, 
 coordenações de apoio ao Ensino, a Pesquisa e a Extensão, das instalações gerais e específicas 

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Instituição e Estrutura do IFBA  
+Sinônimos comuns: IFBA, Instituto Federal da Bahia, CEFET-BA, Educação Técnica e Tecnológica  
+Descrição: O documento apresenta uma visão abrangente sobre o Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), destacando sua criação, missão e objetivos. Aborda a evolução histórica da instituição, suas diretrizes de ensino e pesquisa, e a importância da formação profissional e tecnológica no contexto regional. O IFBA é descrito como um centro de referência no Nordeste, com uma estrutura multicampi e pluricurricular, voltada para o desenvolvimento sustentável e a inovação tecnológica, além de sua atuação em diversas modalidades de ensino, desde a educação básica até a pós-graduação.
+
 APRESENTAÇÃO GERAL 
 O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) foi criado pela 
 Lei nº 11.892, de 29 de dezembro de 2008 (BRASIL, 2008a). A instituição está domiciliada na 

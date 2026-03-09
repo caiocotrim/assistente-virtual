@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Físico-Química Experimental II  
+Sinônimos comuns: Físico-Química II, Práticas de Físico-Química, Laboratório de Físico-Química  
+Descrição: Este documento aborda a disciplina de Físico-Química Experimental II, que se concentra em práticas laboratoriais voltadas para a determinação de propriedades físico-químicas de soluções e reações químicas. Os alunos aprenderão a realizar experimentos como a determinação de volumes molares parciais, análise de diagramas de equilíbrio líquido-vapor, destilação fracionada e estudos de condutância. A disciplina visa desenvolver habilidades de raciocínio científico e interpretação de dados experimentais, preparando os estudantes para resolver problemas complexos na área da eletroquímica e cinética química.
+
 FÍSICO-QUÍMICA
 EXPERIMENTAL II
 Carga Horária (h) Créditos

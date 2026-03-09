@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Programação Web II  
+Sinônimos comuns: Programação Web Avançada, Desenvolvimento Web II  
+Descrição: O componente curricular Programação Web II aborda linguagens de programação voltadas para o desenvolvimento de back-end, enfatizando aspectos como persistência, validação e segurança de dados. Os alunos aprenderão sobre formatos de estruturação e intercâmbio de dados, além de contêineres web e frameworks específicos para back-end. Este curso é fundamental para a formação de profissionais capacitados a desenvolver aplicações web robustas e seguras, integrando conhecimentos teóricos e práticos essenciais para o mercado de trabalho.
+
 ementa_webII
 
 CÓDIGO              COMPONENTE CURRICULAR

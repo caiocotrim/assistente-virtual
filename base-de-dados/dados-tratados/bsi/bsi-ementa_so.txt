@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Sistemas Operacionais  
+Sinônimos comuns: SO, Gestão de Sistemas, Operações de Sistemas  
+Descrição: O componente curricular de Sistemas Operacionais aborda a estrutura e funcionamento interno dos sistemas que gerenciam recursos computacionais. Os alunos aprenderão sobre gerência de processos, incluindo sincronização, comunicação e escalonamento, além de conceitos de gerência de memória, como partição e paginação. O curso também explora sistemas de arquivos e a interação com dispositivos de entrada e saída, enfatizando o tratamento de interrupções e a utilização de drivers. Estudos de caso complementam a teoria, proporcionando uma compreensão prática dos conceitos.
+
 ementa_so
 
 CÓDIGO                COMPONENTE CURRICULAR

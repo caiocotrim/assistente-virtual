@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Disciplinas do Curso  
+Sinônimos comuns: Matérias do curso, Conteúdo curricular, Disciplinas oferecidas  
+Descrição: Este documento apresenta a grade curricular do curso de Licenciatura em Química, detalhando as disciplinas oferecidas em cada semestre. As matérias abrangem áreas fundamentais da química, educação e ciências, proporcionando uma formação abrangente e integrada. O currículo inclui disciplinas teóricas e práticas, além de estágios supervisionados e projetos de pesquisa, visando preparar os alunos para a atuação docente e profissional na área.
+
 MATÉRIAS POR SEMESTRE DO CURSO DE QUIMICA
 
 1º semestre

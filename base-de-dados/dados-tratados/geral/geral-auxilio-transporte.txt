@@ -1,3 +1,8 @@
+Curso: IFBA – Informações Institucionais  
+Assunto: Auxílio Transporte e Auxílio Moradia  
+Sinônimos comuns: Bolsa de transporte, ajuda de custo para transporte, auxílio de moradia, ajuda de custo para moradia  
+Descrição: O documento aborda os auxílios financeiros disponibilizados pelo IFBA para estudantes, com foco no auxílio transporte e auxílio moradia. O auxílio transporte visa cobrir despesas de deslocamento dos alunos até o campus, priorizando aqueles que residem em áreas distantes ou enfrentam dificuldades de acesso. O valor do auxílio varia conforme a localização do estudante e é determinado com base em análises do Serviço Social. Já o auxílio moradia é destinado a estudantes de municípios diferentes do campus ou que enfrentam situações de risco social, contribuindo com as despesas mensais de moradia. Ambos os auxílios têm critérios específicos de concessão e manutenção, garantindo suporte aos alunos em suas necessidades de deslocamento e habitação.
+
 SUBSEÇÃO I - AUXILIO TRANSPORTE
 Art. 20 - Este auxilio tem como objetivo disponibilizar auxilio financeiro para
 despesas mensais referentes ao deslocamento dos estudantes de sua

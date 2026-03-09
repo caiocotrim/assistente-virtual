@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Concreto Protendido  
+Sinônimos comuns: Concreto tensionado, Concreto pré-esforçado  
+Descrição: O curso de Concreto Protendido aborda os fundamentos e aplicações do concreto protendido, incluindo suas propriedades mecânicas e reológicas, como resistência, fluência e retração. Os alunos aprenderão sobre os materiais utilizados, como os aços específicos, e os processos de protensão, incluindo ancoragem e dimensionamento de estruturas. O conteúdo também abrange a análise de tensões em lajes e vigas, além das normas pertinentes ao dimensionamento e execução de obras em concreto protendido.
+
 Concreto Protendido CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

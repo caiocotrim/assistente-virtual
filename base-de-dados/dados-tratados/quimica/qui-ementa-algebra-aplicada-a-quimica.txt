@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Álgebra Aplicada à Química  
+Sinônimos comuns: Álgebra Linear, Álgebra para Química, Cálculo Vetorial em Química  
+Descrição: Este documento aborda a disciplina de Álgebra Aplicada à Química, com foco em conceitos fundamentais como cálculo vetorial, operações com matrizes e sistemas de equações lineares. O curso visa capacitar os alunos a reconhecer e representar curvas e superfícies, além de aplicar esses conhecimentos em problemas geométricos relevantes para a Química. A ementa inclui a análise de vetores e matrizes, essenciais para a compreensão de fenômenos químicos em contextos bi e tridimensionais. A bibliografia básica e complementar oferece recursos adicionais para aprofundamento nos temas abordados.  
+------------------------------------------------------------
+
 ÁLGEBRA APLICADA À
 QUÍMICA
 Carga Horária (h) Créditos

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Introdução à Engenharia Elétrica  
+Sinônimos comuns: Fundamentos de Engenharia Elétrica, Noções Básicas de Engenharia, Introdução à Engenharia  
+Descrição: Este documento aborda os conceitos fundamentais da Engenharia Elétrica, incluindo a história da profissão, os principais pioneiros e as diversas áreas de atuação. Além disso, discute a evolução e as perspectivas futuras da Engenharia Elétrica, destacando a integração com outras disciplinas. O conteúdo também abrange aspectos relacionados à formulação de projetos, normas acadêmicas e metodologias de pesquisa, proporcionando uma base sólida para estudantes que desejam compreender os princípios e práticas da Engenharia Elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução à Engenharia Elétrica

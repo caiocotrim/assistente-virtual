@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas de Aquisição de Dados  
+Sinônimos comuns: DAQ, aquisição de dados, interfaceamento de sistemas  
+Descrição: Este documento aborda os conceitos fundamentais e aplicações práticas de sistemas de aquisição de dados, incluindo a utilização de conversores A/D, condicionamento de sinais e interfaceamento com sistemas embarcados. São discutidos diversos protocolos de comunicação, como UART, I2C, SPI, e tecnologias sem fio, além de sensores para coleta de dados em diferentes variáveis físicas. O conteúdo é essencial para o desenvolvimento de projetos na área, integrando teoria e prática com ferramentas como LabVIEW e equipamentos de DAQ.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas de Aquisição de Dados e Interface

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Cálculo Numérico  
+Sinônimos comuns: Cálculo Computacional, Análise Numérica, Métodos Numéricos  
+Descrição: O Cálculo Numérico é uma disciplina fundamental que aborda técnicas e métodos para a resolução de problemas matemáticos por meio de aproximações numéricas. Os alunos aprendem a lidar com sistemas numéricos, erros de cálculo, e a resolver equações não-lineares e sistemas de equações lineares. Além disso, a disciplina inclui tópicos como derivação e integração numérica, interpolação e a solução de equações diferenciais ordinárias, preparando os estudantes para aplicações práticas em engenharia e ciências ambientais.
+
 CÓDIGO: 14.5.2
 DISCIPLINA: Cálculo Numérico
 Código

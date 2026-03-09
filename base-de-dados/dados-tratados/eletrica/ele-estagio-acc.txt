@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Estágio Curricular Supervisionado  
+Sinônimos comuns: Estágio Supervisionado, Estágio Obrigatório, Estágio Prático  
+Descrição: O Estágio Curricular Supervisionado é uma etapa essencial na formação do estudante de Engenharia Elétrica, proporcionando a aplicação prática dos conhecimentos adquiridos ao longo do curso. Regido pela Lei nº 11.788/2008, o estágio requer supervisão direta da instituição de ensino e deve ser realizado em ambientes que garantam a experiência prática na área. Os alunos devem cumprir uma carga horária mínima de 165 horas e apresentar um relatório final detalhando suas atividades. A participação em atividades complementares também é incentivada, visando uma formação mais abrangente e integrada ao mercado de trabalho.
+
  ESTÁGIO CURRICULAR SUPERVISIONADO 
 O  Estágio  Supervisionado  constitui-se  em  meio  para  que  o  egresso,  futuro 
 profissional das diferentes áreas da Engenharia Elétrica, possa completar a sua formação. 

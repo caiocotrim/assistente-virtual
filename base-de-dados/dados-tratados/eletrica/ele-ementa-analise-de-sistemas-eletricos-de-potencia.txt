@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Análise de Sistemas Elétricos de Potência  
+Sinônimos comuns: Análise de Sistemas de Potência, Estudo de Sistemas Elétricos, Análise de Redes Elétricas  
+Descrição: Este documento aborda a análise de sistemas elétricos de potência, incluindo modelos de equipamentos, transformadores e linhas de transmissão. Discute conceitos fundamentais como fluxo de potência, métodos de cálculo e análise de curto-circuito, além de apresentar técnicas computacionais para simulação de falhas elétricas. O conteúdo é essencial para a compreensão das dinâmicas e operações em sistemas de energia elétrica, preparando os alunos para desafios práticos na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Análise de Sistemas Elétricos de Potência

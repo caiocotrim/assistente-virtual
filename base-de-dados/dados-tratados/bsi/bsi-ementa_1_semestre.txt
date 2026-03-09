@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 1º Semestre  
+Sinônimos comuns: Matérias do primeiro semestre, disciplinas iniciais, componentes curriculares do I semestre  
+Descrição: Este documento apresenta as disciplinas obrigatórias do primeiro semestre do curso de Bacharelado em Sistemas de Informação, abordando conteúdos fundamentais como algoritmos, leitura e produção de gêneros acadêmicos, fundamentos de sistemas de informação, matemática discreta, introdução à ciência da computação e inglês aplicado à computação. Cada disciplina é descrita com sua ementa, destacando os principais tópicos e habilidades a serem desenvolvidas, essenciais para a formação acadêmica e profissional dos alunos na área de tecnologia da informação.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 1 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 COMPONENTES CURRICULARES OBRIGATÓRIOS DO I SEMESTRE:

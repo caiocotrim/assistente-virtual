@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Equações Diferenciais  
+Sinônimos comuns: EDO, Equações Diferenciais Ordinárias, Modelagem Matemática  
+Descrição: Este documento aborda o estudo das equações diferenciais ordinárias, incluindo suas formas lineares de 1ª e 2ª ordem, além de equações de ordem superior. O conteúdo enfatiza a resolução de equações através de séries de potência e explora funções especiais como as de Bessel e Legendre. O objetivo é desenvolver habilidades de raciocínio lógico e dedutivo, aplicando esses conceitos em diversas áreas que exigem modelagem matemática. A bibliografia inclui obras fundamentais para aprofundamento no tema.
+
 EQUAÇÕES DIFERENCIAIS
 Carga Horária (h) Créditos
 Teórica 60 4

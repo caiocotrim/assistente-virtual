@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Carga Horária Complementar  
+Sinônimos comuns: Atividades Complementares, Horas Complementares, Carga Horária Adicional  
+Descrição: O documento aborda a importância das Atividades Complementares no curso de Bacharelado em Sistemas de Informação, destacando sua obrigatoriedade para a colação de grau. Essas atividades visam promover uma formação integral, interligando teoria e prática, e são essenciais para o desenvolvimento de competências profissionais e éticas. A carga horária mínima exigida é de 110 horas, com regulamentação específica que orienta a validação e a execução das atividades. Além disso, o curso inclui componentes curriculares de exigência legal que abordam temas sociais e éticos, visando uma formação mais humanística e consciente das transformações sociais.
+
 CARGA HORÁRIA COMPLEMENTAR
 Em consonância com o Parecer CNE/CES nº 583/2001, são objetivos das
 Atividades Complementares no âmbito dos cursos de graduação: fomentar uma

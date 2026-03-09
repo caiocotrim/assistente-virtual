@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Cálculo Diferencial e Integral II  
+Sinônimos comuns: Cálculo II, Cálculo Avançado, Cálculo de Integrais  
+Descrição: O curso de Cálculo Diferencial e Integral II aborda técnicas avançadas de integração, incluindo o Teorema Fundamental do Cálculo e a aplicação de integrais definidas. Os alunos também estudam integrais impróprias, sucessões e séries numéricas, além de séries de potências e as fórmulas de Taylor e McLaurin. Este conteúdo é fundamental para a formação em Engenharia Civil, proporcionando uma base sólida para a resolução de problemas complexos em diversas áreas da engenharia.
+
  
 91  
 Cálculo Diferencial e Integral II. CARGA HORÁRIA 

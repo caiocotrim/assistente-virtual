@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 7º Semestre  
+Sinônimos comuns: Matérias do 7º semestre, disciplinas do curso, conteúdos do sétimo semestre  
+Descrição: Este documento apresenta as disciplinas do 7º semestre do curso de Bacharelado em Sistemas de Informação, incluindo Desenvolvimento Distribuído na Internet, Qualidade de Software, Trabalho de Conclusão de Curso I, Interface Homem-Máquina, Sistemas de Apoio à Decisão e Atividades Curriculares de Extensão IV. Cada disciplina é acompanhada de sua ementa, que descreve os conceitos, técnicas e metodologias abordados, além dos pré-requisitos necessários para a sua realização. O conteúdo é essencial para a formação integral do aluno, preparando-o para os desafios do mercado de trabalho na área de tecnologia da informação.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 7 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Desenvolvimento Distribuído na Internet          CRÉDITOS

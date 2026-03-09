@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Introdução à Engenharia Civil  
+Sinônimos comuns: Introdução à Engenharia, Fundamentos da Engenharia Civil, Noções Básicas de Engenharia Civil  
+Descrição: Este documento apresenta uma visão geral do curso de Engenharia Civil, abordando os principais campos de atuação da profissão e os fundamentos essenciais para a formação do engenheiro civil. Com uma carga horária de 30 horas e 2 créditos, a disciplina é obrigatória e não possui pré-requisitos. A bibliografia básica e complementar oferece recursos valiosos para aprofundamento no tema, incluindo livros e artigos que discutem a prática e a regulamentação da engenharia civil no Brasil.
+
  
 Introdução à Engenharia Civil CARGA HORÁRIA 
 (h) 

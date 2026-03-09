@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Administração Acadêmica do Curso  
+Sinônimos comuns: Coordenação do Curso, Colegiado, Núcleo Docente Estruturante  
+Descrição: Este documento aborda a estrutura de administração acadêmica do curso de Bacharelado em Sistemas de Informação, detalhando as funções e atribuições da Coordenação de Curso, do Colegiado e do Núcleo Docente Estruturante. A Coordenação é responsável pela supervisão pedagógica e pelo bom funcionamento do curso, enquanto o Colegiado atua na avaliação e proposição de melhorias. O Núcleo Docente Estruturante contribui para a atualização do Projeto Pedagógico e a definição do perfil profissional do egresso, assegurando a qualidade do ensino e a interconexão entre teoria e prática.
+
 ADMINISTRAÇÃO ACADÊMICA DO CURSO
 A  estrutura   de   administração   acadêmica   do   curso   é   composta   pelos
 seguintes órgãos:

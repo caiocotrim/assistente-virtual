@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Produção de Gêneros Acadêmicos  
+Sinônimos comuns: Redação Acadêmica, Escrita Científica, Gêneros Textuais  
+Descrição: Este documento aborda a disciplina de Leitura e Produção de Gêneros Acadêmicos, enfocando aspectos fundamentais da linguagem e da textualidade. A ementa inclui temas como estratégias de leitura, tipologia textual, estrutura do parágrafo padrão e a produção de diversos gêneros acadêmicos, como resumos, resenhas e artigos científicos. Além disso, são discutidos conceitos de plágio, autoplágio e a aplicação da gramática normativa na escrita acadêmica. A bibliografia básica e complementar fornece recursos essenciais para aprofundar o conhecimento na área.
+
 CÓDIGO: 14.1.6
 DISCIPLINA: Leitura e Produção de Gêneros Acadêmicos
 Código

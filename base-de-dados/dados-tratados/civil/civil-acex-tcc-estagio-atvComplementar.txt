@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Atividades Curriculares e TCC  
+Sinônimos comuns: ACEX, Trabalho de Conclusão de Curso, estágio supervisionado  
+Descrição: Este documento aborda as atividades curriculares de extensão (ACEX) e o Trabalho de Conclusão de Curso (TCC) no contexto do curso de Engenharia Civil do IFBA. As ACEX são componentes obrigatórios que totalizam 390 horas, representando 10% da carga horária do curso, enquanto o TCC é um trabalho acadêmico essencial que visa desenvolver habilidades críticas e criativas dos alunos, dividido em duas partes: elaboração do projeto e execução com apresentação pública. Além disso, o estágio curricular supervisionado é uma etapa obrigatória da graduação, com carga mínima de 165 horas, que proporciona experiência prática em ambientes de trabalho, sob supervisão de docentes e profissionais.
+
 4.3 ATIVIDADES CURRICULARES DE EXTENSÃO (ACEX) 
 As atividades curriculares de extensão estão inseridas no curso de engenharia civil nos 
 componentes curriculares denominadas de ACEX I (75 h), ACEX II (75 h), ACEX III (90 h), 

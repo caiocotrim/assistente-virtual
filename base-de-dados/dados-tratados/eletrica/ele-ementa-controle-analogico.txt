@@ -1,3 +1,9 @@
+Curso: Engenharia Elétrica  
+Assunto: Controle Analógico  
+Sinônimos comuns: Controle Linear, Sistemas de Controle, Teoria de Controle  
+Descrição: O Controle Analógico é uma disciplina fundamental na Engenharia Elétrica, focando na análise e síntese de sistemas de controle linear. Os alunos aprendem sobre a representação matemática de sistemas, comportamento dinâmico e propriedades essenciais de sistemas de controle. A disciplina aborda técnicas de análise e síntese, preparando os estudantes para aplicar conceitos em diversas áreas da engenharia, como automação e processos industriais. A bibliografia recomendada inclui obras clássicas e contemporâneas que aprofundam o conhecimento em sistemas de controle.  
+------------------------------------------------------------
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Controle Analógico

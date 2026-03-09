@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Reuso de Águas Residuárias  
+Sinônimos comuns: Reuso de água, reaproveitamento de águas residuais, tratamento de esgoto  
+Descrição: Este documento aborda o reuso de águas residuárias em regiões semiáridas, explorando sistemas de tratamento, potencial de reuso, relações entre solo, água e planta, e balanço de nutrientes. Discute também as necessidades hídricas das culturas, técnicas de disposição de águas residuárias no solo, aspectos sanitários, riscos ambientais e de saúde pública, além da legislação pertinente e custos associados. O manejo da salinização dos solos e estudos de casos complementam a análise, oferecendo uma visão abrangente sobre a gestão hídrica em contextos de escassez.
+
 CÓDIGO: 14.11.23
 DISCIPLINA: Reuso de Águas Residuárias em Regiões Semiáridas
 Código

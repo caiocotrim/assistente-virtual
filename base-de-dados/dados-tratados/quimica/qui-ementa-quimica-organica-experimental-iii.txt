@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Orgânica Experimental III  
+Sinônimos comuns: Química Orgânica Prática III, Espectroscopia Orgânica III  
+Descrição: Este documento aborda a disciplina de Química Orgânica Experimental III, focando na identificação de estruturas orgânicas por meio da interpretação de espectros de infravermelho (IV), ultravioleta (UV), ressonância magnética nuclear (RMN) e eletrônica (EM). Os alunos aprenderão a observar transições eletrônicas em compostos orgânicos e a interpretar espectros das principais técnicas espectrométricas, essenciais para a análise de substâncias orgânicas. A bibliografia básica e complementar oferece suporte teórico e prático para o desenvolvimento das habilidades necessárias nesta área.
+
 QUÍMICA ORGÂNICA
 EXPERIMENTAL III
 Carga Horária (h) Créditos

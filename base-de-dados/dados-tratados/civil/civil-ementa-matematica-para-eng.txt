@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Métodos Matemáticos para Engenharia  
+Sinônimos comuns: Matemática para Engenharia, Cálculo Avançado, Métodos Matemáticos  
+Descrição: Este documento aborda os métodos matemáticos essenciais aplicáveis à engenharia, incluindo tópicos como números complexos, transformadas de Laplace e Fourier, e equações diferenciais parciais. O conteúdo é fundamental para a compreensão de fenômenos físicos e a modelagem matemática em diversas áreas da engenharia civil. A ementa é complementada por uma bibliografia abrangente, que serve como referência para aprofundamento nos temas tratados.
+
 Métodos Matemáticos para Engenharia CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Projeto Pedagógico do Curso  
+Sinônimos comuns: PPC, currículo, formação em SI  
+Descrição: O Projeto Pedagógico do Curso de Bacharelado em Sistemas de Informação é um documento que orienta a formação de profissionais capacitados para enfrentar os desafios contemporâneos na área de Tecnologia da Informação. Ele estabelece diretrizes que visam desenvolver competências técnicas e humanísticas, promovendo a integração entre teoria e prática, além de fomentar a ética e a responsabilidade social. O PPC busca atender às demandas regionais e contribuir para o avanço tecnológico, preparando os alunos para atuar de forma cidadã e empreendedora no mercado de trabalho.
+
 APRESENTAÇÃO DO CURSO
 O presente Projeto Pedagógico do Curso (PPC) de Sistemas de Informação
 foi   concebido   com   base   em   Referenciais   de   Formação   para   os   Cursos   de

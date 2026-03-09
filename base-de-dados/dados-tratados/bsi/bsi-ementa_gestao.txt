@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Gestão de Projetos  
+Sinônimos comuns: Gerenciamento de Projetos, Administração de Projetos, Planejamento de Projetos  
+Descrição: A disciplina de Gestão de Projetos aborda os fundamentos e práticas essenciais para o gerenciamento eficaz de projetos, incluindo a identificação de partes interessadas, o ciclo de vida do projeto e as responsabilidades do gerente. Os alunos aprenderão sobre as etapas de iniciação, planejamento, execução, monitoramento e encerramento de projetos, além de explorar metodologias, técnicas e ferramentas relevantes, como o MS Project, para otimizar a gestão de empreendimentos.
+
 ementa_gestao
 
 CÓDIGO                COMPONENTE CURRICULAR

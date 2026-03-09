@@ -1,3 +1,9 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Estrutura de Laboratórios  
+Sinônimos comuns: Laboratórios de Computação, Infraestrutura de Laboratórios, Equipamentos de Laboratório  
+Descrição: O documento apresenta a configuração e os equipamentos disponíveis em diversos laboratórios do campus, essenciais para as atividades práticas do curso de Sistemas de Informação. Cada laboratório é descrito em detalhes, incluindo a quantidade de posições, tipos de microcomputadores, dispositivos de rede, e outros recursos que suportam o aprendizado em áreas como redes, programação e desenvolvimento de software. Essa infraestrutura é fundamental para a formação prática dos alunos, proporcionando um ambiente adequado para experimentação e aprendizado.  
+------------------------------------------------------------
+
 ESTRUTURA DE LABORATÓRIOS
 Conforme citado na seção anterior, o campus dispõe de 8 laboratórios
 didáticos para as diversas atividades da área de Computação. As disposições e

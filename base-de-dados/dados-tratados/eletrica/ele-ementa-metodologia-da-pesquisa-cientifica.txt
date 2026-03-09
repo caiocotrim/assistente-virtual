@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Metodologia da Pesquisa Científica  
+Sinônimos comuns: Metodologia Científica, Pesquisa Acadêmica, Métodos de Pesquisa  
+Descrição: Este documento aborda a Metodologia da Pesquisa Científica, essencial para a formação de engenheiros elétricos. Ele explora conceitos fundamentais como a definição de problemas, formulação de hipóteses, elaboração de projetos de pesquisa e a importância da revisão de literatura. Além disso, apresenta diretrizes para a comunicação científica e a estruturação de relatórios, proporcionando uma base sólida para a realização de pesquisas acadêmicas e a produção de trabalhos científicos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Metodologia da Pesquisa Científica

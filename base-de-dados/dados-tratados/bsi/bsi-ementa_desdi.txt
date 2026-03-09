@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Desenvolvimento Distribuído na Internet  
+Sinônimos comuns: Desenvolvimento de Aplicações Web, Sistemas Distribuídos, SOA  
+Descrição: O componente curricular aborda os fundamentos e práticas do desenvolvimento de aplicações distribuídas na internet, enfatizando a Arquitetura Orientada a Serviços (SOA) e a interação entre serviços web. Os alunos aprenderão sobre linguagens e padrões utilizados nesse contexto, além de processos de comunicação entre serviços. A disciplina é essencial para a formação em sistemas de informação, preparando os estudantes para enfrentar desafios contemporâneos na criação de soluções distribuídas.
+
 ementa_desdis
 
 CÓDIGO               COMPONENTE CURRICULAR

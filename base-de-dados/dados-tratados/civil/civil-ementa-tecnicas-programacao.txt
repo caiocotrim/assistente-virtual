@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Técnicas de Programação  
+Sinônimos comuns: Programação, Algoritmos, Estruturas de Dados  
+Descrição: O curso de Técnicas de Programação aborda conceitos fundamentais de programação, incluindo estruturas de dados como pilhas, listas, filas, árvores e tabelas, além de algoritmos de ordenação. Também introduz noções de programação orientada a objetos, com foco em aplicações práticas na engenharia. A carga horária total é de 60 horas teóricas, proporcionando uma base sólida para o desenvolvimento de habilidades em programação e resolução de problemas computacionais.
+
 Técnicas de Programação CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

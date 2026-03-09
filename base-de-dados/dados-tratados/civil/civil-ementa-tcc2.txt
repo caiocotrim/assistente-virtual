@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Trabalho de Conclusão de Curso II  
+Sinônimos comuns: TCC II, Trabalho de Conclusão II, Projeto de Pesquisa II  
+Descrição: O Trabalho de Conclusão de Curso II é uma disciplina obrigatória que visa a continuidade do desenvolvimento do projeto de pesquisa iniciado no TCC I. Durante um semestre letivo, os alunos são orientados na elaboração da versão preliminar da monografia, com acompanhamento direto de um professor orientador. A carga horária total é de 30 horas teóricas, correspondendo a 2 créditos, e é essencial para a conclusão do curso.
+
 TCC II 
 CARGA HORÁRIA 
 (h) 

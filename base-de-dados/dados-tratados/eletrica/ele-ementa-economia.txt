@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Economia  
+Sinônimos comuns: Economia básica, Introdução à Economia, Fundamentos de Economia  
+Descrição: Este documento aborda os conceitos fundamentais da economia, incluindo microeconomia e macroeconomia, além de discutir sistemas econômicos, o papel do setor público e questões macroeconômicas contemporâneas. É uma introdução essencial para estudantes de Engenharia Elétrica, proporcionando uma compreensão crítica das interações econômicas que influenciam o setor. O conteúdo é complementado por referências bibliográficas relevantes que oferecem uma base teórica sólida e prática sobre a disciplina.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Economia

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Práticas de Ensino  
+Sinônimos comuns: Estágio, Atividades Práticas, Formação Docente  
+Descrição: As Práticas de Ensino são um componente curricular essencial que visa integrar os licenciandos ao ambiente da Educação Básica, promovendo uma compreensão abrangente dos aspectos políticos, didáticos e administrativos da escola. Este espaço de formação permite a articulação entre a teoria acadêmica e a prática profissional, através de atividades como observação, elaboração de projetos e aulas simuladas. A proposta busca desenvolver saberes docentes de forma sistemática, minimizando a distância entre o conhecimento teórico e a realidade da sala de aula, e é estruturada em conformidade com as diretrizes da Resolução CNE/CP n°2 de 2015.
+
 PRÁTICA DE ENSINO  
 Em consonância com a Resolução CNE/CP n°2 de 1° de julho de 2015, as “práticas 
 como  componente  curricular”,  aqui  chamadas  de  Práticas  de  Ensino,  devem  proporcionar, 

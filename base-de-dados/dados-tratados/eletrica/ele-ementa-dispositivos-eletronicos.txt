@@ -1,3 +1,9 @@
+Curso: Engenharia Elétrica  
+Assunto: Dispositivos Eletrônicos  
+Sinônimos comuns: Eletrônica, Circuitos Eletrônicos, Componentes Eletrônicos  
+Descrição: O estudo de Dispositivos Eletrônicos abrange a análise e compreensão de componentes fundamentais como diodos, transistores e amplificadores. Este curso explora as características e aplicações desses dispositivos, incluindo polarização, eficiência, distorção e resposta em frequência. Além disso, aborda a tecnologia de fabricação e implementações práticas, preparando os alunos para desafios em circuitos eletrônicos e microeletrônica. A bibliografia recomendada fornece uma base sólida para o aprofundamento teórico e prático na área.  
+------------------------------------------------------------
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Dispositivos Eletrônicos

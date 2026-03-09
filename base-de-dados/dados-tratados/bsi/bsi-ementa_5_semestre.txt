@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 5º Semestre  
+Sinônimos comuns: Matérias do 5º semestre, disciplinas do curso, conteúdos do semestre  
+Descrição: Este documento apresenta as disciplinas do quinto semestre do curso de Bacharelado em Sistemas de Informação, incluindo suas ementas e pré-requisitos. As matérias abordam temas essenciais como desenvolvimento de software, complexidade de algoritmos, banco de dados, redes, programação web e economia, proporcionando uma formação sólida e integrada aos desafios do mercado de trabalho. Além disso, inclui atividades de extensão que visam a aplicação prática do conhecimento em contextos reais, promovendo a interação entre os alunos e a comunidade.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 5 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Processo de Desenvolvimento de Software               CRÉDITOS

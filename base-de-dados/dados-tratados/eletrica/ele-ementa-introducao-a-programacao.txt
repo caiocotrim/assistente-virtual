@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Introdução à Programação  
+Sinônimos comuns: Lógica de Programação, Fundamentos de Programação, Algoritmos, Programação Básica  
+Descrição: Este documento aborda os conceitos fundamentais da programação, incluindo a introdução a algoritmos, estruturas de controle de fluxo, tipos de dados e modularização de programas. Destina-se a fornecer uma base sólida para o desenvolvimento de software, enfatizando a resolução de problemas e a portabilidade de programas. O conteúdo é essencial para alunos que desejam compreender a lógica por trás da programação e aplicar esses conhecimentos em linguagens como C++ e C#.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução à Programação

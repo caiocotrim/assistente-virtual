@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Organização Curricular  
+Sinônimos comuns: Estrutura Curricular, Plano de Curso, Grade Curricular  
+Descrição: A organização curricular do curso de Engenharia Elétrica é fundamentada em diretrizes que visam integrar ciência, tecnologia e prática profissional. Este modelo educacional busca articular conhecimentos teóricos e práticos, promovendo uma formação abrangente e alinhada às demandas do mercado de trabalho. A estrutura curricular é essencial para garantir que os alunos desenvolvam competências necessárias para sua atuação na área.
+
 ORGANIZAÇÃO CURRICULAR 
 De acordo com o exposto no Projeto Pedagógico Institucional (IFBA, 2013b), a 
 Educação  Superior  nas  modalidades  bacharelado,  tecnologia  e  licenciatura  devem 

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Tratamento Avançado de Efluentes  
+Sinônimos comuns: Tratamento de Efluentes, Processos de Efluentes, Efluentes Líquidos  
+Descrição: O documento aborda o tratamento avançado de efluentes, incluindo técnicas como coagulação, precipitação, processos oxidativos, adsorção, filtração, separação por membranas, eletrodiálise, troca iônica e desinfecção. Também discute a remoção de nutrientes e micropoluentes, além do manejo do lodo gerado em Estações de Tratamento de Efluentes (ETE), abordando sua geração, adensamento, digestão e reuso. A bibliografia apresentada oferece uma base sólida para aprofundamento nos conceitos e aplicações práticas do tratamento de efluentes, essenciais para a formação de profissionais na área ambiental.
+
 CÓDIGO: 14.11.27
 DISCIPLINA: Tratamento Avançado de Efluentes
 Código

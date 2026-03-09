@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Resistência dos Materiais I  
+Sinônimos comuns: Mecânica dos Sólidos, Tensões e Deformações, Lei de Hooke  
+Descrição: A disciplina de Resistência dos Materiais I aborda os conceitos fundamentais relacionados às tensões e deformações em materiais, incluindo a Lei de Hooke e as solicitações unidimensionais. Os alunos estudam o ciclo de Mohr, torção simples e as tensões normais e de cisalhamento na flexão de vigas simétricas, proporcionando uma base sólida para a compreensão do comportamento mecânico dos materiais em diversas aplicações da engenharia. A bibliografia inclui obras clássicas e complementares que aprofundam o conhecimento na área.  
+------------------------------------------------------------
+
 CÓDIGO: 14.5.7
 DISCIPLINA: Resistência dos Materiais I
 Código

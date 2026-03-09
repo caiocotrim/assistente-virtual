@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Técnicas de Programação  
+Sinônimos comuns: Programação, Algoritmos, Lógica de Programação  
+Descrição: Este documento aborda as técnicas fundamentais de programação, incluindo a introdução a conceitos de programação orientada a objetos e estruturas de dados essenciais como pilhas, listas, filas, árvores e tabelas. A disciplina é projetada para fornecer aos alunos uma base sólida em algoritmos de manipulação e ordenação, preparando-os para aplicações práticas em engenharia. Além disso, são indicadas referências bibliográficas que complementam o aprendizado e aprofundam o conhecimento em programação e suas práticas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Técnicas de Programação

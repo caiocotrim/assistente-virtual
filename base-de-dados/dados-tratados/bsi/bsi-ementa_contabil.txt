@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Contabilidade Geral e Custos  
+Sinônimos comuns: Contabilidade, Custos, Análise Financeira, Contabilidade Gerencial  
+Descrição: A disciplina de Contabilidade Geral e Custos aborda os fundamentos da contabilidade gerencial, focando na análise econômica e financeira das organizações. Os alunos aprenderão sobre as principais demonstrações contábeis, a introdução à contabilidade de custos, suas classificações e sistemas de custeio, além das etapas necessárias para a implantação de um sistema de custos eficaz. O curso visa capacitar os estudantes a realizar planejamentos de lucro e a compreender a terminologia e os princípios que regem a contabilidade, preparando-os para atuar em ambientes corporativos.
+
 ementa_contabil
 
  CONTABILIDADE GERAL E CUSTOS

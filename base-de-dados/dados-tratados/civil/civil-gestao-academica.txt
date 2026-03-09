@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Gestão Acadêmica  
+Sinônimos comuns: Coordenação do curso, Colegiado, NDE  
+Descrição: Este documento aborda a estrutura e as funções da gestão acadêmica no curso de Engenharia Civil, detalhando as responsabilidades do coordenador, do Colegiado e do Núcleo Docente Estruturante (NDE). A coordenação é liderada por um professor efetivo, que atua em diversas atividades administrativas e pedagógicas, enquanto o Colegiado desempenha um papel normativo e consultivo. O NDE é responsável por garantir a qualidade do ensino, alinhando-se às diretrizes institucionais e promovendo a articulação entre docentes e discentes.
+
 7 GESTÃO ACADÊMICA 
 7.1 COODENAÇÃO DO CURSO  
 A coordenação do curso de Engenharia Civil é dirigida por um professor efetivo da 

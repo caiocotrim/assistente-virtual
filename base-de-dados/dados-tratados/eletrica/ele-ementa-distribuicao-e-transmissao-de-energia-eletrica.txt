@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Distribuição e Transmissão de Energia Elétrica  
+Sinônimos comuns: Sistemas de Distribuição de Energia, Redes Elétricas, Transmissão de Energia  
+Descrição: Este documento aborda os conceitos fundamentais relacionados à distribuição e transmissão de energia elétrica, incluindo a análise de sistemas elétricos de potência, topologias de rede e cálculo elétrico de alimentadores. Também são discutidos projetos de redes de distribuição, tanto urbanas quanto rurais, e a aplicação de bancos de capacitores. A modelagem e análise computacional de sistemas de distribuição são enfatizadas, assim como as características e considerações gerais sobre linhas de transmissão. A bibliografia inclui obras relevantes que fundamentam o estudo da área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Distribuição e Transmissão de Energia Elétrica

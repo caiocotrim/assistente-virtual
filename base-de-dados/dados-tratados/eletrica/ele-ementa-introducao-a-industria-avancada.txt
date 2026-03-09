@@ -1,3 +1,9 @@
+Curso: Engenharia Elétrica  
+Assunto: Introdução à Indústria Avançada  
+Sinônimos comuns: Indústria 4.0, Indústria Avançada, Tecnologias Emergentes  
+Descrição: Este documento aborda os fundamentos e aplicações da Indústria 4.0, explorando conceitos como inteligência artificial, robótica avançada, Internet das Coisas, manufatura aditiva, realidade virtual e aumentada. Destina-se a fornecer uma base teórica e prática para estudantes de Engenharia Elétrica, preparando-os para os desafios e oportunidades da quarta revolução industrial. Através de referências atualizadas, o conteúdo visa enriquecer o conhecimento sobre as tecnologias que estão moldando o futuro da indústria.  
+------------------------------------------------------------
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução a Indústria Avançada

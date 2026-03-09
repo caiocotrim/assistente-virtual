@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Desenho Auxiliado por Computador  
+Sinônimos comuns: Desenho Técnico Assistido por Computador, CAD, Desenho Gráfico Digital  
+Descrição: O curso de Desenho Auxiliado por Computador aborda técnicas e ferramentas essenciais para a modelagem e representação gráfica em ambientes digitais. Os alunos aprendem a utilizar softwares de CAD para desenvolver projetos arquitetônicos e de engenharia, com foco em acessibilidade e conformidade com normas técnicas, como a NBR 9050/2015. O conteúdo inclui a resolução de problemas geométricos, modelagem 2D e 3D, e técnicas de visualização computacional, preparando os estudantes para a aplicação prática em suas futuras carreiras na engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Desenho Auxiliado por Computador

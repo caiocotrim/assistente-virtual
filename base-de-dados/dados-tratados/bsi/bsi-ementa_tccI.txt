@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Trabalho de Conclusão de Curso I  
+Sinônimos comuns: TCC I, Projeto de Pesquisa I, Trabalho Final I  
+Descrição: O componente curricular Trabalho de Conclusão de Curso I é uma etapa fundamental na formação do aluno, onde se busca desenvolver a capacidade de solucionar problemas de forma independente, dentro do contexto da área de Sistemas de Informação. Os alunos aprendem a estruturar e organizar um trabalho de pesquisa, elaborando um projeto que inclui a formulação de perguntas, delimitação de problemas, definição de hipóteses e objetivos, além de embasamento teórico e metodológico. A apresentação do projeto a uma banca avaliadora é um aspecto crucial, promovendo a prática de habilidades de comunicação e argumentação.
+
 ementa_tccI
 
  CÓDIGO               COMPONENTE CURRICULAR

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Física Moderna  
+Sinônimos comuns: Física III, Física Quântica, Física Avançada  
+Descrição: Este documento aborda a disciplina de Física III, que é parte essencial do currículo da Licenciatura em Química. A ementa inclui conceitos fundamentais da relatividade restrita e geral, radiação do corpo negro, efeito fotoelétrico, e a dualidade onda-partícula, entre outros tópicos relevantes da física moderna. O curso visa proporcionar aos alunos uma compreensão aprofundada dos fenômenos que desafiam a Física Clássica, além de contextualizar historicamente a evolução dos conceitos físicos. A bibliografia básica e complementar oferece recursos adicionais para o estudo e aprofundamento dos temas abordados.
+
 FÍSICA III
 Carga Horária (h) Créditos
 Teórica 30 2

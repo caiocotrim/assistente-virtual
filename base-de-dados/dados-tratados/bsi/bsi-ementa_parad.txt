@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Paradigmas de Linguagens de Programação  
+Sinônimos comuns: Linguagens de Programação, Paradigmas de Programação, Tipos de Linguagens  
+Descrição: Este documento aborda os principais conceitos relacionados às linguagens de programação, incluindo sua evolução, sintaxe e semântica. Explora a teoria dos tipos, polimorfismo, verificação e inferência de tipos, além de discutir a semântica formal. Os paradigmas funcionais, lógicos, imperativos e orientados a objetos são analisados, permitindo uma comparação abrangente entre eles. A ementa também inclui referências bibliográficas essenciais para aprofundamento no tema.
+
  PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO CÓDIGO: CCO23
  Pré-requisitos: CCO13-Linguagem de Programação II
  Semestre: IV Carga Horária: 60h Créditos: 4

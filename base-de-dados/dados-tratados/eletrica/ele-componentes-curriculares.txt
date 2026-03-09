@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Componentes Curriculares das Ênfases  
+Sinônimos comuns: Disciplinas do curso, Matriz curricular, Ênfases em Engenharia  
+Descrição: O documento apresenta a estrutura curricular do curso de Engenharia Elétrica do IFBA, detalhando as três ênfases disponíveis: Automação e Controle, Eletrônica e Eletrotécnica. Cada ênfase é composta por um conjunto específico de componentes curriculares, totalizando 360 horas, com a possibilidade de o discente optar por cursar até duas ênfases. A descrição inclui a flexibilidade curricular, a obrigatoriedade de cumprimento das horas para certificação e a categorização das disciplinas conforme as diretrizes do CONFEA e do CNE/CES. Além disso, aborda a inclusão de componentes optativas e a representação gráfica da matriz curricular.
+
 COMPONENTES CURRICULARES DAS ÊNFASES DO CURSO 
 O curso de Engenharia Elétrica do IFBA, campus de Vitória da Conquista oferece 
 ao  discente  três  possibilidades  de  ênfases,  Automação  e  Controle,  Eletrônica  e 

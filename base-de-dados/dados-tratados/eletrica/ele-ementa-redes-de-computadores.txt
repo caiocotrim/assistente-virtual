@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Redes de Computadores  
+Sinônimos comuns: Redes, Comunicação de Dados, Interconexão de Redes  
+Descrição: Este documento aborda a disciplina de Redes de Computadores, que explora a história e evolução das redes, além de apresentar os modelos de referência OSI e TCP/IP, detalhando suas camadas e arquiteturas. A disciplina é fundamental para a compreensão das tecnologias de comunicação, abrangendo conceitos essenciais para a interconexão de sistemas e a transmissão de dados em ambientes de rede. A bibliografia recomendada inclui obras de autores renomados na área, proporcionando uma base teórica sólida para os alunos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Redes de Computadores

@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Disciplina Optativa II  
+Sinônimos comuns: Optativa, Disciplina Eletiva, Componente Curricular  
+Descrição: A disciplina Optativa II é um componente curricular do curso de Engenharia Ambiental, permitindo que os alunos escolham áreas de interesse específicas dentro do campo. Com foco em aprofundar conhecimentos e habilidades, essa disciplina oferece flexibilidade no currículo, contribuindo para a formação integral do estudante. A carga horária e os créditos são definidos conforme a estrutura curricular do curso, e a disciplina pode incluir atividades teóricas e práticas, enriquecendo a experiência acadêmica.  
+------------------------------------------------------------
+
 CÓDIGO: 14.9.2
 DISCIPLINA: Optativa II
 Código Componente

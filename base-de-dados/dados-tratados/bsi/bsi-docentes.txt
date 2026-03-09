@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Corpo Docente  
+Sinônimos comuns: Professores do curso, Docentes, Professores de Sistemas de Informação  
+Descrição: O corpo docente do curso de Bacharelado em Sistemas de Informação é composto por profissionais com formação diversificada, incluindo doutores e mestres em diversas áreas do conhecimento. A equipe é caracterizada por sua dedicação exclusiva e abrange disciplinas de administração, ciências ambientais, ciências sociais, ciências econômicas, computação, direito, letras e matemática. Essa diversidade contribui para uma formação abrangente e multidisciplinar dos alunos, refletindo a importância da interdisciplinaridade na educação superior.
+
 CORPO DOCENTE E PROFESSORES DO CURSO DE BSI
 O perfil multidisciplinar dos docentes que atuam no curso é evidenciado no
 Quadro 6.

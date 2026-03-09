@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Métodos Fitoquímicos  
+Sinônimos comuns: Fitoquímica, Extração de Compostos Naturais, Análise Fitoquímica  
+Descrição: O curso de Métodos Fitoquímicos aborda a química de produtos naturais, enfatizando a preparação de material vegetal e técnicas de extração. Os alunos aprenderão sobre os princípios da cromatografia e realizarão análises fitoquímicas preliminares. O conteúdo inclui a identificação de classes de metabólitos secundários e suas rotas biossintéticas, destacando a importância da biodiversidade vegetal na produção de medicamentos, alimentos, cosméticos e fontes de energia. A bibliografia abrange obras fundamentais na área, proporcionando uma base sólida para a compreensão e aplicação dos métodos fitoquímicos.  
+------------------------------------------------------------
+
 MÉTODOS FITOQUÍMICOS
 Carga Horária (h) Créditos
 Teórica 15 1

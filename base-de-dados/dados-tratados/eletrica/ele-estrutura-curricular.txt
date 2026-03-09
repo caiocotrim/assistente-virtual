@@ -1,3 +1,9 @@
+Curso: Engenharia Elétrica  
+Assunto: Estrutura Curricular  
+Sinônimos comuns: Matriz curricular, planejamento curricular, componentes curriculares  
+Descrição: O documento apresenta a estrutura curricular do curso de Engenharia Elétrica do IFBA, destacando a importância do planejamento e execução alinhados ao Projeto Pedagógico. A matriz curricular é baseada em diretrizes nacionais e regulamentações do CONFEA/CREA, visando a formação de engenheiros com ênfases em Automação e Controle, Eletrônica e Eletrotécnica. A carga horária total é de 3945 horas, distribuídas entre teoria, prática, estágio e atividades complementares, com um tempo mínimo de integralização de 5 anos. A proposta busca otimizar recursos e promover uma formação crítica e emancipatória.  
+------------------------------------------------------------
+
 ESTRUTURA CURRICULAR 
 O planejamento e a execução de uma estrutura curricular coerente com a proposta 
 do curso são os principais meios para a efetivação do Projeto Pedagógico do Curso. A 

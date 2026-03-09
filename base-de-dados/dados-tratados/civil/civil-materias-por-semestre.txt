@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Disciplinas do Curso  
+Sinônimos comuns: Matérias obrigatórias, Conteúdo curricular, Disciplinas do curso  
+Descrição: Este documento apresenta a lista completa das disciplinas obrigatórias do curso de Engenharia Civil, organizadas por semestre. Cada semestre inclui matérias fundamentais que abrangem áreas como física, matemática, mecânica, materiais de construção e gestão, essenciais para a formação do engenheiro civil. A estrutura curricular é projetada para fornecer uma base sólida de conhecimentos teóricos e práticos, preparando os alunos para os desafios da profissão.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS OBRIGATÓRIAS POR CADA SEMESTRE DO CURSO DE ENGENHARIA CIVIL:
 
 1 Semestre:

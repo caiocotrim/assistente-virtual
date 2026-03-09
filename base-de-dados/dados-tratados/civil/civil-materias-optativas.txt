@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Componentes Curriculares Optativos  
+Sinônimos comuns: Disciplinas Optativas, Matérias Opcionais, Cursos Eletivos  
+Descrição: Este documento apresenta uma lista abrangente de componentes curriculares optativos disponíveis para os alunos do curso de Engenharia Civil. As disciplinas abordam diversas áreas, como gestão, meio ambiente, estruturas e técnicas de construção, permitindo que os estudantes personalizem sua formação de acordo com seus interesses e objetivos profissionais. A carga horária e os créditos de cada matéria são especificados, proporcionando uma visão clara das exigências acadêmicas.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DE COMPONENTES CURRICULARES OPTATIVOS 
  
 SÃO ELAS:

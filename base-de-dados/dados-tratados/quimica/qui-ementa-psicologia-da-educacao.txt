@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Psicologia da Educação  
+Sinônimos comuns: Psicologia Educacional, Psicologia do Ensino, Teorias da Aprendizagem  
+Descrição: O curso de Psicologia da Educação aborda as intersecções entre a psicologia e a educação, explorando como diferentes paradigmas psicológicos influenciam o processo de ensino-aprendizagem. São discutidas teorias como o inatismo, empirismo, abordagens humanísticas, comportamentais, cognitivas e sociointeracionistas, além de suas implicações práticas na educação. O conteúdo também analisa o contexto cultural da aprendizagem e a escolarização formal, promovendo uma reflexão crítica sobre as práticas educacionais contemporâneas no Brasil e as questões éticas e políticas relacionadas à intervenção psicológica no campo educacional.
+
 PSICOLOGIA DA EDUCAÇÃO
 Carga Horária (h) Créditos
 Teórica 30 2

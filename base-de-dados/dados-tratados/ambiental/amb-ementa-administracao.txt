@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Administração  
+Sinônimos comuns: Gestão, Gerenciamento, Teoria Administrativa  
+Descrição: Este documento aborda a disciplina de Administração, focando nas funções e atributos do administrador, além de explorar diversas abordagens tradicionais e contemporâneas da administração, como taylorismo e gestão da qualidade total. Também discute tópicos relevantes em administração de recursos humanos e produção, enfatizando a importância da identidade individual e de grupos na gestão de pessoas, bem como políticas de reparações e ações afirmativas. A bibliografia inclui obras fundamentais e complementares que oferecem uma base sólida para o entendimento das práticas administrativas.  
+------------------------------------------------------------
+
 CÓDIGO: 14.5.1
 DISCIPLINA: Administração
 Código

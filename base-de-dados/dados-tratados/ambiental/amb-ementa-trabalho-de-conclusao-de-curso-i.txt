@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Trabalho de Conclusão de Curso I  
+Sinônimos comuns: TCC I, Projeto de Pesquisa, Trabalho Final  
+Descrição: O Trabalho de Conclusão de Curso I é uma disciplina fundamental que orienta os alunos na elaboração de propostas de pesquisa científica e/ou tecnológica, abordando temas relevantes ao curso de Engenharia Ambiental. Os estudantes devem desenvolver um projeto de pesquisa que será defendido publicamente, permitindo a aplicação de metodologias científicas e a integração de conhecimentos adquiridos ao longo do curso. A disciplina também oferece uma base teórica por meio de bibliografia específica, preparando os alunos para a produção acadêmica e a prática profissional.  
+------------------------------------------------------------
+
 CÓDIGO: 14.9.3
 DISCIPLINA: Trabalho de Conclusão de Curso I
 Código

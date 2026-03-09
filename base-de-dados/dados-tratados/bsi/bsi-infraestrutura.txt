@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Infraestrutura do Campus  
+Sinônimos comuns: Estrutura física, instalações do campus, recursos físicos  
+Descrição: O documento apresenta uma visão detalhada da infraestrutura disponível no Campus Vitória da Conquista, destacando as instalações físicas que suportam o processo de ensino-aprendizagem. Inclui informações sobre salas de aula, laboratórios, espaços de convivência e equipamentos, evidenciando a adequação das instalações às necessidades pedagógicas e tecnológicas do curso. A descrição abrange a quantidade e a finalidade de cada tipo de instalação, proporcionando uma compreensão clara dos recursos disponíveis para a comunidade acadêmica.
+
 INFRAESTRUTURA
 Com o objetivo de atender aos aspectos didático-pedagógicos, o Campus
 Vitória da Conquista busca oferecer à comunidade acadêmica equipamentos e

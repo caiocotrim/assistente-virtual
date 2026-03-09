@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Desenvolvimento Sustentável na Engenharia  
+Sinônimos comuns: Engenharia Civil Sustentável, Formação em Engenharia Civil, Curso de Engenharia Civil  
+Descrição: O curso de Engenharia Civil do IFBA é projetado para formar profissionais capacitados a enfrentar os desafios contemporâneos relacionados à exclusão social, desigualdades e degradação ambiental. Com uma matriz curricular abrangente, o curso integra conhecimentos técnicos e humanistas, promovendo a interdisciplinaridade e a ética na prática profissional. Os alunos são estimulados a desenvolver um pensamento crítico e reflexivo, preparando-se para atuar em diversas áreas, como construção civil, geotecnia e saneamento, com foco no desenvolvimento sustentável e na melhoria da qualidade de vida na região Sudoeste da Bahia.
+
 CONCEPÇÃO DO CURSO 
 O século XXI exige soluções urgentes para problemas graves e inter- relacionados como 
 a exclusão social, a violência, o preconceito de gênero, raça e idade, o desrespeito à alteridade, 

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Qualidade da Água  
+Sinônimos comuns: Análise da Água, Tratamento de Água, Parâmetros de Qualidade  
+Descrição: Este documento aborda a disciplina de Qualidade da Água, focando em aspectos microbiológicos, físico-químicos e bacteriológicos que influenciam a potabilidade e o tratamento da água. A ementa inclui a análise de diversos parâmetros, como cor, acidez, dureza e a presença de microorganismos, além de fornecer referências bibliográficas essenciais para o aprofundamento no tema. A carga horária total é de 60 horas, com 72 aulas, e a disciplina é parte do núcleo específico do curso.
+
 CÓDIGO: 14.7.6
 DISCIPLINA: Qualidade da Água
 Código

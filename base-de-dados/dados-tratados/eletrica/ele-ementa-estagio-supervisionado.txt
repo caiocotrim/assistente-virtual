@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Estágio Supervisionado  
+Sinônimos comuns: Estágio, Prática Profissional, Estágio Curricular  
+Descrição: O Estágio Supervisionado é uma etapa fundamental na formação do estudante de Engenharia Elétrica, proporcionando a aplicação prática dos conhecimentos adquiridos ao longo do curso. Este componente curricular permite ao aluno vivenciar a realidade do mercado de trabalho, desenvolvendo habilidades técnicas e interpessoais em ambientes como indústrias, instituições de pesquisa e empresas. A experiência adquirida durante o estágio é essencial para o aprimoramento profissional e para a construção de uma rede de contatos na área. A bibliografia indicada deve ser consultada conforme as atividades específicas a serem realizadas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Estágio Supervisionado

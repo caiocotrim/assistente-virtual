@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 6º semestre  
+Sinônimos comuns: Matérias do 6º semestre, disciplinas do curso, conteúdos do semestre  
+Descrição: Este documento apresenta as disciplinas do 6º semestre do curso de Bacharelado em Sistemas de Informação, incluindo Inteligência Artificial, Programação para Dispositivos Móveis, Engenharia de Software, Segurança da Informação, Sistemas Distribuídos, Gestão de Projetos e Atividades Curriculares de Extensão III. Cada disciplina é acompanhada de seus pré-requisitos e uma ementa que descreve os principais tópicos abordados, proporcionando uma visão abrangente das competências e conhecimentos que os alunos devem adquirir ao longo do semestre.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 6 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Inteligência Artificial                  CRÉDITOS

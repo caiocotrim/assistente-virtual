@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Fundações  
+Sinônimos comuns: Fundamentos, Estruturas de suporte, Bases de edificações  
+Descrição: O curso de Fundações aborda os diferentes tipos de fundações, suas características e peculiaridades na execução, além de aspectos fundamentais como capacidade de carga, pressões admissíveis e estimativas de recalque. Os alunos aprenderão a projetar fundações adequadas às necessidades de edificações, considerando normas técnicas e práticas de controle de qualidade. A bibliografia inclui obras essenciais para aprofundamento no tema, proporcionando uma base sólida para a compreensão e aplicação dos conceitos em projetos de engenharia civil.  
+------------------------------------------------------------
+
 
 Fundações CARGA HORÁRIA 
 (h) 

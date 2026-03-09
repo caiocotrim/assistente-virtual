@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Matemática Discreta I  
+Sinônimos comuns: Matemática Discreta, Discreta I, MD I  
+Descrição: A disciplina de Matemática Discreta I aborda conceitos fundamentais como sistemas numéricos, aritmética, conjuntos, álgebra dos conjuntos, relações e funções. Além disso, introduz a lógica proposicional e a lógica booleana, essenciais para a formação em computação e áreas afins. A compreensão desses tópicos é crucial para o desenvolvimento de habilidades analíticas e de resolução de problemas em contextos computacionais.
+
 ementa_mdI
 
 Matemática Discreta I 

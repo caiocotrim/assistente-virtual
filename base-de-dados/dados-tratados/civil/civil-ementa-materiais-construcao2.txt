@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Materiais de Construção II  
+Sinônimos comuns: Materiais II, Materiais de Construção Avançados, Materiais de Construção II - Concreto  
+Descrição: Este componente curricular aborda a dosagem e as propriedades do concreto, incluindo seu transporte, lançamento, adensamento e cura. Além disso, explora o controle tecnológico do concreto fresco e endurecido, bem como a utilização de aço para concreto armado e materiais betuminosos e metálicos. O curso também introduz novos materiais, proporcionando uma compreensão abrangente e prática essencial para a formação do engenheiro civil.
+
 Materiais de Construção II CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Técnicas de Medição  
+Sinônimos comuns: Medidas Elétricas, Instrumentação Elétrica, Medição de Energia  
+Descrição: O documento aborda as técnicas de medição aplicadas na engenharia elétrica, incluindo conceitos fundamentais sobre sistemas elétricos de potência, características operacionais de instrumentos de medição, e normas para instalações de medição de energia elétrica. São discutidos também os tipos de medidores, tanto monofásicos quanto trifásicos, e a medição em diferentes tensões. O conteúdo é essencial para a compreensão das práticas de instrumentação e análise de circuitos, preparando os alunos para a aplicação prática em contextos industriais e acadêmicos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Técnicas de Medição

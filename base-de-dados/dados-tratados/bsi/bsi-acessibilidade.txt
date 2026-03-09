@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Acessibilidade na Educação  
+Sinônimos comuns: Inclusão, Educação Inclusiva, Necessidades Especiais, Acessibilidade Pedagógica  
+Descrição: Este documento aborda a importância da acessibilidade na educação, destacando legislações e diretrizes que garantem o direito à educação para pessoas com deficiência. Discute a evolução do conceito de deficiência, a necessidade de adaptações no ensino e a inclusão de componentes curriculares como LIBRAS e Braille. Além disso, enfatiza a responsabilidade dos educadores em atender às diversas necessidades de aprendizagem, promovendo um ambiente educacional inclusivo e respeitoso, conforme as normativas estabelecidas pelo IFBA e outras legislações pertinentes.
+
 ACESSIBILIDADE
 As Diretrizes e Bases da Educação Nacional, conforme dispõe a Lei Federal
 nº 9.394/1996, após nova redação de seu Art. 59 dada através da Lei Federal nº

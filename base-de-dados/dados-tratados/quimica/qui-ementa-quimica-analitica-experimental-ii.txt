@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Analítica Experimental II  
+Sinônimos comuns: Química Analítica II, Análise Química Experimental II  
+Descrição: Este documento aborda a disciplina de Química Analítica Experimental II, que se concentra em princípios e técnicas de análise química, incluindo volumetria por oxirredução, potenciometria e determinações condutométricas. Os alunos aprenderão a aplicar reações de oxirredução e métodos instrumentais para quantificar espécies químicas em amostras reais, preparando-os para desafios práticos na área da química analítica. A bibliografia básica e complementar fornece recursos essenciais para aprofundar o conhecimento na disciplina.
+
 QUÍMICA ANALÍTICA
 EXPERIMENTAL II
 Carga Horária (h) Créditos

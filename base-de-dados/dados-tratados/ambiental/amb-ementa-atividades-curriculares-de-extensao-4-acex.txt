@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Atividades Curriculares de Extensão  
+Sinônimos comuns: ACEX 4, Extensão Universitária, Projetos de Extensão  
+Descrição: O componente curricular Atividades Curriculares de Extensão 4 (ACEX 4) é fundamental para a formação dos estudantes de Engenharia Ambiental, pois visa a interação prática com a comunidade, permitindo a identificação e análise de demandas sociais. Os alunos desenvolvem projetos que integram conhecimentos adquiridos ao longo do curso, promovendo a aplicação de teorias em contextos reais. A atividade é orientada por docentes e requer a elaboração de propostas que serão discutidas e validadas pelo Colegiado do Curso, contribuindo para a formação de profissionais comprometidos com a realidade social e ambiental.
+
 CÓDIGO: 14.7.8
 DISCIPLINA: Atividades Curriculares de Extensão 4 (ACEX)
 Código

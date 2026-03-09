@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Evasão e demanda no Ensino Superior  
+Sinônimos comuns: Formação em Química, Curso de Química, Licenciatura em Química  
+Descrição: O documento analisa a evolução das matrículas na Educação Básica e a crescente demanda por vagas no Ensino Médio, destacando a necessidade de formação de professores qualificados em Química. Apresenta dados sobre a evasão nos cursos de Licenciatura em Química, associando-a a fatores socioeconômicos e à estrutura curricular inadequada. Além disso, discute a insuficiência de instituições de ensino superior que ofereçam essa licenciatura na região de Vitória da Conquista, evidenciando a importância de um curso que atenda às necessidades locais e contribua para a formação de docentes competentes.
+
 Justificativa 
  
    O crescimento das matrículas, nas diferentes etapas da Educação Básica no país a 

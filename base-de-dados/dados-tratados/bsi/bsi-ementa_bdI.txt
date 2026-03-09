@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Banco de Dados I  
+Sinônimos comuns: BD I, Banco de Dados, Introdução a Banco de Dados  
+Descrição: O componente curricular Banco de Dados I oferece uma introdução aos conceitos fundamentais de gerenciamento de dados, abordando a independência, redundância e inconsistência de dados. Os alunos aprenderão sobre Sistemas Gerenciadores de Bancos de Dados, ferramentas CASE, análise de requisitos e modelos de dados, incluindo Entidade-Relacionamento e Relacional. O curso também explora restrições de integridade, transformações entre modelos e a álgebra relacional, além de proporcionar uma base prática na linguagem SQL, abrangendo DDL e DML. A bibliografia inclui obras clássicas e contemporâneas que complementam o aprendizado teórico e prático.
+
 ementa_bdI
 
 CÓDIGO               COMPONENTE CURRICULAR

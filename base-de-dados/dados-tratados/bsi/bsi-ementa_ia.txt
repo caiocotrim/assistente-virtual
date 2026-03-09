@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Inteligência Artificial  
+Sinônimos comuns: IA, aprendizado de máquina, sistemas inteligentes  
+Descrição: Este componente curricular aborda os fundamentos e aplicações da Inteligência Artificial, incluindo sua história, linguagens de programação relevantes e frameworks utilizados no desenvolvimento de sistemas. Os alunos participarão de atividades práticas em laboratório, onde desenvolverão sistemas de informação que incorporam técnicas de IA, promovendo uma compreensão aprofundada das arquiteturas e processos envolvidos. A disciplina é essencial para a formação em tecnologia da informação, preparando os estudantes para desafios contemporâneos na área.
+
 ementa_ia
 
  CÓDIGO                COMPONENTE CURRICULAR

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Gestão da Qualidade  
+Sinônimos comuns: Controle de Qualidade, Qualidade Empresarial, Gestão da Qualidade Total  
+Descrição: O curso de Gestão da Qualidade aborda os fundamentos e práticas essenciais para a implementação de sistemas de qualidade em organizações. Os alunos exploram a evolução histórica da qualidade, as ferramentas utilizadas para seu controle e a gestão estratégica necessária para garantir a excelência nos processos. A disciplina enfatiza a importância do controle da qualidade total, preparando os estudantes para aplicar conceitos teóricos em contextos práticos e estratégicos no campo da Engenharia Civil.
+
 Gestão da Qualidade CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

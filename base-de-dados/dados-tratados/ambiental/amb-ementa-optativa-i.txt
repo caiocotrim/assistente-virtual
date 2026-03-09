@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Disciplina Optativa I  
+Sinônimos comuns: Optativa I, Componente Optativo, Disciplina Eletiva  
+Descrição: A disciplina Optativa I é um componente curricular do curso de Engenharia Ambiental, que permite aos alunos escolherem conteúdos adicionais conforme seus interesses e necessidades formativas. Com uma carga horária total de 60 horas, a disciplina é estruturada em aulas teóricas e práticas, proporcionando uma abordagem diversificada e enriquecedora ao aprendizado. É importante que os alunos verifiquem os pré-requisitos para a matrícula e aproveitem essa oportunidade para aprofundar conhecimentos em áreas específicas da engenharia ambiental.  
+------------------------------------------------------------
+
 CÓDIGO: 14.8.3
 DISCIPLINA: Optativa I
 Código Componente (NÚCLEO ESPECÍFICO)

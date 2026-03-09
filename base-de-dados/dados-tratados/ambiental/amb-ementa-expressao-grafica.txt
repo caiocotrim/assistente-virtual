@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Expressão Gráfica  
+Sinônimos comuns: Desenho Técnico, Geometria Descritiva, Representação Gráfica  
+Descrição: A disciplina de Expressão Gráfica aborda os fundamentos da instrumentação e as normas essenciais para a representação gráfica em engenharia. Os alunos aprendem a realizar construções geométricas, aplicar métodos descritivos e entender as mudanças de planos, além de explorar sistemas de projeções e perspectivas axonométricas. O conteúdo é complementado por uma bibliografia que inclui obras clássicas e contemporâneas, proporcionando uma base sólida para a prática profissional na área ambiental.  
+------------------------------------------------------------
+
 CÓDIGO: 14.2.5
 DISCIPLINA: Expressão Gráfica
 Código

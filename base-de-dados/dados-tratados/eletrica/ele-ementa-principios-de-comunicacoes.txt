@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Princípios de Comunicações  
+Sinônimos comuns: Comunicações, Sistemas de Comunicação, Teoria de Comunicações  
+Descrição: Este documento aborda os fundamentos das comunicações, incluindo a análise de sinais e sistemas, modulação linear, angular e por pulso, além de introduzir conceitos de sistemas de comunicação digitais. É essencial para a formação em Engenharia Elétrica, fornecendo uma base teórica e prática para o entendimento das tecnologias de comunicação contemporâneas. A bibliografia recomendada inclui obras de autores renomados na área, que complementam o aprendizado e aprofundam o conhecimento sobre telecomunicações e modulação.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Princípios de Comunicações

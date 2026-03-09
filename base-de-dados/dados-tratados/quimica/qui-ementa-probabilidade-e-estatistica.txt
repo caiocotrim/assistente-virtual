@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Probabilidade e Estatística  
+Sinônimos comuns: Estatística, Probabilidade, Análise Estatística  
+Descrição: Este documento aborda os fundamentos de Probabilidade e Estatística, essenciais para a formação em Química. A disciplina inclui conceitos básicos, técnicas de representação gráfica, medidas representativas, teoria da probabilidade, variáveis discretas e contínuas, além de métodos de amostragem e análise de hipóteses. O objetivo é capacitar os alunos a interpretar dados estatísticos e aplicar a análise combinatória na resolução de problemas práticos, desenvolvendo habilidades críticas e analíticas necessárias para a pesquisa e prática docente na área.
+
 PROBABILIDADE E
 ESTATÍSTICA
 Carga Horária (h) Créditos

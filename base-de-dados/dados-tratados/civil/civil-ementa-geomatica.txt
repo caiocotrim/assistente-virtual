@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Geomática  
+Sinônimos comuns: Mapeamento, Cartografia Digital, Geoprocessamento  
+Descrição: O curso de Geomática aborda os fundamentos da Ciência do Mapeamento e da Cartografia Digital, explorando conceitos como cartometria, projeções cartográficas e geodésicas, além de técnicas de representação e produção cartográfica. Os alunos aprenderão sobre Sistemas de Informações Geográficas (SIG), incluindo a coleta, armazenamento, recuperação e apresentação de dados espaciais. O conteúdo inclui exemplos práticos de softwares como SPRING e ARCGIS, proporcionando uma base sólida para a aplicação de técnicas geomáticas em projetos de engenharia civil.
+
 Geomática CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

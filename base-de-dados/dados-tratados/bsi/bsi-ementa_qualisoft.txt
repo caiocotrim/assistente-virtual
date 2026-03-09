@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Qualidade de Software  
+Sinônimos comuns: Qualidade de SW, Garantia de Qualidade, Testes de Software  
+Descrição: O componente curricular aborda os fundamentos da qualidade de software, incluindo a distinção entre qualidade do produto e do processo. São exploradas métricas, normas e técnicas de garantia da qualidade, além de estratégias de verificação e validação. O curso também inclui a implementação de testes de software e modelos de melhoria de processos, preparando os alunos para planejar sistemas de qualidade eficazes.
+
 ementa_qualisoft
 
 CÓDIGO               COMPONENTE CURRICULAR

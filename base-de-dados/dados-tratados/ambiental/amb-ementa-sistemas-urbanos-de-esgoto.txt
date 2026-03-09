@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Sistemas Urbanos de Esgoto  
+Sinônimos comuns: Tratamento de Esgotos, Esgotamento Sanitário, Redes de Esgoto  
+Descrição: Este documento aborda os fundamentos e práticas relacionadas ao sistema de esgotos, incluindo operações e processos de tratamento, concepção de estações de tratamento de esgoto (ETEs), redes coletoras e estações elevatórias. A ementa inclui o estudo de processos aeróbios e anaeróbios, além de projetos e estudos de caso, proporcionando uma visão abrangente das tecnologias e metodologias aplicadas na gestão de esgoto sanitário.
+
 CÓDIGO: 14.7.7
 DISCIPLINA: Sistemas Urbanos de Esgoto
 Código

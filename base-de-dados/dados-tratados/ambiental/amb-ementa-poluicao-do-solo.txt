@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Poluição do Solo  
+Sinônimos comuns: Contaminação do solo, degradação do solo, poluição terrestre  
+Descrição: Este documento aborda a disciplina de Poluição do Solo, que explora a definição e os tipos de contaminação que afetam o solo, além das propriedades e processos que influenciam a movimentação de contaminantes. A ementa inclui a identificação dos principais grupos de contaminantes, métodos de avaliação e monitoramento da poluição, bem como estratégias de remediação para solos contaminados. A bibliografia básica e complementar fornece referências essenciais para aprofundamento no tema, abordando desde conceitos fundamentais até aplicações práticas na gestão de áreas contaminadas.
+
 CÓDIGO: 14.5.6
 DISCIPLINA: Poluição do Solo
 Código Componente (NÚCLEO

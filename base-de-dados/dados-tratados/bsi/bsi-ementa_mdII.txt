@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Matemática Discreta II  
+Sinônimos comuns: Matemática Discreta 2, MD II, Teoria dos Grafos II  
+Descrição: A disciplina de Matemática Discreta II aborda conceitos fundamentais da teoria dos grafos, incluindo a representação de grafos, tipos como grafos parciais, sub-grafos, grafos completos e bipartidos. Os alunos também exploram noções de caminho, percurso, ciclo, circuito e comprimento, essenciais para a compreensão de estruturas discretas e suas aplicações em computação e algoritmos. A matéria é sujeita a mudanças de professor, o que pode impactar a dinâmica do aprendizado.
+
 ementa_mdII
 
 Matemática Discreta II 

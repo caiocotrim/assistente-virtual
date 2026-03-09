@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Gestão e Planejamento Ambiental  
+Sinônimos comuns: Gestão Ambiental, Planejamento Ambiental, Licenciamento Ambiental  
+Descrição: Este componente curricular aborda os fundamentos da gestão e planejamento ambiental, explorando sua evolução e aplicação nas políticas ambientais brasileiras. Os alunos aprenderão sobre licenciamento ambiental, sistemas de gestão ambiental (SGA), metodologias de planejamento, indicadores ambientais e a elaboração de planos diretores. O curso também inclui técnicas de trabalho em grupo e a norma ISO 14000, visando preparar os estudantes para atuar em contextos urbanos e rurais, além de avaliar projetos e implementar certificações ambientais.
+
 CÓDIGO: 14.7.2
 DISCIPLINA: Gestão e Planejamento Ambiental
 Código Componente (NÚCLEO

@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Organização e Arquitetura de Computadores  
+Sinônimos comuns: Arquitetura de Computadores, Organização de Sistemas, Arquitetura de Sistemas, OAC  
+Descrição: A disciplina de Organização e Arquitetura de Computadores aborda os fundamentos das arquiteturas RISC e CISC, explorando a estrutura e funcionamento dos computadores. Os alunos estudam linguagens de montagem, modos de endereçamento, interrupções e exceções, além de conceitos de desempenho e hierarquia de memória. A matéria também inclui tópicos sobre barramentos, comunicações, interfaces, periféricos, e técnicas avançadas como pipeline, processadores superescalares e multiprocessadores, preparando os estudantes para compreender e projetar sistemas computacionais eficientes.
+
 ementa_oac
 
 Organização e Arquitetura de Computadores

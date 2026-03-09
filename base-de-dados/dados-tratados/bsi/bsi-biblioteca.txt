@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Biblioteca do Campus  
+Sinônimos comuns: Biblioteca do IFBA, acervo da biblioteca, serviços bibliotecários  
+Descrição: A biblioteca do Campus Vitória da Conquista é um espaço dedicado ao aprendizado e à cultura, oferecendo acesso a uma variedade de materiais bibliográficos e serviços, como cadastro de usuários, consulta local e empréstimos. Os usuários podem acessar regulamentos e normas através do portal online, garantindo um ambiente propício para a disseminação de conhecimento técnico e científico. O acervo inclui coleções de referência, periódicos e materiais para consulta local, promovendo a liberdade de acesso à informação.
+
 BIBLIOTECA
 A biblioteca do Campus Vitória da Conquista se constitui em um espaço
 reservado para fins didáticos e culturais. Ela participa da dinâmica de disseminação

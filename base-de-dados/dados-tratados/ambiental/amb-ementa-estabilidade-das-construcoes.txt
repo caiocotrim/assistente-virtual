@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Estabilidade das Construções  
+Sinônimos comuns: Análise Estrutural, Resistência dos Materiais, Fundações  
+Descrição: Este documento aborda a disciplina de Estabilidade das Construções, focando na análise de fundações e elementos estruturais como lajes, vigas e pilares. A ementa inclui o estudo de diferentes tipos de carregamentos, como cargas concentradas e distribuídas, além de esforços seccionais e desenho estrutural. A bibliografia básica e complementar oferece uma variedade de referências essenciais para aprofundar o conhecimento na área, sendo fundamental para a formação de engenheiros ambientais capacitados a lidar com questões estruturais em projetos de construção.
+
 CÓDIGO: 14.6.1
 DISCIPLINA: Estabilidade das Construções
 Código Componente (NÚCLEO

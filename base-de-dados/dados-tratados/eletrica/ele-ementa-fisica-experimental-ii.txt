@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Física Experimental II  
+Sinônimos comuns: Física II, Experimentos de Física, Eletromagnetismo Experimental  
+Descrição: O curso de Física Experimental II aborda conceitos fundamentais da eletromagnetismo, incluindo medidas elétricas, circuitos elétricos, e leis de Kirchhoff. Os alunos exploram práticas laboratoriais que envolvem diodos, circuitos RC, RL e RLC, além de experimentos com campos magnéticos e forças magnéticas. O conteúdo é essencial para a compreensão das aplicações práticas da física em engenharia elétrica, preparando os estudantes para desafios técnicos e científicos na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Física Experimental II

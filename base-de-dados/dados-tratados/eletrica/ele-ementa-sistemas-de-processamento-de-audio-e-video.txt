@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Processamento de Áudio e Vídeo  
+Sinônimos comuns: Processamento de Sinais, Sinais de Áudio e Vídeo, Engenharia de Multimídia  
+Descrição: Este documento aborda os fundamentos do processamento de áudio e vídeo, incluindo a análise das características da percepção auditiva e visual, além de explorar os princípios de geração, compressão, gravação, transmissão e recepção desses sinais. O conteúdo também abrange circuitos e amplificadores de áudio, bem como as propriedades de microfones e alto-falantes, proporcionando uma base sólida para a compreensão das tecnologias de multimídia aplicadas na Engenharia Elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas de Processamento de Áudio e Vídeo

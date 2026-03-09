@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Concreto Armado II  
+Sinônimos comuns: Concreto II, Estruturas de Concreto, Dimensionamento de Concreto  
+Descrição: O curso de Concreto Armado II aborda o dimensionamento e análise de estruturas de concreto armado, focando em elementos como pilares, pórticos e escadas, além de considerar a ação do vento em edificações. Os alunos aprenderão sobre a ruptura de barras sob flexão composta e deformações de segunda ordem, preparando-os para desafios práticos na engenharia civil. A bibliografia inclui obras fundamentais que complementam o aprendizado teórico e prático, essenciais para a formação em estruturas de concreto.  
+------------------------------------------------------------
+
  
 Concreto Armado II CARGA HORÁRIA 
 (h) 

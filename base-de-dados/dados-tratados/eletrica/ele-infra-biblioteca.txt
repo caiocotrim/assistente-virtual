@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Biblioteca do IFBA  
+Sinônimos comuns: Biblioteca do campus, acervo bibliográfico, serviços bibliotecários  
+Descrição: A Biblioteca do Instituto Federal da Bahia, campus de Vitória da Conquista, é um espaço essencial para o aprendizado e a cultura, oferecendo um acervo diversificado que inclui livros técnicos, didáticos, literários e periódicos. Com o objetivo de apoiar o ensino e a pesquisa, a biblioteca disponibiliza serviços como empréstimos, consultas online e atendimento personalizado. Além disso, promove a formação de usuários e organiza seu acervo para facilitar o acesso à informação. O espaço é gerido por uma equipe de bibliotecários e técnicos, garantindo um ambiente propício para o desenvolvimento acadêmico e cultural da comunidade.
+
 Biblioteca 
 A Biblioteca do Instituto Federal de Educação, Ciência e Tecnologia da Bahia - 
 IFBA, campus de Vitória da Conquista, constitui-se em um espaço reservado para fins 

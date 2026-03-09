@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Materiais de Construção  
+Sinônimos comuns: Materiais de obra, Materiais de construção civil, Materiais para edificações  
+Descrição: O curso de Materiais de Construção I aborda os principais componentes utilizados na construção civil, incluindo agregados, aglomerantes e cimento Portland. Os alunos aprenderão sobre o uso de aditivos no concreto, a dosagem de argamassa e as características de materiais cerâmicos, vidros, telhas de fibrocimento e tintas. A disciplina é fundamental para a formação profissional, proporcionando conhecimentos essenciais para a seleção e aplicação de materiais na engenharia civil.
+
 Materiais de Construção I 
 CARGA HORÁRIA 
 (h) 

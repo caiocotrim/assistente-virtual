@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Geologia  
+Sinônimos comuns: Geologia Geral, Geologia Aplicada, Geologia Ambiental  
+Descrição: Este documento aborda os fundamentos da Geologia, incluindo a composição e estrutura da crosta terrestre, a classificação e origem das rochas ígneas, metamórficas e sedimentares, além de discutir processos geológicos endógenos e exógenos, intemperismo e formação dos solos. Também são abordados aspectos da geomorfologia e a importância geotécnica das formações geológicas, proporcionando uma base teórica essencial para a compreensão das interações entre o meio ambiente e as características geológicas. A bibliografia inclui obras clássicas e atualizadas que servem como referência para aprofundamento no tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.4.3
 DISCIPLINA: Geologia
 Código Componente (NÚCLEO

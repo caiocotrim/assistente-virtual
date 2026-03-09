@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Matemática Básica  
+Sinônimos comuns: Matemática Fundamental, Matemática Elementar, Matemática para Química  
+Descrição: Este documento aborda a disciplina de Matemática Básica, essencial para a formação em Licenciatura em Química. Com uma carga horária total de 60 horas e 4 créditos, a disciplina é obrigatória no primeiro período e não possui pré-requisitos. A ementa inclui conceitos fundamentais de funções, como domínio, imagem, tipos de funções (polinomiais, racionais, exponenciais, logarítmicas e trigonométricas), além de função inversa e composição de funções. Os objetivos visam desenvolver a compreensão dos conceitos matemáticos e suas aplicações, promovendo aprendizagens significativas através de definições, demonstrações e técnicas de redação. A bibliografia abrange obras clássicas e complementares que sustentam o aprendizado na área.
+
 MATEMÁTICA BÁSICA
 Carga Horária (h) Créditos
 Teórica 60 4

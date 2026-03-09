@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Hidrologia Geral  
+Sinônimos comuns: Hidrologia, Ciclo Hidrológico, Recursos Hídricos  
+Descrição: A disciplina de Hidrologia Geral aborda os principais componentes do ciclo hidrológico, incluindo bacias hidrográficas, precipitação e infiltração de água no solo. Os alunos aprenderão sobre escoamento superficial, métodos de análise como o método racional e hidrogramas, além de conceitos de hidrossedimentologia e águas subterrâneas. A formação inclui tanto aspectos teóricos quanto práticos, preparando os estudantes para a aplicação de conhecimentos em projetos de engenharia relacionados à gestão de recursos hídricos e controle de enchentes.
+
  
 Hidrologia Geral CARGA HORÁRIA 
 (h) 

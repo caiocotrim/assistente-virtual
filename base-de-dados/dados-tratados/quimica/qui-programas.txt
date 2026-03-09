@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Programas Universais de Assistência Estudantil  
+Sinônimos comuns: Programas de apoio, Ações de assistência, Projetos de inclusão  
+Descrição: Os Programas Universais de Assistência Estudantil visam promover o desenvolvimento integral dos estudantes do IFBA, oferecendo suporte em diversas áreas, como saúde, educação, e inclusão social. Esses programas são estruturados em subprogramas que abordam temas como diversidade, necessidades específicas, saúde mental, e cidadania, garantindo que todos os alunos tenham acesso a recursos e oportunidades que favoreçam sua formação acadêmica e pessoal. A implementação dessas ações busca criar um ambiente educacional mais equitativo e inclusivo, respeitando as particularidades de cada estudante e contribuindo para sua formação como cidadãos críticos e conscientes.  
+------------------------------------------------------------
+
 Programas Universais  
 Os Programas Universais são destinados ao desenvolvimento de ações voltadas 
 para  todos  os  estudantes  regularmente  matriculados  no  instituto,  através  de  projetos  que 

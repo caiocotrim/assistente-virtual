@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Eletromagnetismo e Óptica  
+Sinônimos comuns: Física II, Eletromagnetismo, Óptica, Física Avançada  
+Descrição: O curso de Física II aborda os fundamentos do Eletromagnetismo e da Óptica, incluindo conceitos como cargas elétricas, campo elétrico, leis de indução e propriedades da luz. O objetivo é desenvolver a capacidade dos alunos de compreender e descrever fenômenos eletromagnéticos e ópticos, além de contextualizar a evolução histórica desses conceitos. A carga horária total é de 60 horas, com 4 créditos, e é uma disciplina obrigatória do quarto período, com pré-requisitos em Física I e Cálculo Integral para Química. A bibliografia inclui obras clássicas e complementares que fundamentam o aprendizado teórico e prático da disciplina.  
+------------------------------------------------------------
+
 FÍSICA II
 Carga Horária (h) Créditos
 Teórica 60 4

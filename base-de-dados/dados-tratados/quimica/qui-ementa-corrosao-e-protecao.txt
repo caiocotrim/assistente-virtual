@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Corrosão e Proteção  
+Sinônimos comuns: Eletroquímica, Proteção Anticorrosiva, Testes de Corrosão  
+Descrição: Este documento aborda os princípios fundamentais da corrosão e suas formas, incluindo os mecanismos envolvidos e as estratégias de proteção, como revestimentos metálicos e orgânicos, proteção catódica e inibidores químicos. Destina-se a aprofundar o conhecimento dos alunos sobre os processos eletroquímicos relacionados à corrosão, preparando-os para aplicar esses conceitos em contextos práticos e acadêmicos.
+
 CORROSÃO E PROTEÇÃO
 Carga Horária (h) Créditos
 Teórica 60 4

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Eletrônica de Potência  
+Sinônimos comuns: Eletrônica de Potência, Circuitos de Potência, Conversores de Energia  
+Descrição: Este documento aborda os fundamentos e aplicações da eletrônica de potência, incluindo dispositivos semicondutores como diodos e transistores, além de conversores CA/CC e CC/CC. São discutidos os princípios de operação, circuitos de comando e técnicas de dissipação de calor, essenciais para o projeto e análise de sistemas eletrônicos que manipulam energia elétrica. A bibliografia inclui obras relevantes para aprofundamento no tema, proporcionando uma base sólida para estudantes e profissionais da área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Eletrônica de Potência

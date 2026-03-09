@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Mecânica dos Sólidos  
+Sinônimos comuns: Estática, Análise de Estruturas, Forças em Sólidos  
+Descrição: O curso de Mecânica dos Sólidos aborda os princípios fundamentais que regem as forças e o equilíbrio de corpos rígidos, tanto no plano quanto no espaço. Os alunos aprenderão a analisar sistemas de forças, calcular centroides e baricentros, e aplicar conceitos de atrito e momentos estáticos. A disciplina é essencial para a compreensão de estruturas e a aplicação de métodos de trabalho virtual, preparando os estudantes para desafios práticos na engenharia civil.
+
  
 Mecânica dos Sólidos CARGA HORÁRIA 
 (h) 

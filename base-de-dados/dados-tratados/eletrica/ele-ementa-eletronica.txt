@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Eletrônica  
+Sinônimos comuns: Circuitos Eletrônicos, Dispositivos Eletrônicos, Teoria de Circuitos  
+Descrição: Este documento aborda os fundamentos da eletrônica, incluindo dispositivos eletrônicos, amplificadores operacionais, circuitos lineares e não lineares, além de técnicas de realimentação e filtros ativos. Também são discutidos conversores analógico/digital e digital/analógico, temporizadores e fontes de alimentação reguladas. O conteúdo é essencial para o desenvolvimento de projetos práticos na área, integrando teoria e aplicação.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Eletrônica

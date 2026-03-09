@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas de Automação Industrial  
+Sinônimos comuns: Automação Industrial, Controle de Processos, Automação Eletropneumática  
+Descrição: Este documento aborda os fundamentos e aplicações dos sistemas de automação industrial, incluindo conceitos essenciais como Indústria 4.0, hardware de Controladores Lógicos Programáveis (CLPs), e a norma IEC 61131. São discutidos também os componentes da automação, como sensores, atuadores e redes de comunicação, além de técnicas de supervisão e aquisição de dados. O conteúdo é enriquecido com referências a obras relevantes na área, proporcionando uma base sólida para o desenvolvimento de projetos industriais e aplicações práticas utilizando ferramentas como o Codesys.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas de Automação Industrial

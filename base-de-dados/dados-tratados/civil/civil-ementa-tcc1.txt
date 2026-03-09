@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Trabalho de Conclusão de Curso I  
+Sinônimos comuns: TCC I, Projeto de Pesquisa I, Trabalho de Graduação I  
+Descrição: O Trabalho de Conclusão de Curso I (TCC I) é uma disciplina obrigatória do curso de Engenharia Civil, com carga horária de 30 horas teóricas e 2 créditos. O aluno deve desenvolver um projeto de pesquisa que aborde áreas do conhecimento da matriz curricular, preparando-se para a execução do TCC II. É necessário ter aprovação em 80% dos componentes curriculares obrigatórios como pré-requisito para a realização desta disciplina.
+
 TCC I 
 CARGA HORÁRIA 
 (h) 

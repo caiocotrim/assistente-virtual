@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Tópicos Especiais em Automação II  
+Sinônimos comuns: Tópicos Avançados em Automação, Automação II, Automação e Controle  
+Descrição: Este documento aborda a disciplina de Tópicos Especiais em Automação II, que se concentra em novas tecnologias e conteúdos não explorados previamente no curso de Engenharia Elétrica. A disciplina é projetada para enriquecer a formação dos alunos na ênfase de Automação e Controle, alinhando-se às diretrizes acadêmicas do curso. A bibliografia básica e complementar será selecionada de acordo com os temas abordados, proporcionando uma base sólida para o aprendizado e aplicação prática dos conceitos discutidos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Tópicos Especiais em Automação II

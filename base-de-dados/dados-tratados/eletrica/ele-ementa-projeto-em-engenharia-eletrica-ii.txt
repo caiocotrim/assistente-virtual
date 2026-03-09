@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Projeto em Engenharia Elétrica II  
+Sinônimos comuns: Projeto II, Engenharia Elétrica II, TCC em Engenharia  
+Descrição: Esta disciplina é voltada para a elaboração de um projeto de pesquisa que culmina no trabalho de conclusão de curso, sob a orientação de um docente. Os alunos devem desenvolver um tema relevante dentro da Engenharia Elétrica, participando de seminários internos que visam o avanço da pesquisa iniciada na disciplina anterior. A defesa pública do trabalho é um componente essencial, permitindo a apresentação e discussão dos resultados obtidos. A disciplina também aborda referências bibliográficas fundamentais para a metodologia de pesquisa e elaboração de projetos acadêmicos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Projeto em Engenharia Elétrica II

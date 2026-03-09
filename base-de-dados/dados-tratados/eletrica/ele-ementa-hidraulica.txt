@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Hidráulica  
+Sinônimos comuns: Hidráulica aplicada, Sistemas hidráulicos, Engenharia hidráulica  
+Descrição: O documento aborda os conceitos fundamentais da hidráulica, incluindo escoamento em orifícios e condutos forçados, além de técnicas de cálculo de perdas de carga e seleção de bombas hidráulicas. São discutidos também os princípios de projeto de instalações hidráulicas, como reservatórios interligados e o fenômeno do golpe de aríete. A bibliografia citada oferece uma base teórica sólida, com referências a manuais e cursos reconhecidos na área, essenciais para a formação de engenheiros elétricos que lidam com sistemas hidráulicos em suas práticas profissionais.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Hidráulica

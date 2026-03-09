@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Trabalho de Conclusão de Curso II  
+Sinônimos comuns: TCC II, monografia, projeto final  
+Descrição: Este componente curricular é voltado para a elaboração e apresentação do Trabalho de Conclusão de Curso, onde os alunos desenvolvem suas pesquisas, redigem a monografia e preparam-se para a defesa do trabalho. A disciplina abrange a aplicação de metodologias de pesquisa, com ênfase na escrita acadêmica e na organização de conteúdos, utilizando referências bibliográficas essenciais e complementares que orientam o processo de produção científica.
+
 CÓDIGO: 14.10.2
 DISCIPLINA: Trabalho de Conclusão de Curso II
 Código

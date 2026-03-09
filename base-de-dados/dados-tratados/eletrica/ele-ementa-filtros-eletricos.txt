@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Filtros Elétricos  
+Sinônimos comuns: Filtros Analógicos, Filtros Digitais, Filtros de Sinais  
+Descrição: Este documento aborda a análise e síntese de filtros elétricos, incluindo tanto filtros analógicos quanto digitais. São discutidos conceitos fundamentais como função de transferência, diagramas de Bode e diferentes aproximações de filtros, como Chebyshev, Butterworth, Cauer e Bessel. O texto também explora técnicas de conversão de impedância, filtros em cascata, transformações em frequência e escalamentos, além de redes Lader e filtros a capacitores chaveados e comutados. A bibliografia inclui obras relevantes que fundamentam o estudo e a aplicação dos filtros em sistemas elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Filtros Elétricos

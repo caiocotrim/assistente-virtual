@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Inorgânica Experimental II  
+Sinônimos comuns: Química Inorgânica II, Laboratório de Química Inorgânica, Química Experimental II  
+Descrição: Esta disciplina aborda a química dos metais de transição, incluindo princípios da química de coordenação e a síntese e caracterização de compostos. Os alunos desenvolverão habilidades práticas em laboratório, focando na reatividade dos metais de transição e no equilíbrio químico em reações de complexos em solução. O curso visa promover a autonomia e segurança dos estudantes em ambientes experimentais, preparando-os para desafios acadêmicos e profissionais na área de química inorgânica.
+
 QUÍMICA INORGÂNICA
 EXPERIMENTAL II
 Carga Horária (h) Créditos

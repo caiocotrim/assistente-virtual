@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Cálculo Numérico  
+Sinônimos comuns: Cálculo Numérico, Métodos Numéricos, Análise Numérica  
+Descrição: O Cálculo Numérico é uma disciplina fundamental para a formação em Engenharia Civil, abordando técnicas e métodos para a resolução de problemas matemáticos complexos. Através do estudo de sistemas numéricos, erros, e a solução de equações não lineares e sistemas de equações lineares, os alunos desenvolvem habilidades em derivação e integração numérica, além de interpolação e aproximação. A disciplina também inclui a solução de equações diferenciais ordinárias, preparando os estudantes para aplicações práticas em engenharia e ciências aplicadas.
+
   
 Cálculo Numérico 
 CARGA HORÁRIA 

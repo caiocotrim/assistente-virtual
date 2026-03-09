@@ -1,1 +1,6 @@
+Curso: Licenciatura em Química  
+Assunto: Estrutura do Curso  
+Sinônimos comuns: Grade curricular, plano de estudos, disciplinas do primeiro semestre  
+Descrição: O primeiro semestre da Licenciatura em Química é fundamental para a formação do estudante, introduzindo conceitos básicos e essenciais da química, além de disciplinas que promovem o desenvolvimento de habilidades pedagógicas. Este período é crucial para estabelecer uma base sólida que permitirá a compreensão de conteúdos mais avançados nos semestres subsequentes, preparando o aluno para os desafios da docência e da pesquisa na área química.
+
 1º SEMESTRE

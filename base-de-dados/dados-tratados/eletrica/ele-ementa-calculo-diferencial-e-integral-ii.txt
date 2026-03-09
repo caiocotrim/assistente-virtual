@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Cálculo Diferencial e Integral II  
+Sinônimos comuns: Cálculo II, Cálculo Avançado, Cálculo II de Stewart  
+Descrição: Este documento aborda o conteúdo do curso de Cálculo Diferencial e Integral II, que é fundamental para a formação em Engenharia Elétrica. O curso explora técnicas de integração, o Teorema Fundamental do Cálculo, e aplicações de integrais definidas, além de integrar conceitos de séries numéricas e potências. Os alunos são preparados para resolver problemas complexos e aplicar os conhecimentos adquiridos em contextos práticos, utilizando referências bibliográficas renomadas na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Cálculo Diferencial e Integral II

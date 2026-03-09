@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Química Analítica I  
+Sinônimos comuns: Análise Química, Química Analítica, Química Quantitativa  
+Descrição: O curso de Química Analítica I abrange os fundamentos da análise qualitativa e quantitativa, focando em métodos clássicos como gravimetria e volumetria. Os alunos aprenderão sobre equilíbrio ácido-base, solubilidade e complexação, além de técnicas de análise por via úmida e seca. O conteúdo inclui a medição de massa e volume, tratamento de dados analíticos e cálculos de pH, preparando os estudantes para identificar e quantificar espécies químicas com precisão e exatidão. A bibliografia abrange obras essenciais para aprofundamento no tema.  
+------------------------------------------------------------
+
 QUÍMICA ANALÍTICA I
 Carga Horária (h) Créditos
 Teórica 45 3

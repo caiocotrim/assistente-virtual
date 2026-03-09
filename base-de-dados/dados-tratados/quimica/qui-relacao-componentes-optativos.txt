@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Componentes optativos do curso  
+Sinônimos comuns: Disciplinas optativas, matérias eletivas, disciplinas complementares  
+Descrição: Este documento apresenta uma lista detalhada dos componentes optativos disponíveis para os alunos da Licenciatura em Química, incluindo carga horária, total de créditos e pré-requisitos. Os componentes optativos permitem que os estudantes aprofundem seus conhecimentos em áreas específicas de interesse, além de contribuírem para a contabilização das Atividades Complementares exigidas no curso. As ementas dessas disciplinas estão disponíveis no apêndice do documento, proporcionando uma visão abrangente das opções de formação complementar.
+
 No Quadro 4  pode-se visualizar a relação dos componentes optativos. Além de 
 servirem  para o  aprofundamento  em  áreas  específicas  de interesse  dos  estudantes,  a  carga 
 horária  destes  componentes,  poderá  ser  contabiliza  como  parte  das  Atividades 

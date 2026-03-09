@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Meio Ambiente  
+Sinônimos comuns: Sustentabilidade, Ecologia, TI Verde  
+Descrição: O componente curricular aborda a interseção entre tecnologia da informação e questões ambientais, explorando ecossistemas, aquecimento global e a responsabilidade social das empresas. Os alunos são introduzidos aos conceitos de sustentabilidade e marketing sustentável, além de discutirem o papel do profissional de informática na promoção de práticas ambientalmente responsáveis. A ementa também inclui objetivos de desenvolvimento do milênio e educação ambiental, preparando os estudantes para atuarem como cidadãos globais conscientes.
+
 ementa_ambiente
 
 

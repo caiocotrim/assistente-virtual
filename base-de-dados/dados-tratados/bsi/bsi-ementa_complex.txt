@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Complexidade de Algoritmos  
+Sinônimos comuns: Teoria da Complexidade, Algoritmos e Complexidade, Análise de Algoritmos  
+Descrição: O componente curricular aborda os fundamentos da teoria da complexidade, incluindo o crescimento assintótico de funções e a notação Big Oh. Os alunos exploram diferentes classes de problemas, como P, NP e NP Completa, e aprendem técnicas de construção de algoritmos, como divisão e conquista, estratégia gulosa, força bruta e programação dinâmica. O curso também analisa a complexidade de algoritmos de ordenação, busca e grafos, além de estruturas de dados, preparando os estudantes para desafios práticos na área de computação.
+
 ementa_complex
 
 ÓDIGO               COMPONENTE CURRICULAR

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Ondas e Linhas de Transmissão  
+Sinônimos comuns: Teoria de Ondas, Linhas de Transmissão, Eletromagnetismo Aplicado  
+Descrição: Este documento aborda os conceitos fundamentais relacionados a ondas eletromagnéticas e linhas de transmissão, incluindo a análise de campos variáveis, equações de Maxwell, e propriedades de ondas planas. Discute também a teoria dos potenciais, condições de contorno, e fenômenos como reflexão e refração em interfaces materiais. O conteúdo é essencial para a compreensão de parâmetros de linhas de transmissão, impedância, e técnicas de casamento de impedâncias, além de incluir referências bibliográficas relevantes para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Ondas e Linhas

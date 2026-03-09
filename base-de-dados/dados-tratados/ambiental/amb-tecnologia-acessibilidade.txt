@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Tecnologias de Informação e Comunicação no Ensino  
+Sinônimos comuns: TICs, tecnologias educacionais, ferramentas digitais, recursos tecnológicos  
+Descrição: O documento explora a integração das Tecnologias de Informação e Comunicação (TICs) no processo de ensino-aprendizagem do curso de Engenharia Ambiental no IFBA. Destaca como essas tecnologias promovem a flexibilidade e a diversidade na prática pedagógica, facilitando a compreensão de conceitos através de múltiplas representações, como texto, imagem e vídeo. Além disso, aborda a importância das TICs na interatividade entre docentes e discentes, na acessibilidade a recursos didáticos e na modernização das relações educacionais, rompendo com as limitações tradicionais de espaço e tempo. A utilização de softwares específicos para geotecnologias é enfatizada como essencial para a formação dos alunos, permitindo a manipulação e análise de dados geográficos.
+
 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO – TICS – NO 
 PROCESSOENSINO-APRENDIZAGEM (TICs) 
  

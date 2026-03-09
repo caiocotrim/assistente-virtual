@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estrutura Curricular  
+Sinônimos comuns: Matriz curricular, organização curricular, plano de ensino  
+Descrição: O documento apresenta a estrutura curricular do curso de Engenharia Civil do IFBA, detalhando a matriz curricular conforme as diretrizes do Conselho Nacional de Educação. Aborda a concepção pedagógica fundamentada na Pedagogia Histórico-Crítica e a organização dos núcleos de conteúdos, que incluem básicos, profissionalizantes e específicos. A carga horária total do curso é de 3885 horas, distribuídas entre aulas teóricas, práticas, TCC, estágio e atividades complementares, visando uma formação integral e crítica dos futuros engenheiros civis.
+
 ORGANIZAÇÃO CURRICULAR 
 4.1 ESTRUTURA CURRICULAR 
 A matriz curricular do curso de Engenharia Civil do campus Vitória da Conquista foi 

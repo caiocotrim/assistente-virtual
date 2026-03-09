@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Drenagem Urbana  
+Sinônimos comuns: Drenagem de águas pluviais, Sistemas de esgoto, Gestão de águas residuárias  
+Descrição: O curso de Drenagem Urbana aborda os princípios fundamentais e as práticas relacionadas ao manejo de águas residuárias e pluviais em ambientes urbanos. Os alunos aprenderão sobre as fontes e características das águas residuárias, cálculo de vazões, hidráulica de esgotos, e a infraestrutura necessária, como estações elevatórias e sistemas de micro e macrodrenagem. A disciplina também enfatiza a manutenção de redes de esgoto e galerias, preparando os estudantes para enfrentar desafios relacionados à drenagem e controle de enchentes nas cidades.
+
 Drenagem Urbana CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

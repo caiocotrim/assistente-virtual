@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Resistência dos Materiais I  
+Sinônimos comuns: Mecânica dos Materiais, Tensões e Deformações, Análise Estrutural  
+Descrição: Este documento aborda os fundamentos da resistência dos materiais, incluindo conceitos essenciais como tensões e deformações, a Lei de Hooke, solicitações unidimensionais e o ciclo de Mohr. A disciplina é crucial para a formação do engenheiro civil, pois fornece as bases para a análise de estruturas, permitindo compreender como os materiais se comportam sob diferentes condições de carga. A bibliografia recomendada inclui obras clássicas e contemporâneas que aprofundam o conhecimento na área, sendo indispensáveis para o desenvolvimento acadêmico e profissional dos alunos.
+
 
   
 Resistência dos Materiais I 

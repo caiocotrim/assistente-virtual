@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Ética Ambiental  
+Sinônimos comuns: Ética Ecológica, Ética Aplicada ao Meio Ambiente, Filosofia Ambiental  
+Descrição: A disciplina de Introdução ao Estudo da Ética Ambiental aborda a intersecção entre a ética e a relação do ser humano com a natureza, explorando conceitos fundamentais e suas origens. O curso examina a ética ambiental em relação à biodiversidade, desafios socioambientais contemporâneos e a importância da educação ambiental, além de discutir a ecologia profunda. A bibliografia inclui obras clássicas e contemporâneas que enriquecem a compreensão dos temas abordados, proporcionando uma base sólida para a análise crítica das questões ambientais.
+
 CÓDIGO: 14.1.5
 DISCIPLINA: Introdução ao Estudo da Ética Ambiental
 Código

@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Física II  
+Sinônimos comuns: Física Avançada, Física Geral II  
+Descrição: A disciplina de Física II abrange conceitos fundamentais como equilíbrio, elasticidade, oscilações, fluidos, ondas, teoria cinética dos gases e termodinâmica. É um componente essencial do núcleo básico do curso, com pré-requisitos em Física I e Cálculo Diferencial e Integral I. A carga horária total é de 72 horas de aula, e a bibliografia inclui obras clássicas e complementares que fornecem uma base sólida para a compreensão dos princípios físicos aplicáveis à engenharia ambiental.
+
 CÓDIGO: 14.3.4
 DISCIPLINA: Física II
 Código

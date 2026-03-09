@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Engenharia de Software  
+Sinônimos comuns: Eng. de Software, Desenvolvimento de Software, Engenharia de Sistemas  
+Descrição: A disciplina de Engenharia de Software aborda os fundamentos e práticas essenciais para o desenvolvimento de software de qualidade. Os alunos aprendem sobre o ciclo de vida dos sistemas, metodologias de desenvolvimento, gerenciamento de projetos, métricas e qualidade de software. A ementa inclui tópicos como reuso, engenharia reversa e reengenharia, proporcionando uma visão abrangente das atividades e desafios enfrentados na área. A disciplina é fundamental para a formação de profissionais capacitados a lidar com as complexidades do desenvolvimento de software.
+
 ementa_eng
 
 CÓDIGO               COMPONENTE CURRICULAR

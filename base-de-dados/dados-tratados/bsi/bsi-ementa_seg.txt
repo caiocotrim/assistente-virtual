@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Segurança da Informação  
+Sinônimos comuns: Segurança da Informação, Proteção de Dados, Segurança Digital  
+Descrição: Este componente curricular aborda os fundamentos da segurança da informação, incluindo a identificação de ativos, ameaças, riscos e vulnerabilidades. Os alunos aprenderão sobre a gestão de riscos, planejamento e implementação de políticas de segurança, além de aspectos organizacionais como segurança em recursos humanos e controle de acesso. O curso também explora ferramentas de segurança, criptografia e infraestruturas de chaves públicas, preparando os estudantes para enfrentar desafios na proteção de sistemas de informação.
+
 ementa_seg
 
 CÓDIGO               COMPONENTE CURRICULAR

@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Linguagem de Programação I  
+Sinônimos comuns: LP1, Programação I, Linguagens de Programação  
+Descrição: A disciplina de Linguagem de Programação I aborda conceitos fundamentais da programação, incluindo recursividade e programação orientada a objetos. Os alunos aprendem sobre abstração de dados, classes, objetos, herança e polimorfismo, além de interfaces e classes abstratas. A ênfase é dada à depuração de programas e às boas práticas de programação, preparando os estudantes para desafios práticos na área de desenvolvimento de software.
+
 ementa_lp1
 
 Linguagem de Programação I

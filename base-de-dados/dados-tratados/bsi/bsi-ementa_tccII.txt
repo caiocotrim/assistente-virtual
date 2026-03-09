@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Trabalho de Conclusão de Curso II  
+Sinônimos comuns: TCC II, Projeto Final, Monografia II  
+Descrição: O componente curricular Trabalho de Conclusão de Curso II é fundamental para a formação do aluno, permitindo a execução e acompanhamento do projeto final em formato monográfico. Os estudantes devem seguir as diretrizes da ABNT e as orientações do Manual de Normas do TCC, culminando na apresentação do trabalho perante uma banca examinadora. Este curso é uma oportunidade para aplicar conhecimentos adquiridos ao longo do bacharelado, desenvolvendo habilidades de pesquisa e apresentação acadêmica.
+
 ementa_tccII
 
 CÓDIGO               COMPONENTE CURRICULAR

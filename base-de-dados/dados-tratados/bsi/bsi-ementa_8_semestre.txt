@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 8º semestre  
+Sinônimos comuns: Matérias do oitavo semestre, disciplinas finais, conteúdos do último ano  
+Descrição: Este documento apresenta as disciplinas do 8º semestre do curso de Bacharelado em Sistemas de Informação, incluindo Meio Ambiente, Gestão e Governança de TI, e Trabalho de Conclusão de Curso II. Cada disciplina é acompanhada de seus pré-requisitos e uma ementa que descreve os principais tópicos abordados, como sustentabilidade, governança de TI e elaboração de projetos finais, essenciais para a formação do aluno e sua atuação no mercado de trabalho.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 8 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Meio Ambiente                          CRÉDITOS

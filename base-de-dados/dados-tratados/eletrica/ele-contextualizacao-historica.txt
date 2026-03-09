@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Contextualização Histórica do IFBA  
+Sinônimos comuns: História do IFBA, Evolução do Instituto Federal da Bahia, Formação do IFBA  
+Descrição: Este documento apresenta uma análise detalhada da trajetória histórica do Instituto Federal da Bahia (IFBA), desde sua fundação em 1909 até sua transformação em um centro de referência em educação tecnológica. Discute as diretrizes institucionais, a missão de promover a formação crítica e a importância do IFBA no desenvolvimento socioeconômico e tecnológico da região. Além disso, aborda a estrutura educacional pluricurricular e a relevância do curso de Engenharia Elétrica no contexto das demandas profissionais contemporâneas.
+
 1.1. CONTEXTUALIZAÇÃO HISTÓRICA 
 O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) foi criado 
 pela Lei nº 11.892, de 29 de dezembro de 2008. O IFBA é um centro de referência do 

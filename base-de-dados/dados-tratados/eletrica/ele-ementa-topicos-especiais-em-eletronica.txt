@@ -1,3 +1,9 @@
+Curso: Engenharia Elétrica  
+Assunto: Tópicos Especiais em Eletrônica  
+Sinônimos comuns: Tópicos Avançados em Eletrônica, Novas Tecnologias em Eletrônica  
+Descrição: Este documento aborda conteúdos específicos e atualizados em eletrônica, focando em novas tecnologias e temas não explorados durante o curso regular. Destina-se a enriquecer a formação dos alunos na ênfase de Automação e Controle, alinhando-se às diretrizes acadêmicas do curso e promovendo um aprendizado que integra teoria e prática. A bibliografia indicada complementa o estudo e a compreensão dos tópicos apresentados.  
+------------------------------------------------------------
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Tópicos Especiais em Eletrônica

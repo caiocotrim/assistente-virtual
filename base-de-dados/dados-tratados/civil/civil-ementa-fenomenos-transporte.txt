@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Fenômenos de Transporte  
+Sinônimos comuns: Mecânica dos Fluidos, Dinâmica de Fluidos, Transferência de Calor  
+Descrição: O curso de Fenômenos de Transporte aborda os princípios fundamentais da mecânica dos fluidos, incluindo propriedades dos fluidos, estática e dinâmica, além de conceitos de resistência fluida e transferência de calor. Os alunos aprenderão a aplicar equações fundamentais e técnicas de análise dimensional, essenciais para a compreensão do comportamento dos fluidos em diversas aplicações da engenharia civil. A disciplina é obrigatória e requer conhecimentos prévios em Física II e Cálculo Diferencial e Integral II.
+
 
  
 Fenômenos de Transporte CARGA HORÁRIA 

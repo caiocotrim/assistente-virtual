@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Física Experimental I  
+Sinônimos comuns: Física Prática, Experimentos de Física, Laboratório de Física  
+Descrição: O curso de Física Experimental I é uma disciplina prática essencial para os estudantes de Engenharia Civil, focando na aplicação de conceitos de mecânica e termodinâmica através de experimentos. Os alunos aprenderão a realizar medições precisas, analisar dados estatísticos e compreender fenômenos físicos como força de atrito, pêndulos, sistemas massa-mola e calorimetria. A prática em laboratório é fundamental para desenvolver habilidades críticas na interpretação de resultados e na aplicação de teorias físicas em situações reais, preparando os alunos para desafios técnicos na engenharia.
+
 
 Física Experimental I CARGA HORÁRIA 
 (h) 

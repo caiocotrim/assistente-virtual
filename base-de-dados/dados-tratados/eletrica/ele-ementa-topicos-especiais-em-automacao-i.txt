@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Tópicos Especiais em Automação I  
+Sinônimos comuns: Tópicos Avançados em Automação, Automação I, Automação e Controle  
+Descrição: Este documento aborda a disciplina de Tópicos Especiais em Automação I, que integra conteúdos inovadores e tecnologias emergentes relevantes para a formação em Engenharia Elétrica, com foco na ênfase de Automação e Controle. A disciplina é estruturada para complementar o aprendizado teórico e prático, alinhando-se às diretrizes acadêmicas do curso e promovendo uma formação abrangente e atualizada para os alunos. A bibliografia é adaptada conforme os temas abordados, garantindo um suporte adequado ao desenvolvimento das competências necessárias na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Tópicos Especiais em Automação I

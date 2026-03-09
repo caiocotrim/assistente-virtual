@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Tratamento de Águas e Efluentes  
+Sinônimos comuns: Tratamento de água, Tratamento de efluentes, Purificação de água, Processos de desinfecção  
+Descrição: Este documento aborda os principais processos e técnicas envolvidos no tratamento de águas e efluentes, incluindo coagulação, floculação, sedimentação, flotação, filtração e desinfecção. Também explora processos oxidativos, adsorção, troca iônica e membranas, além de discutir a legislação ambiental pertinente. O objetivo é capacitar os alunos a compreender as etapas dos tratamentos convencionais e modernos, bem como a identificar os parâmetros legais para o controle de efluentes.
+
 TRATAMENTO DE ÁGUAS E
 EFLUENTES
 Carga Horária (h) Créditos

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Mecânica dos Solos  
+Sinônimos comuns: Mecânica dos Solos I, Geotecnia, Solo e Engenharia Geotécnica  
+Descrição: Este documento aborda a disciplina de Mecânica dos Solos I, essencial para a formação em Engenharia Civil, com foco na compreensão dos solos sob a perspectiva da engenharia. A ementa inclui temas como a origem e formação dos solos, suas propriedades físicas, classificação, compactação, tensões e deformações, além de aspectos hidráulicos e métodos de prospecção. A bibliografia básica e complementar fornece referências fundamentais para aprofundamento no estudo da mecânica dos solos e suas aplicações práticas.
+
 Mecânica dos Solos I CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Programação para Dispositivos Móveis  
+Sinônimos comuns: Programação Mobile, Desenvolvimento Móvel, Aplicações Móveis  
+Descrição: A disciplina de Programação para Dispositivos Móveis aborda os principais paradigmas e princípios necessários para o desenvolvimento de aplicações móveis, enfatizando aspectos como mobilidade, interatividade e adaptabilidade. Os alunos aprenderão sobre linguagens e ambientes de desenvolvimento, além de processos e padrões arquiteturais específicos para este tipo de aplicação. A ementa inclui também o uso de bibliotecas relevantes, preparando os estudantes para enfrentar os desafios do mercado de tecnologia móvel.
+
 ementa_moveis
 
 CÓDIGO               COMPONENTE CURRICULAR

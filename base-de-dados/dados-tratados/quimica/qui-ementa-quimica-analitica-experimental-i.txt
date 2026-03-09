@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Analítica Experimental I  
+Sinônimos comuns: Química Analítica I, Análise Química Experimental, Química Analítica Prática  
+Descrição: Este documento aborda a disciplina de Química Analítica Experimental I, que se concentra no tratamento estatístico de dados analíticos e na utilização de técnicas clássicas de análise química. Os alunos aprenderão a operar e calibrar instrumentos como balanças analíticas e a realizar medições precisas de volume. A ementa inclui volumetrias de neutralização, complexação e precipitação, além de análise gravimétrica. O curso visa capacitar os estudantes a aplicar métodos qualitativos e quantitativos na padronização de soluções e na determinação de compostos químicos em amostras reais, preparando-os para práticas laboratoriais essenciais na área da química.
+
 QUÍMICA ANALÍTICA
 EXPERIMENTAL I
 Carga Horária (h) Créditos

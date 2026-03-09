@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Orgânica III  
+Sinônimos comuns: Química Orgânica Avançada, Espectroscopia Orgânica  
+Descrição: O curso de Química Orgânica III aborda os fundamentos teóricos e práticos dos métodos espectrométricos aplicados à análise de compostos orgânicos. Os alunos aprenderão sobre técnicas como UV-visível, Infravermelho, Ressonância Magnética Nuclear e Espectrometria de Massas, focando na identificação de estruturas orgânicas por meio da interpretação de espectros. O objetivo é capacitar os estudantes a utilizarem essas ferramentas na análise instrumental e no monitoramento de reações químicas, preparando-os para desafios acadêmicos e profissionais na área de Química.
+
 QUÍMICA ORGÂNICA III
 Carga Horária (h) Créditos
 Teórica 30 2

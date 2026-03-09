@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Controle Tecnológico do Concreto  
+Sinônimos comuns: Tecnologia do Concreto, Qualidade do Concreto, Materiais de Construção  
+Descrição: Este documento aborda a disciplina de Controle Tecnológico do Concreto, que visa capacitar os alunos na caracterização dos materiais que compõem o concreto e na aplicação de normas e conceitos essenciais para garantir a qualidade e durabilidade do material em obras. Através de atividades práticas, os estudantes aprenderão a identificar a necessidade de controle tecnológico e a desenvolver soluções que atendam às demandas da comunidade externa, promovendo a integração entre ensino, pesquisa e extensão.
+
  
 ACEX V 
 CARGA HORÁRIA 

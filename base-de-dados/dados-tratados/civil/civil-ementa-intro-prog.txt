@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Introdução à Programação  
+Sinônimos comuns: Lógica de Programação, Fundamentos de Programação, Algoritmos  
+Descrição: Este documento aborda os conceitos fundamentais da programação, incluindo a organização de computadores, desenvolvimento de programas e resolução de problemas computacionais. Os tópicos incluem algoritmos, tipos de dados, comandos de controle de fluxo, modularização e recursividade, além de alocação dinâmica de memória. A ementa é essencial para estudantes que desejam compreender a lógica por trás da programação e suas aplicações práticas no contexto da engenharia civil.
+
  
 83  
 Introdução à Programação CARGA HORÁRIA 

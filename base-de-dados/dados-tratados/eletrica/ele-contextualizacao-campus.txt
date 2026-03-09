@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Contextualização do Campus de Vitória da Conquista  
+Sinônimos comuns: Campus de Vitória da Conquista, IFBA Vitória da Conquista, Engenharia Elétrica IFBA  
+Descrição: O documento apresenta uma análise detalhada do Campus de Vitória da Conquista do IFBA, destacando sua localização geográfica, características demográficas e climáticas, além da evolução do ensino superior na região. Enfatiza a importância do campus na formação profissional e cidadã, mencionando a oferta de cursos técnicos e superiores, incluindo Engenharia Elétrica. O histórico do curso é abordado, incluindo sua criação, reconhecimento e regulamentação, evidenciando a relevância da instituição no contexto educacional local e regional.
+
 CONTEXTUALIZAÇÃO DO CAMPUS DE VITÓRIA DA CONQUISTA 
 Vitória da Conquista se localiza no semiárido baiano, constituindo-se na terceira 
 maior cidade da Bahia, a cerca de 550 km da capital. Exerce sobre a região sudoeste do 

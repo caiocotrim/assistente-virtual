@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Metodologia da Pesquisa Científica  
+Sinônimos comuns: Pesquisa Científica, Métodos de Pesquisa, Metodologia de Pesquisa  
+Descrição: Este documento aborda os fundamentos da Metodologia da Pesquisa Científica, incluindo a comunicação científica, classificações de pesquisa, métodos científicos e as etapas essenciais para a realização de uma pesquisa. Também discute a importância da revisão de literatura, formulação de problemas e hipóteses, além da elaboração e apresentação de relatórios de pesquisa. A bibliografia básica e complementar oferece recursos valiosos para aprofundar o conhecimento na área, sendo essencial para estudantes e profissionais que desejam desenvolver habilidades em pesquisa acadêmica e científica.  
+------------------------------------------------------------
+
 CÓDIGO: 14.1.7
 DISCIPLINA: Metodologia da Pesquisa Científica
 Código

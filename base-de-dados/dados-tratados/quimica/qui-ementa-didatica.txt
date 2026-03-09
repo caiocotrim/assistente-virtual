@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Didática  
+Sinônimos comuns: Ensino, Metodologia de Ensino, Pedagogia  
+Descrição: O componente curricular de Didática aborda a formação do professor e as interações entre ensino e aprendizagem, considerando aspectos históricos e sociais. Os alunos são incentivados a refletir sobre o planejamento educacional, as teorias do currículo e as práticas pedagógicas, além de desenvolver habilidades para criar ambientes de aprendizagem contextualizados e problematizadores. A disciplina também enfatiza a importância da avaliação e da gestão escolar, preparando os futuros educadores para atuarem de forma crítica e transformadora na educação básica.
+
 DIDÁTICA
 Carga Horária (h) Créditos
 Teórica 15 1

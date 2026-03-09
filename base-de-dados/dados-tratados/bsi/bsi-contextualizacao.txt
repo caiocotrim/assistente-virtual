@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Contextualização da Instituição  
+Sinônimos comuns: Análise do IFBA, Situação do curso, Descrição da instituição  
+Descrição: Este documento apresenta uma análise detalhada da localização e importância de Vitória da Conquista como um polo educacional e econômico na Bahia. Destaca-se a relevância do IFBA e de suas ofertas de cursos na área de Tecnologia da Informação, em resposta à crescente demanda por profissionais qualificados na região. A contextualização inclui dados demográficos, a evolução do setor educacional e a necessidade de formação técnica e superior para atender às demandas do mercado local, especialmente nas áreas de comércio, administração pública e tecnologia.
+
 CONTEXTUALIZAÇÃO DA INSTITUIÇÃO
 Situada na região sudoeste do estado da Bahia, a cerca de 550 km da
 capital do estado, a cidade de Vitória da Conquista se destaca por ser o principal

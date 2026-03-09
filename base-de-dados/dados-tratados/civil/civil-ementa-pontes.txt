@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Projetos de Pontes  
+Sinônimos comuns: Estruturas de pontes, Engenharia de pontes, Cálculo de pontes  
+Descrição: Este documento aborda a disciplina de Projetos de Pontes, com foco na classificação e nos métodos de projeto e cálculo das superestruturas e infraestruturas de pontes em concreto armado. A ementa inclui requisitos técnicos essenciais e referências bibliográficas que sustentam o aprendizado, proporcionando uma base sólida para a prática profissional na área de engenharia civil.
+
 Pontes CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

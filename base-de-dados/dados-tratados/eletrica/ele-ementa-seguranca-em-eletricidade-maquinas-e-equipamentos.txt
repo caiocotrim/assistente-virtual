@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Segurança em Eletricidade  
+Sinônimos comuns: Segurança elétrica, Proteção elétrica, Riscos elétricos  
+Descrição: Este documento aborda os princípios fundamentais da segurança em eletricidade, incluindo a análise de riscos associados a instalações e serviços elétricos. Discute as normas técnicas brasileiras relevantes, como NR 10 e NR 12, e apresenta medidas de controle e proteção, tanto coletiva quanto individual. Além disso, explora a gestão de riscos em máquinas e equipamentos, sinalização e procedimentos de segurança, além de fornecer orientações sobre primeiros socorros e responsabilidades em caso de acidentes elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Segurança em Eletricidade, Máquinas e Equipamentos

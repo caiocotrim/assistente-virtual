@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Física Experimental I  
+Sinônimos comuns: Física Prática, Experimentos de Física, Mecânica Experimental  
+Descrição: O curso de Física Experimental I oferece uma introdução aos conceitos fundamentais da mecânica clássica, abordando medidas físicas, sistemas de unidades e o tratamento de erros. Os alunos realizarão experimentos práticos que exploram movimentos mecânicos simples, leis de Newton e princípios de conservação, desenvolvendo habilidades em estatística e análise de dados. A disciplina é essencial para a formação de futuros educadores em química, proporcionando uma base sólida para a compreensão dos fenômenos físicos e sua representação matemática.
+
 FÍSICA EXPERIMENTAL I
 Carga Horária (h) Créditos
 Teórica - -

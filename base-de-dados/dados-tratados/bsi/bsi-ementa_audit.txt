@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Segurança e Auditoria de Sistemas  
+Sinônimos comuns: Segurança da Informação, Auditoria de TI, Proteção de Dados  
+Descrição: Esta disciplina aborda os fundamentos da segurança da informação, incluindo ameaças, riscos e vulnerabilidades em sistemas de informação. O curso explora o planejamento e a implementação de políticas de segurança, além de técnicas de auditoria e padrões internacionais. Os alunos aprenderão sobre ferramentas de segurança, criptografia, certificação digital e infraestruturas de chaves públicas, preparando-os para enfrentar desafios na proteção de dados e na auditoria de sistemas.
+
 ementa_audit
 
 SEGURANÇA E AUDITORIA DE SISTEMAS

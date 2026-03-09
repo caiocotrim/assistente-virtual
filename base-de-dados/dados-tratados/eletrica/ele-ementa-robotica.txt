@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Robótica  
+Sinônimos comuns: Robótica Móvel, Sistemas Robóticos, Controle de Robôs  
+Descrição: Este documento aborda o estudo da robótica, com foco em conceitos fundamentais e aplicações práticas. Inclui pré-requisitos e co-requisitos essenciais, como controle analógico e ferramentas computacionais, além de referências bibliográficas relevantes para aprofundamento no tema. O conteúdo é direcionado a alunos que buscam compreender a integração de inteligência artificial e sistemas robóticos, preparando-os para projetos na área de robótica móvel e automação.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Robótica

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Engenharia Ambiental  
+Sinônimos comuns: Sustentabilidade, Ecologia, Impacto Ambiental  
+Descrição: O documento aborda a interseção entre a engenharia elétrica e a engenharia ambiental, enfatizando a importância do equilíbrio ecológico e os efeitos da tecnologia sobre o meio ambiente. Discute temas como poluição dos recursos naturais, medidas de controle e legislação ambiental, além de avaliar os impactos ambientais de projetos de engenharia. É uma leitura essencial para compreender a responsabilidade ambiental na prática da engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Ciências do Ambiente

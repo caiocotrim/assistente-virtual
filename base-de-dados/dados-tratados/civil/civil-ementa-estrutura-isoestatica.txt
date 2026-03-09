@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas Isostáticas  
+Sinônimos comuns: Estruturas estáticas, Vigas isostáticas, Pórticos isostáticos  
+Descrição: Este documento aborda os conceitos fundamentais relacionados às estruturas isostáticas, incluindo a análise de forças e momentos, bem como a aplicação em vigas, pórticos e treliças. A disciplina é essencial para a compreensão do comportamento estrutural em engenharia civil, abordando também aspectos como cargas móveis e linhas de influência. A bibliografia recomendada oferece uma base teórica sólida, complementando o aprendizado prático necessário para a formação profissional na área.
+
 
  
   

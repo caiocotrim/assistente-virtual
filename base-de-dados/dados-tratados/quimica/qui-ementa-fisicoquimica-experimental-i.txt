@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Físico-Química Experimental  
+Sinônimos comuns: Físico-Química Prática, Laboratório de Físico-Química, Experimentos de Físico-Química  
+Descrição: O curso de Físico-Química Experimental I oferece uma abordagem prática para a compreensão dos princípios físico-químicos, focando na realização de experimentos que envolvem a análise de propriedades da matéria, termodinâmica e equilíbrio químico. Os alunos são incentivados a desenvolver habilidades de raciocínio científico, interpretação de dados e discussão de resultados, aplicando conceitos teóricos em situações experimentais. A carga horária é composta por 30 horas práticas, e o curso é obrigatório para alunos do sexto período, com pré-requisitos em Cálculo Integral e Química Geral. A bibliografia inclui obras fundamentais que servem como suporte ao aprendizado e à prática laboratorial.
+
 FÍSICO-QUÍMICA
 EXPERIMENTAL I
 Carga Horária (h) Créditos

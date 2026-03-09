@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Gestão de Resíduos Sólidos  
+Sinônimos comuns: Gestão de Lixo, Tratamento de Resíduos, Manejo de Resíduos  
+Descrição: Este documento aborda a disciplina de Gestão e Tratamento de Resíduos Sólidos, explorando conceitos fundamentais, tipos e classificações de resíduos, incluindo domiciliares, industriais, de saúde e de construção. Discute aspectos sanitários, ambientais e sociais, além da legislação pertinente e sistemas de gestão. O conteúdo inclui práticas de coleta, tratamento, disposição final e reciclagem, com ênfase em compostagem e projetos de aterros e usinas de reciclagem, proporcionando uma visão abrangente e crítica sobre a gestão de resíduos no contexto ambiental.
+
 CÓDIGO: 14.9.1
 DISCIPLINA: Gestão e Tratamento de Resíduos Sólidos
 Código

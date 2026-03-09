@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estabilidade de Taludes  
+Sinônimos comuns: Estabilidade de encostas, Análise de taludes, Segurança de taludes  
+Descrição: O estudo da estabilidade de taludes é fundamental na engenharia civil, especialmente em obras de contenção e movimentação de terra. Este tema abrange a análise das condições que garantem a segurança de encostas e estruturas de muros de arrimo, considerando fatores como a mecânica dos solos e as propriedades dos materiais envolvidos. A disciplina é essencial para a prevenção de deslizamentos e para a execução de projetos que respeitem as normas de segurança e sustentabilidade.
+
 Estabilidade de Taludes 
 CRÉDITOS 
 TEÓRICA 45 3 

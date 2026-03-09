@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Obras Hidráulicas  
+Sinônimos comuns: Hidráulica, Projetos Hidráulicos, Engenharia Hidráulica  
+Descrição: O curso de Obras Hidráulicas aborda os principais conceitos e práticas relacionadas ao aproveitamento e gerenciamento de recursos hídricos. Inclui o estudo de reservatórios, barragens, vertedores e bacias de dissipação, enfatizando a análise de estabilidade, segurança e impactos ambientais. Os alunos aprenderão a dimensionar e projetar obras hidráulicas, utilizando ferramentas como diagramas e curvas de caudabilidade, além de desenvolver habilidades práticas essenciais para a atuação na área.
+
 
  
 Obras Hidráulicas CARGA HORÁRIA 

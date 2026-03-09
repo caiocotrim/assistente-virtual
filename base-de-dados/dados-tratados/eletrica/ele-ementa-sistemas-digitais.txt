@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas Digitais  
+Sinônimos comuns: Circuitos Digitais, Lógica Digital, Eletrônica Digital  
+Descrição: Este documento aborda os fundamentos dos sistemas digitais, incluindo a análise e síntese de circuitos combinacionais e sequenciais, além de conceitos de projeto utilizando circuitos universais. O conteúdo também abrange sistemas de numeração, aritmética binária, portas lógicas e introdução à lógica programável, com aplicações práticas em automação e controle. Referências bibliográficas relevantes são citadas para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas Digitais

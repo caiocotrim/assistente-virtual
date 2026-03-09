@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Cálculo Diferencial e Integral I  
+Sinônimos comuns: Cálculo I, Cálculo Diferencial, Cálculo Integral  
+Descrição: Esta disciplina aborda os fundamentos do cálculo, incluindo limites, continuidade, diferenciação e aplicações das derivadas, além da construção de primitivas. É essencial para a formação em Engenharia Ambiental, pois fornece as bases matemáticas necessárias para a análise e resolução de problemas complexos na área. A bibliografia inclui obras clássicas e complementares que aprofundam o conhecimento em cálculo e suas aplicações práticas.
+
 CÓDIGO: 14.1.3
 DISCIPLINA: Cálculo Diferencial e Integral I
 Código

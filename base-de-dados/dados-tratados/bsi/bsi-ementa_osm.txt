@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Organização, Sistemas e Métodos  
+Sinônimos comuns: OSM, Organização e Métodos, Gestão de Processos  
+Descrição: Este componente curricular aborda os conceitos e fundamentos essenciais da Organização, Sistemas e Métodos, enfatizando a importância da estrutura administrativa e a aplicação de métodos de trabalho. Os alunos aprenderão sobre certificações de qualidade, padronização e ferramentas para mapeamento e melhoria de processos de negócios. Além disso, o curso explora novas tendências tecnológicas que impactam a organização do trabalho, preparando os estudantes para enfrentar desafios contemporâneos na gestão de sistemas e processos.
+
 ementa_osm
 
 CÓDIGO              COMPONENTE CURRICULAR

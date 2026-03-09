@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Probabilidade e Estatística  
+Sinônimos comuns: Estatística, Análise Estatística, Probabilidade Aplicada  
+Descrição: Este documento aborda os conceitos fundamentais de probabilidade e estatística, essenciais para a formação em Engenharia Elétrica. Inclui tópicos como fenômenos aleatórios, variáveis aleatórias unidimensionais, distribuições de probabilidade, e técnicas de correlação e regressão. O conteúdo é estruturado para fornecer uma base teórica sólida, com referências a obras clássicas e contemporâneas na área, visando preparar os alunos para a aplicação prática desses conceitos em problemas reais da engenharia.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Probabilide e Estatística

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Bioquímica  
+Sinônimos comuns: Bioquímica Geral, Bioquímica Avançada, Bioquímica Aplicada  
+Descrição: O curso de Bioquímica aborda os fundamentos das transformações moleculares que ocorrem nas células, incluindo o estudo de biomoléculas, vias metabólicas e a regulação enzimática. Os alunos exploram temas como metabolismo de carboidratos, lipídeos, proteínas, e a bioquímica de hormônios e aminoácidos. As práticas laboratoriais incluem técnicas de microscopia, extração e purificação de proteínas, além de experimentos sobre fermentação e metabolismo oxidativo. O objetivo é proporcionar uma compreensão profunda das inter-relações metabólicas e sua relevância para a fisiologia dos organismos.
+
 BIOQUÍMICA
 Carga Horária (h) Créditos
 Teórica 45 3

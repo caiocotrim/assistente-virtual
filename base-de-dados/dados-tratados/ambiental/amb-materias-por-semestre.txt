@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Disciplinas do Curso  
+Sinônimos comuns: Matérias, Componentes curriculares, Disciplinas do curso  
+Descrição: Este documento apresenta a grade curricular do curso de Engenharia Ambiental, detalhando as disciplinas oferecidas ao longo dos dez semestres. Cada componente curricular é acompanhado da carga horária total, que inclui horas teóricas e práticas, além da creditação correspondente. As disciplinas abordam temas fundamentais como cálculo, biologia, química, ecologia, e gestão ambiental, proporcionando uma formação abrangente e integrada para os alunos.
+
 Matérias do 1o SEMESTRE do curso de Engenharia Ambiental
 Componente curricular C.H. semestral (h) - Creditação 
 T P - T P 

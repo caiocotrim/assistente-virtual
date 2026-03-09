@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Alvenaria Estrutural  
+Sinônimos comuns: Alvenaria, Estruturas de Alvenaria, Construção em Alvenaria  
+Descrição: Este documento aborda a alvenaria estrutural, enfatizando sua evolução histórica e aplicação prática em sistemas estruturais. Explora os materiais utilizados, suas propriedades e os ensaios necessários para avaliar a capacidade portante de diferentes elementos, como paredes e vigas. Também discute a alvenaria armada e não armada, a distribuição de esforços e as normas brasileiras pertinentes. É um conteúdo essencial para estudantes que desejam aprofundar seus conhecimentos em técnicas de construção e dimensionamento de estruturas em alvenaria.
+
 Alvenaria Estrutural CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

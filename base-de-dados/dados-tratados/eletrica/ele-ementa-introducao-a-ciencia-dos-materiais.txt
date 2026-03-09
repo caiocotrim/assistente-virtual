@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Introdução à Ciência dos Materiais  
+Sinônimos comuns: Ciência dos Materiais, Materiais de Engenharia, Propriedades dos Materiais  
+Descrição: Este documento aborda os fundamentos da ciência dos materiais, incluindo a estrutura e ligação atômica, tipos de materiais e suas aplicações nas engenharias. São discutidos os conceitos de estruturas cristalinas e amorfas, defeitos estruturais, e a relação entre estrutura e propriedades de materiais metálicos, cerâmicos e poliméricos. O conteúdo também abrange ligas ferrosas e não ferrosas, diagramas de fase, tratamento térmico e ensaios de materiais, proporcionando uma base sólida para o entendimento das características e comportamentos dos materiais utilizados na engenharia.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução à Ciência dos Materiais

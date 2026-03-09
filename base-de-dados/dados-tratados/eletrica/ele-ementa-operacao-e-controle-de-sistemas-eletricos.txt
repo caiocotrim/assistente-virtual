@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Operação e Controle de Sistemas Elétricos  
+Sinônimos comuns: Controle de Sistemas Elétricos, Análise de Sistemas de Potência, Gestão de Sistemas Elétricos  
+Descrição: Este documento aborda os conceitos fundamentais e as práticas relacionadas à operação e controle de sistemas elétricos, incluindo análise estática e dinâmica, controle de carga-frequência, despacho econômico e estabilidade de sistemas. O conteúdo é essencial para a compreensão das interações entre unidades geradoras e a distribuição de carga, além de fornecer referências bibliográficas relevantes para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Operação e Controle de Sistemas Elétricos

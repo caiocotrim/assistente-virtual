@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Banco de Dados II  
+Sinônimos comuns: BD II, Banco de Dados Avançado, Sistemas de Banco de Dados II  
+Descrição: O componente curricular Banco de Dados II aprofunda conceitos essenciais para a gestão e manipulação de dados em sistemas de informação. Os alunos exploram DDL e DML avançados, normalização, dependências funcionais, e restrições de integridade. Além disso, são abordados procedimentos armazenados, gatilhos, visões, segurança, transações, indexação e bancos de dados não relacionais. Este curso é fundamental para a formação de profissionais capacitados em desenvolver e administrar sistemas de banco de dados modernos e eficientes.
+
 ementa_bdII
 
 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO

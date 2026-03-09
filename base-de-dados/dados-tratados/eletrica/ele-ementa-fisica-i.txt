@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Física I  
+Sinônimos comuns: Mecânica, Fundamentos de Física, Física Geral  
+Descrição: Este documento aborda os conceitos fundamentais da Física I, com foco em mecânica, incluindo tópicos como cinemática, leis de Newton, trabalho, energia, conservação de energia, sistemas de partículas, colisões, movimento de rotação, torque e momento angular. É essencial para a formação em Engenharia Elétrica, fornecendo a base teórica necessária para compreender fenômenos físicos aplicáveis em diversas áreas da engenharia. A bibliografia recomendada inclui obras clássicas e contemporâneas, oferecendo uma ampla gama de recursos para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Física I

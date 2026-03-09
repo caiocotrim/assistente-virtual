@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas de Madeira  
+Sinônimos comuns: Estruturas de madeira, Construções em madeira, Projetos de madeira  
+Descrição: Este documento aborda o estudo das estruturas de madeira, incluindo suas propriedades físicas e mecânicas, segurança, dimensionamento e verificação de diferentes tipos de barras e ligações. A ementa também destaca a importância das estruturas de madeira em projetos estruturais, além de fornecer referências bibliográficas essenciais para aprofundamento no tema. O curso é obrigatório e requer conhecimentos prévios em estruturas hiperestáticas e materiais de construção.
+
  
 Estruturas de Madeira CARGA HORÁRIA 
 (h) 

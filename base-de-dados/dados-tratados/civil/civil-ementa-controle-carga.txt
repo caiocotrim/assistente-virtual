@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Planejamento e Controle de Obras  
+Sinônimos comuns: Gestão de Obras, Planejamento de Construção, Controle de Projetos  
+Descrição: O curso de Planejamento e Controle de Obras aborda as práticas e metodologias essenciais para a administração eficiente de projetos de construção. Os alunos aprenderão sobre certificação e controle de qualidade, noções de planejamento e a elaboração de cronogramas físicos. A disciplina é fundamental para a formação de profissionais capacitados a gerenciar recursos e prazos, garantindo a execução bem-sucedida de empreendimentos na área da construção civil.
+
 Planejamento e Controle de Obras CARGA HORÁRIA (h) CRÉDITOS 
 TEÓRICA 60 4 
 PRÁTICA 0 0 

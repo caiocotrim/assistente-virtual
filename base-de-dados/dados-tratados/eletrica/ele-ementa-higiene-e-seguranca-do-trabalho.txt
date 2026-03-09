@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Higiene e Segurança do Trabalho  
+Sinônimos comuns: Segurança do Trabalho, Saúde Ocupacional, Prevenção de Acidentes  
+Descrição: Este documento aborda os principais conceitos e legislações relacionadas à higiene e segurança do trabalho, incluindo normas regulamentadoras e a classificação de riscos ocupacionais. São discutidos temas como a prevenção de acidentes, a importância do uso de Equipamentos de Proteção Individual (EPI) e Coletiva (EPC), além de aspectos relacionados à saúde do trabalhador e à investigação de acidentes. A obra é essencial para a formação de profissionais capacitados a garantir ambientes de trabalho seguros e saudáveis, promovendo a conscientização sobre a legislação e as práticas de segurança no setor elétrico e em outras áreas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Higiene e Segurança do Trabalho

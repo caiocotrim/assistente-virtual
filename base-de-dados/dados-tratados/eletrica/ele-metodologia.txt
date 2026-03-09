@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Metodologia de Ensino  
+Sinônimos comuns: Abordagem pedagógica, métodos de ensino, estratégias de aprendizagem  
+Descrição: Este documento aborda a importância de uma metodologia de ensino centrada no aluno, enfatizando a necessidade de adaptação às demandas do mercado e ao desenvolvimento contínuo de competências. Discute a relevância de práticas pedagógicas que promovam a construção do conhecimento de forma significativa, integrando teoria e prática. A proposta inclui a formação de profissionais críticos e criativos, capazes de lidar com a complexidade do ambiente profissional atual, além de destacar o papel do professor como mediador no processo de aprendizagem.
+
 PROCEDIMENTO METODOLÓGICO 
 No mundo competitivo de economia globalizada, o modelo de educação que 
 visava treinar os indivíduos para executar determinadas atividades na sociedade industrial 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Métodos Matemáticos para Engenharia  
+Sinônimos comuns: Matemática para Engenharia, Análise Matemática, Métodos Matemáticos  
+Descrição: Este documento aborda os métodos matemáticos essenciais aplicados na engenharia, incluindo tópicos como equações diferenciais ordinárias, transformadas de Laplace e Fourier, além de conceitos de variáveis complexas. É fundamental para a formação em Engenharia Elétrica, pois fornece as ferramentas matemáticas necessárias para a modelagem e análise de sistemas complexos. O conteúdo é estruturado para preparar os alunos para resolver problemas práticos e teóricos, utilizando técnicas avançadas de matemática.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Métodos Matemáticos para Engenharia

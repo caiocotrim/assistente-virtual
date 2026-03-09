@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Componentes Curriculares Optativos  
+Sinônimos comuns: Eletivas, Disciplinas Optativas, Cursos Opcionais  
+Descrição: Este documento apresenta as ementas dos componentes curriculares optativos do curso de Bacharelado em Sistemas de Informação, organizados em três eixos de atuação: Desenvolvimento de Sistemas, Infraestrutura de Ambientes Computacionais e Gestão e Governança de TI. As ementas incluem informações sobre carga horária, pré-requisitos, conteúdos abordados e bibliografia básica e complementar, proporcionando uma visão abrangente das disciplinas que podem ser escolhidas pelos alunos para complementar sua formação acadêmica.
+
 ementa opcionais
 
 COMPONENTES CURRICULARES OPTATIVOS

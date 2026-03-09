@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Equações Diferenciais Ordinárias  
+Sinônimos comuns: EDO, Equações Diferenciais, EDOs  
+Descrição: Este documento aborda o estudo das equações diferenciais ordinárias, incluindo suas definições, classificações e métodos de resolução. O conteúdo abrange equações lineares de primeira e segunda ordem, além de equações de ordem superior, com ênfase em aplicações práticas. Também são discutidas séries de potência, funções de Bessel, funções ortogonais e polinômios de Legendre, fundamentais para a modelagem matemática em engenharia. A bibliografia recomendada oferece uma base sólida para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Equações Diferenciais Ordinárias

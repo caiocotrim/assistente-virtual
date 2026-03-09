@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Economia  
+Sinônimos comuns: Economia Básica, Introdução à Economia, Fundamentos de Economia  
+Descrição: Este documento aborda a disciplina de Economia, essencial para a formação em Engenharia Civil, oferecendo uma introdução aos conceitos fundamentais da ciência econômica. A ementa inclui tópicos de microeconomia e macroeconomia, explorando sistemas econômicos, o papel do setor público e questões macroeconômicas contemporâneas. A bibliografia básica e complementar fornece uma base sólida para o estudo, com obras reconhecidas que aprofundam tanto a teoria quanto a prática econômica, preparando os alunos para compreender as implicações econômicas em projetos de engenharia e na gestão de recursos.
+
 
 Economia CARGA HORÁRIA 
 (h) 

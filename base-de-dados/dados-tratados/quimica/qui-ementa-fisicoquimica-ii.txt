@@ -1,3 +1,9 @@
+Curso: Licenciatura em Química  
+Assunto: Físico-Química II  
+Sinônimos comuns: Físico-Química Avançada, Química Física II  
+Descrição: O curso de Físico-Química II aborda conceitos fundamentais como adsorção, equilíbrio de fases em soluções ideais e reais, e cinética química. Os alunos aprenderão sobre as variáveis que influenciam a velocidade das reações químicas, a importância da cinética na indústria e no desenvolvimento de materiais, além de desenvolver habilidades para resolver problemas relacionados a reações químicas e catalisadores. A disciplina é obrigatória para o sétimo período e requer conhecimento prévio em Físico-Química I. A bibliografia inclui obras clássicas e contemporâneas da área, proporcionando uma base sólida para o entendimento dos fenômenos físico-químicos.  
+------------------------------------------------------------
+
 FÍSICO-QUÍMICA II
 Carga Horária (h) Créditos
 Teórica 45 3

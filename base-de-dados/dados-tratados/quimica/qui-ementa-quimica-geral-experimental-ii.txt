@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Geral Experimental II  
+Sinônimos comuns: Química Experimental II, Química Geral II, Experimentos de Química  
+Descrição: A disciplina de Química Geral Experimental II tem como foco a aplicação prática dos conceitos de cinética química, equilíbrio químico, termodinâmica, eletroquímica e solubilidade. Os alunos são incentivados a planejar, executar e apresentar experimentos, consolidando o aprendizado teórico adquirido em disciplinas anteriores. A carga horária prática de 30 horas proporciona uma imersão significativa nas metodologias experimentais, preparando os estudantes para desafios acadêmicos e profissionais na área da química.
+
 QUÍMICA GERAL
 EXPERIMENTAL II
 Carga Horária (h) Créditos

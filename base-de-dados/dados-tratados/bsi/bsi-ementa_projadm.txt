@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Projeto e Administração de Redes  
+Sinônimos comuns: Administração de Redes, Gestão de Redes, Projeto de Redes  
+Descrição: O componente curricular aborda o desenvolvimento de projetos de redes de computadores, incluindo levantamento de requisitos, elaboração de projetos lógicos e físicos, além de testes e documentação. Os alunos aprendem sobre configuração de redes, roteamento e gerenciamento de serviços, com foco em protocolos como SNMP. O curso também enfatiza técnicas de monitoramento e otimização de redes, preparando os estudantes para atuar na área de administração de redes.
+
 ementa_projadm
 
 CÓDIGO                COMPONENTE CURRICULAR

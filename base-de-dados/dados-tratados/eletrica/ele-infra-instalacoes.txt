@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Infraestrutura do Campus  
+Sinônimos comuns: Estrutura física, instalações, espaços acadêmicos  
+Descrição: O documento apresenta uma visão detalhada da infraestrutura do campus de Vitória da Conquista do IFBA, destacando a distribuição e características das diversas instalações, como salas de aula, laboratórios, auditórios e áreas de convivência. A descrição inclui informações sobre a capacidade das salas, acessibilidade, equipamentos disponíveis, e acesso à internet, proporcionando uma compreensão abrangente das condições físicas que suportam as atividades acadêmicas e administrativas do curso de Engenharia Elétrica.
+
 INSTALAÇÕES GERAIS 
 O campus de Vitória da Conquista está instalado numa área de 40.040 m² e dispõe 
 de 2.690,00 m² de salas de aula e 2.993,50 m² de laboratórios.  

@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Ética e Sociedade na Era Digital  
+Sinônimos comuns: Ética da Computação, Ética Digital, Ética e Tecnologia  
+Descrição: Este curso aborda a interseção entre ética, tecnologia e sociedade, explorando como o computador influencia as relações sociais e as estruturas institucionais. Os alunos são incentivados a desenvolver um pensamento crítico sobre a verdade, ideologia e a estratificação social, além de discutir os impactos e tendências da sociedade da informação em diversos contextos, incluindo aspectos econômicos, sociais, políticos e culturais. A ementa também destaca a importância da ética no mundo contemporâneo, preparando os estudantes para enfrentar desafios éticos emergentes na área da tecnologia.
+
 ementa ética
 
 Computador, Ética e Sociedade 

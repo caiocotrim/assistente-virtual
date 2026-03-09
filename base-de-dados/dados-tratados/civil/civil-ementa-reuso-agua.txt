@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Reuso de Águas Residuárias  
+Sinônimos comuns: Reaproveitamento de água, tratamento de águas residuais, gestão de águas residuais  
+Descrição: Este documento aborda o reuso de águas residuárias em regiões semiáridas, destacando a importância de sistemas de tratamento adequados e as técnicas de disposição no solo. Explora as relações entre solo, água e planta, além de discutir o balanço de nutrientes e as necessidades hídricas das culturas. Também analisa os aspectos sanitários e os riscos associados ao reuso, incluindo a legislação pertinente e os custos envolvidos. Estudos de caso são apresentados para ilustrar as práticas e desafios enfrentados na implementação de sistemas de reuso em contextos áridos e semiáridos.
+
 Reuso de Águas Residuárias em Regiões 
 Semiáridas 
 CARGA HORÁRIA 

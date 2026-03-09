@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Projeto em Engenharia Elétrica I  
+Sinônimos comuns: Projeto I, Projeto de Engenharia, Projeto de Pesquisa  
+Descrição: Este documento aborda a disciplina de Projeto em Engenharia Elétrica I, que requer a elaboração de um projeto de pesquisa sob orientação docente. Os alunos devem desenvolver um tema relevante na área, realizando revisões bibliográficas e dimensionamentos. A disciplina é fundamental para a formação prática e teórica dos estudantes, preparando-os para a elaboração de projetos finais de curso e promovendo a aplicação de metodologias científicas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Projeto em Engenharia Elétrica I

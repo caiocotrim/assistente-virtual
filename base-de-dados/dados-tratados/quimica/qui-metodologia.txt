@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Metodologia de Ensino  
+Sinônimos comuns: Métodos de ensino, Estratégias pedagógicas, Abordagens didáticas  
+Descrição: Este documento aborda a metodologia de ensino do curso de Licenciatura em Química, destacando a articulação entre teoria e prática nas atividades curriculares. Enfatiza a importância de uma formação crítica e horizontalizada, alinhada ao pensamento sociointeracionista de Vigotski. Apresenta os eixos temáticos que compõem a matriz curricular, como Matemática, Física, Ensino, Química, Comunicação e Atividades Curriculares de Extensão, cada um contribuindo para uma formação integrada e interdisciplinar, visando preparar futuros educadores para os desafios contemporâneos da docência.
+
 METODOLOGIA 
 O planejamento dos processos de ensino do curso de Licenciatura em Química foi 
 realizado, e vem sendo desenvolvido ao longo de cada semestre letivo, em reuniões com os 

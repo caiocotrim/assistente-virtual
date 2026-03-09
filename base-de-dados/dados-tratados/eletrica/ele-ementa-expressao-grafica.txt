@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Expressão Gráfica  
+Sinônimos comuns: Desenho técnico, Geometria descritiva, Representação gráfica  
+Descrição: O documento aborda a disciplina de Expressão Gráfica, essencial para a formação em Engenharia Elétrica, focando em técnicas de representação visual de objetos e sistemas. Inclui pré-requisitos e co-requisitos que envolvem instrumentação e normas de desenho, além de métodos descritivos e sistemas de projeção. A bibliografia recomendada oferece uma base sólida em geometria descritiva e desenho técnico, fundamentais para o desenvolvimento de habilidades práticas e teóricas na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Expressão Gráfica

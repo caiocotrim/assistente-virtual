@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Eletromagnetismo  
+Sinônimos comuns: Física III, Física Eletromagnética, Eletromagnetismo para Engenheiros  
+Descrição: Este documento aborda a disciplina de Física III, focando nos conceitos fundamentais do eletromagnetismo, incluindo carga, campo elétrico, potencial elétrico, circuitos de corrente contínua, campo magnético e as leis que regem esses fenômenos, como a Lei de Gauss e as Equações de Maxwell. A ementa é estruturada para fornecer uma base teórica sólida, essencial para a formação do engenheiro civil, com ênfase em aplicações práticas e resolução de problemas. A bibliografia inclui obras clássicas e contemporâneas que servem como referência para aprofundamento nos temas abordados.
+
 
  
 Física III CARGA HORÁRIA 

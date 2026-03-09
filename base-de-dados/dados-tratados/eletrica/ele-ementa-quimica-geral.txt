@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Química Geral  
+Sinônimos comuns: Química Básica, Química Fundamental, Química I  
+Descrição: Este documento aborda os conceitos fundamentais da Química Geral, incluindo a estrutura atômica, tabela periódica, ligações químicas e reações químicas. É essencial para a formação em Engenharia Elétrica, pois fornece a base necessária para compreender fenômenos químicos aplicáveis em diversas áreas da engenharia. O conteúdo é complementado por referências a obras clássicas e contemporâneas, que oferecem uma visão abrangente e aprofundada dos princípios químicos relevantes para o curso.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Química Geral

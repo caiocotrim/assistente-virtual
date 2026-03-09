@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Atualização do Projeto Pedagógico  
+Sinônimos comuns: PPC, diretrizes do curso, currículo de Engenharia Elétrica  
+Descrição: Este documento apresenta a atualização das diretrizes do Projeto Pedagógico do Curso de Engenharia Elétrica do IFBA, visando atender às normativas nacionais e institucionais. Ele aborda as mudanças nas componentes curriculares, incluindo as áreas de Automação e Controle, Eletrônica e Eletrotécnica, com o objetivo de modernizar o conteúdo e alinhar-se às exigências dos conselhos de engenharia. A atualização é fundamental para garantir a qualidade da formação dos alunos e a adequação às demandas do mercado e da legislação vigente.
+
 APRESENTAÇÃO 
 Este  documento  foi  proposto  pelo  Núcleo  Estruturante  Docente  (NDE)  e 
 referendado pelo Colegiado do Curso de Engenharia Elétrica do IFBA, campus de Vitória 

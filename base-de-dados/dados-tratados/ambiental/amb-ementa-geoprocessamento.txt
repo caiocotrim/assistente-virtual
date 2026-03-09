@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Geoprocessamento  
+Sinônimos comuns: SIG, Sistemas de Informação Geográfica, Geoprocessamento Ambiental  
+Descrição: O componente curricular de Geoprocessamento aborda conceitos fundamentais relacionados à geodésia, projeções cartográficas e geodésicas, além de sistemas de referência geodésicos. O curso explora o georreferenciamento, cartografia digital e temática, e os princípios do geoprocessamento, incluindo a entrada, integração e manipulação de dados em Sistemas de Informação Geográfica (SIG). Os alunos aprenderão a gerar mapas temáticos e modelos numéricos do terreno, utilizando ferramentas como o GPS e softwares específicos. O conteúdo é complementado por exemplos práticos de aplicações de imagens de satélite em estudos ambientais, preparando os estudantes para a atuação profissional na área.
+
 CÓDIGO: 14.5.5
 DISCIPLINA: Geoprocessamento
 Código Componente (NÚCLEO

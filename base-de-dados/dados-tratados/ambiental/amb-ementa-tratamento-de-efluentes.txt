@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Tratamento de Efluentes  
+Sinônimos comuns: Tratamento de águas residuárias, Gestão de efluentes, Processos de esgoto  
+Descrição: Este documento aborda a disciplina de Tratamento de Efluentes, focando na caracterização e nos objetivos do tratamento de águas residuárias. São discutidos os diferentes processos de tratamento, incluindo aeróbios e anaeróbios, além das etapas de tratamento preliminar, primário, secundário e terciário. O conteúdo também abrange o dimensionamento de Estações de Tratamento de Efluentes, bem como a elaboração de memorial descritivo e memória de cálculo, em conformidade com as normativas vigentes. A bibliografia inclui obras fundamentais e complementares que oferecem uma base teórica sólida para o entendimento dos princípios e aplicações no tratamento de efluentes.
+
 CÓDIGO: 14.8.6
 DISCIPLINA: Tratamento de Efluentes
 Código

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Análise Físico-Química da Água  
+Sinônimos comuns: Análise de Água, Qualidade da Água, Química da Água  
+Descrição: Este documento aborda os fundamentos e metodologias da análise físico-química da água, incluindo indicadores e padrões de qualidade, como turbidez, pH, DBO e nutrientes. O curso visa capacitar os alunos a aplicar conhecimentos químicos na avaliação da qualidade ambiental dos recursos hídricos, promovendo a compreensão das relações entre os parâmetros físico-químicos e a saúde dos ecossistemas aquáticos. Além disso, apresenta uma bibliografia abrangente que serve como referência para aprofundamento no tema.
+
 ANÁLISE FÍSICO-QUÍMICA
 DA ÁGUA
 Carga Horária (h) Créditos

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Tecnologia das Construções  
+Sinônimos comuns: Construção Civil, Técnicas de Construção, Práticas Construtivas  
+Descrição: Este documento aborda a disciplina de Tecnologia das Construções, que é fundamental para a formação em Engenharia Civil. A ementa inclui tópicos essenciais como a construção civil no Brasil, projeto e execução de obras, movimentação de terra, locação e fundação, além de aspectos práticos como estruturas, alvenaria, instalações prediais e acabamentos. A bibliografia básica e complementar fornece uma base teórica e prática, permitindo ao aluno aprofundar seus conhecimentos sobre as técnicas e materiais utilizados na construção civil. A carga horária total é de 60 horas, com 4 créditos, sendo uma disciplina obrigatória do núcleo específico.
+
 Tecnologia das Construções CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

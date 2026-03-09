@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Plano de Ensino  
+Sinônimos comuns: Currículo, Estrutura do Curso, Guia de Estudos  
+Descrição: Este documento apresenta o plano de ensino do curso de Engenharia Elétrica do IFBA, detalhando a carga horária, pré-requisitos e co-requisitos necessários para a disciplina. É uma ferramenta essencial para orientar os alunos sobre os conteúdos a serem abordados e as expectativas acadêmicas, contribuindo para uma melhor organização do aprendizado e do desenvolvimento das competências requeridas na formação em Engenharia Elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 COMPONENTE CURRICULAR
 Ênfase V

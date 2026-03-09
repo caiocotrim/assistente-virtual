@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Física I  
+Sinônimos comuns: Física Básica, Mecânica Clássica, Fundamentos de Física  
+Descrição: O curso de Física I aborda os princípios fundamentais da Mecânica Clássica, incluindo conceitos de Cinemática e Dinâmica, além das leis de conservação de energia e momento linear. Os alunos são incentivados a desenvolver habilidades de análise e descrição de fenômenos físicos utilizando a linguagem matemática, enquanto exploram a evolução histórica dos conceitos em mecânica Newtoniana. A carga horária total é de 60 horas, com 4 créditos, e é uma disciplina obrigatória do terceiro período, com pré-requisitos em Matemática Básica e Cálculo Diferencial para Química.
+
 FÍSICA I
 Carga Horária (h) Créditos
 Teórica 60 4

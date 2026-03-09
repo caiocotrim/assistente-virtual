@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Economia  
+Sinônimos comuns: Fundamentos de Economia, Economia Básica, Introdução à Economia  
+Descrição: A disciplina de Economia no curso de Bacharelado em Sistemas de Informação aborda conceitos fundamentais da economia, incluindo microeconomia e macroeconomia, além de discutir políticas econômicas atuais, o papel do setor público e externo, e a interseção entre economia digital e questões ambientais. Os alunos são introduzidos a temas relevantes que impactam os direitos humanos e a dinâmica econômica contemporânea, preparando-os para compreender a aplicação desses conceitos em contextos tecnológicos e sociais.
+
 ementa economia
 
  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO

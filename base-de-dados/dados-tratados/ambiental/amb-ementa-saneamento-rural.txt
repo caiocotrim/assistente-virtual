@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Saneamento Rural  
+Sinônimos comuns: Saneamento em áreas rurais, Saneamento básico rural, Saneamento ambiental rural  
+Descrição: Este documento aborda os fundamentos do saneamento rural, incluindo a poluição de ambientes aquáticos e terrestres, enfermidades comuns em zonas rurais, controle de vetores, e técnicas de abastecimento de água. Explora alternativas de abastecimento individual, gerenciamento de excretas e esgotamento sanitário em locais sem água encanada, além de soluções para tratamento de esgotos e gerenciamento de resíduos sólidos. A bibliografia inclui referências essenciais e complementares para aprofundamento no tema.  
+------------------------------------------------------------
+
 CÓDIGO: 14.11.24
 DISCIPLINA: Saneamento Rural
 Código

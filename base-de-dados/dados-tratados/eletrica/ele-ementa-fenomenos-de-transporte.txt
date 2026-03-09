@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Fenômenos de Transporte  
+Sinônimos comuns: Mecânica dos Fluidos, Transferência de Calor, Dinâmica de Fluidos  
+Descrição: O estudo dos fenômenos de transporte abrange as propriedades dos fluidos, a estática e a dinâmica dos mesmos, além de conceitos fundamentais como a análise dimensional e a semelhança dinâmica. A disciplina explora a resistência fluida, os efeitos de viscosidade e a transferência de calor em sistemas de escoamento, sendo essencial para a compreensão de processos em engenharia elétrica e outras áreas da engenharia. A bibliografia recomendada inclui obras clássicas e atualizadas que fornecem uma base sólida para o entendimento dos princípios envolvidos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Fenômenos de Transporte

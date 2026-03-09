@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas Hiperestáticas  
+Sinônimos comuns: Análise de estruturas hiperestáticas, Estruturas não isostáticas, Métodos de análise estrutural  
+Descrição: Este documento aborda o estudo das estruturas hiperestáticas, focando em métodos de análise como o método das forças e o método dos deslocamentos. A disciplina é obrigatória e integra o núcleo profissionalizante do curso, exigindo conhecimentos prévios em estruturas isostáticas, resistência dos materiais e cálculo numérico. A bibliografia básica e complementar oferece uma base sólida para a compreensão dos conceitos e técnicas aplicáveis na análise de estruturas complexas.
+
 
  
   

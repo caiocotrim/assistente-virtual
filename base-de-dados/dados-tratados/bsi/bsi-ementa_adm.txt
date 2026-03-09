@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Administração  
+Sinônimos comuns: Gestão, Teoria Administrativa, Administração Geral  
+Descrição: Este documento aborda os fundamentos da administração, incluindo suas funções e o papel do administrador. Explora tanto as abordagens tradicionais, como taylorismo e fordismo, quanto as contemporâneas, como gestão da qualidade total e reengenharia de processos. Também discute tópicos relevantes em administração de recursos humanos e questões emergentes no campo, proporcionando uma visão abrangente e atualizada sobre a prática administrativa nas organizações.
+
 ementa_adm
 
 Administração

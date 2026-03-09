@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Eletromagnetismo  
+Sinônimos comuns: Física III, Física Eletromagnética, Eletromagnetismo Básico  
+Descrição: Este documento aborda os conceitos fundamentais de eletromagnetismo, incluindo carga e matéria, campo elétrico, lei de Gauss, potencial elétrico, capacitores, corrente e resistência, circuitos de corrente contínua, campo magnético, leis de Ampère e Faraday, além de uma introdução às equações de Maxwell. É essencial para a formação em Engenharia Elétrica, fornecendo a base teórica necessária para compreender fenômenos elétricos e magnéticos, bem como suas aplicações práticas em circuitos e sistemas.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Física III

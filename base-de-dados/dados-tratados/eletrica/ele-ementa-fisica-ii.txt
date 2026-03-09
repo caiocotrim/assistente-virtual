@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Física II  
+Sinônimos comuns: Física 2, Física Avançada, Fundamentos de Física II  
+Descrição: Este documento aborda o conteúdo da disciplina de Física II, que é fundamental para a formação em Engenharia Elétrica. A disciplina inclui tópicos como Equilíbrio e Elasticidade, Oscilações, Fluidos, Ondas, Teoria Cinética dos Gases e Termodinâmica. É um pré-requisito para outras disciplinas e requer conhecimentos prévios de Física I e Cálculo Diferencial e Integral I. O material de referência inclui obras clássicas de autores renomados, proporcionando uma base sólida para a compreensão dos princípios físicos aplicados na engenharia.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Física II

@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Instalações Prediais Hidrossanitárias  
+Sinônimos comuns: Projetos Hidrossanitários, Sistemas Hidráulicos Prediais  
+Descrição: Este documento aborda os fundamentos e práticas relacionadas ao projeto de instalações prediais de água fria, água quente, esgoto sanitário e esgoto pluvial. Inclui a simbologia e terminologia específicas, além dos materiais utilizados nessas instalações. É essencial para a formação de engenheiros civis, proporcionando conhecimentos teóricos e práticos necessários para a execução de projetos eficientes e sustentáveis na área de saneamento.
+
  
 Instalações Prediais Hidrossanitárias CARGA HORÁRIA 
 (h) 

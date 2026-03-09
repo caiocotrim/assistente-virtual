@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Projeto de Aterro Sanitário  
+Sinônimos comuns: Projeto de aterro, Aterro sanitário, Gestão de resíduos sólidos  
+Descrição: O curso aborda a concepção e implementação de aterros sanitários, incluindo a análise da disposição de resíduos sólidos, seleção de locais adequados, tipos de aterros, e cálculos relacionados a volume e drenagem. Também são discutidos aspectos de tratamento de percolados, impermeabilização, estabilidade de taludes e monitoramento, além da legislação pertinente. A bibliografia inclui obras fundamentais e normativas que sustentam a prática e a teoria na gestão de resíduos.  
+------------------------------------------------------------
+
 
 196  
 14.11.20 Projeto de Aterro Sanitário  

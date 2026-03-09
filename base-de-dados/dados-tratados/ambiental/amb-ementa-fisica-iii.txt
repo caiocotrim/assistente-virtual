@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Eletromagnetismo  
+Sinônimos comuns: Física III, Física Eletromagnética, Física Avançada  
+Descrição: Este documento aborda os conceitos fundamentais de eletromagnetismo, incluindo carga e matéria, campo elétrico, lei de Gauss, potencial elétrico, capacitores, circuitos de corrente contínua, campo magnético e suas fontes, além das leis de Ampère e Faraday. A introdução às equações de Maxwell também é discutida, proporcionando uma base teórica essencial para a compreensão dos fenômenos eletromagnéticos. A bibliografia inclui obras clássicas e complementares que são referências na área, servindo como suporte para o aprofundamento dos temas abordados.
+
 CÓDIGO: 14.4.2
 DISCIPLINA: Física III
 Código

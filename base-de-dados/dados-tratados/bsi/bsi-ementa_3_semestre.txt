@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 3º Semestre  
+Sinônimos comuns: Matérias do 3º semestre, disciplinas do curso, conteúdos do semestre  
+Descrição: Este documento apresenta as disciplinas do terceiro semestre do curso de Bacharelado em Sistemas de Informação, incluindo Linguagem de Programação II, Estrutura de Dados, Sistemas Operacionais, Probabilidade e Estatística, Direito Cibernético e Organização, Sistemas e Métodos. Cada disciplina é acompanhada de seus pré-requisitos e uma ementa que descreve os principais tópicos abordados, proporcionando uma visão abrangente do conhecimento necessário para o desenvolvimento acadêmico e profissional na área de tecnologia da informação.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 3 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Linguagem de Programação II                                                                                   4

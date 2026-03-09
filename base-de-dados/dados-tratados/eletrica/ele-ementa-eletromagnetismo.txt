@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Eletromagnetismo  
+Sinônimos comuns: Eletromagnetismo básico, Teoria eletromagnética, Fundamentos de eletromagnetismo  
+Descrição: O conteúdo aborda os princípios fundamentais do eletromagnetismo, incluindo as leis de Coulomb, Gauss, Biot-Savart, Ampère, Faraday e Lenz. Explora conceitos de campo elétrico e magnético, potencial elétrico, indutância, e as equações de Maxwell. O estudo também abrange ondas eletromagnéticas e as propriedades de materiais condutores, isolantes e dielétricos, essenciais para a compreensão e aplicação em diversas áreas da engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Eletromagnetismo

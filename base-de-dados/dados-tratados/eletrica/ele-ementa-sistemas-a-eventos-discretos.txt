@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Sistemas a Eventos Discretos  
+Sinônimos comuns: SED, Sistemas Discretos, Controle Supervisório  
+Descrição: Este documento aborda a disciplina de Sistemas a Eventos Discretos, que explora a definição, caracterização e modelagem de sistemas que operam em eventos discretos. Inclui tópicos como álgebra Max-Plus, teoria de linguagens formais, autômatos e redes de Petri, além de técnicas de modelagem e síntese de controladores. A disciplina é fundamental para a compreensão de sistemas de manufatura e controle programável, sendo essencial para a formação de engenheiros elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Sistemas a Eventos Discretos

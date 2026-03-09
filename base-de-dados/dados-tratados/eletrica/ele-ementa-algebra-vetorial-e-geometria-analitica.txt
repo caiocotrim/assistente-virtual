@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Álgebra Vetorial e Geometria Analítica  
+Sinônimos comuns: Álgebra Linear, Geometria Analítica, Vetores e Planos  
+Descrição: Este documento aborda os conceitos fundamentais de Álgebra Vetorial e Geometria Analítica, essenciais para a compreensão de estruturas matemáticas aplicadas em Engenharia Elétrica. O conteúdo inclui o estudo de vetores no plano e no espaço tridimensional, além de retas, planos e cônicas. A bibliografia recomendada oferece uma base sólida para o aprofundamento nos temas, contribuindo para a formação teórica e prática dos alunos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Álgebra Vetorial e Geometria Analítica

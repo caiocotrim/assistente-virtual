@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Cálculo Numérico  
+Sinônimos comuns: Métodos Numéricos, Análise Numérica, Cálculo Computacional  
+Descrição: O Cálculo Numérico é uma disciplina fundamental na Engenharia Elétrica, abordando técnicas para a resolução de problemas matemáticos através de métodos numéricos. Os alunos aprendem sobre sistemas numéricos, erros, e a solução de equações não lineares e sistemas de equações lineares. A disciplina também inclui derivação e integração numérica, além de interpolação e aproximação, preparando os estudantes para aplicar esses conceitos em contextos práticos e computacionais, utilizando ferramentas como MATLAB.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Cálculo Numérico

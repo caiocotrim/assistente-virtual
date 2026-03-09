@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Cálculo Diferencial e Integral III  
+Sinônimos comuns: Cálculo III, Cálculo Multivariável, Cálculo Avançado  
+Descrição: Este documento aborda o conteúdo do curso de Cálculo Diferencial e Integral III, que é fundamental para a formação em Engenharia Elétrica. O curso explora conceitos avançados como funções de várias variáveis, derivação parcial, integrais múltiplas e teoremas importantes como o de Green, Stokes e Gauss. Os pré-requisitos incluem o domínio de Cálculo Diferencial e Integral II, preparando os alunos para a aplicação de técnicas matemáticas em problemas complexos da engenharia. A bibliografia recomendada oferece uma base sólida para o estudo e compreensão dos tópicos abordados.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Cálculo Diferencial e Integral III

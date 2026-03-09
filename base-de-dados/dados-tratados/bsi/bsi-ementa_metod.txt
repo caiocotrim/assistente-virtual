@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Metodologia da Pesquisa Científica  
+Sinônimos comuns: Metodologia Científica, Pesquisa Acadêmica, Métodos de Pesquisa  
+Descrição: Este componente curricular aborda os fundamentos da metodologia científica, incluindo conceitos epistemológicos, tipos de conhecimento e a lógica da investigação científica. Os alunos aprenderão sobre métodos científicos, técnicas de elaboração de trabalhos acadêmicos, como fichamentos e resenhas críticas, além de práticas de elaboração de projetos de pesquisa, monografias e artigos. O curso também enfatiza a importância das normas da ABNT para citações e referências, preparando os estudantes para a produção acadêmica rigorosa e estruturada.
+
 ementa_metod
  CÓDIGO                COMPONENTE CURRICULAR
                                                                    Teórica   Prática Extensão

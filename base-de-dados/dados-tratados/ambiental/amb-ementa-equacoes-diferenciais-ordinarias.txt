@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Equações Diferenciais Ordinárias  
+Sinônimos comuns: EDO, Equações Diferenciais, Cálculo Diferencial  
+Descrição: Este documento aborda o estudo das equações diferenciais ordinárias, incluindo suas formas lineares de 1ª e 2ª ordem, além de equações de ordem superior. O conteúdo abrange técnicas de resolução, como séries de potência, e explora aplicações práticas, como as equações de Bessel e Legendre, que são fundamentais em diversas áreas da engenharia e ciências aplicadas. A bibliografia recomendada oferece uma base sólida para aprofundamento no tema, com textos clássicos e contemporâneos.
+
 CÓDIGO: 14.4.1
 DISCIPLINA: Equações Diferenciais Ordinárias
 Código

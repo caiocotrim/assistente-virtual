@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Captação e Manejo de Água de Chuva  
+Sinônimos comuns: Aproveitamento de Água de Chuva, Sistemas de Captação de Água Pluvial  
+Descrição: Este documento aborda a captação e o manejo de água de chuva, incluindo técnicas de armazenamento e tratamento para pequenas comunidades. São discutidos sistemas como barragens subterrâneas, cisternas e dessalinizadores, além de métodos de dimensionamento e construção. O conteúdo também abrange alternativas de desinfecção, como o uso do carneiro hidráulico, e inclui visitas técnicas e estudos de caso para uma compreensão prática do tema.
+
 Captação e Manejo de Água de Chuva CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

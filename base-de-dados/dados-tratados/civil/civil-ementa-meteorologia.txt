@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Meteorologia e Climatologia  
+Sinônimos comuns: Meteorologia, Climatologia, Estudo do Clima, Análise Climática  
+Descrição: Este documento aborda os fundamentos da Meteorologia e Climatologia, incluindo a composição da atmosfera, sistemas de coordenadas, radiação solar, e fenômenos atmosféricos como temperatura, precipitação e circulação do ar. Também explora a evapotranspiração, balanço hídrico e a classificação climática do Brasil, com ênfase nos climas do semiárido nordestino e nas mudanças climáticas, como El Niño e La Niña. A bibliografia inclui obras essenciais para aprofundamento no tema, tornando-se uma referência valiosa para estudantes e profissionais da área.  
+------------------------------------------------------------
+
 Meteorologia e Climatologia CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Desenho Auxiliado por Computador  
+Sinônimos comuns: Desenho Técnico, CAD, Desenho Assistido por Computador  
+Descrição: O curso de Desenho Auxiliado por Computador aborda a introdução ao projeto arquitetônico, enfatizando a ergonomia e a antropometria. Os alunos aprendem metodologias para projetos específicos, com foco na acessibilidade espacial, e são introduzidos à modelagem computacional em 2D e 3D. O conteúdo inclui a resolução de problemas geométricos e a aplicação de técnicas de visualização computacional, além de seguir as normas da NBR 9050/2015 para acessibilidade. A bibliografia abrange obras fundamentais e complementares que sustentam o aprendizado teórico e prático da disciplina.  
+------------------------------------------------------------
+
  
 93  
  

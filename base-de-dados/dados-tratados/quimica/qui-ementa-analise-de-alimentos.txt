@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Análise de Alimentos  
+Sinônimos comuns: Análise Bromatológica, Controle de Qualidade de Alimentos, Química de Alimentos  
+Descrição: O curso de Análise de Alimentos aborda técnicas essenciais para a coleta, preparo e preservação de amostras alimentares, além de métodos analíticos para a determinação de constituintes como umidade, proteínas e lipídios. Os alunos aprenderão a utilizar equipamentos laboratoriais e técnicas instrumentais, além de compreender a legislação relacionada à rotulagem e à qualidade dos alimentos. O objetivo é capacitar os estudantes a realizar análises que garantam a segurança e a qualidade dos produtos alimentares, desde a matéria-prima até o consumo final.
+
 ANÁLISE DE ALIMENTOS
 Carga Horária (h) Créditos
 Teórica 60 4

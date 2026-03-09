@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Meteorologia e Climatologia  
+Sinônimos comuns: Meteorologia, Climatologia, Estudo do Clima  
+Descrição: Este documento aborda a disciplina de Meteorologia e Climatologia, que explora conceitos fundamentais sobre a atmosfera, fatores climáticos, e fenômenos meteorológicos. Inclui o estudo de instrumentos de medição, radiação solar, temperatura, umidade, pressão atmosférica, e eventos extremos como tempestades e furacões. A ementa também abrange a classificação climática, com foco na realidade brasileira, proporcionando uma base teórica e prática essencial para a compreensão das interações entre o clima e o meio ambiente.
+
 CÓDIGO: 14.3.7
 DISCIPLINA: Meteorologia e Climatologia
 Código

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Eixos da Matriz Curricular  
+Sinônimos comuns: Componentes curriculares, disciplinas, áreas de conhecimento  
+Descrição: Este documento apresenta a organização da matriz curricular do curso de Licenciatura em Química, conforme a Resolução CNE/CP 02/2015. A estrutura é dividida em sete eixos que abrangem as áreas de Matemática, Física, Ensino, Química, Comunicação, Atividades Curriculares de Extensão e Optativas. Cada eixo é projetado para fornecer uma formação abrangente, integrando teoria e prática, e promovendo a inter-relação entre diferentes disciplinas, com foco na formação pedagógica e na aplicação de conhecimentos em contextos educacionais e profissionais.
+
 EIXO DOS COMPONENTES CURRICULARES 
 Conforme  estabelece  a  Resolução  CNE/CP  02/2015,  a  organização  da  matriz 
 curricular do curso de Licenciatura em Química, bem como a alocação de tempos e espaços 

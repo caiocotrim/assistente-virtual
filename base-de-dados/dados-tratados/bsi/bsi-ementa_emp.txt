@@ -1,3 +1,9 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Empreendedorismo  
+Sinônimos comuns: Gestão de Negócios, Inovação Empresarial, Criação de Startups  
+Descrição: O componente curricular de Empreendedorismo aborda as diversas facetas do ato de empreender, incluindo a identificação de oportunidades de negócio, a elaboração de planos de negócios e a gestão de startups. Os alunos exploram o papel do gestor empreendedor no contexto da economia de mercado, além de discutir a importância das incubadoras de empresas e do empreendedorismo social. A disciplina visa desenvolver habilidades práticas e teóricas que capacitem os estudantes a tomar decisões informadas e a inovar em ambientes empresariais. A bibliografia recomendada oferece uma base sólida para a compreensão dos conceitos e práticas do empreendedorismo contemporâneo.  
+------------------------------------------------------------
+
 ementa_emp
 
 CÓDIGO               COMPONENTE CURRICULAR

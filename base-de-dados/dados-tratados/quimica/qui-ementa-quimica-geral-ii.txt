@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Geral II  
+Sinônimos comuns: Química II, Química Avançada, Química Geral II  
+Descrição: Esta disciplina aborda conceitos fundamentais da química, incluindo cinética química, equilíbrio químico, termodinâmica e eletroquímica. Os alunos aprenderão sobre a origem da matéria, as velocidades das reações químicas e a importância da termoquímica na revolução industrial. Além disso, a disciplina visa preparar os estudantes para práticas de ensino, incentivando a construção de materiais didáticos relacionados aos temas abordados. A carga horária total é de 60 horas, divididas entre aulas teóricas e práticas.
+
 QUÍMICA GERAL II
 Carga Horária (h) Créditos
 Teórica 45 3

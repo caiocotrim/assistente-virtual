@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Projeto de Circuitos Integrados  
+Sinônimos comuns: Projeto de CI, Circuitos Integrados, Design de Circuitos, VLSI  
+Descrição: Este documento aborda o projeto de circuitos integrados, com foco em tecnologias CMOS e suas aplicações. Inclui tópicos como a teoria dos transistores CMOS, simulação elétrica, metodologias para concepção de circuitos digitais, e o desenvolvimento de subsistemas como somadores e multiplexadores. O conteúdo é essencial para estudantes que desejam aprofundar seus conhecimentos em eletrônica e design de circuitos, preparando-os para desafios práticos na área de engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Projeto de Circuitos Integrados

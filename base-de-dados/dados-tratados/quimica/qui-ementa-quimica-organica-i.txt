@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Orgânica I  
+Sinônimos comuns: Química Orgânica, Química Orgânica I, Química Orgânica Básica  
+Descrição: A disciplina de Química Orgânica I aborda os compostos de carbono, suas estruturas e reações, enfatizando a relação entre propriedades físicas e químicas das moléculas orgânicas. Inclui tópicos como ligações químicas, hibridização, estereoquímica, reações de substituição e eliminação, além de introduzir os alcanos, alquenos e alquinos. O curso visa desenvolver a capacidade de correlacionar aspectos estruturais e eletrônicos com a reatividade das substâncias, preparando os alunos para compreender a importância da química orgânica no contexto ambiental e educacional.
+
 QUÍMICA ORGÂNICA I
 Carga Horária (h) Créditos
 Teórica 45 3

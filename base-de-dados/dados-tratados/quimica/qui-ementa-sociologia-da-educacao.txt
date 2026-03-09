@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Sociologia da Educação  
+Sinônimos comuns: Sociologia Educacional, Sociologia da Aprendizagem, Sociologia Escolar  
+Descrição: Este componente curricular aborda os fundamentos da sociologia e suas interações com a educação, explorando a educação como um fenômeno social e sua influência na reprodução de estruturas sociais. O curso analisa a dinâmica do comportamento social, a inserção da escola no contexto da sociedade brasileira, e questões como acesso à educação, direitos humanos e desigualdades sociais. Além disso, promove uma reflexão crítica sobre as teorias sociológicas e suas implicações nas práticas pedagógicas, incentivando a análise das relações entre educação e sociedade contemporânea.
+
 SOCIOLOGIA DA EDUCAÇÃO
 Carga Horária (h) Créditos
 Teórica 60 4

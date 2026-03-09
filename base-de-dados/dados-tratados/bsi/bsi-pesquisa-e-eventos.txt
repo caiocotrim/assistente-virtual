@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Empreendedorismo e Inovação em TI  
+Sinônimos comuns: Inovação tecnológica, empreendedorismo em tecnologia, atividades extracurriculares em TI  
+Descrição: O documento aborda a importância de fomentar o empreendedorismo e a inovação tecnológica entre os alunos do curso de Bacharelado em Sistemas de Informação. Destaca a necessidade de atividades complementares que estimulem a pesquisa e a produção científica, incluindo a publicação de artigos, participação em eventos acadêmicos e a realização de eventos como a Week-IT e a Maratona de Programação. Essas iniciativas visam desenvolver habilidades práticas e teóricas, preparando os discentes para o mercado de trabalho e incentivando a criação de soluções inovadoras na área de tecnologia da informação.
+
 ESTRATÉGIAS   DE   FOMENTO   AO   EMPREENDEDORISMO   E   À
 INOVAÇÃO TECNOLÓGICA
 Faz   parte   da   boa   formação   dos   discentes   do   curso   que   eles   sejam

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Tecnologias de Informação e Comunicação no Ensino  
+Sinônimos comuns: TICs, recursos tecnológicos, ferramentas digitais, softwares educacionais  
+Descrição: O documento aborda a utilização de tecnologias de informação e comunicação no curso de Licenciatura em Química, destacando a importância desses recursos para o aprimoramento do ensino e da aprendizagem. São mencionados laboratórios de informática equipados com acesso à internet, que permitem aulas interativas e pesquisas em portais acadêmicos. Além disso, o texto apresenta softwares específicos para o ensino de Química, recursos audiovisuais disponíveis no campus e a infraestrutura que apoia a prática pedagógica, promovendo uma formação mais dinâmica e atualizada para docentes e discentes.
+
 TECNOLOGIAS  DE  INFORMAÇÃO  E  COMUNICÃO  NO  PROCESSO  ENSINO-
 APRENDIZAGEM 
 O  Curso  de  Licenciatura  em  Química  utiliza  alguns  recursos  de  tecnologia  de 

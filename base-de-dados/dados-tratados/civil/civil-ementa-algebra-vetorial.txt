@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Álgebra Vetorial e Geometria Analítica  
+Sinônimos comuns: Álgebra de vetores, Geometria analítica, Vetores e planos  
+Descrição: Esta disciplina aborda os fundamentos da álgebra de vetores e a geometria analítica, essenciais para a compreensão de conceitos geométricos no plano e no espaço tridimensional. Os alunos aprenderão sobre retas, planos e cônicas, desenvolvendo habilidades analíticas que são cruciais para a resolução de problemas em engenharia civil. A ementa é complementada por uma seleção de bibliografia básica e complementar, proporcionando uma base sólida para o estudo e aplicação dos conceitos matemáticos na prática profissional.
+
   
 84  
 Álgebra Vetorial e Geometria Analítica CARGA HORÁRIA 

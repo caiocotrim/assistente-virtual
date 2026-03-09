@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Barragens de Terra e Enrocamento  
+Sinônimos comuns: Barragens de solo, Barragens de enrocamento, Estruturas de contenção  
+Descrição: Este documento aborda a disciplina de Barragens de Terra e Enrocamento, com foco em sua introdução, tipos, etapas de projeto e processos construtivos. A carga horária total é de 60 horas, com 4 créditos, e a disciplina é optativa dentro do núcleo específico do curso. O pré-requisito para a matrícula é a Mecânica dos Solos II. A bibliografia básica e complementar oferece uma ampla gama de referências para aprofundamento nos temas abordados, essenciais para a formação em engenharia civil e para a compreensão das práticas de projeto e construção de barragens.
+
 Barragens de Terra e Enrocamento CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

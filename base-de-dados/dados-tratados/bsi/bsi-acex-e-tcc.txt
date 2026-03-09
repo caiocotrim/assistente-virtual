@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Atividades de Extensão e Trabalho de Conclusão de Curso  
+Sinônimos comuns: Atividades de extensão, TCC, Trabalho de conclusão, Projetos de extensão  
+Descrição: O documento aborda as diretrizes e componentes curriculares relacionados às atividades de extensão e ao Trabalho de Conclusão de Curso (TCC) no Bacharelado em Sistemas de Informação. Destaca a importância da extensão como um processo educativo que promove a interação entre a comunidade acadêmica e a sociedade, visando inclusão social e desenvolvimento sustentável. Além disso, detalha os objetivos e requisitos do TCC, enfatizando a elaboração de projetos de pesquisa e a apresentação de monografias, fundamentais para a formação integral dos discentes.
+
 ATIVIDADES DE CURRICULARIZAÇÃO DE EXTENSÃO
 A extensão é um processo educativo, cultural, político, social, científico e
 tecnológico que promove a interação dialógica e transformadora entre a comunidade

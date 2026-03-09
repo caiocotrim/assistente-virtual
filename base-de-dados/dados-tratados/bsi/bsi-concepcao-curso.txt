@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Concepção do Curso  
+Sinônimos comuns: Formação em Sistemas, Curso de TI, Graduação em Informática  
+Descrição: O curso de Bacharelado em Sistemas de Informação visa preparar profissionais para atuar em um ambiente tecnológico em constante evolução, onde a informática desempenha um papel crucial em diversas áreas. A formação abrange desde a compreensão de sistemas informatizados até a aplicação de tecnologias emergentes, como inteligência artificial e comércio eletrônico. Os alunos são capacitados a interagir de forma ética e responsável no ciberespaço, promovendo o letramento digital e a inclusão social. A proposta educacional busca não apenas fornecer conhecimentos técnicos, mas também desenvolver habilidades críticas para a análise e interpretação de informações, contribuindo para a construção de uma sociedade mais justa e avançada.
+
 CONCEPÇÃO DO CURSO
 No mundo atual, é incontestável a influência da informática na vida das
 pessoas. Em comparação com a década de 1990, é fácil perceber que a difusão e a

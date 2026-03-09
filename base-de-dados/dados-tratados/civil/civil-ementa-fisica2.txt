@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Física II  
+Sinônimos comuns: Física 2, Física Avançada, Fundamentos de Física II  
+Descrição: O curso de Física II aborda conceitos fundamentais da física, incluindo equilíbrio e elasticidade, oscilações, fluidos, ondas, teoria cinética dos gases e termodinâmica. Com uma carga horária de 60 horas e 4 créditos, é uma disciplina obrigatória do núcleo básico, exigindo como pré-requisitos Física I e Cálculo Diferencial e Integral I. A bibliografia básica inclui obras renomadas que fornecem uma base sólida para o entendimento dos fenômenos físicos aplicáveis à engenharia civil.
+
 
 Física II CARGA HORÁRIA 
 (h) 

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Subestações e Equipamentos Elétricos  
+Sinônimos comuns: Equipamentos de potência, Sistemas de subestações, Equipamentos elétricos industriais  
+Descrição: Este documento aborda os principais conceitos e práticas relacionados a subestações e equipamentos elétricos, incluindo transformadores, disjuntores, e técnicas de ensaio. São discutidos os tipos e arranjos de subestações, normas técnicas aplicáveis, e a elaboração de laudos técnicos. O conteúdo é essencial para a compreensão do funcionamento e projeto de sistemas elétricos de potência, preparando os alunos para a aplicação prática e teórica na área.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Subestações e Equipamentos Elétricos

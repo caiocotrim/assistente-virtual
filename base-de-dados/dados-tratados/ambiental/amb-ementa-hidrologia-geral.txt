@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Hidrologia Geral  
+Sinônimos comuns: Hidrologia, Ciclo Hidrológico, Hidráulica, Estudo de Águas  
+Descrição: A disciplina de Hidrologia Geral aborda os principais componentes do ciclo hidrológico, incluindo bacias hidrográficas, precipitação e infiltração de água no solo. Os alunos aprenderão sobre escoamento superficial, métodos de análise como o hidrograma de projeto e hidrograma unitário, além de conceitos de atenuação e propagação de cheias. A disciplina também explora águas subterrâneas, evapotranspiração e análise de vazões superficiais, integrando noções de hidrossedimentologia. A bibliografia inclui obras fundamentais e complementares que oferecem uma base teórica e prática para o entendimento da hidrologia aplicada.
+
 CÓDIGO: 14.7.3
 DISCIPLINA: Hidrologia Geral
 Código Componente (NÚCLEO

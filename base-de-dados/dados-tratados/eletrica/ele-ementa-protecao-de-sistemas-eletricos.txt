@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Proteção de Sistemas Elétricos  
+Sinônimos comuns: Proteção Elétrica, Proteção de Sistemas de Potência, Proteção de Linhas Elétricas  
+Descrição: Este documento aborda os princípios fundamentais da proteção de sistemas elétricos, incluindo a análise de curto-circuito, cálculo de parâmetros de linha e transitórios eletromagnéticos. Discute também os tipos de relés, com ênfase nos digitais, e a proteção de componentes como geradores, transformadores e linhas de transmissão. Além disso, introduz a modelagem computacional aplicada à proteção elétrica, oferecendo uma base teórica e prática essencial para a formação de engenheiros elétricos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Proteção de Sistemas Elétricos

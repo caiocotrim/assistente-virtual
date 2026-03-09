@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Direito Cibernético  
+Sinônimos comuns: Direito da Informática, Legislação Digital, Direito da Tecnologia  
+Descrição: O componente curricular de Direito Cibernético aborda as intersecções entre o direito e o ambiente digital, explorando conceitos fundamentais como o pós-humanismo jurídico e a legislação pertinente, incluindo a Constituição Federal de 1988, o Marco Civil da Internet e a Lei Geral de Proteção de Dados. O curso também discute crimes digitais, questões de discriminação online, e a responsabilidade legal na criação de sistemas de informação. Além disso, são analisados aspectos legais de contratos eletrônicos e temas contemporâneos que impactam o comércio eletrônico e a propriedade intelectual no contexto digital.
+
 ementa direito
 
 CÓDIGO                COMPONENTE CURRICULAR

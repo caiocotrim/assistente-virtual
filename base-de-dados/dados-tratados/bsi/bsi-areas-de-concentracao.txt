@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Áreas de Concentração  
+Sinônimos comuns: Disciplinas, Componentes Curriculares, Matérias  
+Descrição: O documento apresenta a estrutura curricular do curso de Bacharelado em Sistemas de Informação, detalhando as áreas de concentração e os componentes curriculares obrigatórios e optativos. As áreas são organizadas para garantir uma formação abrangente, alinhada às diretrizes nacionais e referenciais de formação em computação. A distribuição das disciplinas ao longo dos semestres é apresentada, permitindo que os alunos compreendam a carga horária e as competências a serem desenvolvidas em cada área, além de oferecer flexibilidade com a inclusão de componentes optativos a partir do sétimo semestre.
+
 ÁREAS DE CONCENTRAÇÃO
 Para   que   os   discentes   tenham   uma   ampla   formação   no   curso   de
 Bacharelado   em   Sistemas   de   Informação,   os   conteúdos   formadores   de   sua

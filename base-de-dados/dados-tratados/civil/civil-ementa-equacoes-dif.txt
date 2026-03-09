@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Equações Diferenciais Ordinárias  
+Sinônimos comuns: EDO, Equações Diferenciais, EDOs  
+Descrição: O estudo de Equações Diferenciais Ordinárias (EDOs) é fundamental na Engenharia Civil, pois permite modelar e resolver problemas que envolvem taxas de variação em sistemas dinâmicos. Este curso abrange equações lineares de 1ª e 2ª ordem, bem como de ordem superior, e suas aplicações práticas. Os alunos aprenderão a resolver EDOs utilizando séries de potência, além de explorar funções especiais como as de Bessel e Legendre, que são essenciais em diversas áreas da engenharia. A bibliografia recomendada oferece uma base sólida para o aprofundamento no tema e na aplicação das teorias em contextos reais.
+
 
 97  
  

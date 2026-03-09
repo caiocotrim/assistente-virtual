@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Álgebra Linear  
+Sinônimos comuns: Álgebra Vetorial, Matrizes, Sistemas Lineares  
+Descrição: O curso de Álgebra Linear aborda conceitos fundamentais como matrizes, sistemas de equações lineares, espaços vetoriais e transformações lineares. Os alunos aprenderão sobre determinantes, autovalores e autovetores, além de técnicas de diagonalização de operadores. Este conhecimento é essencial para a compreensão de diversas aplicações em engenharia elétrica e áreas afins, proporcionando uma base sólida para o desenvolvimento de habilidades analíticas e resolução de problemas complexos.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Álgebra Linear

@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Acionamentos de Máquinas Elétricas  
+Sinônimos comuns: Controle de Motores, Sistemas de Acionamento, Acionamento Elétrico  
+Descrição: Este documento aborda os princípios fundamentais e as técnicas de acionamento de máquinas elétricas, incluindo a relação entre torque, conjugado e velocidade. São discutidos métodos de partida de motores, como direta, estrela-triângulo e Dahlander, além de parametrização de conversores de frequência e uso de Softstarters. O conteúdo também explora a aplicação de controladores lógicos programáveis e interfaces homem-máquina (IHM) em projetos de acionamentos, proporcionando uma visão abrangente sobre a automação e controle de motores elétricos em ambientes industriais.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Acionamentos de Máquinas Elétricas

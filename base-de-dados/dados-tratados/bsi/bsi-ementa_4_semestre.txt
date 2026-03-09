@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Disciplinas do 4º Semestre  
+Sinônimos comuns: Matérias do 4º semestre, disciplinas do curso, matérias do Bacharelado  
+Descrição: Este documento apresenta as disciplinas do 4º semestre do curso de Bacharelado em Sistemas de Informação, abordando temas fundamentais como Metodologia da Pesquisa Científica, Análise e Modelagem de Sistemas, Banco de Dados I, Redes de Computadores, Programação Web I, Empreendedorismo e Atividades Curriculares de Extensão I. Cada disciplina é descrita com seus pré-requisitos, ementas e objetivos de aprendizado, proporcionando uma visão abrangente do conteúdo e das competências a serem desenvolvidas pelos alunos durante este período acadêmico.
+
 ESTE ARQUIVO CONTÉM AS MATÉRIAS DO 4 SEMESTRE DO CURSO DE SISTEMAS DE INFORMAÇÃO:
 
 Metodologia da Pesquisa Científica                 CRÉDITOS

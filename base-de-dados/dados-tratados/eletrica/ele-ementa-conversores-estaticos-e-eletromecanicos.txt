@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Conversores Estáticos e Eletromecânicos  
+Sinônimos comuns: Conversores de energia, Máquinas elétricas, Conversão de energia  
+Descrição: Este documento aborda os conceitos fundamentais relacionados a conversores estáticos e eletromecânicos, incluindo suas aplicações em sistemas de eletrônica de potência e máquinas elétricas. O conteúdo é direcionado a estudantes que buscam compreender a modelagem e o funcionamento de máquinas de corrente alternada, além de explorar temas como potência instantânea em sistemas trifásicos e sistemas de co-geração de energia. A bibliografia recomendada complementa o aprendizado, oferecendo referências essenciais para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Conversores Estáticos e Eletromecânicos

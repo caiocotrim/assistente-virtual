@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Gestão de Bacias Hidrográficas  
+Sinônimos comuns: Gestão de Recursos Hídricos, Administração de Bacias, Gerenciamento de Águas  
+Descrição: Este documento aborda a disciplina de Gestão Integrada de Bacias Hidrográficas, focando na classificação e análise de sistemas hidrográficos para a administração ambiental. Inclui conceitos de gerenciamento ambiental, definição de unidades territoriais geográficas e técnicas de análise de paisagens. O conteúdo também explora as fases do processo de gerenciamento ambiental integrado, como diagnóstico, planejamento e gerenciamento, além de apresentar aplicações práticas de modelos relacionados. A bibliografia abrange obras essenciais sobre o uso e gestão dos recursos hídricos no Brasil, oferecendo uma base teórica e prática para os estudantes da área.  
+------------------------------------------------------------
+
 CÓDIGO: 14.8.2
 DISCIPLINA: Gestão Integrada de Bacias Hidrográficas
 Código

@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Tratamento de Água  
+Sinônimos comuns: Tratamento de águas, purificação de água, sistemas de abastecimento  
+Descrição: O curso aborda os fundamentos e técnicas de tratamento de água, incluindo processos como coagulação, floculação, sedimentação, filtração e desinfecção. Os alunos aprenderão sobre a qualidade da água, sistemas carbonato e o projeto de estações de tratamento, preparando-os para enfrentar desafios na gestão de recursos hídricos e garantir a potabilidade da água para consumo humano. A bibliografia inclui obras clássicas e atualizadas que complementam a formação teórica e prática dos estudantes.  
+------------------------------------------------------------
+
 Tratamento de Água CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

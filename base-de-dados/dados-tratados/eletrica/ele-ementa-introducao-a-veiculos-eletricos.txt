@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Veículos Elétricos  
+Sinônimos comuns: Carros elétricos, automóveis elétricos, veículos híbridos, veículos de propulsão elétrica  
+Descrição: Este documento aborda os fundamentos dos veículos elétricos e híbridos, incluindo suas estruturas, funcionamento de sensores e atuadores, comparação com veículos de combustão interna, índices de desempenho, e sistemas de acionamento elétrico. Também são discutidas as infraestruturas de apoio e recarga, além de referências bibliográficas relevantes para aprofundamento no tema.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Introdução a Veículos Elétricos

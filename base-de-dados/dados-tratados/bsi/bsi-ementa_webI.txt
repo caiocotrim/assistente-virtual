@@ -1,3 +1,8 @@
+Curso: Bacharelado em Sistemas de Informação  
+Assunto: Programação Web I  
+Sinônimos comuns: Desenvolvimento Web I, Web Design I, Programação para Web  
+Descrição: A disciplina de Programação Web I aborda as principais especificações e tecnologias necessárias para a criação e apresentação de conteúdos em páginas web. Os alunos aprenderão a manipular, tratar e validar informações, além de desenvolver habilidades em design responsivo e utilização de frameworks para front-end. O curso é essencial para a formação de profissionais capacitados na construção de interfaces web modernas e funcionais.
+
 ementa_webI 
 
 CÓDIGO              COMPONENTE CURRICULAR

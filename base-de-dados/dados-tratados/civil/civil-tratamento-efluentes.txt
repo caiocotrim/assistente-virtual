@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Tratamento de Efluentes  
+Sinônimos comuns: Tratamento de águas residuais, tratamento de esgoto, gestão de efluentes  
+Descrição: Este documento aborda o tratamento de efluentes líquidos, incluindo a caracterização, objetivos e processos de tratamento, como aeróbios e anaeróbios. O conteúdo abrange desde o tratamento preliminar até o terciário, além do dimensionamento de estações de tratamento e a elaboração de memorial descritivo e memória de cálculo. A bibliografia básica e complementar fornece referências essenciais para aprofundamento no tema, sendo relevante para a formação em Engenharia Civil e práticas de saneamento.
+
 Tratamento de Efluentes CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

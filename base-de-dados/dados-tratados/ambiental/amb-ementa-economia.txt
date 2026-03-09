@@ -1,3 +1,9 @@
+Curso: Engenharia Ambiental  
+Assunto: Economia  
+Sinônimos comuns: Economia Ambiental, Fundamentos de Economia, Teoria Econômica  
+Descrição: Este documento aborda a disciplina de Economia, inserida no núcleo básico do curso de Engenharia Ambiental. A ementa inclui uma introdução aos conceitos fundamentais da ciência econômica, com ênfase em microeconomia e macroeconomia, além de discutir sistemas econômicos, o papel do setor público e questões macroeconômicas contemporâneas. A bibliografia básica e complementar oferece uma variedade de fontes para aprofundamento nos temas abordados, incluindo obras sobre economia ambiental e gestão de custos, essenciais para a formação de profissionais capacitados a integrar aspectos econômicos e ambientais em suas práticas.  
+------------------------------------------------------------
+
 CÓDIGO: 14.3.2
 DISCIPLINA: Economia
 Código

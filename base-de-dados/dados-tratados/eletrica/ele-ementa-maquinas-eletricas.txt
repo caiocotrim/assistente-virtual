@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Máquinas Elétricas  
+Sinônimos comuns: Máquinas elétricas, Máquinas de corrente contínua, Máquinas de indução, Motores elétricos  
+Descrição: Este documento aborda os fundamentos e características das máquinas elétricas, incluindo máquinas síncronas, de indução trifásicas, e de corrente contínua. Explora aspectos construtivos, circuitos equivalentes, e modelos dinâmicos, além de discutir a operação em regime permanente e ensaios para determinação de parâmetros. A modelagem computacional aplicada à análise dessas máquinas também é abordada, fornecendo uma base teórica e prática essencial para a compreensão e aplicação na engenharia elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Máquinas Elétricas

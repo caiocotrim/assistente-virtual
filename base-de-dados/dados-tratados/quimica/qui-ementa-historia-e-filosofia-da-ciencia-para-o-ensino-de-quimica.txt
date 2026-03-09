@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: História e Filosofia da Ciência  
+Sinônimos comuns: HFC, Filosofia da Química, História da Ciência  
+Descrição: Este documento aborda a importância da História e Filosofia da Ciência (HFC) no ensino de Química, destacando a natureza da ciência como um conhecimento não normativo e os valores que a permeiam. Explora demarcadores da ciência, a relação entre materialismo-histórico e a pós-verdade, além de utilizar episódios históricos da Química como ferramentas para reflexão sobre suas características e natureza. O curso visa capacitar os alunos a reconhecerem a HFC como essencial para o ensino, refletindo sobre a elaboração do conhecimento científico e integrando aspectos históricos e filosóficos no planejamento das atividades pedagógicas.
+
 HISTÓRIA E FILOSOFIA DA
 CIÊNCIA PARA O ENSINO DE
 QUÍMICA

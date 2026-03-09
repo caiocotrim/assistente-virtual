@@ -1,3 +1,8 @@
+Curso: Engenharia Elétrica  
+Assunto: Conversão Eletromecânica  
+Sinônimos comuns: Máquinas Elétricas, Transformadores, Conversores de Energia  
+Descrição: Este documento aborda os fundamentos da conversão eletromecânica de energia, incluindo a análise de transformadores ideais e reais, suas características e aplicações. São discutidos conceitos de acoplamento magnético, estruturas eletromagnéticas, e a modelagem computacional para dimensionamento de transformadores. O conteúdo é essencial para a compreensão de máquinas elétricas rotativas e conversores, sendo relevante para a formação teórica e prática dos alunos de Engenharia Elétrica.
+
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
 CÓDIGO
 Conversão Eletromecânica

@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Físico-Química I  
+Sinônimos comuns: Termodinâmica, Química Física, Propriedades dos Gases  
+Descrição: O curso de Físico-Química I aborda os fundamentos das propriedades dos gases e suas interações, explorando as relações entre pressão, volume e temperatura. Os alunos estudam os princípios da termodinâmica, incluindo conceitos como energia interna, entalpia, entropia e energia livre, além de aplicarem esses conhecimentos em problemas práticos relacionados a transformações químicas e físicas. O objetivo é desenvolver habilidades de raciocínio científico e compreensão dos processos energéticos envolvidos nas reações e equilíbrios químicos.
+
 FÍSICO-QUÍMICA I
 Carga Horária (h) Créditos
 Teórica 45 3

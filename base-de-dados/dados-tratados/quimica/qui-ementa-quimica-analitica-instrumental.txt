@@ -1,3 +1,8 @@
+Curso: Licenciatura em Química  
+Assunto: Química Analítica Instrumental  
+Sinônimos comuns: Análise Química Instrumental, Química Analítica II  
+Descrição: O curso de Química Analítica Instrumental aborda os fundamentos das técnicas de análise química, incluindo métodos óticos como espectrofotometria e técnicas cromatográficas, como cromatografia gasosa e líquida. Os alunos aprenderão a aplicar esses métodos em diversas áreas, como meio ambiente, energia, alimentos e biocombustíveis, desenvolvendo habilidades essenciais para a prática analítica em química. A carga horária total é de 60 horas, divididas entre aulas teóricas e práticas, e é uma disciplina obrigatória do oitavo período, com pré-requisitos específicos.
+
 QUÍMICA ANALÍTICA
 INSTRUMENTAL
 Carga Horária (h) Créditos

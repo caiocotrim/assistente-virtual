@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Conservação de Rodovias  
+Sinônimos comuns: Manutenção de Estradas, Gerência de Pavimentos, Reabilitação de Rodovias  
+Descrição: Este documento aborda a conservação de rodovias, enfatizando a importância da manutenção e reabilitação dos pavimentos. São discutidas estratégias de gerência de pavimentos, incluindo a coleta e análise de dados, avaliação de irregularidades e defeitos superficiais, além de métodos de dimensionamento e segurança dos pavimentos. O conteúdo é essencial para a formação de engenheiros civis, fornecendo conhecimentos práticos e teóricos sobre a preservação da infraestrutura rodoviária.
+
 Conservação de Rodovias CARGA HORÁRIA 
 (h) 
 CRÉDITOS 

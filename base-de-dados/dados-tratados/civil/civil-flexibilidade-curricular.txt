@@ -1,3 +1,9 @@
+Curso: Engenharia Civil  
+Assunto: Flexibilidade Curricular  
+Sinônimos comuns: Currículo Flexível, Componentes Optativos, Atividades Complementares  
+Descrição: A flexibilidade curricular na Engenharia Civil permite que os alunos escolham componentes optativos, realizem atividades complementares, participem de estágios supervisionados e desenvolvam o Trabalho de Conclusão de Curso (TCC). Essa abordagem favorece o aprofundamento em áreas específicas da engenharia, promovendo a atualização e complementação dos conhecimentos adquiridos. Além disso, a flexibilidade contribui para uma formação abrangente, preparando os graduandos para enfrentar os desafios do mercado de trabalho e estimulando a produção de conhecimento em contextos interdisciplinares. O fluxograma da matriz curricular facilita a integração entre diferentes núcleos de estudo, enriquecendo a experiência acadêmica.  
+------------------------------------------------------------
+
 FLEXIBILIDADE CURRICULAR   
 Os componentes curriculares optativos, as atividades complementares, o estágio 
 supervisionado e o TCC permitem ao discente aprofundamento em uma das áreas da engenharia 

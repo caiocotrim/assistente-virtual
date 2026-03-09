@@ -1,3 +1,8 @@
+Curso: Engenharia Ambiental  
+Assunto: Biologia Geral  
+Sinônimos comuns: Biologia Celular, Biologia Molecular, Biologia Básica  
+Descrição: Este componente curricular aborda os fundamentos da biologia, incluindo a origem da vida, evolução dos seres vivos e a composição química das células. Os alunos aprenderão sobre a organização celular, morfologia, fisiologia, divisão celular e metabolismo energético, proporcionando uma base sólida para a compreensão dos processos biológicos essenciais. A disciplina é fundamental para a formação em Engenharia Ambiental, pois permite a análise crítica das interações entre organismos e seu ambiente.
+
 CÓDIGO: 14.1.2
 DISCIPLINA: Biologia Geral
 Código

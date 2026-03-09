@@ -1,3 +1,8 @@
+Curso: Engenharia Civil  
+Assunto: Estruturas Pré-Moldadas  
+Sinônimos comuns: Pré-fabricados, Concreto Pré-Moldado, Estruturas Pré-Fabricadas  
+Descrição: Este documento aborda o estudo das estruturas pré-moldadas, incluindo sua classificação, componentes estruturais e ligações. O curso explora a reologia dessas estruturas, além de casos especiais como estruturas de contenção e estacas. A ementa é complementada por uma bibliografia que inclui normas técnicas e obras relevantes, proporcionando uma base sólida para a compreensão e aplicação do concreto pré-moldado na engenharia civil.
+
 Pré-Moldados CARGA HORÁRIA 
 (h) 
 CRÉDITOS 
