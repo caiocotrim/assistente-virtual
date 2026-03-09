@@ -1,0 +1,31 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Instituições de Direito
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+30 0 0 0 0 30
+CO-REQUISITOS
+Noções gerais de direito: acepções da palavra Direito; breve conceito de Direito; Direito objetivo e
+Direito subjetivo; Direito e moral; caracteres do
+Direito. Direito civil: personalidade e capacidade; fatos e atos jurídicos; Direito de propriedade;
+propriedade industrial; propriedade intelectual.
+Direito do trabalho: conceitos de empregado e empregador; Direito coletivo do trabalho; Direito
+individual do trabalho. Legislação profissional:
+ética; ética profissional; legislação básica e códigos de ética. Direito administrativo:
+administração pública; atos administrativos; contratos
+administrativos; poder de polícia; propriedade pública; intervenção no domínio econômico e na
+propriedade privada. Lei 10.639 e políticas
+estabelecidas para a promoção da igualdade racial brasileira. Ações educativas de combate ao racismo e a discriminação.
+MARTINS, S. P. Instituições de Direito Público e Privado. 13. ed. São Paulo:Atlas, 2013. 474 p.
+PINHO, R. R.; NASCIMENTO, A. M. Instituições de Direito Público e Privado: introdução ao estudo do
+direito, noções de ética profissional. 23 ed.
+São Paulo: Atlas, 2004. 426 p.
+MARTINS, S. P. Fundamentos de Direito do Trabalho. 16 ed. São Paulo: Atlas, 2015. 189 p.
+SEGAL, M. Manual de direito do trabalho. São Paulo: Ltr, 2001. 139 p.
+OLIVEIRA, S. G. Proteção jurídica à saúde do trabalhador. São Paulo: Ltr, 2010. 520 p.
+MARQUES, F.; ABUD, C. J. Direito do trabalho: provas e concursos. 5 ed. São Paulo: Atlas, 2009. 238 p.
+BRASIL. Consolidação das leis do trabalho e legislação complementar. 104 ed. São Paulo: Atlas, 2000. 709 p.
+CARRION, V.; CARRION, E. Comentários à consolidação das leis do trabalho: legislação
+complementar/jurisprudência. 37 ed. São Paulo: Saraiva,
+2012. 1640 p.
+ÊNFASES DE AUTOMAÇÃO E CONTROLE

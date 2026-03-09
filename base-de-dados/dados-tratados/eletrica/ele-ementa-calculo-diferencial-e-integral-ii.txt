@@ -1,0 +1,19 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Cálculo Diferencial e Integral II
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Cálculo Diferencial e Integral I
+60 0 0 0 0 60
+CO-REQUISITOS
+Técnicas de integração. Teorema Fundamental do Cálculo. Aplicação da integral definida. Integrais
+impróprias. Sucessões e séries numéricas. Séries
+de potências. Fórmulas e séries de Taylor e de McLaurin.
+STEWART, J. Cálculo 1. 7 ed. São Paulo: Cengage Learning, 2013.
+STEWART, J. Cálculo 2. 7 ed. São Paulo: Cengage Learning, 2013.
+THOMAS, G. B. et al. Cálculo. Volume II. São Paulo: Pearson, 2002.
+GUIDORIZZI, H. L. Um curso de cálculo. 5 ed. Rio de Janeiro: LTC, 2011, Volume I.
+GUIDORIZZI, H. L. Um curso de cálculo. 5 ed. Rio de Janeiro: LTC, 2011, Volume II.
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: um curso moderno e suas aplicações. 7 ed. Rio de Janeiro: LTC, 2002.
+LEITHOLD, L. O cálculo com geometria analítica. Volume I. 3 ed. São Paulo: Harbra, 1994.
+LEITHOLD, L. O cálculo com geometria analítica. Volume II. 3 ed. São Paulo: Harbra, 1994.

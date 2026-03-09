@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Métodos Matemáticos para Engenharia
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Equações Diferenciais Ordinárias
+60 0 0 0 0 60
+CO-REQUISITOS
+Números complexos e fórmula de Euler. Soma e integral de convolução. Série trigonométrica e complexa
+de Fourier e suas propriedades.
+Transformada de Laplace e suas propriedades. Transformada de Fourier e suas propriedades. Introdução
+às equações diferenciais parciais: método
+de separação de variáveis.
+BUTKOV, E. Física matemática. Rio de Janeiro: LTC, 1988.
+FERNANDEZ, C. de S.; BERNANDES JÚNIOR, N. Introdução às funções de uma variável complexa. Rio de Janeiro: SBM, 2016.
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia, v.3: equações diferenciais parciais,
+métodos de Fourier e variáveis complexas. 3
+ed. Porto Alegre: Bookman, 2009.
+ARFKEN, G.; WEBER, H.; H. F. Física Matemática - Métodos Matemáticos para Engenharia e Física. 2 ed.
+Rio de Janeiro: LTC, 2017.
+COLWELL, P.; MATHEWS, J. Introdução às variáveis complexas. São Paulo: Edgard Blücher, 1976.
+FIGUEIREDO, D. G. de. Análise de Fourier e equações diferenciais parciais. 4 ed. Rio de Janeiro: IMPA, 2009.
+IÓRIO, V. M. EDP: um curso de graduação. 4 ed. Rio de Janeiro: IMPA, 2016.
+SNEDDON, I. N. Fourier transforms. New York: Dover Publications, 1995.ZILL, D. G. Equações
+diferenciais com aplicações em modelagem. 10 ed. São
+Paulo: Cengage Learning, 2016.

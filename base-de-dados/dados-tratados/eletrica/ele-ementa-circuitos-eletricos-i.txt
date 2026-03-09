@@ -1,0 +1,30 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Circuitos Elétricos I
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 15 0 0 0 75
+Física III
+Equações Diferenciais Ordinárias
+CO-REQUISITOS
+Análise de circuitos em corrente contínua: conceitos básicos, leis de básicas, divisor de tensão e
+divisor de corrente, transformação estrela-triângulo.
+Métodos de análise: nodal e de malha. Teoremas de circuitos: propriedade da linearidade,
+superposição, transformação de fontes, teorema de
+Thévenin, teorema de Norton, máxima transferência de potência. Capacitores e indutores. Análise de
+circuitos de primeira (resposta natural e ao
+degrau) e segunda ordem (resposta natural e ao degrau). Modelagem computacional aplicada na análise
+de circuitos elétricos de primeira e segunda
+ordem.
+HAYT JUNIOR, Willian H.; KEMMERLY, Jack E.; DURBIN, Steven M. Análise de Circuitos em Engenharia. 8.
+ed. São Paulo: Amgh, 2014.
+ALEXANDER, Charles K.; SADIKU, M. N. O. Fundamentos de Circuitos Elétricos. 5. ed. São Paulo: McGraw-Hill Brasil, 2013.
+SADIKU, Matthew N. O.; MUSA, Sarhan; ALEXANDER, Charles K. Análise de Circuitos Elétricos com
+Aplicações. São Paulo: McGraw-Hill, 2014.
+MARIOTTO, Paulo Antonio. Analise De Circuitos Elétricos. São Paulo: Pearson, 2002.
+NILSSON, James W.; RIEDEL, Susan A.. Circuitos Elétricos. 8. ed. São Paulo: Pearson, 2008.
+IRWIN, David J.. Introdução à Análise de Circuitos Elétricos. São Paulo: Ltc, 2005.
+EDMINISTER, J. A.. Circuitos Elétricos: coleção schaum. São Paulo: Makron Books, Pearson Education,
+Editora McGraw-Hill, 1991.
+COSTA, Vander Menengoy da. Circuitos Elétricos Lineares Enfoques Teórico E Prático. São Paulo:
+Editora Interciência, 2013.

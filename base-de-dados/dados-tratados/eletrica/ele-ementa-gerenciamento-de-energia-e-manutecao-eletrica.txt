@@ -1,0 +1,33 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Gerenciamento de Energia e Manuteção Elétrica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Engenharia de manutenção corretiva, preventiva e preditiva. Técnicas atuais de manutenção: TPM, RCM
+e RBM. Cálculos dos tempos médios em
+manutenção. Confiabilidade, disponibilidade e manutenibilidade. Programação da manutenção. Fichas de
+controle. Técnicas de inspeção. Análise de
+defeitos. Controle da manutenção. Custos da manutenção. Processo de manutenção em subestações
+industriais abrigadas (manutenção de
+transformadores, disjuntores, relés, barramentos, buchas, e demais componentes). Processo de
+manutenção de painéis elétricos e máquinas
+elétricas rotativas. Procedimentos de segurança no processo de manutenção elétrica industrial.
+Gerenciamento de energia (estrutura do setor
+elétrico nacional, mercado de energia, tarifas e preços, regulamentação do setor elétrico,
+diagnóstico energético e gerenciamento do consumo de
+energia). Introdução a eficiência energética. Gerenciamento de geração distribuída.
+REIS, Lineu Belico Dos. Geração de Energia Elétrica - Tecnologia, Inserção O. Editora Manole, 1ª Edição, 2003 - 340 Pág.
+ELGERD, O.I. Introdução à Teoria de Sistemas de Energia Elétrica. Mcgraw Hill Do Brasil.
+MONTICELLI, A.J. Fluxo de Carga em Redes de Energia Elétrica Edgard Blucher, 1983.
+FARRET, Felix A.; SIMÕES, Godoy M. Integration of Alternative Sources of Energy, New Jersey, Editora
+John Wiley & Sons, 2006.
+REIS, Lineu Belico Dos; FADIGAS, Eliane A. Amaral; CARVALHO, Cláudio Elias. Energia, recursos
+naturais e a prática do desenvolvimento
+sustentável, Editora Manole, Barueri, SP, 2005.
+WOOD, Allen J.; WOLLENBERG, Bruce F. Power generation, operation, and Control, 2ª. Edição, New York,
+Editora John Wiley & Sons, 1996.
+MULLER, Arnaldo C. Hidrelétricas, Meio Ambiente e Desenvolvimento, Editora Makron Books do Brasil Ltda, São Paulo, 1996.
+PALZ, Wolfgang. Energia Solar e Fontes Alternativas, Editora Hemus, Curitiba, 1981.

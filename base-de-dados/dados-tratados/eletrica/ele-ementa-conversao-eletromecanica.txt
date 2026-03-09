@@ -1,0 +1,32 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Conversão Eletromecânica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 15 0 0 0 75
+Eletromagnetismo
+Circuitos Elétricos II
+CO-REQUISITOS
+Introdução a conversão eletromagnética. Fontes de energia. Potencial energético. Materiais
+magnéticos: estudo, classificação e fenômenos físicos
+associados. Estruturas eletromagnéticas com e sem entreferro: modelos de estudo, analogia e
+equivalência. Acoplamento magnético. O
+transformador ideal. O transformador real: estudo em vazio e em carga, regulação, rendimento.
+Transformadores trifásicos. Transformadores
+especiais. A transformação da energia em movimento. O balanço de energia. Conversores
+translacionais. Conversores rotativos: tipo anel e tipo
+comutador. Introdução a máquinas elétricas rotativas. Modelagem computacional aplicada no
+dimensionamento e parâmetros de transformadores.
+DEL TORO, Vincent. Fundamentos de máquinas elétricas. Editora LTC.
+FITZGERALD, A. E.; KINGSLEY JUNIOR, C.; UMANS, S. D. Máquinas elétricas: com introdução à eletrônica
+de potência. 6. ed. Porto Alegre: Bookman,
+2006. 648p.
+GILIO, A. S. Conversão Eletromecânica de Energia: Uma introdução ao estudo. Ed. Érica, 1999. 324p.
+MARTIGNONI, Alfonso. Máquinas elétricas de corrente contínua. São Paulo: EDART, 1967. 179 p.
+OLIVEIRA, José Carlos, COGO , João Roberto, ABREU, José Policarpo G. Transformadores – Teoria e
+Ensaio. Editora: Blucher, ano de 1984, ISBN:
+9788521201410.
+GEBRAN, A. P., Manutenção e Operação de Equipamentos de Subestações. Editora: Bookman, 1° Edição,
+ano de 2014, ISBN: 9788582601297.
+MOHAN, Ned. Máquinas Elétricas e Acionamentos – Curso Introdutório. Editora: LTC, ano de 2015, ISBN: 9788521627623.
+JORDÃO, R. G., Transformadores. Editora: Blucher, 1° Edição, ano de 2002, ISBN: 9788521203162.

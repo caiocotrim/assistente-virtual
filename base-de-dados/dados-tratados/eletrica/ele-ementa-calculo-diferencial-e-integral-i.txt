@@ -1,0 +1,16 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Cálculo Diferencial e Integral I
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+CO-REQUISITOS
+Limites e continuidade. Diferenciação. Formas indeterminadas. Aplicações das derivadas. Construção de Primitivas.
+LEITHOLD, L. O cálculo com geometria analítica: volume 1. 3 ed. São Paulo: Harbra, 1994.
+STEWART, J. Cálculo 1. 7 ed. São Paulo: Cengage Learning, 2013.
+THOMAS, G. B. et al. Cálculo: volume 1. São Paulo: Pearson, 2002.
+GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. v. 1. 5ª ed. Rio de Janeiro. LTC, 2011.
+MORETTIN, Pedro A. Cálculo de uma e várias variáveis. São Paulo. Saraiva, 2005.
+BOULOS, Paulo. Pré-Cálculo. São Paulo. Makron Books, 1999.
+BOULOS, Paulo. Introdução ao cálculo. Brasília. Edgard Blucher, 1974.
+SIMONS, George F. Cálculo com geometria analítica. v. 1. São Paulo. Pearson, 1987.---

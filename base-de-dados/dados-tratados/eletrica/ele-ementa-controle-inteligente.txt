@@ -1,0 +1,18 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Controle Inteligente
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Digital
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução a Inteligência Artificial, Lógica Fuzzy, Redes Neurais artificiais, Neuro-Fuzzy, Deep
+Learning, Projeto de Automação Inteligente.
+IMA Isaías, PINHEIRO Carlos, SANTOS Flávia. Inteligência Artificial. Elsevier, 2014.
+SIMÕES Marcelo, SHAW Ian. Controle e Modelagem Fuzzy. 2a. Edição, Blucher, 2007.
+HAYKIN, Simon. Redes Neurais: princípios e prática. Bookman, 2a. Ed., 2001.
+SILVA, I. N. Redes Neurais Artificiais para engenharia e ciências aplicadas. Artliber, 2010.
+CAMPOS Mário. Sistemas Inteligentes em Controle e Automação de Processos. Ciência Moderna Editora 2004.
+BRAGA Antônio, LUDERMIR Teresa, CARVALHO André. Redes Neurais Artificiais - Teoria e Aplicações. 2a. Edição, LTC, 2007.
+CARVALHO André. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina. LTC, 2011.
+COPPIN. Inteligência Artificial, LTC, 2010.

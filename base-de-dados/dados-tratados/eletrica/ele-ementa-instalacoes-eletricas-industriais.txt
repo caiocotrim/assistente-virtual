@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Instalações Elétricas Industriais
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Instalações Elétricas Prediais
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução às instalações elétricas industriais. Análise das normas técnicas vigentes. Iluminação
+industrial. Dimensionamento de condutores e
+infraestrutura em sistemas elétricos industriais. Desenhos de diagramas elétricos unifilares e
+multifilares direcionados ao projeto de painéis de
+comando de circuitos de iluminação, de força e de acionamentos de máquinas elétricas.
+Dimensionamento de centro de comando de motores.
+Dimensionamento de dispositivos de proteção. Correção de fator de potência. Curto-circuito e
+sistemas de aterramento em ambientes industriais.
+Projeto de subestação elétrica de média tensão. Introdução aos sistemas de geração automatizados
+instalados em ambientes industriais.
+COTRIM, Ademaro A. M. B. Instalações elétricas. 4. ed. São Paulo: Pearson Prentice Hall, 2005. 678 p.
+CREDER, Hélio. Instalações elétricas. 15. ed. Rio de Janeiro: LTC, 2006. 479 p;
+MAMEDE FILHO, João. Instalações elétricas industriais: Exemplo de aplicação de projeto. 6. ed. Rio
+de Janeiro: LTC, 2001. 777 p.
+NISKIER, Julio; MACINTYRE, Archibald Joseph. Instalações elétricas. 4. ed. Rio de Janeiro: LTC, c2000. 550 p.
+NISKIER, Julio. Manual de instalações elétricas. Rio de Janeiro: LTC, 2005. 306 p.
+LIMA FILHO, Domingos Leite. Projetos de instalações elétricas prediais. 12. ed. São Paulo: Érica, 2011. 272 p.
+NERY, Norberto. Instalações Elétricas, 2 ed. São Paulo: Editora Érica, 2014.
+KANASHIRO, Nelson Massao; NERY, Norberto. Instalações Elétricas Industriais, São Paulo: Editora Érica, 2014.

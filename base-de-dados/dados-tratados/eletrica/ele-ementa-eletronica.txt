@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Eletrônica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Dispositivos Eletrônicos
+60 15 0 0 0 75
+CO-REQUISITOS
+Amplificadores Operacionais. Circuitos Lineares (incluindo amplificador de instrumentação).
+Realimentação. Circuitos não Lineares (incluindo
+comparadores, integrador, diferenciador e geradores de sinais). Introdução à Filtros Ativos.
+Conversores A/D e D/A com amplificadores
+operacionais. Temporizadores. Fontes de Alimentação Reguladas: regulador paralelo, série e
+introdução a fonte chaveada. Desenvolvimento de
+projetos práticos integrados.
+SEDRA, ADEL S., SMITH, Kenneth C. Microeletrônica. 5a Ed. Pearson, 2007.
+BOYLESTAD, ROBERT L., NASHELSKY, L. Dispositivos Eletrônicos e Teoria de Circuitos. 11a Ed. Pearson. 2013.
+RAZAVI, BEHZAD. Fundamentos de Microeletrônica. LTC. 2010.
+HORENSTEIN, M. N. Microeletrônica: circuitos e dispositivos. Prentice-Hall, 1996.
+HOROWITZ, P.; HILL, W. A Arte da Eletrônica. Bookman, 3a Ed., 2017.
+TOOLEY, MIKE. Circuitos Eletrônicos, Fundamentos e Aplicações. Elsevier Editora Ltda., 2006.
+MALVINO, A. P.; BATES, D. J. Eletrônica. Vol. 1 e 2, AMGH, 8a Ed., 2016.
+JÚNIOR, ANTÔNIO P. Amplificadores Operacionais e Filtros Ativos. 8a. Ed. Bookman. 2015.

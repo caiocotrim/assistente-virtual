@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Equações Diferenciais Ordinárias
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+Álgebra Linear
+Cálculo Diferencial e Integral II
+CO-REQUISITOS
+Equações diferenciais ordinárias lineares de 1ª e 2ª ordem e aplicações. Equações lineares de ordem
+superior. Resolução de equações diferenciais
+em séries de potência. Equação de Bessel. Funções de Bessel. Funções ortogonais. Equações de
+Legendre. Polinômio de Legendre.
+BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 7
+ed. Rio de Janeiro: LTC, 2002.
+BRONSON, R.; COSTA, G. Equações Diferenciais. Coleção Schaum. 3 ed. Porto Alegre: Bookman, 2008.
+ZILL, D. G. Equações diferenciais com aplicações em modelagem. 10 ed. São Paulo: Cengage Learning, 2016.
+FIGUEIREDO, D. G.; NEVES, A. F. Equações Diferenciais Aplicadas. 3 ed. Rio de Janeiro: IMPA, 2007.
+MATOS, M. P. Séries e Equações Diferenciais. São Paulo: Prentice Hall, 2001.
+MOTTA, A. Equações Diferenciais: Introdução. Florianópolis: Publicação do IF-SC, 2009.
+NAGLE, K. R.; SAFF, E. B.; SNIDER, A. D. Equações Diferenciais. 8 ed. São Paulo: Pearson, 2012.
+ZILL, D. G.; CULLEN, M. R. Equações Diferenciais. Volume I. 3 ed. São Paulo: Makron Books, 2005.

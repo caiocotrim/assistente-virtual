@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Controle Analógico
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Análise de Sinais e Sistemas
+60 15 0 0 0 75
+CO-REQUISITOS
+Introdução à teoria de controle. Representação matemática de sistemas lineares. Comportamento
+dinâmico de sistemas lineares. Propriedades de
+sistemas de controle. Técnicas de análise de sistemas de controle. Técnicas de síntese de sistemas de controle.
+DORF, RICHARD. C.; BISHOP, ROBERT. H. Sistemas de Controle Modernos. 11. Ed. Rio de Janeiro: LTC, 2011.
+NISE, NORMAN S. Engenharia de Sistemas de Controle. 3. Ed. Rio de Janeiro: LTC, 2002.
+OGATA, K. Engenharia de Controle Moderno. 4. Ed. São Paulo: Pearson Education, 2003.
+CASTRUCCI, PLÍNIO; BATISTA, LÉO. Controle Linear: Método Básico. 2. ed. São Paulo, Edgard Blucher, 1991.
+DISTEFANO, JOSEPH J.; STUBBERUD, ALLEN R.; WILIAMS, IVAN J.. Sistemas de retroação e (realimentação)
+controle: com aplicações para
+engenharia, física e biologia. São Paulo: McGraw Hill, 1979.
+AGUIRRE, L. A. Enciclopédia de Automática: Controle & Automação, v.1. São Paulo: Blucher, 2 de
+Automática: Controle & Automação, v.2. São
+Paulo: Blucher, 2007.
+CAMPOS, MARIO CESAR M. MASSA DE; TEIXEIRA, HERBERT C. G. Controles Tipicos de equipamentos e
+processos industriais. 2 ed. São Paulo: Edgar
+Blucer, 2010.
+Edgar, THOMAS F; MELLICHAMP, DUNCAN A; SEBOR G, DALE E. Process Dynamics and Contro. 2nd. Ed.
+Printed in the United States of America,
+2003.

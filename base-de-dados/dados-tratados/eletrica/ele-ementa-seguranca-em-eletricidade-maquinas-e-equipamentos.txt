@@ -1,0 +1,28 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Segurança em Eletricidade, Máquinas e Equipamentos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução à segurança com eletricidade. Riscos em instalações e serviços com eletricidade. Técnicas
+de Análise de Risco. Medidas de Controle do
+Risco Elétrico. Normas Técnicas Brasileiras: NR 10, NR 12 e NBR-5410. Regulamentações do Ministério
+do Trabalho e Emprego (MTE). Equipamentos
+de proteção coletiva. Equipamentos de proteção individual. Rotinas de trabalho - Procedimentos.
+Documentação de instalações elétricas. Riscos
+adicionais. Introdução à proteção e combate a incêndios. Acidentes de origem elétrica. Primeiros
+socorros. Responsabilidades. Estrutura da NR 12.
+Gestão dos Riscos em Máquinas e Equipamentos. Sinalização. Medidas de Proteção de Máquinas. Riscos
+nos Postos de Trabalho. Condições do
+Ambiente para a Instalação de Máquinas Estacionárias. Fiscalização.
+CARVALHO, Ruy de Quadros, Tecnologia e Trabalho Industrial, L&PM Editores, 1987;
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNT, NR 10.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNT, NR 12.
+KINDERMANN, Geraldo. Choque elétrico. 2 ed. Porto Alegre: Sagra Luzzatto, 2000.
+ZVIR, Pedro Irineu. Perigo e riscos das redes elétricas para a população e a construção civil.
+Estudo de caso. 2006. Trabalho final de graduação
+(Engenharia Civil) - Centro de Ciências Exatas e Tecnológicas da União Dinâmica de Faculdades Cataratas – UDC.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS - ABNT, NBR 5410.
+AZEVEDO, Gustavo. Norma em estado de choque. Revista Proteção. Porto Alegre, ed. 193, p. 52-61, Fev. 2008
+BRENTANO, T. A proteção contra incêndios no projeto de edificações. Porto alegre: edição do autor. 2010.

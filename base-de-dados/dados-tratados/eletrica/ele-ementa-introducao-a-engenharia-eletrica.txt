@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução à Engenharia Elétrica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+30 0 0 0 0 30
+CO-REQUISITOS
+Considerações sobre ciência e tecnologia. História da Engenharia. Pioneiros da Engenharia Elétrica.
+A profissão no Brasil. Áreas da Engenharia
+Elétrica. Evolução e perspectivas da Engenharia Elétrica. Aplicação e produtos da Engenharia
+Elétrica. Integração com outras áreas da Engenharia.
+Considerações gerais sobre projetos: formulação do problema, modelo de simulação, otimização e
+implementação. Normas Acadêmicas.
+BAZZO, W. A.; PEREIRA, L.T.V. Introdução a Engenharia, UFSC, 2ª edição, Florianópolis, 2009.
+BARROS, A. P.; LEHFELD, N. A. S.; Fundamentos de Metodologia. Pearson, 3ª edição, 2007.
+BASTOS, Lília Da Rocha; PAIXÃO, Lyra ; FERNANDES, Lúcia Monteiro; DELUIZ, Neise; Manual para a
+Elaboração de Projetos e Relatórios de
+Pesquisa, Teses. Dissertações, LTC, 6ª Edição, Rio de Janeiro, 2003.
+HOLTZAPPLE, Mark T., REECE, W. Dan. Introdução à Engenharia. Rio de Janeiro: LTC, 2006
+GIL, Antônio Carlos. Como Elaborar Projetos De Pesquisa. São Paulo: Atlas, 5ª edição, 2010.
+SCHNAID, F.; ZARO, M. A.; TIMM, M. I. (Org.). Ensino de engenharia: do positivismo à construção das
+mudanças para o Século XXI. Porto Alegre:
+UFRGS, 2006. 317p.
+FORMIGA, M. M. M. Engenharia para o desenvolvimento: inovação, sustentabilidade e responsabilidade
+social como novos paradigmas. Brasília:
+SENAI, 2010. 212p.
+Normativas CREA/CONFEA, PDI do IFBA e Normativas do ensino Superior do campus.---

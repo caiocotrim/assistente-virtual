@@ -1,0 +1,28 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Controle Digital
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Analógico
+60 15 0 0 0 75
+CO-REQUISITOS
+Sistemas de controle de automação. Modelos matemáticos para sistemas e perturbações. Análise de
+sistemas discretos no tempo. Implementação
+por computador de sistemas analógicos. Projeto de controladores digitais. Otimização. Aspectos
+práticos. Introdução a sistemas não lineares.
+Controladores lógicos programáveis. Sistemas distribuídos de controle digital.
+OGATA, K. Engenharia de Controle Moderno.4a. Edição, Editora Prentice Hall Hispanoamericana, S.A, 1996.
+SILVEIRA, Paulo R.; Santos, Winderson E. Automação Controle discreto. 7. Ed. São Paulo: Érica, 1994.
+FRANKLIN, G.F.; Powell, J.D. U.S.A. Digital Control of Dynamic Systems. Wesley 1980 Cadzow, J.A.; Martens, H.R.U.S.A.
+NISE, N. Engenharia de Sistemas de Controle, São Paulo, Editora LTC, 3ª Edição, 2002.
+OGATA, K. Engenharia de Controle Moderno. São Paulo. Prentice Hall 4ª. Edição, 2005.
+AGUIRRE, L. A. Enciclopédia de Automática: Controle & Automação, v.1. São Paulo: Blucher, 2 de
+Automática: Controle & Automação, v.2. São
+Paulo: Blucher, 2007.
+CAMPOS, MARIO CESAR M. MASSA DE; TEIXEIRA, HERBERT C. G. Controles Tipicos de equipamentos e
+processos industriais. 2 ed. São Paulo: Edgar
+Blucer, 2010.
+Edgar, THOMAS F; MELLICHAMP, DUNCAN A; SEBOR G, DALE E. Process Dynamics and Control. 2nd. Ed.
+Printed in the United States of America,
+2003.
+PLANO DE ENSINO DE ENGENHARIA ELÉTRICA

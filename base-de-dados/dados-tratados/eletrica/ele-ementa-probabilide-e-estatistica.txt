@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Probabilide e Estatística
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Cálculo Diferencial e Integral II
+60 0 0 0 0 60
+CO-REQUISITOS
+Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e eventos. Variáveis Aleatórias
+Unidimensionais: variáveis aleatórias
+discretas e contínuas. Função de distribuição e função densidade. Probabilidade e distribuição de
+probabilidades. Variáveis Aleatórias Contínuas:
+distribuições Normais e Gama; Teoria de hipóteses; Correlação e Regressão.
+BUSSAB, W . O.; MORETTIN, P. A. Estatística básica. 6. ed. São Paulo: Saraiva, 2010.
+FONSECA, J. S., MARTINS, G. A. Curso de Estatística. São Paulo: Atlas, 1993.
+TRIOLA, M. F. Introdução a estatística. Ed. LTC, 2008.
+BOLFARINE, H.; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard Blucher, 2005.
+CRESPO, A. A. Estatística fácil. 17 ed. São Paulo: Saraiva, 2002.
+CRESPO, A. A. Estatística fácil. 19 ed. São Paulo: Saraiva, 2009.
+DEVORE, J. L. Probabilidade e Estatística na Engenharia e Ciências. São Paulo: Cengage Learning, 2011.
+BRAULE, Ricardo. Estatística aplicada com Excell: para cursos de administração e economia. Rio de
+Janeiro. Elsevier, 2001.

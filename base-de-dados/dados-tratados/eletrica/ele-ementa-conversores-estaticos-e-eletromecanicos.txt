@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Conversores Estáticos e Eletromecânicos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+Eletrônica de Potência
+Máquinas Elétricas
+CO-REQUISITOS
+Modelagem de máquinas de corrente alternada. Estudo do regime dinâmico de máquinas de corrente
+alternada. Máquinas especiais – abordagem
+por cálculo de campo. Potência instantânea em sistemas trifásicos. Sistemas de excitação de máquinas
+síncronas. Filtros ativos de potência.
+Sistemas de co-geração de energia.
+SIMONE, G.A.; CREPPE, R.C. Conversão Mecânica de Energia. São Paulo, Editora Érica, 1999.
+BOFFI, L.V.; SOBRAL JR., M; DANGELO, J.C. Conversão Eletromecânica de Energia. São Paulo, editora Edgard Blucher, 1977.
+SLEMON, G.R. Equipamentos Magnetelétricos: Transdutores, Transformadores e Máquinas. 2 volumes, São
+Paulo, Ed. LTCE/EDUSP, 1975.
+S.J. CHAPMAN, “Electric Machinery Fundamentals”, New York: McGraw-Hill, 1998.
+MOHAN, Ned. Máquinas Elétricas e Acionamentos – Curso Introdutório. Editora: LTC, ano de 2015, ISBN: 9788521627623;
+MARTIGNONI, Alfonso. Máquinas Elétricas de Corrente Contínua. São Paulo: EDART, 1995;
+NASAR, S. A. Máquinas elétricas. São Paulo: McGraw-Hill-Coleção Schaum, 1984.
+KOSOW, Irving, Máquinas Elétricas e Transformadores, Editora Globo, 4° Edição, 1982, Porto Alegre;

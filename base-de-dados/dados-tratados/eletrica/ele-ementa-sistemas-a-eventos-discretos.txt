@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas a Eventos Discretos
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Digitais
+60 0 0 0 0 60
+CO-REQUISITOS
+Definição e caracterização de sistemas a eventos discretos (SED's). Modelos de sistemas a eventos
+discretos. Álgebra Max-Plus. Álgebra de
+processos. Teoria de linguagens formais e autômatos. Lógica temporal. Redes de Petri. Técnicas de
+modelagem e síntese de controladores: redes de
+Petri e teoria de controle supervisório. Exemplificação: sistemas de manufatura.
+MONTGOMERY, Eduard, Introdução aos Sistemas a Eventos Discretos e à Teoria de Controle Supervisório,
+Editora: Alta Books.
+MIYAGI, P.E.: Controle Programável - Fundamentos do Controle de Sistemas a Eventos Discretos,
+Editora Edgard Blücher, São Paulo, 1996; reimpr.
+1997; reimp. 2001
+CARDOSO, J. e Valette, R.: Redes de Petri, Editora da UFSC, Florianópolis, 1997.
+FLOYD, Thomas L. Sistemas digitais: fundamentos e aplicações, Bookman, 2007.
+MILOS, Ercegovac e Tomas Lang, Introdução aos Sistemas Digitais, Editora Bookman, 2000;
+UYEMURA, John P. Sistemas Digitais: Uma Abordagem Integrada. Editora Thomson, 2002.
+COSTA, Cesar da; Mesquita, Leonardo; Pinheiro, Eduardo. Elementos de lógica programável com VHDL e
+DSP: teoria e prática. São Paulo: Érica
+2011.296 p. (Cesar da Costa, (Org.)). ISBN 9788536503127.
+PEDRONI, Volnei A. Eletrônica digital moderna e VHDL. Rio de Janeiro (RJ): Elsevier, c2010. [20],
+619 p. ISBN 9788535234657.

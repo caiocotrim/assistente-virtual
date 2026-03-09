@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Hidráulica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Fenômenos de Transporte
+45 15 0 0 0 60
+CO-REQUISITOS
+Hidrometria: escoamento em orifícios, bocais, placas de orifício e Venturi. Escoamento em condutos
+forçados: perdas de carga contínua e localizada,
+fórmula universal e fórmulas empíricas. Distribuição em Marcha. Condutos equivalentes em série e
+paralelo. Condutos interligado reservatórios.
+Instalações de recalque: bombas hidráulicas, curvas características, seleção, diâmetro econômico e
+projeto. Órgãos acessórios das instalações,
+reservatórios interligados. Golpe de aríete. Associação de Bombas.
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica. 9 ed. São Paulo: Edgard Blucher, 2015.
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. 8. ed. São Paulo: Edgard Blücher,1998.
+NEVES. E. T. Curso de hidráulica. 2 ed. Porto Alegre: Globo, 1970.
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. 2. ed.São Paulo: Edgard Blücher, 1969.
+CREDER, H. Instalações hidráulicas e sanitárias. 6.ed. Rio de Janeiro:LTC,2011.
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. São Paulo: Cengage Learning, 2014.
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa: EDUFPB, 2009.
+QUINTELA, Antônio de Carvalho. Hidráulica 12ª Edição; Lisboa: Fundação Calouste Gulbenkian, 2011.

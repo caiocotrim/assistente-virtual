@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução à Programação
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+0 60 0 0 0 60
+CO-REQUISITOS
+Introdução à organização de computadores. Soluções de problemas usando o computador. Áreas da
+Ciência da Computação. Processo de
+desenvolvimento de programas. Algoritmos. Introdução a uma linguagem de programação. Tipos de dados
+(entradas e saídas de dados). Operadores
+e expressões. Comando de controle de fluxo (decisões e repetições). Agregados de dados homogêneos e
+heterogêneos. Modularização de
+programas. Portabilidade de programas.
+ASCENCIO, Ana F.G. e CAMPOS, Edilene A. V. Fundamentos da Programação de Computadores – Algoritmos,
+Pascal e C/C++. São Paulo: Prentice
+Hall, 2002.
+CARBONI, Irene de Fátima. Lógica de Programação. Thomson: São Paulo, 2003.
+LOPES, Anita e GARCIA, Guto. Introdução à Programação – 500 Algoritmos Resolvidos. Editora Campos: Rio de Janeiro, 2002.
+SCHILDT, Herbert. C++ Fundamentos e Prática. Alta Books: Rio de Janeiro, 2004.
+DEITEL, Harvey M. C#, como programar. São Paulo: Makron Books, 2003. 1153p.
+MANZANO, José Augusto N. G: Oliveira, Jayr Figueiredo de. Algoritmos: Lógica para desenvolvimento de
+programação de computadores. 17. Ed.
+São Paulo: Érica, 2005. 236 p.
+SOUZA, Marco Antonio Furlan de. Algoritmos e lógica de programação. São Paulo: Thomson, [2005]. Xxiii, 214 p.
+MIZRAHI, Victorine Viviane. Treinamento em limguagem C++: modulo 1. 2 ed. São Paulo: Pretice Hall, 2006. Xx. 234 p.---

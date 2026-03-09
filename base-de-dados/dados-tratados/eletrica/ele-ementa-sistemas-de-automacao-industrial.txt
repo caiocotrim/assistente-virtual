@@ -1,0 +1,22 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas de Automação Industrial
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Analógico
+15 45 0 0 0 60
+CO-REQUISITOS
+Conceitos de automação. Conceitos de Indústria 4.0. Sistemas Eletropneumáticos. Hardware do
+Controlador Lógico Programável. Norma IEC 61131
+3. Elementos componentes da automação industrial. Sensores e atuadores. Rede PROFINET. Sistema de
+supervisão e aquisição de dados. IHM.
+Aplicações usando Supervisório Codesys. Projetos e aplicações industriais.
+BONACORSO, N. G.; NOLL, V. Automação Eletropneumática. Editora Érica Ltda, São Paulo, 12ª Ed. 2013.
+CAMARGO, V. L. A.; FRANCHI, C. M. Controladores Programáveis. São Paulo: Érica, 2ª Ed, 2009.
+FIALHO, A. B. Automação Pneumática. Editora Érica Ltda, 7ª Ed, 2011.
+CASTRUCCI, Plínio de Lauro; MORAES, Cícero Couto de. Engenharia de Automação Industrial. LTC Editora, 2ª Ed., 2010.
+GEORGINI, Marcelo. Automação Aplicada – Descrição e implementação de sistemas sequenciais com CLP,
+9ª Ed. 2007, Editora Érica.
+NATALE, F. Automação Industrial. São Paulo: Editora Érica, 10ª Ed, 2000.
+PRUDENTE, F. Automação Industrial - PLC: Programação e Instalação. Editora LTC, 1ª ed., 2010.
+PRUDENTE, F. PLC S7-1200: Teorias e Aplicações – Curso Introdutório. Editora LTC, 1ª ed., 2014.

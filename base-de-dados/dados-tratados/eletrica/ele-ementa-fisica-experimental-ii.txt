@@ -1,0 +1,24 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Física Experimental II
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+0 60 0 0 0 60
+Física I
+Cálculo Diferencial e Integral II
+CO-REQUISITOS
+Física III
+Medidas elétricas. Campo Elétrico; Lei de Ohm; Circuito série e paralelo com resistores; Diodos;
+Ponte de Wheatstone; Leis de Kirchhoff; Linhas
+equipotenciais. Circuito RC, RL e RLC; Balança de Corrente; Campo Magnético de um imã e de uma
+corrente; forças magnéticas sobre correntes; Lei
+de Lenz; Lei de Faraday; Gerador de Funções; Osciloscópio.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Física 3 - Fundamentos de Física: Eletromagnetismo. Rio de Janeiro: LTC.
+HELENE, O. A. M.; VANIN, V. R. Tratamento Estatístico de Dados em Física Experimental. 2. ed. São Paulo: Edgard Blücher.
+PERUZZO, J. Experimentos de Física Básica – Eletromagnetismo, Física Moderna e Ciências Espaciais. 1
+ed. São Paulo: Livraria da Física, 2013.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 3. Rio de Janeiro: LTC.
+HELENE, O. A. M.; VANIN, V. R. Tratamento estatístico de dados em física experimental. São Paulo: Ed. Blücher Ltda.
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros, Vol. 3. Rio de Janeiro: LTC.
+YOUNG, H. D.; FREEDMAN, R. A. . SEARS e ZEMANSKY. Fisica III. São Paulo: Addison Wesley.
+VUOLO, J. H. Fundamentos da teoria de erros. São Paulo: Edgard Blücher Ltda.

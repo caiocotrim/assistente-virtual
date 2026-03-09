@@ -1,0 +1,21 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Redes de Computadores
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+CO-REQUISITOS
+História e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas.
+Arquitetura TCP/IP: Camada de Aplicação, Camada
+de Transporte, Camada de Redes, Subcamada de Controle de Acesso ao Meio, Subcamada de Controle
+Lógico do Link e Camada Física.
+TANENBAUM A. Redes de Computadores. 4a Ed. Elsevier, 2003.
+KUROSE, J. F.; ROSS, K. W. Redes de computadores e a internet: uma nova abordagem. Rio de Janeiro: Wesley, 2004.
+COMER, D. E. Interligação em rede com TCP/IP: projeto, implementação e detalhes internos V 2. Rio de
+Janeiro: Elsevier, 1999.
+SOARES L. Redes de Computadores – das LANs, MANs e WANs às Redes ATM. Ed. Campus, 1996.
+COMER, D. E. Redes de computadores e internet: abrange transmissão de dados, ligação inter-redes e
+Web. 2 ed. Porto Alegre: Bookman, 2001.
+FOROUZAN, B. A. Comunicação de dados e redes de computadores. Porto Alegre: Bookman, 2008.
+GALLO M.A. Comunicação entre Computadores e Tecnologias de Rede. Ed. Thomson, 2003.
+MORAES A.F. Redes de Computadores. Ed. Erica, 2006.

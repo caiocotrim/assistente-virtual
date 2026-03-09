@@ -1,0 +1,109 @@
+1.1. CONTEXTUALIZAÇÃO HISTÓRICA 
+O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) foi criado 
+pela Lei nº 11.892, de 29 de dezembro de 2008. O IFBA é um centro de referência do 
+ensino tecnológico do nordeste do país e tem como missão: 
+ 
+Promover a formação do cidadão histórico-crítico, oferecendo ensino, 
+pesquisa  e  extensão  com  qualidade  socialmente  referenciada, 
+objetivando o desenvolvimento sustentável do país (IFBA, 2018a, 
+32). 
+ 
+          No que concerne às diretrizes que norteiam os Institutos Federais de Educação, 
+se orientam pela concepção de equidade, justiça social, competitividade econômica e 
+geração de novas tecnologias. Dentro desses pressupostos e atendendo aos princípios 
+norteadores do Plano de Desenvolvimento da Educação (PDE) (BRASIL, 2007a), os 
+Institutos Federais devem responder de forma ágil e eficaz às demandas crescentes por 
+formação profissional, por difusão de conhecimentos científicos e tecnológicos e suporte 
+aos arranjos produtivos locais. A partir desse cenário, o IFBA coloca em prática a visão 
+institucional prevista em seu Plano de Desenvolvimento Institucional: 
+ 
+Transformar  o  IFBA  numa  instituição  de  ampla  referência  e  de 
+qualidade  de  ensino  no  País,  estimulando  o  desenvolvimento  do 
+sujeito crítico, ampliando o número de vagas e cursos, modernizando 
+as estruturas físicas e administrativas, bem como ampliando a sua 
+atuação na pesquisa, extensão, pós-graduação e inovação tecnológica. 
+(IFBA, 2020, p. 83). 
+ 
+O  IFBA  possui  uma  estrutura  pluricurricular,  verticalizada,  multicampi  e 
+descentralizada,  especializada  na  oferta  de  educação  profissional  e  tecnológica  nas 
+diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e 
+tecnológicos com sua prática pedagógica, conforme está previsto em seu PPI (IFBA, 
+2013b).   
+Na  construção  do  texto  ora  apresentado  são  consideradas  as  finalidades  da 
+instituição como estabelecidas no estatuto do IFBA, tendo destaque os incisos II, V e IX 
+do artigo 4º (IFBA, 2009). Tais finalidades estão em completa harmonia com o Curso de 
+Engenharia Elétrica no IFBA, campus de Vitória da Conquista, pois o conhecimento 
+13 
+ 
+científico e tecnológico torna-se cada vez mais importante no equilíbrio entre os setores 
+produtivos,  desenvolvimento  socioeconômico  e  a  manutenção  das  condições  de 
+sustentabilidade do meio ambiente.  
+O  IFBA  é  resultado  das  mudanças  promovidas  no  antigo  Centro  Federal  de 
+Educação  Tecnológica  da  Bahia  (CEFET-BA).  Com  tradição  centenária  no  ensino 
+técnico-profissional e há mais de uma década no ensino superior, o instituto atua em 
+sintonia  com  as  demandas  profissionais  do  mundo  do  trabalho,  contribuindo  para  a 
+cultura empreendedora e tecnológica do Estado. Com essa mudança houve alterações no 
+estatuto e regimento interno, bem como do Projeto Pedagógico  Institucional (IFBA, 
+2013b). Portanto, os institutos federais e, obviamente o IFBA, já nascem tendo na sigla e 
+em sua essência a vocação natural para o desenvolvimento tecnológico como um de seus 
+princípios norteadores.   
+O IFBA é uma instituição equiparada às universidades, mas possui abrangência 
+diversa e mais ampla, oferecendo desde a educação básica, passando por cursos técnicos 
+de nível médio, graduação até a pós-graduação. Possui, ainda, mais de 40 grupos de 
+pesquisa e projetos de extensão, atendendo às demandas sociais para o desenvolvimento 
+socioeconômico regional. 
+A trajetória do IFBA teve início em 1909 com a criação da Escola de Aprendizes 
+e Artífices da Bahia. No interstício de tempo entre 1909 e 1940, sua missão estava 
+centrada  na  preparação  profissional  dos  excluídos  da  sociedade,  dos  desvalidos  e 
+operários  artífices.  O  ensino  era  predominantemente  manufatureiro-artesanal,  o  que 
+correspondia, basicamente, às características produtivas na Bahia deste período, que se 
+definia por uma economia estagnada, do tipo tradicional e cujo setor industrial vinha 
+caindo desde as últimas três décadas do século XIX. A partir da década de 1930, com as 
+mudanças que já vinham ocorrendo no Brasil, reflexo interno das crises externas (crise 
+econômico-financeira  e  militar)  que  implicaram  em  transformações  na  estrutura 
+socioeconômica e na ordem político-jurídico do país, a instituição sofreu uma série de 
+modificações, tanto no seu aspecto didático-pedagógico como no seu dimensionamento 
+físico e administrativo. Ocorreram ampliações no espaço físico, bem como mudanças na 
+oferta do ensino profissional. Por força do Decreto Lei Nº 4.127, de 25 de fevereiro de 
+1942  (BRASIL,  1942),  a  Escola  de  Aprendizes  e  Artífices  da  Bahia  passou  a  ser 
+denominada Escola Técnica de Salvador. Em 1943 foram criados os primeiros cursos 
+técnicos: Edificações, Pontes e Estradas, Artes Aplicadas, Desenho Técnico e Decoração 
+14 
+ 
+de Interiores. Em 20 de agosto de 1965, a Lei nº 4.759 (BRASIL, 1965) modifica a 
+denominação da instituição para Escola Técnica Federal da Bahia, a ETFBA.  
+ A partir da década  de  1970, a  ETFBA  passa  por grandes  mudanças  na sua 
+estrutura  orgânica-administrativa  e  nos  seus  processos  acadêmicos.  A  legislação 
+educacional, em âmbito nacional, sofre significativas modificações, refletidas na estrutura 
+organizacional. Novos cursos surgem e a dinâmica didático-pedagógica da escola passa 
+a ser definida por novos parâmetros. Essas mudanças estão também relacionadas com as 
+transformações econômicas que vinham ocorrendo no Estado, principalmente na Região 
+Metropolitana de Salvador, de grande concentração populacional e produtiva (LESSA, 
+2002).  
+O ano de 1993 foi um momento destacado na história da instituição, com sua 
+transformação,  por  força  da  Lei  N.  8.711  (BRASIL,  1993),  em  Centro  Federal  de 
+Educação Tecnológica da  Bahia – CEFET/BA.  A  transformação  é  acompanhada  da 
+incorporação do Centro de Educação Tecnológica da Bahia – CENTEC/BA. Em outubro 
+de  1993,  foi  criada  sua  primeira  unidade  de  ensino  descentralizada,  na  cidade  de 
+Barreiras.  No  ano  de  1994  são  criadas  as  Unidades  Descentralizadas  de  Vitória  da 
+Conquista, Eunápolis e Valença, dando um caráter multicampi ao CEFET/BA, com a 
+administração centralizada em Salvador.   
+ A partir de 29 de dezembro de 2008, com a criação da Lei nº 11.892 (BRASIL, 
+2008a), os antigos Centros Federais, Escolas Agrotécnicas e Escolas Técnicas vinculadas 
+às universidades, passaram a compor a Rede Federal de Ensino Profissional, Científico e 
+Tecnológico (RFEPCT), incluindo-se, entre estes, o CEFET/BA, que, desde então, é 
+denominado de Instituto Federal de Educação, Ciência e Tecnologia da Bahia.  
+O IFBA tem como órgão executivo a Reitoria, instalada em Salvador, capital 
+baiana, e caracteriza-se como instituição multicampi. O Instituto Federal da Bahia possui 
+atualmente  33  unidades  espalhadas  no  estado  da  Bahia,  sendo  21  campi  em  pleno 
+funcionamento, 02 campi em construção, 01 núcleo avançado, 06 centros de referência, 
+01 polo de inovação e 01 reitoria. 
+Atualmente, o IFBA possui mais de 36 mil estudantes (entre as modalidades 
+presenciais e à distância); 300 cursos presenciais (cerca de 90 cursos distintos, sendo 07 
+cursos de pós-graduação, 27 cursos superiores, 36 cursos técnicos e 03 cursos técnicos 
+EJA); 17 cursos à distância (sendo 01 pós-graduação, 06 cursos superiores e 06 cursos 
+técnicos).  Para  atender  toda  essa  demanda  a  instituição  conta  com  cerca  de  1.700 
+professores (aproximadamente 1.500 efetivos e 200 substitutos) e mais de 1.000 técnicos 
+15 
+ 
+administrativos.

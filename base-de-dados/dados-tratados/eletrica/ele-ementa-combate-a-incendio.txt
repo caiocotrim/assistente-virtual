@@ -1,0 +1,29 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Combate a Incêndio
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+Fenômenos de Transporte
+Expressão Gráfica
+CO-REQUISITOS
+Classificação de incêndio. Propagação do fogo. Métodos de extinção do fogo. Agentes extintores.
+Normas de prevenção e combate ao fogo,
+legislações e instruções técnicas do corpo de bombeiros do estado da Bahia. Medidas de segurança
+contra incêndio e pânico. Noções de projeto
+técnico e projeto técnico simplificado. Projeto de Prevenção e Combate a Incêndio (PPCI): controle
+de materiais, saídas de emergência, iluminação
+de emergência, sinalização de emergência, alarme de incêndio, extintores, brigada de incêndio,
+hidrantes e mangotinhos, e brigada de incêndio.
+CAMILLO JÚNIOR, A. B. Manual de prevenção e combate a incêndios. 10 ed. São Paulo: senac, 2010. 211p.
+PEREIRA, Á. G. Segurança Contra Incêndios. São Paulo. Editora Ltr. 2010.
+SECCO, O. Manual de prevenção e combate de incêndios. 4ª ed., São Paulo, 1996.
+BIDIN, J. Extintores. Princípios gerais, Nomenclatura, Inspeção, Manutenção. São Paulo, ABPA, 1989, 75 p.
+BRETANO, T. Instalações Hidráulicas de Combate a Incêndio nas Edificações: Hidrantes, Mangotinhos e
+Chuveiros Automáticos. 4ª ed., Porto
+Alegre, 2011, 676 p.
+BRETANO, T. A Proteção Contra Incêndios no Projeto de Edificações. 2ª ed., Porto Alegre, 2010, 632 p.
+POLÍCIA MILITAR DO ESTADO DA BAHIA. CORPO DE BOMBEIROS. Instruções Técnicas. Salvador, BA, 2022. Disponível em: <
+http://www.cbm.ba.gov.br/instrucao-tecnica >. Acesso em: 27 de outubro de 2022.
+POLÍCIA MILITAR DO ESTADO DE SÃO PAULO. CORPO DE BOMBEIROS. Instruções Técnicas. São Paulo, SP, 2022. Disponível em: <
+https://bombeiros.com.br/instrucoes-tecnicas>. Acesso em: 27 de outubro de 2022.

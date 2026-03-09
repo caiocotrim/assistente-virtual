@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Distribuição e Transmissão de Energia Elétrica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Constituição dos sistemas elétricos de potência (sistema de geração, transmissão e distribuição).
+Noções de fatores típicos de carga. Topologias de
+rede. Cálculo elétrico de alimentadores. Projetos de redes de distribuição urbana e rural nos moldes
+da concessionária local. Banco de capacitores
+em redes de distribuição (localização, dimensionamento e controle). Modelagem e análise
+computacional para sistema de distribuição de energia
+elétrica. Características de linhas de transmissão. Considerações gerais de linhas de transmissão.
+KAGAN, Nelson; OLIVEIRA, Carlos Cesar Barioni de; ROBBA, Ernesto João. Introdução aos sistemas de
+distribuição de energia elétrica. Edgard
+Blucher.
+PRAZERES, Romildo Alves. Redes de Distribuição de Energia Elétrica e Subestações. Ed.Base Editorial. 2010. 176 p.
+GUIRELLI, Cleber Roberto; MATILE, Ivanilda; Transmissão de energia elétrica. Mackenzie, 2014.
+MONTICELLI, A.e Garcia, A., Introdução a Sistemas de Energia Elétrica, Ed. Unicamp;
+ZANETTA JÚNIOR, Luiz Cera. Fundamentos de sistemas elétricos de potência. São Paulo: Editora
+Livraria de Física, 2006. 312 p.
+SANTOS, Paulo Eduardo Steele. Tarifas de energia elétrica: estrutura tarifária. Rio de Janeiro:
+Interciência, 2011. 128p.
+MAMEDE FILHO, João. Manual de equipamentos elétricos. 3. ed. Rio de Janeiro: LTC, 2005. 777 p.
+GÖNEN,Turan. Electric Power Distribution System Engineering. CRC Press, 2008.

@@ -1,0 +1,136 @@
+Composição das Disciplinas das Ênfases 
+Para cada ênfase oferecida no curso está previsto um conjunto de componentes 
+curriculares  próprias.  Para  cada  ênfase  estão  previstas  10  componentes  curriculares, 
+conforme as Tabela 16 a Tabela 18. Todas as componentes de ênfase se enquadram no 
+Núcleo de Componentes Específicos. 
+A oferta das componentes curriculares das ênfases e das optativas seguirão as 
+estratégias acadêmicas definidas pela coordenação do curso. 
+As componentes curriculares referentes à ênfase de Automação e Controle estão 
+descritas na Tabela 16. As componentes curriculares referentes à ênfase de Eletrônica 
+estão  descritas  na  Tabela  17.  As  componentes  curriculares  referentes  à  ênfase  de 
+Eletrotécnica estão descritas na Tabela 18.  
+A caracterização de cada ênfase se dá por meio de um grupo de componentes 
+curriculares que compõem os critérios relacionados na Resolução n° 1010 de 2005 do 
+CONFEA.  Entretanto,  na  matriz  curricular,  as  três  ênfases  são  contempladas  por 
+componentes curriculares obrigatórias e componentes curriculares específicas dedicadas 
+a ênfase. Essa estratégia permite ao discente explorar a flexibilidade curricular de forma 
+que, uma vez cursadas as componentes mínimas, seja possível a habilitação em até duas 
+ênfases. 
+Neste projeto pedagógico, a caracterização de uma ênfase perpassa pelo grupo de 
+componentes curriculares dedicados à cada modalidade, considerando um total de 360 
+horas. Sendo assim, para que o egresso consiga obter a habilitação em duas ênfases, será 
+obrigatório cursar as seis componentes de ênfases, contabilizando 360 horas, mais as duas 
+optativas, contabilizando mais 120 horas, totalizando, então, 480 horas, sendo 240 horas 
+para cada ênfase escolhida. A totalização de 360 horas para cada ênfase se efetiva por 
+meio de componentes obrigatórias na matriz curricular que compõem o restante de 120 
+horas.  
+ 
+Tabela 16 – Componentes curriculares da ênfase de Automação e Controle. 
+Ênfase de Automação e Controle Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Acionamentos de Máquinas Elétricas Máquinas Elétricas  E  4  30  30  -  -  -  60 
+Controle Inteligente  Controle Digital  E  4  45  15  -  -  -  60 
+Gerência, Planejamento e Controle da Produção  Administração  E  4  60  -  -  -  -  60 
+Instrumentação Eletrônica   Eletrônica  E  4  45  15  -  -  -  60 
+Redes de Computadores  -  E  4  60  -  -  -  -  60 
+Robótica    Controle Analógico  E  4  45  15  -  -  -  60 
+Sistemas de Automação Industrial  Controle Analógico  E  4  15  45  -  -  -  60 
+Sistemas Embarcados  Controle Analógico  E  4  45  15  -  -  -  60 
+Tópicos Especiais em Automação I -  E  4  45  15  -  -  -  60 
+Tópicos Especiais em Automação II -  E  4  45  15  -  -  -  60 
+ 
+Tabela 17 – Componentes curriculares da ênfase de Eletrônica. 
+Ênfase de Eletrônica Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Filtros Elétricos  Eletrônica  Análise de Sinais e Sistemas E  4  45  15  -  -  -  60 
+Instrumentação Eletrônica   Eletrônica  E  4  45  15  -  -  -  60 
+Introdução a Aprendizado de Máquina  Análise de Sinais e Sistemas  Cálculo Numérico E  4  45  15  -  -  -  60 
+Introdução a Veículos Elétricos  Máquinas Elétricas  Eletrônica de Potência E  4  45  15  -  -  -  60 
+Princípios de Comunicações  Análise de Sinais e Sistemas E  4  60  -  -  -  -  60 
+Processamento Digital de Sinais  Análise de Sinais e Sistemas E  4  45  15  -  -  -  60 
+Sistemas de Aquisição de Dados e Interface  Eletrônica  E  4  45  15  -  -  -  60 
+Sistemas de Automação Industrial  Controle Analógico  E  4  15  45  -  -  -  60 
+ 
+Sistemas de Processamento de Áudio e Vídeo  Eletrônica  E  4  45  15  -  -  -  60 
+Tópicos Especiais em Eletrônica  -  E  4  60  -  -  -  -  60 
+ 
+Tabela 18 – Componentes curriculares da ênfase de Eletrotécnica. 
+Ênfase de Eletrotécnica Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Acionamentos de Máquinas Elétricas  Máquinas Elétricas  E  4  30  30  -  -  -  60 
+Análise de Sistemas Elétricos de Potência  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Distribuição e Transmissão de Energia Elétrica  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Gerenciamento de Energia e Manutenção Elétrica  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Instalações Elétricas Industriais  Instalações Elétricas Prediais  E  4  45  15  -  -  -  60 
+Proteção de Sistemas Elétricos  Análise de Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Qualidade de Energia Elétrica  Eletrônica de Potência  E  4  45  15  -  -  -  60 
+Sistemas de Aterramentos e Projeto de SPDA  Instalações Elétricas Prediais  E  4  45  15  -  -  -  60 
+Subestações e Equipamentos Elétricos  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Tópicos Especiais em Eletrotécnica  -  E  4  45  15  -  -  -  60 
+ 
+4.3.1.1. Ênfase de Automação e Controle 
+As componentes curriculares dedicadas à ênfase de Automação e Controle estão 
+dispostas na Tabela 16. Essas são as componentes a serem ofertadas em Ênfase I; Ênfase 
+II; Ênfase III; Ênfase IV; Ênfase V e Ênfase VI, bem como estão disponíveis para as 
+Optativas I e II. Para que haja a caracterização da ênfase de Automação e Controle, é 
+necessário  que  um  mínimo  de  componentes  curriculares  seja  cursado  de  forma 
+obrigatória. Essas componentes obrigatórias estão descritas na Tabela 19. 
+ 
+Tabela 19 – Componentes curriculares mínimas para a ênfase de Automação e Controle. 
+Obrigatórias Ênfase de Automação e Controle Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Controle Analógico  Análise de Sinais e Sistemas E  5  60  15  -  -  -  75 
+Controle Digital   Controle Analógico  E  5  60  15  -  -  -  75 
+Instrumentação Eletrônica   Eletrônica  E  4  45  15  -  -  -  60 
+Sistemas de Automação Industrial  Controle Analógico  E  4  15  45  -  -  -  60 
+Gerência, Planejamento e Controle da Produção  Administração  E  4  60  -  -  -  -  60
+Robótica    Controle Analógico  E  4  45  15  -  -  -  60 
+ 
+4.3.1.2. Ênfase de Eletrônica 
+As componentes curriculares dedicadas à ênfase de Eletrônica estão dispostas na 
+Tabela 17. Essas são as componentes a serem ofertadas em Ênfase I; Ênfase II; Ênfase 
+III; Ênfase IV; Ênfase V e Ênfase VI, bem como estão disponíveis para as Optativas I e 
+II. Para que haja a caracterização da ênfase de Eletrônica, é necessário que um mínimo 
+de  componentes  curriculares  seja  cursado  de  forma  obrigatória.  Essas  componentes 
+obrigatórias estão descritas na Tabela 20. 
+
+Tabela 20 – Componentes curriculares exigidas para a ênfase de Eletrônica. 
+Obrigatórias Ênfase de Eletrônica Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Sistemas Digitais    Introdução à Programação  P  5  60  15  -  -  -  75 
+Eletrônica de Potência   Eletrônica  E  5  60  15  -  -  -  75 
+Instrumentação Eletrônica   Eletrônica  E  4  45  15  -  -  -  60 
+Processamento Digital de Sinais  Análise de Sinais e Sistemas E  4  45  15  -  -  -  60 
+Sistemas de Aquisição de Dados e Interface  Eletrônica  E  4  45  15  -  -  -  60 
+Sistemas de Processamento de Áudio e Vídeo  Eletrônica  E  4  45  15  -  -  -  60  
+ 
+4.3.1.3. Ênfase de Eletrotécnica 
+As componentes curriculares dedicadas à ênfase de Eletrotécnica estão dispostas 
+na Tabela 18. Essas são as componentes a serem ofertadas em Ênfase I; Ênfase II; Ênfase 
+III; Ênfase IV; Ênfase V e Ênfase VI, bem como estão disponíveis para as Optativas I e 
+II. Para que haja a caracterização da ênfase de Eletrotécnica, é necessário que um mínimo 
+de  componentes  curriculares  seja  cursado  de  forma  obrigatória.  Essas  componentes 
+obrigatórias estão descritas na Tabela 21. 
+Tabela 21 – Componentes curriculares exigidas para a ênfase de Eletrotécnica. 
+Obrigatórias Ênfase de Eletrotécnica Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+Instalações Elétricas Prediais   Sistemas Elétricos de Potência E  5  60  15  -  -  -  75 
+Sistemas Elétricos de Potência  Cálculo Numérico  Circuitos Elétricos II E  5  60  15  -  -  -  75 
+Análise de Sistemas Elétricos de Potência  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Distribuição e Transmissão de Energia Elétrica  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Gerenciamento de Energia e Manutenção Elétrica  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+Subestações e Equipamentos Elétricos  Sistemas Elétricos de Potência E  4  45  15  -  -  -  60 
+ 
+4.3.2.  Composição das Disciplinas Optativas 
+As  componentes  curriculares  optativas  podem ser contempladas  por qualquer 
+opção das ênfases conforme as Tabela 16 a Tabela 18.  Em caso de o discente optar por 
+cursar apenas uma das três ênfases, poderá opcionalmente matricular-se em até duas das 
+componentes curriculares apresentadas na Tabela 22 como componentes optativas.  
+ 
+Tabela 22 – Componentes curriculares optativas. 
+Optativas  Pré-Requisitos  Núcleo  Créditos  C. H. Teórica C. H. Prática C. H. Extensão C. H. Estágio C. H. ACC C. H. Total 
+LIBRAS  -  O  2  30  -  -  -  -  30 
+Hidráulica    Fenômenos de Transporte  O  4  45  15  -  -  -  60 
+Introdução a Industria Avançada    Controle Analógico  O  4  45  15  -  -  -  60 
+Conversores Estáticos e Eletromecânicos    Eletrônica de Potência   Máquinas Elétricas  O  4  45  15  -  -  -  60 
+Sistemas a Eventos Discretos    Sistemas Digitais  O  4  60  -  -  -  -  60 
+Arquiteturas Avançadas para Computação    Eletrônica  O  4  60  -  -  -  -  60 
+Projeto de Circuitos Integrados    Dispositivos Eletrônicos  O  4  60  -  -  -  -  60 
+Operação e Controle de Sistemas Elétricos   Análise de Sistemas Elétricos de Potência  O  4  60  -  -  -  -  60 
+Geração de Energia Elétrica    Conversão Eletromecânica  O  4  45  15  -  -  -  60 
+Técnicas de Medição   Sistemas Elétricos de Potência  O  4  45  15  -  -  -  60 
+Segurança em Instalações e Serviços em Eletricidade  -  O  4  45  15  -  -  -  60

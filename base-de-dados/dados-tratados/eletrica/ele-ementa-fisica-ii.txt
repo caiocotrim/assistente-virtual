@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Física II
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+Física I
+Cálculo Diferencial e Integral I
+CO-REQUISITOS
+Física Experimental I
+Equilíbrio e Elasticidade. Oscilações. Fluidos. Ondas. Teoria Cinética dos Gases. Termodinâmica.
+HALLIDAY, D.; RESNICK R. W, J. Física 2 - Fundamentos de Física: Gravitação, Ondas e Termodinâmica.
+Rio de Janeiro: LTC, 2012.
+TIPLER, P. A.; MOSCA, G. Física para Cientistas e Engenheiros: Mecânica, Oscilações e Ondas e
+Termodinâmica. Volume I. Rio de Janeiro: LTC,
+2009.
+YOUNG, H. D.; FREEDMAN, R. A. SEARS E ZEMANSKY. Física II: Termodinâmica e Ondas. São Paulo: Addison Wesley, 2008.
+HALLIDAY, David; RESNICK, Robert; KRANE, K. S. Física 2. 5. ed. Rio de Janeiro: LTC, 2004.
+NUSSENZVEIG, H. M. Curso de física básica 2: fluidos, oscilações e ondas, calor. 4. ed. São Paulo: Edgard Blücher, 2004.
+ALONSO, M.; FINN, E. J. Física: um curso universitário: campos e ondas. São Paulo: E. Blücher, 1972.
+DAMO, H. S. Física experimental II: mecânica, rotações, calor, fluidos. 2. ed. Caxias do Sul: EDUCS, 1985.---
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear e cálculo vetorial.
+Volume II. 3. ed. Porto Alegre: Bookman, 2009.

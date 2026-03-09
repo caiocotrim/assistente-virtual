@@ -1,0 +1,31 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Máquinas Elétricas
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Conversão Eletromecânica
+60 15 0 0 0 75
+CO-REQUISITOS
+Aspectos construtivos. Máquinas síncronas: polifásicas, indutâncias das máquinas síncronas e
+circuitos equivalentes. Características a vazio e de
+curto-circuito, características e operação em regime permanente. Pólos salientes. Motores CA de imã
+permanente. Máquinas de indução trifásicas:
+introdução às máquinas de indução polifásicas, circuito equivalente, conjugado, ensaios e
+determinação dos parâmetros da máquina, efeitos da
+resistência do rotor, rotores bobinados e dupla gaiola. Máquinas de corrente contínua: ação do
+comutador, efeito da FMM na armadura, aspectos
+dos circuitos elétricos e magnéticos e desempenho no estado permanente. Máquina CC de imã
+permanente. Motores séries universais. Modelos
+dinâmicos das máquinas elétricas. Máquinas de relutância variável e motores de passo. Motores
+monofásicos e bifásicos. Noções dos motores
+especiais. Modelagem computacional aplicada na análise de máquinas elétricas.
+DEL TORO, Vincent. Fundamentos de Máquinas Elétricas. Editora LTC.
+FITZGERALD, A. E.; KINGSLEY JUNIOR, C.; UMANS, S. D. Máquinas Elétricas: com Introdução à Eletrônica
+de Potência. 6. ed. Porto Alegre: Bookman,
+2006. 648p.
+BIM, Edson, Máquinas Elétricas e Acionamento, 3° Edição, Editora Campus, ISBN-10: 85-352-7713-7.
+S.J. CHAPMAN, Electric Machinery Fundamentals, New York: McGraw-Hill, 1998.
+MOHAN, Ned. Máquinas Elétricas e Acionamentos – Curso Introdutório. Editora: LTC, ano de 2015, ISBN: 9788521627623;
+KOSOW, Irving, Máquinas Elétricas e Transformadores, Editora Globo, 4° Edição, 1982, Porto Alegre;
+MARTIGNONI, Alfonso. Máquinas Elétricas de Corrente Contínua. São Paulo: EDART, 1995;
+NASAR, S. A. Máquinas elétricas. São Paulo: McGraw-Hill-Coleção Schaum, 1984.

@@ -1,0 +1,23 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Cálculo Numérico
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+Equações Diferenciais Ordinárias
+Introdução à Programação
+CO-REQUISITOS
+Sistemas numéricos e erros. Solução de equações não lineares. Solução de sistemas de equações
+lineares. Derivação e integração numérica.
+Interpolação e aproximação. Solução de equações diferenciais ordinárias.
+BARROSO, L. C. Cálculo Numérico (Com Aplicações). 2 ed. São Paulo: Harbra, 1987.
+RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo numérico: aspectos teóricos e computacionais. 2 ed. São
+Paulo: Pearson Makron Books, 2005.
+SPERANDIO, D. et al. Cálculo numérico: características matemáticas e computacionais dos métodos
+numéricos. São Paulo: Pearson, 2006.
+BURDEN, R. L.; FAIRES, J. D. Análise numérica. São Paulo: Cengage Learning, 2011.
+CHAPRA, S. C. Métodos numéricos aplicados com MATLAB para engenheiros e cientistas. 3 ed. Porto
+Alegre: McGraw-Hill, 2013.
+FRANCO, N.B. Cálculo Numérico. São Paulo: Pearson, 2006.
+PINCOVSKY, R. Elementos de cálculo numérico. 8 ed. Recife: Unicap, 1987.
+SANTOS, V. R. B. Curso de Cálculo Numérico. Rio de Janeiro: LTC, 1980.

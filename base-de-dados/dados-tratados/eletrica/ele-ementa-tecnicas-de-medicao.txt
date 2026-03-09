@@ -1,0 +1,20 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Técnicas de Medição
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Sistemas Elétricos de Potência
+45 15 0 0 0 60
+CO-REQUISITOS
+Teoria dos erros. Características operacionais de medidas elétricas e magnéticas. Transformadores
+para instrumentos. Medidores de energia
+elétrica monofásicos e trifásicos. Medição de energia elétrica em baixa e alta tensão. Normas para
+instalações de cabines de medição de energia.
+HELFROCK, Albert D. Instrumentação Eletrônica Moderna e Técnicas de Medição. Ed. Prentice Hall do Brasil, 1990.
+MEDEIROS FILHO, Sólon de, Fundamentos de Medidas Elétricas – Editora Guanabara Dois, S.A. .
+CAMPILHO, Aurélio Instrumentação Eletrônica. Métodos e Técnicas de Medição, FEUP Edições, 1ª edição, 2000.
+BEGA, Egidio Alberto et al. Instrumentação industrial. 2. ed. Rio de Janeiro: Interciência, 2006.
+FILHO, S. M. Fundamentos de Medidas Elétricas, 2ª. ed. , Rio de Janeiro, Editora Guanabara Dois,1981.
+GUSSOW, M., Eletricidade básica, 2ª Edição, Makron Books, 2008.
+ROBBINS, A. H.; MILLER, W. C. Análise de circuitos: Teoria e prática. Cengage, 2010, v.1.
+ROBBINS, A. H.; MILLER, W. C. Análise de circuitos: Teoria e prática, Cengage, 2010, v.2.

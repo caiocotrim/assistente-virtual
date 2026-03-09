@@ -1,0 +1,27 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Física Experimental I
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Física I
+0 60 0 0 0 60
+CO-REQUISITOS
+Física II
+Tratamento estatístico de dados. Experimentos de Mecânica Geral: Medidas, Força de Atrito, pêndulo
+simples, pêndulo físico, Sistema massa-mola,
+Queda livre, Composição de força, Lançamento de projeteis, Ondas estacionárias. Experimentos de
+Termodinâmica: Calorimetria, Dilatação Linear,
+Experimento de óptica: Difração, Refração, Reflexão.
+CAMPOS, A. A.; ALVES, E. S.; SPEZIALI, N. Física experimental básica na universidade. 2. ed. Belo Horizonte: UFMG, 2008.
+DAMO, H. S. Física experimenta II: mecânica, rotações, calor, fluidos. 2. ed. Caxias do Sul: EDUCS, 1985.
+VUOLO, J. H. Fundamentos da teoria de erros. 2. ed. São Paulo: Edgard Blücher Ltda.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 2: Gravitação, Ondas e Termodinâmica. 9.
+ed. Rio de Janeiro: LTC, 2012.
+HELENE, O. A. M.; VANIN, V. R. Tratamento Estatístico de Dados em Física Experimental. 2. ed. São
+Paulo: Edgard Blücher. 1991.
+PERUZZO, J. Experimentos de Física Básica: Mecânica. 1. ed. São Paulo: Livraria da Física, 2013.
+PERUZZO, J. Experimentos de Física Básica: Termodinâmica, ondulatória e Óptica. 1. ed. São Paulo:
+Livraria da Física, 2013.
+PIACENTINI, J. J.; GRANDI, B. C. S.; HOFMANN, M. P.; LIMA, F R. R. DE; ZIMMERMANN, E. Introdução ao
+laboratório de física. 2. Ed. Florianópolis
+SC: Editora da UFSC, 2005.---

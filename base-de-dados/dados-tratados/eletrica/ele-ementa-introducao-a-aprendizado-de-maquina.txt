@@ -1,0 +1,30 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Introdução a Aprendizado de Máquina
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+45 15 0 0 0 60
+Análise de Sinais e Sistemas
+Cálculo Numérico
+CO-REQUISITOS
+Conceitos básicos sobre aprendizado de máquina. Aprendizado supervisionado: regressão e
+classificação; regressão linear; regressão logística;
+máquinas de vetores de suporte; árvores de decisão; aprendizagem Bayesiana. Aplicações em análises
+de dados. Aprendizado não-supervisionado:
+clustering; redução de dimensionalidade; detecção de anomalias. Aplicações em análises de dados.
+Redes neurais de aprendizado profundo:
+Algoritmos de backpropagation e otimização por gradiente descendente; Redes convolucionais,
+recursivas, de camada densa; arquiteturas de redes
+de aprendizado profundo. Aplicações em detecção em imagem. Aprendizado por esforço.
+HAYKIN, Simon S. Redes Neurais: princípios e prática. 2. ed. Porto Alegre: Bookman, 2001.
+FACELI, Katti. Inteligência artificial: uma abordagem de aprendizado de máquina. Rio de Janeiro: LTC, 2015.
+GRUS, J.; NASCIMENTO, W. Data science do zero. Rio de Janeiro: Alta Books, 2016.
+BISHOP, C. M., Pattern Recognition and Machine Learning. Springer, 2006. [Online]. Available:
+https://www.microsoft.com/en
+us/research/publication/pattern-recognition-machine-learning.
+Data Science Academy. Deep Learning Book, 2022. [Online]. Disponível em: https://www.deeplearningbook.com.br.
+GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A.; Deep Learning, 2016, MIT Press. [Online]. Available:
+https://www.deeplearningbook.org/
+ZHANG, A., LIPTON, Z. C., LI, M., SMOLA, A. J., Dive into Deep Learning, 2021. [Online]. Available: https://d2l.ai.
+NIELSEN, M. A.; Neural Networks and Deep Learning. Determination Press, 2015. [Online]. Available:
+http://neuralnetworksanddeeplearning.com

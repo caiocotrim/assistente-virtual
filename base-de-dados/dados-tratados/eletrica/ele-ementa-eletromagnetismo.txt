@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Eletromagnetismo
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 15 0 0 0 75
+Física III
+Cálculo Diferencial e Integral III
+CO-REQUISITOS
+Lei de Coulomb. Campo elétrico e lei de Gauss. Potencial elétrico. Equações de Poisson e de Laplace.
+Condições de contorno elétricas. Campo
+magnético. Lei de Biot-Savart. Lei da Ampère. Potenciais magnéticos escalar vetorial. Condições de
+contorno magnéticas. Leis de Faraday e Lenz.
+Indutância. Equações de Maxwell. Oscilações eletromagnéticas. Ondas Eletromagnéticas. Materiais
+condutores, isolantes e dielétricos.
+HAYT Jr, William H. Eletromagnetismo, Editora: LTC, 6ª Edição.
+SADIKU, M. N. O. Elementos de Eletromagnetismo. 3 ed. Porto Alegre: Bookman, 2004.
+HALLIDAY, David - Resnick, Robert - Walker, Jearl. Fundamentos de Física - Vol. 3 –
+Eletromagnetismo. Editora LTC, 6ª Edição, 2003.
+CLAYTON R. Paul, Eletromagnetismo para Engenheiros, ITC, Volume 1, Rio de Janeiro, 2006.
+KRAUS, J. D.; FLEISCH, D. A.; Electromagnetics with Applications. New York, McGraw-Hill 1992.
+EDMINISTER, J. A. Eletromagnetismo. São Paulo: McGraw-Hill do Brasil, 1980.
+SEELY, S. Introduction Electromagnetic Fields. Tokyo: Kogakusha Company, Ltd., International Student Edition, 1958.
+WENTWORTH, S.M., Fundamentos de Eletromagnetismo com Aplicações em Engenharia. Tradução Abelardo
+Podcameni, Gláucio Lima Siqueira.
+Rio de janeiro: Livros Técnicos e Científicos Editora S.A., 2006. 353p.

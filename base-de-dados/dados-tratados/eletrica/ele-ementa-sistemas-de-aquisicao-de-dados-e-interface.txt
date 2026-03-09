@@ -1,0 +1,25 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas de Aquisição de Dados e Interface
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Eletrônica
+45 15 0 0 0 60
+CO-REQUISITOS
+Conversores A/D em sistemas de aquisição de dados. Aquisição de dados e condicionamento de sinais
+para PCs e sistemas embarcados.
+Equipamentos DAQs. Circuitos de interfaces. Protocolos de interface tais como: UART, I2C, SPI, CAN,
+Bluetooth, Wi-Fi, etc. Uso de sensores para
+coleta de sinais tais como: temperatura, pressão, umidade, força, aceleração, etc. Interfaceamento
+de sistemas embarcados com o Labview.
+Projetos de sistemas de aquisição de dados.
+Data Acquisition Handbook: A reference for DAQ and Analog & Digital signal Conditioning. Measurement
+Computing, Third Edition.
+EMILIO, Maurizio de Paolo, Data Acquisition Systems: From Fundamentals to Applied Design. Springer, 2013
+DAWOUD, S. D. DAWOUD, P. Serial Communication Protocols and Standards RS232/485, UART/USART, SPI,
+USB, INSTEON, Wi-Fi and WiMAX.
+River Publishers, 2020.
+CAMERON, Neil. Electronics Projects with the ESP8266 and ESP32- Building Web Pages, Applications,
+and WiFi Enabled Devices. Apress Berkeley,
+CA, 2021.
+JENNINGS Richard, CUEVA, Fabiola. LabVIEW Graphical Programming, McGraw Hill; 5th edition; 2019.

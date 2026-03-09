@@ -1,0 +1,29 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas de Aterramentos e Projeto de SPDA
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Instalações Elétricas Prediais
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução: considerações preliminares, conceitos básicos, aplicações típicas, aterramento de
+sistema e sistema de aterramento, influência do
+aterramento no desempenho dos sistemas elétricos. Técnicas de medição em sistemas de aterramento:
+resistividade do solo, dependência da
+frequência dos parâmetros elétricos, resistência de aterramento e impedância impulsiva de
+aterramento. Instrumentação para medições de
+aterramento. Modelagem eletromagnética de aterramentos elétricos para fenômenos de baixa e alta
+frequências. Conceitos básicos de segurança
+pessoal. Filosofias de aterramento e projeto de sistemas de aterramento. Aplicações. Projeto de SPDA.
+VISACRO, S., Aterramentos elétricos, Artliber, São Paulo, 2002.
+KINDERMANN, G., CAMPAGNOLO, J. M., Aterramento elétrico, Sagra Luzzatto, a partir da 1ª Edição, Porto Alegre, 2002.
+ZANETTA, J. L. C., Transitórios eletromagnéticos em sistemas de potência, Edusp, São Paulo, 2003.
+GOMES, D. S. F., MACEDO, F. F. e GUILLIOD, S. M. Aterramento e proteção contra sobretensões em
+sistemas aéreos de distribuição, Coleção
+Distribuição de Energia Elétrica, Eletrobrás, EDUFF: Editora Universitária, Niterói 1990.
+VISACRO, S. Descargas atmosféricas: uma abordagem de engenharia, Artliber, São Paulo, 2005.
+LEITE, C. M. Técnicas de aterramentos elétricos: cálculos, projetos e softwares para aterramentos
+elétricos, São Paulo: Oficina de Mydia.
+PAUL, C. R. Electromagnetics for engineers: with applications to digital systems and electromagnetic
+interference, Wiley.
+STEVESON, W. D. Elementos de análise de sistemas de potência, a partir da 1ª Edição, McGraw-Hill.

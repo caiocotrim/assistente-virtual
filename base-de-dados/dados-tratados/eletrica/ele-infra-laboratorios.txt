@@ -1,0 +1,55 @@
+LABORATÓRIOS 
+Os laboratórios que compõem a estrutura do IFBA, campus de Vitória da Conquista 
+são  aqui  categorizados  como  ambientes  não  específicos  e  específicos  ao  curso  de 
+Engenharia Elétrica conforme ilustrado na Tabela 28. Os laboratórios não específicos são 
+os: química, física, informática, hidráulica e desenho técnico. A estrutura de laboratórios 
+não específicos está em consonância com as DCNs. Os laboratórios específicos são os de: 
+automação e controle, eletrônica e eletrotécnica, conforme indicado na Tabela 28. Assim 
+sendo, o curso dispõe de 17 laboratórios não específicos e 13 laboratórios específicos 
+totalizando 30 laboratórios que contribuem para atender atividades de ensino, pesquisa e 
+extensão.
+
+Tabela 28  – Laboratórios utilizados pelo curso. 
+Laboratórios de Estrutura Não Específica  Área (m2)  Bloco  Capacidade (Alunos/turma) 
+Laboratório de Higiene e Segurança do Trabalho  60  H308  15 
+Laboratório de Química Geral e Inorgânica  90  H304  20 
+Laboratório de Física I  90  E4  16 
+Laboratório de Física II  90  E6  16 
+Laboratório de Manutenção de Computadores  100  H401  16 
+Laboratório de Redes  108  H402  16 
+Laboratório  de  Infraestrutura  de  Redes  de 
+Computadores  108  H403  32 
+Laboratório  de  Configuração  de  Redes  de 
+Computadores  108  H404  32 
+Laboratório de Linguagens de Programação  90  H405  48 
+Laboratório de Sistemas Computacionais  108  H406  44 
+Laboratório de Metodologia e Desenvolvimento 
+de Software  108  H407  48 
+Laboratório de Metodologia e Desenvolvimento 
+Avançados de Software  90  H408  48 
+Laboratório de Informática   -  D02  15 
+Laboratório de Informática EAD  -  B12  18 
+Laboratório de Hidráulica  120  C04  30 
+Desenho Técnico 01  120  H08  40 
+Desenho Técnico 02  120  B08  40 
+Laboratório de Estrutura Específica  Área (m2)  
+
+Bloco  Capacidade (Alunos/turma) 
+Laboratório de Pesquisa   90  G1  20 
+Laboratório de Inovação e Estudos Estratégicos em Robótica e Indústria 4.0  90  G2  20 
+Laboratório de Sistemas Mecatrônicos  70  G3  20 
+Laboratório de Automação e Controle  70  G4  20 
+Laboratório de Automação Eletropneumática  20  D2  16 
+Laboratório  de  Instalações  Elétricas  Industriais, 
+Qualidade de Energia e Eletrônica de Potência  70  G5  20 
+Laboratório de Redes de Distribuição, Geração de 
+Energia, Energias Renováveis  70  G6  20 
+Laboratório  de  Máquinas,  Comandos  e 
+Acionamentos  de  Motores  e  Equipamentos Elétricos 70  G7  20 
+Laboratório  de  Instalações  Elétricas  Prediais  e Comandos Elétricos  70  G8  20 
+Laboratório do Club da Robótica  70  F3  20 
+Laboratório de Eletroeletrônica  70  F7  20 
+Laboratório de Eletrônica  50  D7  20 
+Laboratório de Prototipagem Eletrônica  50  D8  12 
+ 
+ 

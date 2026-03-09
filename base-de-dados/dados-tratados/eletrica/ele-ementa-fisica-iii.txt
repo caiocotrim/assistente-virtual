@@ -1,0 +1,24 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Física III
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 0 0 0 0 60
+Física II
+Cálculo Diferencial e Integral II
+CO-REQUISITOS
+Física Experimental II
+Carga e matéria. O campo elétrico. Lei de Gauss. Potencial elétrico, Capacitores e dielétricos.
+Corrente e resistência. Circuitos de corrente contínua.
+O Campo magnético e suas fontes. Lei de Ampère. Lei de Faraday. Introdução às Equações de Maxwell.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 3: Eletromagnetismo. 9. ed. Rio de Janeiro: LTC, 2012.
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros: eletricidade e magnetismo, óptica.
+Vol. 2. Rio de Janeiro: LTC, 2011.
+YOUNG, H. D; FREEDMAN, R. A. SEARS E ZEMANSKY. Física III: Eletromagnetismo. 10. ed. São Paulo: Addison Wesley, 2005.
+HALLIDAY, D.; RESNICK, R.; KRANE, K. S. Física 3. 5. ed. Rio de Janeiro: LTC, 2004.
+NUSSENZVEIG, H. M.. Curso de física básica, 3: eletromagnetismo. São Paulo: Edgard Blücher, 2009.
+CORREIA, J. J. Problemas resolvidos e comentados de eletrostática, eletrodinâmica e
+eletromagnetismo. Vitória da Conquista. UESB. 2010.
+LUIZ, A. M.. Física 3: Eletromagnetismo: teoria e problemas resolvidos. São Paulo: Livraria da Física, 2009.
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear e cálculo vetorial.
+Volume II. 3. ed. Porto Alegre: Bookman, 2009.

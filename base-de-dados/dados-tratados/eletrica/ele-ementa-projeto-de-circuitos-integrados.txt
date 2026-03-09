@@ -1,0 +1,32 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Projeto de Circuitos Integrados
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Dispositivos Eletrônicos
+60 0 0 0 0 60
+CO-REQUISITOS
+Introdução à tecnologia CMOS: transistores CMOS e lógica CMOS. Teoria dos transistores CMOS.
+Tecnologia de processamento CMOS.
+Caracterização de circuitos e estimação de desempenho. Simulação elétrica de circuitos. Metodologias
+estruturadas para concepção de circuitos
+integrados digitais. Projeto de circuitos CMOS: Estruturas lógicas, projeto elétrico e físico de
+portas lógicas, estratégias de geração de pulsos de
+relógio, estruturas de entrada e saída. Projeto de sistemas e métodos de projeto. Layout de
+sistemas. Projeto de subsistemas CMOS: Somadores,
+contadores binários, multiplexadores, memórias de acesso aleatório, registradores, unidades lógicas
+aritméticas e arranjos lógicos programáveis.
+BORGES, J.A. e E.A. Schmitz, Projetos de Circuitos Integrados, Livros Técnicos e Científicos Editora Ltda.
+WESTE N., Eshraghian K., "Principles of CMOS VLSI Design- A Systems Perspective", Addison-Wesley
+Publishing COmpany, 1988.
+JERRAYA, A A, DING H., Kission P., RAHMOUNI M., "Behavioural Syntehsis and Component reuse with
+VHDL", Kluwer Academic Publishers, 1997.
+PELLERIN D, D Taylor. VHDL Made Easy. Prentice Hall, 1996
+SAIT S., YOUSSEF H. VLSI Physical Design Automation. IEEE Press, 1995.
+OLDFIELD J., DORF C. Field Programmable Gate Arrays: Reconfigurable Logic for Rapid Prototyping and
+Implementation of Digital Systems. John
+Wiley & Sons, Inc., 1995.
+BARROS, E. Cavalcante, S., LIMA M. E. and VALDERRAMA, C. Hardware/Software Co-design: Projetando
+Hardware e Software Concorrentemente.
+Livro da Escola de Computação 2000, SBC.
+RICARDO A. L. reis, Concepção de Circuitos integrados. Série Livros didáticos. Editora Sagra Luzzatto, 2000.

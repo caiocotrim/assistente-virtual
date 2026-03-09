@@ -1,0 +1,62 @@
+RELAÇÃO DAS COMPONENTES EQUIVALENTES ENTRE AS MATRIZES 
+CURRICULARES 
+A Tabela 23 apresenta a relação de equivalência entre as componentes curriculares 
+existentes entre as versões PPC 2006 e PPC 2023. 
+ 
+Tabela 23 – Equivalência entre currículos 2006.1 e 2023.1 do curso. 
+CURRÍCULO 2006.1  CURRÍCULO 2023.1 
+Língua Portuguesa (45T)  Excluído 
+Ciências do Ambiente (45T)  Ciências do Ambiente (30T) 
+Química (60T+15P)  Química Geral (45T+15P) 
+Arquit. de Sistemas Digitais (60T+15P)  Excluído 
+Física Experimental (60P)  Física Experimental I (60P) 
+Mecânica Geral (60T+15P)  Mecânica dos Sólidos (60T) 
+Equações Diferenciais (60T)  Equações Diferenciais Ordinárias (60T) 
+Eletricidade e Magnetismo (60T)  Física III (60T) 
+Laborat. Eletricidade e Magnetismo (60P)  Física Experimental II (60P) 
+Circuitos Lógicos (60T+15P)  Sistemas Digitais (60T+15P) 
+Inexistente  Desenho Auxiliado por Computador (30T+15P) 
+Variáveis Complexas (60T)  Métodos Matemáticos para Engenharia (60T) 
+Processos Estocásticos (60T)  Excluído 
+Resistência dos Materiais (60T)  Resistência dos Materiais I (45T) 
+Princípios de Comunicações (60T+15P)  Princípios de Comunicações (60T) 
+Sistemas Elétricos (60T+15P)  Sistemas Elétricos de Potência (60T+15P) 
+Fenômenos de Transportes (60T+15P)  Fenômenos de Transportes (60T) 
+Economia (45T)  Economia (30T) 
+Inexistente  Combate a Incêndio (60T) 
+Materiais Elétricos (60T+15P)  Excluído 
+Instalações Elétricas (60T+15P)  Instalações Elétricas Prediais (60T+15P) 
+Instituições de Direito (45T)  Instituições de Direito (30T) 
+Sociologia Industrial (45T)  Sociologia (30T) 
+Metodologia de Pesquisa (45T)  Metodologia da Pesquisa Científica (30T) 
+Administração (45T)  Administração (30T) 
+Inexistente  Relações Étnico-Raciais (30T) 
+Projeto em Engenharia Elétrica (120P)  Projeto em Engenharia Elétrica I (30T) Projeto em Engenharia Elétrica II (30T) 
+Acionamentos Elétricos (60T)  Acionamentos de Máquinas Elétricas (30T+30P) 
+Conversores Estáticos e Eletromec. (60T)  Conversores Estáticos e Eletromec. (45T+15P) 
+Automação Inteligente (60T)  Controle Inteligente (45T+15P) 
+Instrumentação Eletrônica (60T)  Instrumentação Eletrônica (45T+15P) 
+Informática Industrial (60T)  Excluído 
+Sistemas em Tempo Real (60T)  Excluído 
+Inexistente  Robótica (45T+15P) 
+Inexistente  Sistemas Embarcados (45T+15P) 
+Inexistente  Tópicos Especiais em Automação I (45T+15P) 
+Inexistente  Tópicos Especiais em Automação II (45T+15P) 
+Circuitos para Comunicações (60T+15P)  Excluído 
+Estrutura e Concepção de Circuitos Integrados (60T)  Excluído 
+Sistema de Aquisição de Dados e Interface (60T+15P) Sistema de Aquisição de Dados e Interface (45T+15P) 
+Sistemas de Processamento de Áudio e Vídeo (60T+15P) Sistemas de Processamento de Áudio e Vídeo (45T+15P) 
+Filtros Elétricos (60T+15P)  Filtros Elétricos (45T+15P) 
+Inexistente  Introdução a Aprendizagem de Máquina (45T+15P) 
+Inexistente  Introdução a Carros Elétricos (45T+15P) 
+Inexistente  Tópicos Especiais em Eletrônica I (60T) 
+Distribuição de Energia Elétrica (60T)  Distribuição e Transmissão de Energia Elétrica (45T+15P) 
+Análise de Sistemas Elétricos (60T)  Análise de Sistemas Elétricos de Potência (45T+15P) 
+Gerenciamento de Energia (60T)  Gerenciamento de Energia e Manutenção Elétrica (45T+15P) 
+Técnicas de Medição (60T)  Técnicas de Medição (45T+15P) 
+Técnicas de Alta Tensão (60T)  Excluído 
+Inexistente  Instalações Elétricas Industriais (45T+15P) 
+Equipamentos Elétricos (60T+15P)  Subestações e Equipamentos Elétricos (45T+15P) 
+Inexistente  Sistemas de Aterramento e SPDA (45T+15P) 
+Inexistente  Qualidade de Energia (45T+15P) 
+Inexistente  Tópicos Especiais em Eletrotécnica I (45T+15P)

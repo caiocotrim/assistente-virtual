@@ -1,0 +1,20 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Robótica
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+Controle Analógico
+45 15 0 0 0 60
+CO-REQUISITOS
+Introdução a Robótica, Simuladores Robóticos, ROS (Sistema Operacional Robótica), Ferramentas
+computacionais, Inteligência artificial na robótica,
+Robótica móvel, Projeto de Robótica.
+WOLF, Denis; OSÓRIO Fernando. Robótica Móvel. LTC. 2014 .
+GRAIG, John. Robótica. 3a. Edição. PEARSON. 2012.
+CARVALHO André. Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina. LTC, 2011.
+Robot Operating System (ROS) __ www.ros.org
+SAEED Niku. Introdução à Robótica Analise, Controle, Aplicações. 2a.Edição. LTC. 2013.
+THRUN, S.; BURGARD, W. and FOX, D. Probabilistic Robotics.Intelligent Robotics and Autonomous Agents
+Series. MIT Press, Cambridge, MA, 2005.
+BOLTON, WILLIAM. Mecatrônica: Uma abordagem multidisciplinar. Bookman, 2010.
+SPONG, M.W., Hutchinson, S., Vidyasagar, M. Robot Dynamics and Control. John. Wiley & Sons, 2006.

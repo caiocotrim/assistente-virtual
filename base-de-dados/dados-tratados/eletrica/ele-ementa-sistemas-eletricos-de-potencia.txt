@@ -1,0 +1,26 @@
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA BAHIA - CAMPUS VITÓRIA DA CONQUISTA
+CÓDIGO
+Sistemas Elétricos de Potência
+PRÉ-REQUISITOS
+T P Ex Es ACC TOTAL
+60 15 0 0 0 75
+Cálculo Numérico
+Circuitos Elétricos II
+CO-REQUISITOS
+Circuitos trifásicos equilibrados e desequilibrados. Representação de sistemas elétricos.
+Componentes simétricas. Parâmetros elétricos de linhas de
+transmissão: resistência, indutância, capacitância, condutância. Modelagem de máquinas síncronas,
+transformadores, linhas de transmissão e carga.
+Valores percentuais e PU. Representação de redes trifásica por diagrama unifilar. Introdução à
+matriz de impedância e admitância na representação
+de redes. Componentes de Clarke. Análise computacional de sistemas elétricos de potência.
+OLIVEIRA, Carlos Cesar Barioni de et al. Introducão a sistemas elétricos de potência: componentes
+simétricas. São Paulo: E. Blucher, 2000. 467 p.
+STEVENSON W.D. Elementos de Analise de Sistema de potência. Mc Graw Hill do Brasil, 1994.
+ZANETTA Jr, C.L. Fundamentos de sistemas elétricos de potência. 1ª Ed. Editora Livraria da Física, 2006.
+KAGAN, Nelson. Métodos de Otimização Aplicados a Sistemas Elétricos de Potência. 1ª Ed. Editora Blucher, 2009.
+KUNDUR, P. Power System Stability and Control. EPRI, Power System Engineering Series. McGraw-Hill, 1994.
+ELGERD, I.O. Electric energy systems theory: an introduction. 2ª Ed., McGraw-Hill, 1982.
+MONTICELLI, A.J., GARCIA, A.V. Introdução à sistemas de energia elétrica. Editora Unicamp, 2003.
+DUNCAN, J. SARMA Mulukutla S. OVERBYE, Thomas. Power System Analysis and Design. 5.ed. Editora
+Cengage Learning, 2011. 793 p.
