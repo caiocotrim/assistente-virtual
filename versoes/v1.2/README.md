@@ -1,7 +1,6 @@
 # Documentação – Assistente Virtual  
 ## Versão 1.2
 
----
 
 ## 1. Sobre a Versão 1.2
 Esta é a terceira versão desenvolvida do Assistente Virtual e representa uma evolução significativa em relação à versão 1.1.  
@@ -69,7 +68,7 @@ load_dotenv()
 
 2. **langchain_community:** Classes e componentes que foram desenvolvidos e mantidos pela comunidade opensource do framework. Desse módulo foi utilizado o `FAISS` (*biblioteca para busca vetorial, onde armazena vetores - textos embedados - e faz busca semântica*), `DirectoryLoader` (*percorre todos os arquivos de um diretório utilizando um loader para cada*), `TextLoader ` (*abre e carrega um arquivo de texto*).
 
-3. **langchain_openai:** Integração oficial do LangChain com a OpenAI. Desse módulo foi utilizado `OpenAIEmbeddings` (*responsável por embedar - transformar o conteúdo dos arquivos da base de dados em vetores númericos*), `ChatOpenAI` (*abre um chat de conversa com um modelo do ChatGPT*).
+3. **langchain_openai:** Integração oficial do LangChain com a OpenAI. Desse módulo foi utilizado `OpenAIEmbeddings` (*responsável por embedar - transformar o conteúdo dos arquivos da base de dados em vetores númericos*), `ChatOpenAI` (*reponsável por realizar chamadas ao modelo de linguagem da OpenAI*).
 
  - OBS: Além dessas importações, foi utilizado também o `dotenv`, responsável por carregar e utilizar a minha chave API da OpenAI de forma segura e o `gradio` para utilizar uma interface de conversação pelo navegador.
 
@@ -109,7 +108,15 @@ retriever_eletrica = faiss_eletrica.as_retriever()
 retriever_quimica = faiss_quimica.as_retriever()
 retriever_geral = faiss_geral.as_retriever()
 ``` 
-*Explicação:* Após a importação das bibliotecas, se fez necessário a preparação dos dados. Tendo em vista que nessa versão foi utilizado dados de cursos diferentes, criamos uma base de dados para cada curso, para que não haja erro por similaridade semântica entre os documentos. Para isso, utilizamos o `DirectoryLoader` para encontrar os arquivos da nossa [base de dados tratada](/base-de-dados/dados-tratados/) de cada curso (e o **geral**, que serve como fonte para responder dúvidas que não se relacionam a nenhum curso) e o parâmetro `loader_cls=TextLoader` define que cada arquivo encontrado será carregado por meio do TextLoader, tendo em vista que os arquivos são **.txt**. Com os conteúdos dos arquivos encontrados, fizemos a utilização do método `.load()` na variável `loader` para retornar o conteúdo desses arquivos como documentos na variável `docs_txt`. Na segunda etapa, inicializamos `OpenAIEmbeddings()` na variável `embeddings`, que representa o modelo responsável por gerar os vetores numéricos a partir dos textos. Em seguida, criamos as variáveis `faiss_bsi`, `faiss_civil`, `faiss_eletrica`, `faiss_ambiental`, `faiss_geral`, `faiss_quimica` que corresponde aos nossos índices vetoriais `FAISS`. Nelas, utilizamos `FAISS.from_documents()` para gerar os embeddings dos documentos presentes em `docs_txt` de cada curso usando o modelo da OpenAI da variável `embeddings` e, ao mesmo tempo, armazenar esses vetores no índice `FAISS`. Por fim, utilizamos o método `as_retriever()` nas variáveis `retriever` de cada curso para adicionar um mecanismo de busca semântica no nosso índice vetorial (`FAISS`) e retornar apenas dois documentos. Ou seja, o trecho `retriever = base_vetores.as_retriever()` é responsável por receber um texto de entrada (um input, por exemplo) e buscar dois documentos com a semântica parecida no `FAISS`. 
+*Explicação:* Após a importação das bibliotecas, se fez necessário a preparação dos dados. Tendo em vista que nessa versão foi utilizado dados de cursos diferentes, criamos uma base de dados para cada curso, para que não haja erro por similaridade semântica entre os documentos. 
+
+Para isso, utilizamos o `DirectoryLoader` para encontrar os arquivos da nossa [base de dados tratada](/base-de-dados/dados-tratados/) de cada curso (e o **geral**, que serve como fonte para responder dúvidas que não se relacionam a nenhum curso) e o parâmetro `loader_cls=TextLoader` define que cada arquivo encontrado será carregado por meio do TextLoader, tendo em vista que os arquivos são **.txt**. Com os conteúdos dos arquivos encontrados, fizemos a utilização do método `.load()` na variável `loader` para retornar o conteúdo desses arquivos como documentos na variável `docs_txt`. 
+
+Na segunda etapa, inicializamos `OpenAIEmbeddings()` na variável `embeddings`, que representa o modelo responsável por gerar os vetores numéricos a partir dos textos. 
+
+Em seguida, criamos as variáveis `faiss_bsi`, `faiss_civil`, `faiss_eletrica`, `faiss_ambiental`, `faiss_geral`, `faiss_quimica` que corresponde aos nossos índices vetoriais `FAISS`. Nelas, utilizamos `FAISS.from_documents()` para gerar os embeddings dos documentos presentes em `docs_txt` de cada curso usando o modelo da OpenAI da variável `embeddings` e, ao mesmo tempo, armazenar esses vetores no índice `FAISS`. 
+
+Por fim, utilizamos o método `as_retriever()` nas variáveis `retriever` de cada curso para adicionar um mecanismo de busca semântica no nosso índice vetorial (`FAISS`) e retornar documentos relacionados com a chave de busca. Ou seja, o trecho `retriever = base_vetores.as_retriever()` é responsável por receber um texto de entrada (um input, por exemplo) e buscar documentos com a semântica parecida no `FAISS`. Vale ressaltar que quando **não é definido** um limite de documentos retornardos pela busca, o `as_retriever()` retorna 4 documentos por padrão.
 - OBS: O `retriever` não responde textos de entrada, apenas assimila e recupera documentos relevantes relacionados ao input por meio de busca semântica.
 
 ### 4.1.3 Classificação semântica do curso utilizando LLM

@@ -37,12 +37,12 @@ faiss_eletrica = FAISS.from_documents(docs_txt_eletrica, embeddings)
 faiss_quimica = FAISS.from_documents(docs_txt_quimica, embeddings)
 faiss_geral = FAISS.from_documents(docs_txt_geral, embeddings)
 
-retriever_bsi = faiss_bsi.as_retriever()
-retriever_civil = faiss_civil.as_retriever()
-retriever_ambiental = faiss_ambiental.as_retriever()
-retriever_eletrica = faiss_eletrica.as_retriever()
-retriever_quimica = faiss_quimica.as_retriever()
-retriever_geral = faiss_geral.as_retriever()
+retriever_bsi = faiss_bsi.as_retriever(search_kwargs={'k':3})
+retriever_civil = faiss_civil.as_retriever(search_kwargs={'k':3})
+retriever_ambiental = faiss_ambiental.as_retriever(search_kwargs={'k':3})
+retriever_eletrica = faiss_eletrica.as_retriever(search_kwargs={'k':3})
+retriever_quimica = faiss_quimica.as_retriever(search_kwargs={'k':3})
+retriever_geral = faiss_geral.as_retriever(search_kwargs={'k':3})
 
 llm = ChatOpenAI()
 
@@ -131,7 +131,6 @@ def responder(mensagem, historico):
     chain = ({"context": retriever, "question": RunnablePassthrough()} | prompt | llm)
     resposta = chain.invoke(mensagem)
     return resposta.content
-    
 
 interface = gradio.ChatInterface(fn=responder)
-interface.launch() 
+interface.launch()
