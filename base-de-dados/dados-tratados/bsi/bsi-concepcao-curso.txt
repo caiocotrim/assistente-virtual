@@ -1,0 +1,107 @@
+CONCEPÇÃO DO CURSO
+No mundo atual, é incontestável a influência da informática na vida das
+pessoas. Em comparação com a década de 1990, é fácil perceber que a difusão e a
+utilização   de   sistemas   informatizados,   nos   mais   diversos   tipos   de   atividades,
+provocaram uma verdadeira revolução em nosso cotidiano. O desenvolvimento de
+dispositivos eletrônicos, cada vez mais complexos e a um custo progressivamente
+menor,   foi   o   fator   crucial   que   impulsionou   o   desenvolvimento   tecnológico   da
+informática. Suas aplicações vão desde sistemas microcontrolados em automóveis a
+sistemas   computadorizados   em   satélites   de   comunicação;   de   aplicações   em
+eletrodomésticos ao controle da geração e distribuição de energia; da aquisição de
+imagens em câmeras fotográficas ao processamento de dados na medicina e na
+astronomia; das aplicações em bases de dados no controle do estoque de um
+pequeno   estabelecimento   comercial   ou   de   movimentações   financeiras
+internacionais.   Esses   são   apenas   exemplos   da   importância   dessa   área   de
+conhecimento e evidencia a necessidade estratégica de formação de profissionais
+especializados.
+A disseminação da Internet, na qual indivíduos, empresas e os mais variados
+tipos de instituições tornaram-se produtores de conteúdo, transformou o mundo em
+uma enorme base de dados ou, se preferir, em um enorme sistema de informações
+com atualizações em tempo real realizadas por milhares de pessoas, a cada
+instante.   O   impacto   imediato   disso   é   claramente   visível,   por   exemplo,   no
+crescimento do comércio eletrônico, na escalada do autoatendimento bancário, na
+popularização dos motores de busca e da inteligência artificial, na divulgação de
+conhecimento e mais recentemente no desenvolvimento de técnicas de Educação a
+Distância (EAD). Tal realidade foi evidenciada, por exemplo, durante a quadragésima
+segunda edição do congresso da Sociedade Brasileira de Computação (SBC) no
+ano de 2022, cuja temática foi “Empoderamento Digital: O Papel da Computação na
+Construção de uma Sociedade Inclusiva e Democrática”:
+Esse   tema   se   torna   bastante   relevante   diante   do   movimento   de
+transformação digital que se desenrola nos últimos anos, e que vem
+deslocando cada vez mais para o meio online as interações envolvendo
+empresas, governos e cidadãos para a troca de informação ou oferta de
+Projeto Pedagógico de Curso 11
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+produtos e serviços. Neste cenário, para que os membros da sociedade
+possam usufruir desses novos recursos, se integrando plenamente em suas
+comunidades, é necessário promover a formação de cidadãos capazes de
+interagir de forma produtiva no ciberespaço, mantendo comportamento ético
+e responsável. Para isso, não basta fornecer aos cidadãos os recursos
+tecnológicos básicos, garantindo sua inclusão digital. Além disso, é preciso
+garantir a eles o letramento digital, para que desenvolvam habilidades que
+lhes permitam contribuir de forma direta na construção e fortalecimento de
+uma sociedade mais justa e avançada. Isso inclui a compreensão dos
+processos de comunicação em dispositivos digitais e a avaliação de quais
+conteúdos são de qualidade, considerando as necessidades pessoais e
+sociais. Essas ações combinadas garantirão o empoderamento digital dos
+cidadãos, permitindo que tenham o acesso universal a informações e
+conferindo a eles a capacidade selecionar e interpretar essas informações,
+gerando conhecimento em rede e criando novos espaços e mecanismos
+físicos e virtuais de participação social, atributos fundamentais para a
+evolução das sociedades atuais (SBC, 2022).
+Isso reforça a necessidade estratégica de incentivar a formação de recursos
+humanos que atuem tanto na manipulação e divulgação de informações como em
+sua segurança e confiabilidade. Em outras palavras, formar indivíduos capazes de
+suprir a demanda por profissionais qualificados para atuar no desenvolvimento de
+software aplicado ao tratamento e manipulação da informação que se encontra
+disponível e de toda aquela que será gerada.
+Em análise feita pela Associação Brasileira de Empresas de Software
+(ABES) em relação ao desempenho do setor em 2020, lê-se:
+Embora os resultados da economia tenham sido bastante recessivos no
+mercado   interno,   os   investimentos   em   TI   apresentaram   crescimento,
+atingindo cerca de 2,8% do PIB, fazendo com que o Brasil recuperasse a 9ª
+posição no ranking mundial de TI. Da mesma maneira, o mercado brasileiro
+passou a representar 2,1% do mercado mundial de TI e 44% do mercado da
+América   Latina.   Se  olharmos  apenas  para   o  mercado   de   software   e
+serviços, o Brasil também retomou a 9ª posição no ranking mundial, com
+participação   de  1,8%,   recuperando   o   espaço   que   havia   perdido   para
+Holanda e Itália no ano de 2019 (ABES, 2021).
+Nessa mesma análise, apontou-se que cerca de 77,8% dos investimentos
+em softwares no ano de 2020 destinaram-se àqueles desenvolvidos no exterior.
+Além disso, afirma a ABES (2021):
+Este mercado é alimentado por cerca de 24.136 empresas, dedicadas ao
+desenvolvimento, produção e distribuição de software e de prestação de
+serviços. Daquelas que atuam no desenvolvimento e produção, 95% das
+empresas são classificadas como micro e pequenas empresas (ABES,
+2021).
+Projeto Pedagógico de Curso 12
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+No mesmo estudo da ABES, entre as tendências para o mercado brasileiro
+de software e serviços, são citadas o avanço do cloud como elemento-chave na
+infraestrutura   de   TI,   a   multiplicação   dos   recursos   de   inteligência   artificial
+embarcados, o impulsionamento de soluções de segurança e a aceleração da
+transformação das plataformas de gestão em direção à nuvem.
+O texto “Princípios para um Município Saudável para o Século XXI”, que faz
+parte do documento intitulado “Agenda 21, A Conquista do Futuro”, menciona, como
+meta buscar meios para que as atividades econômicas e as instituições em todos os
+níveis promovam o desenvolvimento humano de forma equitativa e sustentável em
+Vitória   da   Conquista.   Portanto,   inspirados   em   tal   meta,   levando   em   conta   a
+importância estratégica desta área do conhecimento e analisando o mercado de TI
+na microrregião de Vitória da Conquista, concluiu-se que seria de grande interesse a
+implantação de um curso de Bacharelado em Sistemas de Informação no IFBA.
+Os profissionais em Sistemas de Informação (SI) são capazes de analisar e
+propor soluções criativas no âmbito da TI, interagindo com diferentes áreas do
+conhecimento e intervindo na realidade de maneira empreendedora. Por isso, o
+Bacharel em Sistemas de Informação é um profissional capacitado para atuar no
+desenvolvimento   tecnológico   dos  sistemas   de   informação,   na   gerência   de
+departamentos de TI e de empresas do setor de software e serviços, no ensino de
+computação e ainda como empreendedor em sua área de atuação. O curso aqui
+proposto enfatiza o uso de laboratórios para capacitar adequadamente os egressos
+no uso eficiente das tecnologias nas organizações. Ele visa a formação de recursos
+humanos que venham suprir as necessidades das empresas, sendo os egressos
+capazes de desenvolver e gerenciar serviços e recursos de TI, construindo sistemas
+de informação adequados às necessidades das corporações. Sendo assim, o curso
+destaca-se pela formação de profissionais aptos a atuarem nos mais diversos ramos
+do tratamento e disseminação da informação, criando soluções que facilitem as
+atividades empresariais, tanto do setor público como do privado,  e em  portes
+variados.

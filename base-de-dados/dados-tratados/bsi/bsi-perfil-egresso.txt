@@ -1,0 +1,112 @@
+PERFIL DO EGRESSO
+As organizações contemporâneas têm na Tecnologia da Informação um
+elemento imprescindível, na medida em que as soluções tecnológicas automatizam
+processos e são fonte de vantagens competitivas através da análise de cenários, do
+apoio ao processo decisório e da definição e implementação de novas estratégias
+organizacionais.
+Assim, cresce a preocupação com a coleta, armazenamento, processamento
+e transmissão da informação na medida em que a disponibilidade da informação
+certa, no momento certo, possibilitando uma tomada de decisão mais assertiva, é
+requisito fundamental para a entrega de valor às organizações através da TI. Isso
+implica em considerar a crescente relevância dos sistemas de informação baseados
+em computadores como algo estratégico, criando assim uma crescente demanda
+por profissionais qualificados.
+A partir da importância dos sistemas de informação e das orientações
+fixadas pelas Diretrizes Curriculares para os cursos das áreas de Computação e
+Projeto Pedagógico de Curso 15
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+Informática (MEC, 1999), foram determinadas duas grandes áreas de atuação dos
+egressos do curso de Bacharelado em Sistemas de Informação. São elas:
+•Inovação, planejamento e gerenciamento da informação e da
+infraestrutura de tecnologia da informação alinhados aos objetivos
+organizacionais. Essa área de atuação corresponde à definição de
+estratégia   de   tecnologia   da   informação   levando   em   conta   seu
+alinhamento   com   a   estratégia   de   negócios   da   organização.   Tal
+alinhamento  tem desdobramentos no âmbito  dos processos e da
+infraestrutura organizacional e tecnológica, objetivando proporcionar
+vantagens   competitivas   para   a   organização.   Nesse   sentido,   o
+profissional de Sistemas de Informação atuará prioritariamente na
+prospecção de novas tecnologias da informação e no suporte e gestão
+da incorporação dessas tecnologias às estratégias, planejamentos e
+práticas organizacionais;
+•Desenvolvimento e evolução de sistemas de informação e da
+infraestrutura de informação para o uso em processos organizacionais,
+departamentais   e/ou   individuais.   Essa   área   corresponde   à
+implementação das estratégias de tecnologia da informação alinhadas
+com as estratégias de negócios, implicando na concretização nos
+níveis tático e operacional das soluções necessárias à inovação e
+flexibilidade organizacionais. Nessa área, o profissional de Sistemas de
+Informação atuará prioritariamente no desenvolvimento, implantação,
+gestão e evolução dos sistemas de informação e da infraestrutura de
+tecnologia da informação no âmbito organizacional, departamental e/ou
+individual de acordo com o alinhamento estratégico entre negócios de
+tecnologia da informação e dentro de uma perspectiva de melhoria
+contínua dos processos e produtos organizacionais.
+Dessa forma, o egresso terá condições de assumir um papel de agente
+transformador   do   mercado,   sendo   capaz   de   provocar   mudanças   através   da
+incorporação de novas Tecnologias da Informação na solução dos problemas e
+Projeto Pedagógico de Curso 16
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+propiciando novos tipos de atividades de acordo com a Resolução CNE/CES nº
+5/2016 (MEC, 2016), agregando:
+•Domínio de novas Tecnologias da Informação e de gestão da área de
+sistemas de informação, visando melhores condições de trabalho e de
+vida;
+•Conhecimento e emprego de modelos associados ao uso das novas
+Tecnologias da Informação e ferramentas que representam o estado da
+arte na área;
+•Conhecimento e emprego de modelos associados ao diagnóstico,
+planejamento, implementação e avaliação de projetos de sistemas de
+informação aplicados nas organizações;
+•Visão humanística consistente e crítica do impacto de sua atuação
+profissional na sociedade e nas organizações.
+•Seleção, configuração e gerenciamento de Tecnologias da Informação
+nas organizações;
+•Atuação nas organizações públicas e privadas para atingir os objetivos
+organizacionais, usando as modernas Tecnologias da Informação;
+•Identificação de oportunidades de mudanças e projeção de soluções
+usando tecnologias da informação nas organizações;
+•Comparação de soluções alternativas para demandas organizacionais,
+incluindo a análise de risco e a integração das soluções propostas;
+•Gerenciamento, manutenção e garantia da segurança dos sistemas de
+informação   e   da   infraestrutura   de   Tecnologia   da   Informação   das
+organizações;
+•Modelagem e implementação de soluções de Tecnologia de Informação
+em variados domínios de aplicação;
+•Aplicação de métodos e técnicas de negociação;
+Projeto Pedagógico de Curso 17
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+•Gerenciamento de equipes de trabalho no desenvolvimento e evolução
+de sistemas de informação;
+•Aprendizagem de novos processos de negócio;
+•Representação de modelos mentais dos indivíduos e do coletivo na
+análise de requisitos de um sistema de informação;
+•Aplicação   de   conceitos,   métodos,   técnicas   e   ferramentas   de
+gerenciamento de projetos em sua área de atuação;
+•Entendimento e projeção do papel de sistemas de informação na
+gerência de risco e no controle organizacional;
+•Aprimoramento da experiência das partes interessadas na interação
+com a organização, incluindo aspectos de humano-computador;
+•Identificação   e   projeção   de   soluções   de   alto   nível   e   opções   de
+fornecimento   de   serviços,   realizando   estudos   de   viabilidade   com
+múltiplos critérios de decisão;
+•Realização   de   estudos de   viabilidade   financeira   para   projetos  de
+Tecnologia da Informação;
+•Gerenciamento do desempenho das aplicações e da escalabilidade
+dos sistemas de informação.
+Dessa forma, entre outras atividades, o egresso deste curso poderá:
+•Desenvolver   sistemas   de   informação, desempenhando, para tal,
+entre outros, papéis de analista de sistemas, programador de sistemas,
+gerente de desenvolvimento de sistemas de informação, gerente de
+projetos   de   sistemas   de   informação   e   consultor/auditor   em
+desenvolvimento de sistemas de informação;
+•Atuar na infraestrutura de Tecnologia da Informação, pelo exercício
+de funções como a de analista de suporte, administrador de banco de
+Projeto Pedagógico de Curso 18
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+dados, gerente de rede de computadores, gerente de Tecnologia da
+Informação, consultor/auditor na área de infraestrutura, etc;
+•Atuar   na   gestão   e   governança   de   sistemas   de   informação,
+assumindo, para este propósito e a título de exemplo, atividades típicas
+de gerente de sistemas de informação e consultor/auditor em gestão de
+sistemas de informação

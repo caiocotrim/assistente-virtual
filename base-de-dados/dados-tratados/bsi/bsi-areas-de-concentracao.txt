@@ -1,0 +1,137 @@
+ÁREAS DE CONCENTRAÇÃO
+Para   que   os   discentes   tenham   uma   ampla   formação   no   curso   de
+Bacharelado   em   Sistemas   de   Informação,   os   conteúdos   formadores   de   sua
+profissão foram organizados em áreas de concentração distribuídas ao longo dos 8
+(oito) semestres letivos previstos para  a integralização e com objetivo de promover
+as habilidades e competências necessárias à formação, conforme Referenciais de
+Formação para os Cursos de Graduação em Computação definidos pela Sociedade
+Brasileira de Computação (Zorzo et al., 2017) e respeitando, além disso, Diretrizes
+Curriculares   Nacionais   homologadas   pela   Resolução   CNE/CES   nº   05/2016.
+Excetuando-se as componentes curriculares optativos, a distribuição dos demais
+componentes curriculares por área de concentração é apresentada no quadro
+abaixo:
+
+ÁREA DE CONCENTRAÇÃO COMPONENTE CURRICULAR CARGA HORÁRIA (HORAS) - Ciência da Computação (1/2):
+Algoritmos e Programação 60
+Complexidade de Algoritmos 60
+Estrutura de Dados 60
+Projeto Pedagógico de Curso 24
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+Fundamentos de Sistemas de Informação 60
+Inteligência Artificial 60
+Introdução à Ciência da Computação 60
+Linguagem de Programação I 60
+
+ÁREA DE CONCENTRAÇÃO COMPONENTE CURRICULAR CARGA HORÁRIA (HORAS)
+Ciência da Computação (2/2):
+Linguagem de Programação II 60
+Organização e Arquitetura de Computadores 60
+
+ÁREA DE CONCENTRAÇÃO COMPONENTE CURRICULAR CARGA HORÁRIA (HORAS)
+Matemática:
+Cálculo Diferencial Aplicado à Computação 60
+Matemática Discreta I 60
+Matemática Discreta II 60
+Probabilidade e Estatística 60
+
+Formação Complementar:
+Administração 60
+Computador, Ética e Sociedade 60
+Economia  60
+Empreendedorismo 60
+Inglês Aplicado à Computação 60
+Leitura e Produção de Gêneros Acadêmicos 60
+Metodologia da Pesquisa Científica 60
+Organização, Sistemas e Métodos 60
+
+Formação Humanística:
+Direito Cibernético 60
+Meio Ambiente 60
+
+Formação Tecnológica (1/2):
+Análise e Modelagem de Sistemas 60
+Banco de Dados I 60
+Banco de Dados II 60
+Desenvolvimento Distribuído na Internet 60
+Engenharia de Software 60
+Gestão de Projetos 60
+Gestão e Governança de TI 60
+Interface Homem-Máquina 60
+Qualidade de Software 60
+Programação para Dispositivos Móveis 60
+Programação Web I 60
+Programação Web II 60
+Projeto Pedagógico de Curso 25
+
+Formação Tecnológica (2/2):
+Processo de Desenvolvimento de Software 60
+Projeto e Administração de Redes 60
+Segurança da Informação 60
+Sistemas de Apoio à Decisão 60
+Sistemas Distribuídos 60
+Sistemas Operacionais 60
+Redes de Computadores 60
+
+Formação Extensionista:
+Atividades Curriculares de Extensão I 90
+Atividades Curriculares de Extensão II 90
+Atividades Curriculares de Extensão III 75
+Atividades Curriculares de Extensão IV 75
+
+Formação Suplementar:
+Trabalho de Conclusão de Curso I 60
+Trabalho de Conclusão de Curso II 60
+
+ÁREA DE CONCENTRAÇÃO 1º Sem 2º Sem 3º Sem 4º Sem 5º Sem 6º Sem 7º Sem 8º Sem TOTAL
+Ciência da Computação 180 120 120 0 60 60 0 0 540
+Formação Complementar 120 120 60 120 60 0 0 0 480
+Formação Extensionista 0 0 0 90 90 75 75 0 330
+Formação Humanística 0 0 60 0 0 0 0 60 120
+Formação Tecnológica 0 0 60 240 240 300 240 60 1.140
+Formação Suplementar 0 0 0 0 0 0 30 30 60
+Matemática 60 120 60 0 0 0 0 0 240
+TOTAL 360 360 360 450 450 435 345 150 2.910
+
+Além dos componentes curriculares obrigatórios, 180 horas são destinadas à
+componentes curriculares optativos ofertados a partir do sétimo semestre do curso,
+permitindo ao discente optar por outros componentes que serão incorporados ao seu
+histórico acadêmico, proporcionando, desta forma, flexibilidade ao currículo.
+A  escolha   dos   componentes   curriculares   optativos   a   serem   cursadas
+depende exclusivamente do discente, a partir da oferta semestral decidida pelo
+Colegiado do Curso. Recomenda-se que tanto a escolha como as ofertas de
+componentes curriculares opcionais sejam planejadas de acordo com os possíveis
+temas a serem abordados pelo  Trabalho de  Conclusão de  Curso  (TCC)  dos
+discentes, garantindo assim uma sintonia entre currículo e pretensões profissionais.
+A oferta semestral de componentes curriculares opcionais será baseada no
+interesse manifestado pelos discentes e em suas necessidades, bem como na
+possibilidade   e   interesse   do   Colegiado   do   Curso   em   ofertá-las.   Nesse   caso
+específico, cabe salientar que o número mínimo de discentes por turma será fixado
+pelo próprio Colegiado do Curso. A relação dos componentes curriculares opcionais
+a serem oferecidas é indicada na página seguinte, sendo elas reunidas em três
+grupos:
+
+GRUPO COMPONENTE CURRICULAR CÓDIGO CRÉDITOS CARGA HORÁRIA (HORAS)
+Desenvolvimento de Sistemas: 
+Arquitetura de Software OPT52 4 60
+Ciência de Dados OPT51 4 60
+Comércio Eletrônico OPT49 4 60
+Frameworks de Desenvolvimento OPT53 4 60
+Jogos Digitais OPT50 4 60
+
+Infraestrutura de Ambientes Computacionais:
+Cabeamento Estruturado e Redes 
+Ópticas OPT57 4 60
+Computação em Nuvem e Automação 
+De Infraestrutura OPT55 4 60
+Instalação e Configuração de Servidores
+de Rede OPT58 4 60
+Redes Sem Fio e Sistemas de 
+Comunicação Móvel OPT56 4 60
+Segurança de Redes de Computadores OPT54 4 60
+
+Gestão e Governança de Tecnologia da Informação:
+Auditoria de Sistemas OPT60 4 60
+Gestão Ágil de Projetos OPT62 4 60
+Gestão Estratégica Aplicada à TI OPT61 4 60
+Inteligência do Negócio OPT59 4 60
+Língua Brasileira de Sinais OPT63 4 60

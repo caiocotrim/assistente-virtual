@@ -1,0 +1,41 @@
+RELAÇÃO   DE   COMPONENTES   CURRICULARES   EQUIVALENTES
+ENTRE AS MATRIZES CURRICULARES
+No quadro abaixo, estão relacionadas os componentes curriculares que
+constavam   no   Projeto   Pedagógico   anterior   acompanhadas   dos   componentes
+curriculares equivalentes neste Projeto Pedagógico.
+Quadro 5: Equivalência entre componentes curriculares das matrizes curriculares do curso
+CURRÍCULO ANTERIOR CURRÍCULO ATUAL (ESTE PROJETO
+PEDAGÓGICO)
+Direito e Legislação em Informática (60h) Direito Cibernético (60h)
+Gestão Estratégica Executiva (60h)
+Gestão Estratégica de Informação (60h) Gestão Estratégica Aplicada à TI (60h)
+Segurança e Auditoria de Sistemas (60h) Segurança da Informação (60h)
+Auditoria de Sistemas (60h)
+Além   disso,   três   componentes   curriculares   que   constavam   no   Projeto
+Pedagógico anterior não foram mantidas (Contabilidade   Geral   e   de   Custos,
+Paradigmas   de   Linguagens   de   Programação  e  Redes   e   Aplicações   de   TV
+Digital   e   Interativa)   e   três   novas   componentes   curriculares   vieram   a   serem
+incorporadas (Ciência   de   Dados,  Gestão   Ágil   de   Projetos,  Jogos   Digitais,
+Programação   Web   I  e  Programação   Web   II). Por fim, demais componentes
+curriculares aqui não relacionadas foram mantidas sem alteração de carga horária.
+3.2.5 ENFOQUES DA FORMAÇÃO ACADÊMICA
+A estrutura curricular apresentada é baseada nas recomendações feitas pela
+Sociedade   Brasileira   de   Computação   (Zorzo  et al.,   2017)   e   nas   Diretrizes
+Curriculares Nacionais para os cursos de graduação na área da Computação
+instituídas pela Resolução CNE/CES nº 5/2016 (MEC, 2016), possibilitando vários
+enfoques de formação acadêmica que poderão ser seguidos de acordo com o
+interesse do discente. Dessa forma, o discente poderá escolher componentes
+curriculares que farão parte de seu histórico, ou seja, quais enfoques serão dados
+em sua formação, de acordo com seus interesses acadêmicos e profissionais. Isso é
+Projeto Pedagógico de Curso 31
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+possível   através  da   escolha   dos componentes  curriculares  optativos  a   serem
+cursadas, enquanto as componentes curriculares obrigatórios compõem o núcleo
+base de sua formação. Consideram-se como enfoques na formação curricular dos
+egressos, as seguintes linhas de conhecimento do curso:
+•Desenvolvimento de Sistemas;
+•Infraestrutura de Ambientes Computacionais;
+•Gestão e Governança de Tecnologia da Informação.
+O discente  poderá escolher cursar todas  as componentes  curriculares
+optativos em uma única linha ou em linhas diferenciadas, conforme suas pretensões
+profissionais e acadêmicas

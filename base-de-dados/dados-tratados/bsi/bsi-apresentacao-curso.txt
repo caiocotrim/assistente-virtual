@@ -1,0 +1,38 @@
+APRESENTAÇÃO DO CURSO
+O presente Projeto Pedagógico do Curso (PPC) de Sistemas de Informação
+foi   concebido   com   base   em   Referenciais   de   Formação   para   os   Cursos   de
+Graduação em Computação (Zorzo et al., 2017), buscando atender os fundamentos
+das Diretrizes Curriculares Nacionais para os cursos de graduação na área de
+Computação instituídas pela Resolução CES/CNE nº 5/2016 (MEC, 2016).
+Neste   sentido,   parte-se   da   concepção   de   que   formar   profissionais
+competentes significa habilitá-los a compreender e resolver situações complexas e
+interdependentes dentro de um contexto sociopolítico-econômico no qual o curso de
+Sistemas de Informação está inserido. Portanto, o presente Projeto Pedagógico tem
+como princípios básicos o desenvolvimento profissional e humanista do educando,
+de forma a contribuir para a formação de um cidadão com valores ético-morais de
+autossustentabilidade e totalidade crítica do trabalho humano.
+2.2 OBJETIVOS DO CURSO
+2.2.1 OBJETIVO GERAL
+A atuação do curso será norteada pelo objetivo geral de  possibilitar a
+formação   de   profissionais   capazes   de   atender   aos   desafios   da   sociedade
+contemporânea em contínua transformação e que atuem de forma cidadã na área de
+Sistemas   de   Informação,   com   ênfase   na   Tecnologia   da   Informação   e   suas
+aplicações.
+2.2.2 OBJETIVOS ESPECÍFICOS
+Associados ao objetivo geral do curso, são listados os seguintes objetivos
+específicos:
+•Propor condições para o crescimento tecnológico na área de Sistemas
+de Informação na região sudoeste do estado da Bahia;
+Projeto Pedagógico de Curso 14
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+•Atender a   carência   regional  em  relação   à  formação   de   recursos
+humanos na área de Sistemas de Informação;
+•Viabilizar a integração entre o meio acadêmico e a sociedade na área
+de Sistemas de Informação;
+•Oportunizar opções estratégicas e empreendedoras em tecnologias
+para as organizações regionais, com a finalidade de criação de novas
+empresas na área;
+•Fomentar junto aos discentes, através da prática docente, a formação
+humanística   para   o   desenvolvimento   da   crítica   e   reflexão   sobre
+aspectos éticos, políticos, sociais e econômicos em relação à área de
+Sistemas de Informação.
