@@ -1,0 +1,33 @@
+
+97  
+ 
+Equações Diferenciais Ordinárias CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II e Álgebra Linear. 
+EMENTA: Equações diferenciais ordinárias lineares de 1ª e 2ª ordem e aplicações. 
+Equações lineares de ordem superior. Resolução de equações diferenciais em séries de 
+potência. Equação de Bessel. Funções de Bessel. Funções ortogonais. Equações de 
+Legendre. Polinômio de Legendre. 
+BIBLIOGRAFIA BÁSICA: 
+BOYCE, W. E.; DIPRIMA,R. C. Equações Diferenciais Elementares e Problemas de 
+Valores de Contorno.7ed. Rio de Janeiro: LTC, 2002. 
+BRONSON, R.; COSTA, G. Equações Diferenciais. Coleção Schaum. 3. ed. Porto Alegre: 
+Bookman, 2008. 
+ZILL, D. G. Equações diferenciais com aplicações em modelagem. 2.ed. São Paulo: 
+Cengage Learning, 2011. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+FIGUEIREDO, D. G.; NEVES, A. F. Equações Diferenciais Aplicadas.3ed. Rio de Janeiro: 
+IMPA 2007. 
+MATOS, M. P. Séries e Equações Diferenciais. São Paulo: Prentice Hall, 2001. 
+11exemplares. 
+MOTTA, A. Equações Diferenciais: introdução. Florianópolis: Publicação do IF-SC, 2009. 
+ZILL, D. G.; CULLEN, M. R. Equações Diferenciais. 3ed. São Paulo: Makron Books, 2001. 
+v.1 
+STEWART, J. Cálculo. V. 2. 7. ed. São Paulo: Cengage Learning, 2013. 
+ 
+ 

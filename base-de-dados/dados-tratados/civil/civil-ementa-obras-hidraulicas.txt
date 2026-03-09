@@ -1,0 +1,39 @@
+
+ 
+Obras Hidráulicas CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Hidráulica 
+EMENTA: Aproveitamentos hidráulicos: finalidades, impactos, descrição de elementos 
+constitutivos. Reservatórios: diagramas cota-área-volume, caudabilidade: curvas de massa e 
+de diferenças totalizadas. Barragens de gravidade: analise de estabilidade, segurança ao 
+tombamento e deslizamento, tensões no solo. Projeto duma seção estável e econômica. 
+Vertedores para barragens: especificação do perfil, coeficiente de vazão, método para 
+dimensionamento dum vertedor livre: equação do balanço de massa. Bacias de dissipação: 
+análise da localização do ressalto para diferentes situações, dimensionamento duma bacia de 
+dissipação simples. Projetos de 
+obras hidráulicas. Impactos ambientais de Obras Hidráulicas. 
+BIBLIOGRAFIA BÁSICA: 
+TOMAZ, P. Cálculos hidrológicos e hidráulicos para obras municipais: piscinões, 
+galerias, bueiros, canais. São Paulo: Navegar, 2002. 475 p. 
+NEVES. E. T. Curso de hidráulica. 2 ed. Porto Alegre: Globo, 1970. 577 p. 
+TUCCI, C. E. M. (org.) Hidrologia: ciência e aplicação. 3. ed. Porto Alegre: Editora da 
+UFRGS/ABRH, 2001. 973 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica. 9 ed. 
+São Paulo: Edgard Blucher, 2015. 632p. 
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. 8. ed. São Paulo: Edgard 
+Blücher,1998. 669p. 
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. 2. ed.São Paulo: Edgard 
+Blücher, 1969.356p. 
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. São 
+Paulo: Cengage Learning, 2014. 526 p. 
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa: EDUFPB, 
+2009. 460 p. 
+ 
+ 
+ 

@@ -1,0 +1,26 @@
+  
+84  
+Álgebra Vetorial e Geometria Analítica CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Álgebra de vetores no plano e no espaço tridimensional. Retas. 
+Planos. Cônicas. 
+BIBLIOGRAFIA BÁSICA: 
+LEHMANN, C. H. Geometria analítica. 8 ed. São Paulo: Globo, 2007. 
+REIS, G. L.; SILVA, V. V. Geometria analítica. 2 ed. Rio de Janeiro: LTC, 2007. 
+STEINBRUCH, A.; WINTERLE, P. Geometria analítica. 2 ed. São Paulo: Makron Books, 
+2004. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOLDRINI, J. L. et al. Álgebra Linear. 3 ed. São Paulo: Harbra, 1986. 
+CAMARGO, I.; BOULOS, P. Geometria analítica: um tratamento vetorial. São Paulo: 
+Pearson Hall, 2005. 
+IEZZI, G.; MURAKAMI, C. Fundamentos de matemática elementar: 7: geometria 
+analítica. 4 ed. São Paulo: Atual, 1993. 
+LIMA, E. L. Geometria Analítica e Álgebra Linear. 2 ed. Rio de Janeiro: IMPA, 2006. 
+MACHADO, A. S. Álgebra Linear e Geometria Analítica. 2 ed. São Paulo: Moderna, 2005. 
+ 

@@ -1,0 +1,29 @@
+Tratamento de Água CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Materiais de Construção II e Abastecimento de Água. 
+EMENTA: Sistema carbonato, parâmetros de qualidade e definição de processos de 
+tratamento, coagulação, floculação, sedimentação e decantação, filtração, flotação a ar 
+dissolvido, desinfecção, fluoretação, projeto de estações de tratamento de água. 
+BIBLIOGRAFIA BÁSICA: 
+RICHTER. C. A.AZEVEDO NETTO, J. M. Tratamento de água: tecnologia atualizada. 
+São Paulo: Editora Blucher, 1991. 332 p. 
+VIANNA, M. R. Casas de química para estações de tratamento de água. Belo 
+Horizonte: Imprimatur, 2001. 576 p. 
+PÁDUA, V. L. (Coord.). Remoção de microrganismos emergentes e microcontaminantes 
+orgânicos no tratamento de água para abastecimento humano. Rio de Janeiro: ABES, 
+2009. 392 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+DI BERNARDO, L. Algas e suas influências na qualidade das águas e nas tecnologias de 
+tratamento. Rio de Janeiro: ABES, 1995. 140 p. 
+GARCEZ, L. N. Elementos de engenharia hidráulica e sanitária. 2 ed. São Paulo: Blucher, 
+1969. 356 p. 
+LEME, F. P. Teoria e técnicas de tratamento de água. 2 ed. Rio de Janeiro: ABES, 1990. 
+610 p. 
+DI BERNARDO, L. Tratamento de água de abastecimento por filtração em múltiplas 
+etapas. Rio de Janeiro: ABES, 1999. 114 p. 
+RICHTER, C. Água: métodos e tecnologia de tratamento. São Paulo: Blucher, 2009. 340 p. 

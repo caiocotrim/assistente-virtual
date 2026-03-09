@@ -1,0 +1,35 @@
+
+Física Experimental I CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 0 
+PRÁTICA 60 4 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Física I. 
+EMENTA: Tratamento estatístico de dados. Experimentos de Mecânica Geral: Medidas, 
+Força de Atrito, pêndulo simples, pêndulo físico, Sistema massa-mola, Queda livre, 
+Composição de força, Lançamento de projeteis, Ondas estacionárias. Experimentos de 
+Termodinâmica: Calorimetria, Dilatação Linear. 
+BIBLIOGRAFIA BÁSICA: 
+CAMPOS, AGOSTINHO A.; ALVES, ELMO SALOMÃO; SPEZIALI, NIVALDO. 
+Física experimental básica na universidade. 2. Ed. Belo Horizonte: UFMG, 2008. 213 p. 
+DAMO, H. S. Física experimenta lI: mecânica, rotações, calor, fluidos. 2. Ed. Caxias do Sul: 
+EDUCS, 1985. 103p. 
+VUOLO, JOSÉ HENRIQUE. Fundamentos da teoria de erros. São Paulo: Edgard Blücher, 
+1992. 225 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+PIACENTINI, JOÃO J.; GRANDI, BARTIRA C.S.; HOFMANN, MÁRCIA P.; LIMA, 
+FLAVIO R.R. DE; ZIMMERMANN, ERIKA. Introdução ao laboratório de física. 2. Ed. 
+Florianópolis-SC: Editora da UFSC, 2005. 119 p. 
+HELENE, O. A. M.; VANIN, V. R. Tratamento Estatístico de Dados em Física 
+Experimental. 2. ed. São Paulo: Edgard Blücher. 1991. 105 p. 
+PERUZZO, J. Experimentos de Física Básica: Mecânica. 1. Ed. São Paulo: Livraria da 
+Física, 2013. 
+PERUZZO, J. Experimentos de Física Básica: Termodinâmica, ondulatória e Óptica. 1. 
+Ed. São Paulo: Livraria da Física, 2013. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 2: Gravitação, Ondas 
+e Termodinâmica. 9. ed. Rio de Janeiro: LTC, 2012. 
+ 
+ 
+ 

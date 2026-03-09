@@ -1,0 +1,30 @@
+
+Eletricidade Aplicada CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Física III e Física Experimental II 
+EMENTA: Tensão, corrente, potencia e energia. Condutores e isolantes. Corrente continua 
+e alternada. Fasores. Circuitos monofásicos e trifásicos. Instrumentos dedição de 
+grandezas elétricas. Noções de geração, transmissão e distribuição de energia elétrica. 
+Introdução ás instalações elétricas e normas técnicas. Conceitos básicos de luminotécnica. 
+Projeto de instalações elétricas prediais. Dimensionamento de condutores e proteção para 
+motores de pequeno porte. Aterramento e para-raios. 
+BIBLIOGRAFIA BÁSICA: 
+CREDER, H. Instalações elétricas.14 ed. São Paulo: Editora LTC, 2006. 479 p. COTRIM, 
+A. A. M. B. Instalações elétricas. São Paulo: Editora Prentice Hall, 2005. 678 p. 
+NISKIER, J.; MACINTYRE, A. J. Instalações elétricas. 4 ed. São Paulo: Editora LTC, 
+2000. 550 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+NEGRISOLI, M. E. M. Instalações elétricas: projetos prediais em baixa tensão. São Paulo: 
+Editora Edgard Blucher, 1987. 178 p. 
+BOSSI, A.; SESTO, E. Instalações elétricas, 1. São Paulo: Hemus, 2002 556 p. BOSSI, A.; 
+SESTO, E. Instalações elétricas, 2. São Paulo: Hemus, 2002 556 p. MAMEDE FILHO, J. 
+Instalações elétricas industriais: exemplo de aplicação de projeto. 6 ed. Rio de Janeiro: 
+LTC, 2001. 
+CAVALIN, G. CERVELIN, S. Instalações elétricas prediais: conforme norma NBR- 
+5410:2004. 18 ed. São Paulo: Érica. 2008. 434 p. 
+ 

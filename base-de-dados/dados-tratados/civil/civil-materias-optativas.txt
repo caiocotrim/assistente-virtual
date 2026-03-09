@@ -1,0 +1,36 @@
+ESTE ARQUIVO CONTÉM AS MATÉRIAS DE COMPONENTES CURRICULARES OPTATIVOS 
+ 
+SÃO ELAS:
+
+Empreendedorismo CARGA HORÁRIA 
+Gestão da Qualidade CARGA HORÁRIA 
+Gestão de Pessoas CARGA HORÁRIA 
+Filosofia e Ética 
+LIBRAS CARGA HORÁRIA 
+Direito Aplicado à Segurança do Trabalho CARGA HORÁRIA 
+Tratamento de Água CARGA HORÁRIA 
+Projeto de Aterro Sanitário CARGA HORÁRIA 
+Tratamento de Efluentes CARGA HORÁRIA 
+Captação e Manejo de Água de Chuva CARGA HORÁRIA 
+Reuso de Águas Residuárias em Regiões Semiáridas 
+Meteorologia e Climatologia CARGA HORÁRIA 
+Geomática CARGA HORÁRIA 
+Alvenaria Estrutural CARGA HORÁRIA 
+Pontes CARGA HORÁRIA 
+Pré-Moldados CARGA HORÁRIA 
+Análise Estrutural por computador CARGA HORÁRIA 
+Planejamento e Controle de Obras CARGA HORÁRIA (h) CRÉDITOS 
+Gerenciamento de Materiais de Construção CARGA HORÁRIA 
+Concretos Especiais 
+Barragens de Terra e Enrocamento CARGA HORÁRIA 
+Aeroportos, Portos e Vias Navegáveis CARGA HORÁRIA 
+Pavimentação CARGA HORÁRIA 
+Técnicas de Programação CARGA HORÁRIA 
+Língua Portuguesa CARGA HORÁRIA 
+Gestão Integrada de Bacias Hidrográficas CARGA HORÁRIA 
+Combate a Incêndio II CARGA HORÁRIA 
+Estabilidade de Taludes 
+Métodos Matemáticos para Engenharia CARGA HORÁRIA 
+Engenharia de Transportes CARGA HORÁRIA  
+Conservação de Rodovias CARGA HORÁRIA 
+Operações Unitárias CARGA HORÁRIA

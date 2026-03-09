@@ -1,0 +1,31 @@
+Tratamento de Efluentes CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Obras Hidráulicas e Saneamento Básico 
+EMENTA: Caracterização de efluentes líquidos. Objetivos do tratamento de águas 
+residuárias. Processos de tratamento: aeróbios e anaeróbios. Tratamento preliminar. 
+Tratamento primário. Tratamento secundário. Tratamento terciário. Dimensionamento de 
+Estações de Tratamento de Efluentes. Memorial descritivo e memória de cálculo de 
+dimensionamento. Normatização. 
+BIBLIOGRAFIA BÁSICA: 
+VON SPERLING, M. Princípios básicos do tratamento de esgotos. 2.ed. Belo Horizonte: 
+DESA/UFMG, 2008. 428p. 
+VON SPERLING, M. Lodos ativados. 2.ed. Belo Horizonte: UFMG, 2002. 428p. MENDONÇA, 
+Sérgio Rolim . Lagoas de estabilização e aeradas mecanicamente: novos conceitos. João Pessoa: 
+S. Rolim Mendonça, 1990. 388 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+FLORÊNCIO, L.; BASTOS, R. K. X.; AISSE, M. M. (Coord.). Tratamento e utilização de 
+esgoto sanitário. Rio de Janeiro: ABES, 2006. 427 p. 
+CAMPOS, J. R. (Coord.). Tratamento de esgotos sanitários por processo anaeróbio e 
+disposição controlada no solo. Rio de Janeiro : ABES , 1999. 464 p. (Programa de pesquisa 
+em saneamento básico - Esgoto). 
+SCHNEIDER, R. P.; TSUTIYA, M. T. Membranas filtrantes para o tratamento de água, esgoto 
+e água de reuso. São Paulo: ABES, 2001. 234 p. 
+ANDREOLI, C. V. Lodo de fossa e tanque séptico: caracterização, tecnologias de 
+tratamento, gerenciamento e destino final. Rio de Janeiro: ABES, 2009. 388 p. 
+ANDREOLI, C. V.; FERNANDES, F.; VON SPERLING, M. Lodo de esgoto: tratamento e 
+disposição final. Belo Horizonte: UFMG, 2001. 484 p. 

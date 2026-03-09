@@ -1,0 +1,29 @@
+  
+Cálculo Numérico 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Equações Diferenciais e Introdução à Programação. 
+EMENTA: Sistemas numéricos e erros. Solução de equações não lineares. Solução de 
+sistemas de equações lineares. Derivação e integração numérica. Interpolação e aproximação. 
+Solução de equações diferenciais ordinárias. 
+BIBLIOGRAFIA BÁSICA: 
+BARROSO, L. C. et al. Calculo numérico: (com aplicações).2.ed. São Paulo: 
+Harbra,1987.367p. 
+RUGGIERO, M. A. G.; LOPES, V. da. R. Cálculo numérico: aspectos teóricos e 
+computacionais. 2. ed.São Paulo:Makron Books, 2005. 406p. 
+SPERANDIO, D. et al.Cálculo numérico: características matemáticas e computacionais dos 
+métodos numéricos.São Paulo: Pearson Prentice Hall,2003. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+PINCOVSKY, R. Elementos de cálculo numérico. 8ed. Recife: Unicap, 1987. 
+SANTOS, V. R. B. Curso de Cálculo Numérico. Rio de Janeiro: LTC,1980. 
+STEWART, J. Cálculo. 6. ed. São Paulo: Cengage Learning, 2010. v 1. 
+STEWART, J. Cálculo. 7ed. São Paulo: Cengage Learning, 2013. v. 1. 
+ZILL, D. G. Equações diferenciais com aplicações em modelagem. 2. ed. São Paulo: 
+Cengage Learning, 2011. 
+104 
+105  

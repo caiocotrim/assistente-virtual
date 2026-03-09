@@ -1,0 +1,29 @@
+Pré-Moldados CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto II 
+EMENTA: Introdução às estruturas pré-fabricadas. Classificação geral das estruturas pré
+fabricadas. Componentes estruturais. Estudo das ligações. Estudos das lajes de 
+continuidade. Estudo das pré-lajes e pré-vigas. Reologia das estruturas pré-fabricadas. Casos 
+especiais: estruturas de contenção pré-fabricadas. Estruturas industriais. Estacas. 
+BIBLIOGRAFIA BÁSICA: 
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 9062 – 
+Projeto e Execução de Estruturas de Concreto Pré-Moldado. Rio de Janeiro: 
+ABNT, 2001. 37 p. 
+SANTOS, S. P. Ligações de estruturas pré-fabricadas de betão. São Paulo: LNEC, 1985 
+EL DEBS, M. K. Concreto pré-moldado: fundamentos e aplicações. São Carlos: EESC-USP, 2000. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 1. 7 ed. São 
+Paulo: Edgard Blucher, 2014. 525 p. 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 2. 4 ed. São 
+Paulo: Edgard Blucher, 2015. 339 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: casos especiais de 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1979. 161 p. 
+LEONHARDT, F. Construções de concreto – v. 4: verificação da capacidade de utilização. 
+Rio de Janeiro: Interciência, 1979. 210 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto – v. 3: princípios básicos sobre 
+a armação de estruturas de concreto armado. Rio de Janeiro: Interciência, 2007. 273 p. 

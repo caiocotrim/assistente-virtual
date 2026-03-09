@@ -1,0 +1,45 @@
+ 
+Estruturas de Madeira CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 4
+ 5 
+3 
+PRÁTICA 0 0 
+TOTAL 4
+ 5 
+3 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Estruturas Hiperestáticas e Materiais de Construção II 
+EMENTA: Estruturas de Madeira: Aspectos Gerais e Campo de Aplicação das Estruturas de 
+Madeira. Propriedades Físicas e Mecânicas da Madeira. Segurança nas estruturas de madeira. 
+Dimensionamento e Verificação de Barras tracionadas, comprimidas, fletidas, 
+flexotracionadas e flexocomprimidas. Dimensionamento e Verificação de Ligações por 
+Entalhe e com Conectores. Projetos Estruturais em Madeira. 
+BIBLIOGRAFIA BÁSICA: 
+MOLITERNO, A. Projeto de telhados em estruturas de madeira. São Paulo: Edgard 
+Blucher. 1992. 268 p. 
+PFEIL, W. Estruturas de madeira. Rio de Janeiro: LTC, 2003. 
+REBELLO, Y. Estruturas de aço, concreto e madeira. São Paulo: Zigurate, 2010. 376 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+SZUCS, C. A.; TEREZO, R. F.; VALLE, A.; MORAES, P. D. Estruturas de madeira. 
+Florianópolis: UFSC, 2015. 219 p. Disponível 
+em:<https://moodle.ufsc.br/pluginfile.php/1313798/mod_resource/content/0/Apostilam a 
+deiras2015-1.pdf>. Acesso em: 14 de março de 2017. 
+BARALDI, L. T.; CALIL JÚNIOR, C. Estruturas de madeira. São Carlos: USP, 2002. 142 
+p. Disponível em:<http://www.set.eesc.usp.br/cadernos/ nova_versao/pdf/cee18.pdf>. Acesso 
+em: 14 de março de 2017. 
+MARTINS, R. S. P.; DONADON, B. F.; MASCIA, N. T. Exercícios de estruturas de 
+madeira. Campinas: UNICAMP, 2014. 34 p. Disponível 
+em:<http://www.fec.unicamp.br/~nilson/apostilas/apostila_exer_est_mad.pdf>. Acesso em: 
+14 de março de 2017. 
+GESUALDO, F. A. R. Estruturas de madeira: notas de aula. Uberlândia: Universidade 
+Federal de Uberlândia, 2003. 98 p. Disponível 
+em:<http://usuarios.upf.br/~zacarias/Notas_de_Aula_Madeiras.pdf>. Acesso em: 14 de 
+março de 2017. 
+CALIL JÚNIOR, C.; DIAS, A. A.; GÓES, J. L. N.; CHEUNG, A. B.; STAMATO, G. C.; 
+PIGOZZO, J. C.; OKIMOTO, F. S.; LOGSDON, N. B.; BRAZOLIN, S.; LANA E. 
+L. Manual de projeto e construção de pontes de madeira. São Carlos: Suprema, 2006. 252 
+p. Disponível em:<http://www.usp.br/agen/wp-content/uploads/Manual-de- Pontes-de
+Madeira.pdf>. Acesso em: 14 de março de 2017. 
+ 

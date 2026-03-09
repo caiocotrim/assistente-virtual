@@ -1,0 +1,33 @@
+Pontes CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto Armado II 
+EMENTA: Classificação. Indicações para o Projeto e Cálculo dos principais sistemas 
+construtivos para Superestruturas de Pontes em concreto armado. Indicações para o 
+Projeto e Cálculo dos elementos da Infra-estrutura. 
+BIBLIOGRAFIA BÁSICA: 
+MARCHETTI, O. Pontes de concreto armado. São Paulo: Edgard Blucher, 2009. 238 p. 
+FREITAS, M. Infra-estrutura de pontos de vigas: distribuição de ações horizontais – método 
+geral de cálculo. São Paulo: Edgard Blucher, 2001. 93 p. 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 2. 4 ed. São 
+Paulo: Edgard Blucher, 2015. 339 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+CALIL JÚNIOR, C.; DIAS, A. A.; GÓES, J. L. N.; CHEUNG, A. B.; STAMATO, G. C.; 
+PIGOZZO, J. C.; OKIMOTO, F. S.; LOGSDON, N. B.; BRAZOLIN, S.; LANA E. 
+L. Manual de projeto e construção de pontes de madeira. São Carlos: Suprema, 2006. 252 
+p. Disponível em:<http://www.usp.br/agen/wp-content/uploads/Manual-de- Pontes-de
+Madeira.pdf>. Acesso em: 14 de março de 2017. 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 1. 7 ed. São 
+Paulo: Edgard Blucher, 2014. 525 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: princípios básicos do 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1982. 305 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: casos especiais de 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1979. 161 p. 
+LEONHARDT, F. Construções de concreto – v. 4: verificação da capacidade de utilização. 
+Rio de Janeiro: Interciência, 1979. 210 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto – v. 3: princípios básicos 
+sobre a armação de estruturas de concreto armado. Rio de Janeiro: Interciência, 2007. 273 p. 

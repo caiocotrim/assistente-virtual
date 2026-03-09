@@ -10,10 +10,10 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI
 
 load_dotenv()
-loader_bsi = DirectoryLoader("../base-de-dados/dados-tratados/bsi", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
+loader_bsi = DirectoryLoader("../../base-de-dados/dados-tratados/bsi", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_bsi = loader_bsi.load()
 
-loader_civil = DirectoryLoader("../base-de-dados/dados-tratados/civil", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
+loader_civil = DirectoryLoader("../../base-de-dados/dados-tratados/civil", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_civil = loader_civil.load()
 # Loader dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
 """
@@ -38,8 +38,8 @@ faiss_eletrica = FAISS.from_documents(docs_txt_eletrica, embeddings)
 faiss_quimica = FAISS.from_documents(docs_txt_quimica, embeddings)
 """
 
-retriever_bsi = faiss_bsi.as_retriever(search_kwargs={"k": 2})
-retriever_civil = faiss_civil.as_retriever(search_kwargs={"k": 2})
+retriever_bsi = faiss_bsi.as_retriever()
+retriever_civil = faiss_civil.as_retriever()
 # Retrievers dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
 """
 retriever_ambiental = faiss_ambiental.as_retriever()
@@ -87,7 +87,6 @@ def responder(mensagem, historico):
 
     resposta = chain.invoke(mensagem)
     return resposta.content
-
 
 
 interface = gradio.ChatInterface(fn=responder)

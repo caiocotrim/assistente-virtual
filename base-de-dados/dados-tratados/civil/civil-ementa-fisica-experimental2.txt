@@ -1,0 +1,30 @@
+ 
+Física Experimental II. CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 0 
+PRÁTICA 60 4 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Cálculo Diferencial e Integral II, Física II e Física Experimental I. 
+EMENTA: Medidas elétricas. Campo Elétrico; Lei de Ohm; Circuito série e paralelo com 
+resistores; Diodos; Ponte de Wheatstone; Leis de Kirchhoff; Linhas equipotenciais. Circuito 
+RC, RL e RLC; Balança de Corrente; Campo Magnético de 
+um imã e de uma corrente; forças magnéticas sobre correntes; Lei de Lenz; Lei de Faraday; 
+Gerador de Funções; Osciloscópio. 
+BIBLIOGRAFIA BÁSICA: 
+PERUZZO, J. Experimentos de física básica – eletromagnetismo, física moderna e 
+ciências espaciais. 1.Ed. São Paulo: Livraria da Física, 2013. 
+HELENE, O. A. M.; VANIN, V. R. Tratamento estatístico de dados em física experimental. 
+2. ed. São Paulo: Edgard Blücher. 1991. 105p. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de física 3: Eletromagnetismo. 
+9. ed. Rio de Janeiro: LTC, 2012. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+GUSSOW, M. Eletricidade básica. 2. ed. S. Paulo. Makron Books. 2005. 639 p. 
+NUSSENZVEIG, H.  M. Curso de física  básica 3: eletromagnetismo. São  Paulo. Edgard 
+Blücher. 2009. 323 p. 
+CORREIA, J. J. Problemas resolvidos e comentados de eletrostática, eletrodinâmica e 
+eletromagnetismo. Vitória da Conquista, BA: UESB. 2010. 
+LUIZ, A. M. Física 3: eletromagnetismo: teoria e problemas resolvidos. São Paulo: 
+Livraria da Física, 2009. 260 p. 
+ 

@@ -1,0 +1,32 @@
+
+Física II CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Física I e Cálculo Diferencial e Integral I. 
+EMENTA: Equilíbrio e Elasticidade. Oscilações. Fluidos. Ondas. Teoria Cinética dos Gases. 
+Termodinâmica. 
+BIBLIOGRAFIA BÁSICA: 
+HALLIDAY, D.; RESNICK R. WALKER, J. Física 2 - Fundamentos de Física: 
+Gravitação, Ondas e Termodinâmica. Rio de Janeiro: LTC, 2012. 
+TIPLER, P. A.; MOSCA, G. Física para Cientistas e Engenheiros, Vol. 1: Mecânica, 
+Oscilações e Ondas e Termodinâmica. Rio de Janeiro: LTC, 2009. 
+YOUNG, HUGH D.; FREEDMAN, ROGER A. SEARS E ZEMANSKY. Física II: 
+Termodinâmica e Ondas. São Paulo: Addison Wesley, 2008 
+89  
+BIBLIOGRAFIA COMPLEMENTAR: 
+HALLIDAY, DAVID; RESNICK, ROBERT; KRANE, KENNETH S. Física 2. 5. ed. Rio de 
+Janeiro: LTC, 2004. 
+NUSSENZVEIG, Herch  Moysés. Curso de física básica, 2: fluidos, oscilações  e ondas, 
+calor. 4. ed. São Paulo: Edgard Blücher, 2004. 314 p. 
+ALONSO, MARCELO.; FINN, EDWARD J. Física: um curso universitário: campos e ondas. 
+São Paulo: E. Blücher, 1972. 565 p. 
+DAMO, H. S. Física experimenta lI: mecânica, rotações, calor, fluidos. 2. Ed. Caxias do Sul: 
+EDUCS, 1985. 103p. 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia:  álgebra linear e 
+cálculo vetorial. 3. ed. Porto Alegre: Bookman, 2009. v 2. 
+ 
+ 

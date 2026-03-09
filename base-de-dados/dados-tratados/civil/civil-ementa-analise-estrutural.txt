@@ -1,0 +1,31 @@
+Análise Estrutural por computador CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto II 
+EMENTA: Idealização Estrutural. Sistemas estruturais básicos e comportamento estrutural. 
+Associação de sistemas estruturais básicos. Conceitos básicos de análise matricial de 
+estruturas. Modelagem, concepção estrutural. Técnicas de modelagem de estruturas 
+reticuladas, laminares e sólidas. Simulação. Técnicas de simulação: Análise estática, de 
+estabilidade e dinâmica lineares. Processos para verificação de estabilidade lateral de edifícios 
+segundo as normas brasileiras. 
+BIBLIOGRAFIA BÁSICA: 
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 9062 – Projeto 
+e Execução de Estruturas de Concreto Pré-Moldado. Rio de Janeiro: ABNT, 2001. 37 p. 
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118. Projeto 
+de estruturas de concreto: procedimento. Rio de Janeiro: ABNT, 2014. 
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6120. Cargas 
+para o cálculo de estruturas de edificações. Rio de janeiro: ABNT. 1980. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+HIBBELER, R. C. Análise de estruturas, São Paulo: Pearson, 2013, 522 p. SORIANO, H. 
+L. Análise de estruturas: formulações clássicas Rio de Janeiro: Ed. Livraria da Física, 
+2016. 422 p. 
+SORIANO, H. L. Estática das estruturas. Rio de Janeiro: Ed. Ciência Moderna, 2014. 
+422 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 1. 7 ed. São Paulo: 
+Editora Edgard Blucher, 2013. 525 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 2. 4 ed. São Paulo: 
+Editora Edgard Blucher, 2015. 339 p. 

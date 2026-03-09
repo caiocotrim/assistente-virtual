@@ -1,0 +1,39 @@
+
+Estruturas de Aço CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Estruturas Hiperestáticas e Materiais de Construção II 
+EMENTA: Introdução as Estruturas de aço. Ações e segurança nas estruturas de aço. 
+Elementos tracionados. Elementos comprimidos. Elementos fletidos. Elementos sob flexão 
+composta. Ligações. Dimensionamento. Detalhamento. Fabricação e montagem. 
+BIBLIOGRAFIA BÁSICA: 
+BELLEI, I. H.; PINHO, F. O.; PINHO, M. O. Edifícios de múltiplos andares em aço. 2 ed. 
+São Paulo: PINI, 2008. 
+PINHEIRO, A. C. F. B. Estruturas metálicas: cálculo, detalhes, exercícios e projetos. São 
+Paulo: Edgard Blucher, 2005. 
+REBELLO, Y. Estruturas de aço, concreto e madeira. São Paulo: Zigurate, 2010. 376 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+MOTTA, L. A. C.; MALITE, M. Estruturas metálicas. São Carlos: USP, 2002. Disponível 
+em: http://www.set.eesc.usp.br/cadernos/nova_versao/pdf/cee20.pdf. Acesso em: 14 de março 
+de 2017. 
+SILVA, V. P. Dimensionamento de estruturas de aço. São Paulo: USP, 2012. 150 p. 
+Disponível em: <https://edisciplinas.usp.br/pluginfile.php/110863/mod_resource/ 
+content/0/apostila2012.pdf>. Acesso em: 14 de março de 2017. 
+ABECE - ASSOCIAÇÃO BRASILEIRA DE ENGENHARIA E CONSULTORIA 
+ESTRUTURAL. Execução de estruturas e aço. São Paulo: ABECE, 2010. 60 p. Disponível 
+em: http://site.abece.com.br/download/pdf/FolderExecucao10.12.pdf . Acesso em: 14 de março 
+de 2017. 
+PRAVIA, Z. M. C.; DREHMER, G. A. Estruturas de aço. Passo Fundo: Universidade de 
+Passo Fundo, 2004. 121 p. Disponível em: 
+<https://engenhariacivilfsp.files.wordpress.com/2014/02/est_aco_2004.pdf>. Acesso em: 14 
+de março de 2017. 
+FIGUEROA, M.; DIAS, R. Tipologias projetuais para estruturas metálicas v. 1. São 
+Paulo: Gerdau, 2012. 72 p. Disponível em: 
+<https://www.gerdau.com/br/pt/productsservices/products/Document%20Gallery/manu 
+al-tipologias-projetuais-estruturas-metalicas.pdf>. Acesso em: 14 de março de 2017. 
+ 
+ 

@@ -1,0 +1,54 @@
+Engenharia de Transportes CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OPTATIVO NÚCLEO: Específico 
+PRÉ-REQUISITO: Estradas e Rodovias  
+EMENTA:  O sistema de transportes. Componentes dos sistemas de transporte. 
+Organização e importância econômica do sistema de transporte. Mecânica da locomoção 
+de veículos ferroviários: Força motriz em locomotivas diesel-elétricas. Resistência ao 
+movimento. Velocidade de equilíbrio. Frenagem de trens. Comprimento máximo do 
+trem. Consumo de combustível. Mecânica da locomoção de veículos rodoviários: Força 
+motriz em veículos rodoviários. Resistência ao movimento. Velocidade de equilíbrio. 
+Frenagem de veículos rodoviários. Consumo de combustível. Pesos e dimensões de 
+veículos rodoviários. Fluxo de veículos e seu controle: Diagramas espaço-tempo. 
+Princípios fundamentais dos fluxos de veículos. Modelos macroscópicos de fluxo de 
+tráfego rodoviário. Modelos microscópicos de fluxo de tráfego rodoviário. Aplicações 
+de teoria das filas à análise de fluxos de tráfego. Fluxos de tráfego interrompidos. 
+Controle de tráfego ferroviário. Controle de tráfego rodoviário. Fluxo de veículos em 
+interseções: Cruzamentos semaforizados. Análise determinística de cruzamentos 
+semaforizados. Calibração de semáforos pelo método de Webster. Determinação do 
+tempo de entre-verdes. Instalações semafóricas. Cruzamentos não semaforizados. 
+Capacidade viária: Capacidade de vias férreas. Capacidade e nível de serviço de 
+rodovias. Fatores que afetam o nível de serviço e a capacidade de uma rodovia. 
+Capacidade e nível de serviço de auto-estradas. 
+ 
+BIBLIOGRAFIA BÁSICA: 
+CAMPOS, V.B.G. Planejamento de Transportes: Conceitos e Modelos. Rio de 
+Janeiro: Interciência, 2013. 
+BERTALANFFY, L. V. Teoria Geral dos Sistemas: Fundamentos, 
+Desenvolvimentos e Aplicações. 1ª . Edição, Editora Vozes, 2008. 
+PORTUGAL, L. S. Simulação de tráfego: conceitos e técnicas de modelagem. Rio de 
+Janeiro: 
+Interciência, 2005. 
+ 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BRASIL. Departamento Nacional de Infra-Estrutura de Transportes. Diretoria de 
+Planejamento e Pesquisa. Coordenação Geral de Estudos e Pesquisa. Instituto de 
+Pesquisas Rodoviárias. Manual de estudos de tráfego. - Rio de Janeiro, 2006. Disponível 
+em:<http://www1.dnit.gov.br/arquivos_internet/ipr/ipr_new/manuais/manual_estudos_
+ trafego.pdf>. Acesso em: 11/06/2015. 
+GOLDBARG, M. C.; LUNA, H. P. L. Otimização Combinatória e Programação 
+Linear: Modelos e Algoritmos. Rio de Janeiro: Elsevier, 2005. 
+NOVAES, A. G. Sistemas de Transportes. Vol. 1 – Análise da Demanda, Vol. 2 – 
+Análise da Oferta, Vol. 3 – Equilíbrio Oferta-Demanda. São Paulo. Editora Edgard 
+Blücher Ltda. 1986 
+MORLOK, E. K. Introduction to Transportation Engineering and Planning, 767 p., 
+McGraw-Hill Kogakusha, Ltd.,1978. 
+KAWAMOTO E. Análise do Sistema de Transportes, EESC, São Paulo, 1993 
+CHIAVENATO, I.; SAPIRO, A. Planejamento Estratégico. 2ª . ed. Rio de Janeiro: 
+Campus, 2009. 
+170  
+ 

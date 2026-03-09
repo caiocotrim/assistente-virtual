@@ -1,0 +1,28 @@
+
+98  
+ 
+Cálculo Diferencial e Integral III CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Álgebra Vetorial e Geometria Analítica e Cálculo Diferencial e Integral 
+II. 
+EMENTA: Funções de Várias Variáveis. Derivação Parcial. Derivada direcional. Máximos e 
+mínimos. Integrais múltiplas. Integrais de linha. Teorema de Green. Integrais de superfícies. 
+Teorema de Stokes. Teorema de Gauss ou da divergência. 
+BIBLIOGRAFIA BÁSICA: 
+LEITHOID, L. O Cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v 2 
+STEWART, J. Cálculo. 7. ed. São Paulo: Cengage Learning, 2013. v 2 
+THOMAS, G. et al. Cálculo. 10. ed. São Paulo: Pearson, 2002. v 2. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ÁVILA, G. Cálculo das funções de várias variáveis. 7 ed. Rio de Janeiro: LTC, 2004. 
+BOULOS, P. Introdução ao cálculo: cálculo diferencial: várias variáveis. 2 ed. São Paulo: 
+Edgard Blücher, 2009. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 2. 5 ed. Rio de Janeiro: LTC, 2011. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 3. 5 ed. Rio de Janeiro: LTC, 2010. 
+MORETTIN, P. A.; HAZZAN, S.; BUSSAB, W. O. Cálculo: funções de uma e várias 
+variáveis. São Paulo: Saraiva, 2005. 
+ 

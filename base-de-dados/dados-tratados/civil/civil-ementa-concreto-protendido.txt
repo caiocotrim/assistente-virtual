@@ -1,0 +1,30 @@
+Concreto Protendido CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 0 0 
+TOTAL 45 3 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto Armado II 
+EMENTA: Definição de concreto protendido. Propriedades mecânicas e reológicas do 
+concreto: resistência, fluência, retração e efeito da temperatura. Aços para concreto 
+protendido: características, propriedades mecânicas, relaxação e efeitos de temperatura. 
+Processos e equipamentos de protensão, ancoragem, emendas de cabos, grau de protensão, 
+injeções. Perdas de protensão. Análise de tensões no regime elástico em lajes. Análise de 
+tensões no regime elástico em vigas isostáticas. Dimensionamento à flexão nos estados limites 
+últimos e de utilização. Dimensionamento ao cisalhamento. 
+Vigas contínuas protendidas. Prescrições de normas. 
+BIBLIOGRAFIA BÁSICA: 
+CHOLFE, L. Concreto protendido: teoria e prática. São Paulo: PINI, 2016. 345 p. 
+LEONHARDT, F. Construções de concreto: concreto protendido. Rio de Janeiro: 
+Interciência, 1983. 316 p. 
+ROCHA, A. M. Novo curso prático de concreto armado: cálculo das estruturas de 
+concreto protendido. 2 ed. Rio de Janeiro: 1972. 323 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 1. 7 ed. São Paulo: 
+Edgard Blucher, 2014. 525 p. 
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo, v. 2. 4 ed. São Paulo: 
+Edgard Blucher, 2015. 339 p. 
+LEONHARDT, F.; MONNIG, E. Construções de concreto: princípios básicos do 
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência, 1982. 305 p. 
+BAUD, G. Manual de pequenas construções: alvenaria e concreto armado. Curitiba:

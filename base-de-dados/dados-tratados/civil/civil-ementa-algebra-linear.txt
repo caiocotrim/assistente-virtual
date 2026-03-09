@@ -1,0 +1,25 @@
+  
+Álgebra Linear 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Álgebra Vetorial e Geometria Analítica 
+EMENTA: Matrizes e sistemas de equações lineares. Espaços vetoriais. Transformações 
+lineares. Determinantes. Autovalores e auto vetores. Diagonalização de operadores. 
+BIBLIOGRAFIA BÁSICA: 
+BOLDRINI, J. L.; COSTA, S. I. R.; FIGUEIREDO, V. L.; WETZLER, H. G. Álgebra 
+linear. São Paulo: Harbra, 1986. 411 p. 
+ANTON, H.; RORRES, C. Álgebra linear. 2ed. São Paulo: Makron Books, 2005. CALLIOLI, 
+C. A.; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra linear e aplicações. 6ed. São Paulo: 
+Atual, 2003. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+LANG, S. Álgebra linear e suas aplicações. Rio de Janeiro: Ciência Moderna, 2003. 
+LIMA, E. L. Álgebra linear. 8 ed. Rio de Janeiro: IMPA, 2018. 
+LIPSCHUTZ, S.; L. M. Álgebra linear. 4 ed. Porto Alegre: Bookman, 2011. 
+POOLE, D. Álgebra linear. São Paulo: Thomson, 2004. 
+STEINBRUCH, A.; WINTERLE, P. Álgebra linear. 2 ed. São Paulo: Makron Books, 2005. 
+90 

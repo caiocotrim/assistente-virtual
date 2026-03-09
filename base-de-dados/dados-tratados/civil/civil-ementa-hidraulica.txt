@@ -1,0 +1,37 @@
+ 
+Hidráulica CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Fenômenos de Transporte 
+EMENTA: Ementa: Hidrometria: escoamento em orifícios, bocais, placas de orifício e 
+Venturi. Escoamento em condutos forçados: perdas de carga contínua e localizada, fórmula 
+universal e fórmulas empíricas. Distribuição em Marcha. Condutos equivalentes em série e 
+paralelo. Condutos interligado reservatórios. Instalações de recalque: bombas hidráulicas, 
+curvas características, seleção, diâmetro econômico e projeto. Órgãos acessórios das 
+instalações, reservatórios interligados. Golpe de aríete. 
+Associação de Bombas. 
+BIBLIOGRAFIA BÁSICA: 
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica. 9 ed. 
+São Paulo: Edgard Blucher, 2015. 632p. 
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. 8. ed. São Paulo: Edgard 
+Blücher,1998. 669p. 
+NEVES. E. T. Curso de hidráulica. 2 ed. Porto Alegre: Globo, 1970. 577 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. 2. ed.São Paulo: Edgard 
+Blücher, 1969.356p. 
+CREDER, H. Instalações hidráulicas e sanitárias. 6.ed. Rio de Janeiro:LTC,2011.423p. 
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. 
+São Paulo: Cengage Learning, 2014. 526 p. 
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa: EDUFPB, 
+2009. 460 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

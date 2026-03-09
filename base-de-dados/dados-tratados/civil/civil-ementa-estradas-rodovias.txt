@@ -1,0 +1,39 @@
+Estradas e Rodovias CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Topografia. 
+EMENTA: Classificação das rodovias e o conceito de nível de serviço; Escolha do traçado 
+de uma estrada; Elementos básicos para o projeto geométrico de rodovias; Características 
+técnicas para projeto; Curvas horizontais circulares; Curvas horizontais de transição; 
+Superelevação; Superlargura; Estudo do perfil longitudinal e o projeto de 
+curvas de concordância vertical. 
+BIBLIOGRAFIA BÁSICA: 
+ANTAS, P. M.; VIEIRA, A.; GONÇALO, E. A.; LOPES, L. A. S. Estradas: projeto 
+geométrico e de terraplanagem. São Paulo: Interciência, 2010. 282 p. 
+LEE, S. H. Introdução ao projeto geométrico de rodovias. Florianópolis: UFSC, 2015. 
+441 p. 
+BORGES, A. C. Topografia aplicada à engenharia civil v. 2. São Paulo: Blucher, 1977. 
+232 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BORGES, A. C. Topografia aplicada à engenharia civil v. 1. São Paulo: Blucher, 1977. 
+191 p. 
+COMASTRI, J. A.; TULER, J. C. Topografia: altimetria. 3 ed. Viçosa: UFV, 2005. 200 p. 
+BRASIL. DEPARTAMENTO NACIONAL DE ESTRADAS E RODAGEM. Diretrizes 
+básicas para elaboração de estudos e projetos rodoviários. Rio de Janeiro: DNER, 1999. 
+375 p. Disponível em: <http://www1.dnit.gov.br/download/DiretrizesBasicas.pdf>. Acesso 
+em: 14 de março de 2017. 
+BRASIL. DEPARTAMENTO NACIONAL DE ESTRADAS E RODAGEM. Manual de 
+projeto geométrico de rodovias rurais. Rio de Janeiro: DNER, 1999. 195 p. Disponível em: 
+<http://ipr.dnit.gov.br/normas-e
+manuais/manuais/documentos/706_manual_de_projeto_geometrico.pdf>. Acesso em: 14 de 
+março de 2017. 
+BRASIL. DEPARTAMENTO NACIONAL DE INFRA-ESTRUTURA DE TRANSPORTES. 
+Manual de conservação rodoviária. 2 ed. Rio de Janeiro: DNER, 2005. 195 p. Disponível 
+em: <http://ipr.dnit.gov.br/normas-e
+manuais/manuais/documentos/710_manual_de_conservacao_rodoviaria.pdf>. Acesso em: 14 
+de março de 2017. 
+ 
