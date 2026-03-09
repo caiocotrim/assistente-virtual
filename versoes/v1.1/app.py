@@ -24,11 +24,9 @@ docs_txt_eletrica = loader_eletrica.load()
 
 loader_quimica = DirectoryLoader("../../base-de-dados/dados-tratados/quimica", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_quimica = loader_quimica.load()
-# Loader dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
-"""
+
 loader_geral = DirectoryLoader("../../base-de-dados/dados-tratados/geral", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_geral = loader_geral.load()
-"""
 
 embeddings = OpenAIEmbeddings()
 
@@ -37,20 +35,14 @@ faiss_civil = FAISS.from_documents(docs_txt_civil, embeddings)
 faiss_ambiental = FAISS.from_documents(docs_txt_ambiental, embeddings)
 faiss_eletrica = FAISS.from_documents(docs_txt_eletrica, embeddings)
 faiss_quimica = FAISS.from_documents(docs_txt_quimica, embeddings)
-# Base de dados dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
-"""
 faiss_geral = FAISS.from_documents(docs_txt_geral, embeddings)
-"""
 
 retriever_bsi = faiss_bsi.as_retriever()
 retriever_civil = faiss_civil.as_retriever()
 retriever_ambiental = faiss_ambiental.as_retriever()
 retriever_eletrica = faiss_eletrica.as_retriever()
 retriever_quimica = faiss_quimica.as_retriever()
-# Retrievers dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
-"""
 retriever_geral = faiss_geral.as_retriever()
-"""
 
 llm = ChatOpenAI()
 
@@ -76,11 +68,8 @@ def escolher_retriever(mensagem):
         return retriever_eletrica
     if "química" in msg or "licenciatura em química" in msg or "lic química" in msg or "lic. química" in msg or "quimica" in msg or "química" in msg:
         return retriever_quimica
-    # Retrievers dos cursos abaixos estão comentados pois ainda não há dados tratados para eles
-    """
     else:
         return retriever_geral
-    """    
     return None
 
 def responder(mensagem, historico):

@@ -1,0 +1,75 @@
+MATÉRIAS POR SEMESTRE DO CURSO DE QUIMICA
+
+1º semestre
+Química Geral I
+Química Geral Experimental I
+História da Educação
+Leitura e Escrita Acadêmica
+Ciência, Tecnologia e Sociedade
+Matemática Básica
+Educação para Inclusão e Diversidade
+
+2º semestre
+Química Geral II
+Química Geral Experimental II
+Álgebra Aplicada à Química
+Filosofia da Educação
+Psicologia da Educação
+Informática Aplicada à Educação
+Cálculo Diferencial para Química
+
+3º semestre
+Cálculo Integral para Química
+Física l
+Física Experimental I
+Química Inorgânica I
+Química Inorgânica Experimental I
+Didática
+LIBRAS
+Probabilidade e Estatística
+
+4º semestre
+Física Experimental II
+Química Inorgânica II
+Química Inorgânica Experimental II
+Metodologia e Prática do Ensino em Químic EXENS
+Sociologia da Educação
+ACEX I
+
+5º semestre
+Química Orgânica I
+Química Orgânica Eperimental I
+Relações Étnico-Raciais e Educação
+Física III
+Metodologia da Pesquisa
+Estágio Supervisionado em Química I
+Metodologia e Prática do Ensino em Químic EXENS
+Políticas e Gestão da Educação
+
+6º semestre
+Físico-Química l
+Físico-Química Experimental I
+Quimica Analítica
+Químca Analítica Experimental I
+Química Orgânica II
+Química Orgânica Eperimental II
+Metodologia da Pesquisa do Ensino em Qui EXENS
+Estágio Supervisionado em Química II
+
+7º semestre
+Química Analítica lI
+Química Analítica Experimental II
+Físico-Química lI
+Físico-Química Experimental II
+Estágio Supervisionado em Química III
+Química Orgânica III
+Química Orgânica Experimental III
+ACEX II
+
+8º semestre
+Química Analítica Instrumental
+Bioquímica
+Estágio Supervisionado em Química IV
+TCC
+Química Ambiental
+ACEX III
