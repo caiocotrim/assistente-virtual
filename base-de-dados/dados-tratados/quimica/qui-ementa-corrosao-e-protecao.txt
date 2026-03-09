@@ -1,0 +1,29 @@
+CORROSÃO E PROTEÇÃO
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Optativa Período:
+Pré-Requisito:
+Química Geral II
+Coordenação:
+CLIQUI
+Ementa:
+Introdução. Conceito de Eletroquímica. Formas de corrosão, testes de corrosão. Proteção
+anticorrosiva (revestimentos metálicos, revestimentos orgânicos, proteção catódica,
+inibidores químicos).
+Objetivos:
+ Aprofundar nos conteúdos que versam sobre corrosão, nos mecanismos e formas de
+corrosão, bem como nos processos de proteção contra corrosão.
+BIBLIOGRAFIA BÁSICA:
+GENTIL, V. Corrosão. 3ª edição. Rio de Janeiro: LTC, 1996.
+GEMELLI, E. Corrosão de materiais metálicos e sua caracterização. São Paulo: LTC,
+2001
+BROWN, L. S. HOLME, T.A. Química aplicada à engenharia. São Paulo: Cengage
+Learning, 2010.
+BIBLIOGRAFIA COMPLEMENTAR:
+HILSDORF, J. W.; BARROS, N. D.; TASSINAR, C. A.; COSTA, I. Química Tecnológica.
+São Paulo: Cengage Learning, 2004.
+NUNES, L. P., LOBO, A. C. O. Pintura Industrial na Proteção Anticorrosiva. Rio de
+Janeiro: Editora Interciência Ltda, 1995.
+VIDELA, H. A. Corrosão microbiológica. São Paulo: Edgard Blucher, 1981.

@@ -1,0 +1,38 @@
+QUÍMICA ANALÍTICA
+INSTRUMENTAL
+Carga Horária (h) Créditos
+Teórica 30 2
+Prática 30 2
+TOTAL 60 4
+Obrigatória
+Período:
+Oitavo
+Pré-Requisito:
+Quí. Analítica I; Quí.
+Analítica
+Experimental I;
+Física III
+Coordenação:
+CLIQUI
+Ementa:
+Princípios básicos das técnicas instrumentais de análise química. Métodos óticos de análise:
+espectrofotometria de absorção molecular no visível e Ultravioleta, absorção e emissão
+atômicas. Métodos cromatográficos de análise – cromatografia gasosa e líquida. Aplicações
+das técnicas em meio ambiente, energia, alimentos e biocombustíveis.
+Objetivos:
+ Compreender os princípios básicos das técnicas de análise instrumental, e reconhecer suas
+principais aplicações em diferentes áreas.
+BIBLIOGRAFIA BÁSICA:
+HARRIS, D. C. Análise química quantitativa, 7. ed. Rio de Janeiro: LTC, 2008. (Título
+original: Quantitative chemical analysis; Tradução de: Jairo Bordinhão).
+SKOOG, A. D.; WEST, M. D.; HOLLER; CROUCH, S. R. Fundamentos de química
+analítica. 9. ed. São Paulo: Thomson, 2014.
+VOGEL, A. I. et al. Análise química quantitativa. 6. ed. Rio de Janeiro: LTC, 2002.
+BIBLIOGRAFIA COMPLEMENTAR:
+BACCAN, N. et al. Química analítica quantitativa elementar. 3. ed. São Paulo: Edgard
+Blücher, 2001.
+HAGE, D. S. e CARR, J. D. Química Analítica e Análise Quantitativa. 1. ed., Pearson
+Education, 2012.
+OHLWEILER, O. A. Química analítica quantitativa. 3. ed. Rio de Janeiro: LTC, 1982.
+SKOOG, D. A. HOLLER, F. J. NIEMAN, T. A. Princípios de análise instrumental. 5. ed.
+Porto Alegre: Bookman, 2008.

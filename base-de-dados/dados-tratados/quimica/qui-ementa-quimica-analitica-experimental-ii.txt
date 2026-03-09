@@ -1,0 +1,38 @@
+QUÍMICA ANALÍTICA
+EXPERIMENTAL II
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória
+Período:
+Sétimo
+Pré-Requisito:
+Quí. Analítica I e
+Quí. Analítica
+Experimental I
+Coordenação:
+CLIQUI
+Ementa:
+Princípios e técnicas de análise química. Aplicações da volumetria por oxirredução.
+Potenciometria direta: medidas de pH. Análise de amostras reais. Titulações
+potenciométricas. Determinações condutométricas.
+Objetivos:
+ Conhecer e aplicar as reações de oxirredução e os métodos instrumentais de análise na
+quantificação espécies químicas em amostras reais.
+BIBLIOGRAFIA BÁSICA:
+HARRIS, D. C. Análise química quantitativa, 7. ed. Rio de Janeiro: LTC, 2008. (Título
+original: Quantitative chemical analysis; Tradução de: Jairo Bordinhão).
+SKOOG, A. D.; WEST, M. D.; HOLLER; CROUCH, S. R. Fundamentos de química
+analítica. 9. ed. São Paulo: Thomson, 2014.
+VOGEL, A. I. et al. Análise química quantitativa. 6. ed. Rio de Janeiro: LTC, 2002.
+BIBLIOGRAFIA COMPLEMENTAR:
+BACCAN, N. et al. Química analítica quantitativa elementar. 3. ed. São Paulo: Edgard
+Blücher, 2001.
+HAGE, D. S. e CARR, J. D. Química Analítica e Análise Quantitativa. 1. ed. Pearson
+Education, 2012.
+MORITA. Manual de Soluções, Reagentes e Solventes. 2. ed. São Paulo: Edgard
+Blucher,2007.
+OHLWEILER, O. A. Química analítica quantitativa. 3.ed. Rio de Janeiro: LTC, 1982.
+SKOOG, D. A.; HOLLER, F. J.; NIEMAN, T. A. Princípios de análise instrumental. 5.
+ed. Porto Alegre: Bookman, 2008.

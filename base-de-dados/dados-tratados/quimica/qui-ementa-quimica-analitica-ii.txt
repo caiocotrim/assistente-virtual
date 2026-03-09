@@ -1,0 +1,37 @@
+QUÍMICA ANALÍTICA II
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória
+Período:
+Sétimo
+Pré-Requisito:
+Quí. Analítica I;
+Quí. Analítica
+Exp. I
+Coordenação:
+CLIQUI
+Ementa:
+Princípio dos métodos de oxirredução: Equação de Nernst. Equilíbrio e volumetria de
+oxirredução. Métodos de eletroanálise: potenciometria, condutometria.
+Objetivos:
+ Entender as reações de oxirredução e suas aplicações na quantificação de espécies
+químicas.
+ Compreender os princípios dos métodos instrumentais de química analítica e suas
+aplicações no cotidiano.
+BIBLIOGRAFIA BÁSICA:
+HARRIS, D. C. Análise química quantitativa, 7.ed. Rio de Janeiro: LTC, 2008. (Título
+original: Quantitative chemical analysis; Tradução de: Jairo Bordinhão).
+SKOOG, A. D.; WEST, M. D.; HOLLER; CROUCH, S.R. Fundamentos de química
+analítica. 9. ed. São Paulo: Thomson, 2014.
+VOGEL, A. I. et al. Análise química quantitativa. 6.ed. Rio de Janeiro: LTC, 2002.
+BIBLIOGRAFIA COMPLEMENTAR:
+BACCAN, N. et al. Química analítica quantitativa elementar. 3. ed. São Paulo: Edgard
+Blücher, 2001.
+HAGE, D. S.; CARR, J. D. Química Analítica e Análise Quantitativa. 1.ed. Pearson
+Education, 2012.
+OHLWEILER, O. A. Química analítica quantitativa. 3.ed. Rio de Janeiro: LTC , 1982.
+VOGEL, A. Química Analítica Qualitativa. 5. ed. Mestre Jou, 1981.

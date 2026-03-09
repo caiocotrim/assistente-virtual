@@ -1,0 +1,41 @@
+PROBABILIDADE E
+ESTATÍSTICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Obrigatória
+Período:
+Terceiro
+Pré-Requisito:
+Matemática
+Básica
+Coordenação:
+CDNC
+Ementa:
+Introdução aos Conceitos básicos. Técnicas de representação gráfica; Medidas
+representativas; Teoria Básica de probabilidade; Definição Clássica da probabilidade.
+Métodos de Enumeração; Operação com eventos; Variáveis discretas; Variáveis contínuas;
+Teoria da amostragem; Teoria das hipóteses e Estimativas; Correlação e Regressão. Números
+índices.
+Objetivo:
+ Ler e compreender tabelas, gráficos e demais instrumentos de aferição estatísticos de modo
+significativo. Compreender a Analise Combinatória a partir das combinações e arranjos na
+resolução de problemas do cotidiano.
+ Outorgar ao educando competências inerentes à elaboração de conjecturas e estratégias
+para resolver problemas que envolva Estatística e/ou Probabilidade.
+BIBLIOGRAFIA BÁSICA:
+FONSECA, J. S.; MARTINS, G. A. Curso de Estatística. 6. ed. São Paulo: Atlas, 1996.
+MORETTIN, P. A.; BUSSAB, W. O. Estatística básica. 8. ed. São Paulo: Saraiva, 2013
+TRIOLA, M. F. Introdução à estatística: atualização da tecnologia. Rio de Janeiro: LTC,
+2013.
+BIBLIOGRAFIA COMPLEMENTAR:
+BOLFARINE, H.; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard
+Blucher, 2007.
+CRESPO, A. A. Estatística fácil. 18.ed. São Paulo: Saraiva, 2008.
+CRESPO, A. A. Estatística fácil. 19. ed. São Paulo: Saraiva, 2009.
+SILVA, N. N. Amostragem Probabilística: um curso introdutório. 2.ed. 1 reimpressão.
+São Paulo: Edusp, 2004.
+TOLEDO, G. L.; OVALLE, I. I. Estatística básica. 2.ed. 24 reimpressão. São Paulo: Atlas,
+2011.
+4º SEMESTRE

@@ -1,0 +1,30 @@
+No Quadro 4  pode-se visualizar a relação dos componentes optativos. Além de 
+servirem  para o  aprofundamento  em  áreas  específicas  de interesse  dos  estudantes,  a  carga 
+horária  destes  componentes,  poderá  ser  contabiliza  como  parte  das  Atividades 
+Complementares. As ementas destes componentes estão no APÊNDICE I - EMENTÁRIO 
+Quadro 4 - Relação das disciplinas optativas. 
+Disciplina  Carga horária (h)  Total de 
+créditos  Pré-requisitos T  P  PE  E  TOT 
+Mineralogia  60        60  4  Química inorgânica I 
+Novos Materiais  60        60  4  Físico-química II 
+Inglês Instrumental  30        30  2  Não requer 
+Métodos Fitoquímicos  15  15      30  2  Química Orgânica II 
+Equações Diferenciais  60        60  4  Cálculo Integral para Química 
+Análise de Alimentos  60        60  4  Química Analítica I 
+Desenvolvimento de Software para o Ensino de Química 60        60  4  Informática Aplicada à Educação  
+Corrosão e Proteção  60        60  4  Química Geral II 
+Ética e Educação  30        30  2  Não requer 
+Educação e Trabalho  45    15    60  4  Não requer 
+Relações Interpessoais e Educação  60        60  4  Não requer 
+Análise Físico-química da Água  30  30      60  4  Química Analítica II 
+Físico-química III  45    15    60  4  Físico-química II e Física III 
+Tratamento de Águas e Efluentes  45    15    60  4  Química Analítica II 
+Tópicos Especiais em Química Orgânica  30        30  2  Química Orgânica I 
+História e Filosofia da Ciência para o Ensino de Química 30        30  2 Metodologia e Prática do Ensino de Química I 
+Currículo, Tecnologias e Diversidade na Escola  45    15    60  4  Não requer 
+Educação de Jovens, Adultos e Idosos  45    15    60  4  Não requer 
+Pesquisa Orientada  30          30  2  Não requer 
+Pesquisa em Educação e Formação de Professores  45    15      60  4  Não requer 
+Tópicos Especiais em Educação e Contemporaneidade 30        30  2  Não requer 
+Educação Ambiental e Direitos Humanos  60          60  4  Não requer 
+T – Teórica, P – Prática, PE – Prática de Ensino, E – Estágio Supervisionado, TOT – Total

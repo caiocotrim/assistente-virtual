@@ -1,0 +1,39 @@
+NOVOS MATERIAIS
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Optativa
+Período:
+Pré-Requisito:
+Físico-química II
+Coordenação:
+CLIQUI
+Ementa:
+Classificação de Materiais; Estrutura de Sólidos Cristalinos e não Cristalinos. Ligas
+Metálicas, Cerâmicos, Polímeros e Compósitos. Materiais Avançados. Propriedades
+Mecânicas de Materiais: (Deformação Elástica; Deformação Plástica) Diagrama de Fases de
+Materiais: Definição e Conceitos Básicos; Diagrama de Fases (Equilíbrio); Exemplos
+Clássicos. Transformações de Fase em Materiais. Necessidade de Novos Materiais: cristais
+líquidos, pigmentos, semicondutores, supercondutores, materiais granulares, filmes finos.
+Dispositivos em escalas nano e micrométricas, biomateriais.
+Objetivos:
+ Possuir noções básicas de Ciência e Engenharia de Materiais que lhes permitam
+compreender as relações entre as tecnologias de processamento dos materiais (composição
+química), a estrutura e as propriedades (física, química e biológica).
+ Adquirir conhecimentos básicos de seleção e otimização de materiais.
+ Compreender o estreitamento da relação entre a ciência dos materiais e a sustentabilidade
+do meio ambiente.
+BIBLIOGRAFIA BÁSICA:
+CALLISTER, W. D. Ciência e Engenharia de Materiais: Uma Introdução. 5ª Ed. São
+Paulo: LTC, 2002.
+FERRANTE, M. Seleção de materiais. 2ª ed. São Carlos: EdUFSCar, 2002.
+VAN VLACK, L. H.Princípios de Ciência e Tecnologia dos Materiais. 4ª ed. Traduzido
+por FERRAO, L. P. C. São Paulo: Editora Edgard Blücher, 1984.
+BIBLIOGRAFIA COMPLEMENTAR:
+HACKELFORD, J. Ciência dos materiais. São Paulo: Pearson, 2008.
+MANO, E. B. Introdução a polímeros.2ª Ed. São Paulo: Edgard Blucher, 1999.
+SANTOS, P. S. Ciência e tecnologia de argilas. Vol. 3. 2ª ed. São Paulo: Edgard Blucher,
+1992.
+SOUZA, S. A. Ensaios mecânicos de materiais metálicos: Fundamentos teóricos e
+práticos. 2ª ed. São Paulo: Edgard Blucher, 2004.

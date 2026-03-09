@@ -1,0 +1,38 @@
+QUÍMICA ORGÂNICA
+EXPERIMENTAL II
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória
+Período:
+Sexto
+Pré-Requisito:
+Química Orgânica
+I; Química
+Orgânica Exp. I
+Coordenação:
+CLIQUI
+Ementa:
+Reações de identificação de classes Orgânicas. Reatividade dos álcoois. Reações de
+substituição nucleofílica. Síntese dos compostos orgânicos. Reações de esterificação,
+oxidação, condensação aldólica, acilação, nitração, hidrólise e halogenação.
+Objetivos:
+● Utilizar reações Orgânicas para a identificação grupos funcionais, realizar síntese
+orgânica, através de diferentes rotas, bem como cálculo de rendimento.
+● Aprofundar os conhecimentos de técnicas clássicas de análises em Química Orgânica, bem
+como na aquisição e organização de dados experimentais.
+BIBLIOGRAFIA BÁSICA:
+DEMUNER, A. J. et al. Experimentos de Química Orgânica. 1. ed. Viçosa: UFV, 2011.
+DIAS, A.G. Guia prático de química orgânica: síntese orgânica: executando experimentos.
+Rio de Janeiro: Interciência, 2008
+ENGEL, R.G et al. Química Orgânica Experimental: Técnicas em Pequena Escala. 3. ed.
+São Paulo: Cengage learning, 2013.
+BIBLIOGRAFIA COMPLEMENTAR:
+FERREIRA, M. et al. Química Orgânica - Práticas Para o Ensino Médio. 1.ed. Porto
+Alegre: Artmed, 2007.
+MCMURRY, J. Química Orgânica. Vol.2. 7. ed. São Paulo: Cengage Learning, 2011.
+SOLOMONS, T. W. G.; FRYHLE, C. Química Orgânica. v. 2. 9. ed. Rio de Janeiro: LTC,
+2008.
+ZUBRICK, J. W. Manual de Sobrevivência no laboratório de Química Orgânica. 6. ed,
+Rio de Janeiro: LTC, 2005

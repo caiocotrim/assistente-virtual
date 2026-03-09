@@ -1,0 +1,247 @@
+TECNOLOGIAS  DE  INFORMAÇÃO  E  COMUNICÃO  NO  PROCESSO  ENSINO-
+APRENDIZAGEM 
+O  Curso  de  Licenciatura  em  Química  utiliza  alguns  recursos  de  tecnologia  de 
+informação  e  de  comunicação  para  auxiliar  nos  processos  de  ensino  e  de  aprendizagem, 
+atendendo  à  necessidade  de  acompanhar  a  inovação  e  o  desenvolvimento  associados  ao 
+conhecimento, à ciência e à tecnologia. Esses recursos são utilizados tanto na sala de aula 
+quanto nos Laboratórios de Informática disponíveis no campus. 
+Os Laboratórios de Informática são equipados com computadores com acesso à 
+Internet,  os  quais  possibilitam  aos  docentes  ministrarem  aulas  interativas  e  dinâmicas.  Os 
+computadores possibilitam ao docente utilizar esta ferramenta tecnológica como auxílio na sua 
+prática pedagógica e na ampliação da formação cultural dos(das) professores(as) e estudantes, 
+apresentando em tempo real, exemplos atuais sobre os temas trabalhados em sala de aula. Além 
+disso, os discentes podem utilizar os computadores desses laboratórios e também da biblioteca 
+do campus para a realização de pesquisas de artigos, textos e outras fontes junto a portais de 
+periódicos especializados, tais como, Scielo e Web of Science, disponíveis institucionalmente. 
+Entre os recursos de tecnologias da informação e comunicação, pode-se destacar os softwares 
+de Química de livre acesso, disponíveis na Internet, que podem ser usados pelos docentes 
+durante  as  aulas  teóricas,  de  acordo  com  os  componentes  curriculares  e  os  respectivos 
+conteúdos. No Quadro 7 encontra-se a relação dos softwares/ ambientes que estão sendo ou 
+podem ser utilizados nos respectivos componentes curriculares de Química e no Quadro 8 as 
+sugestões de sites que contêm informações de outros softwares. 
+Somado a isso, o campus de Vitória da Conquista possui um Setor de Audiovisual 
+que disponibiliza recursos audiovisuais e de multimídia, atendendo aos docentes, discentes e 
+pessoal  técnico-administrativo,  mediante  agendamento  antecipado.  O  Setor  disponibiliza 
+equipamentos de audiovisual que são utilizados pelos professores e alunos desde o primeiro 
+semestre de funcionamento do curso e a maior parte das salas de aula é equipada com aparelho 
+para  projeção.  O  Setor  de  Audiovisual  ainda  conta  com  outros  projetores  multimídia  e 
+equipamentos, como lousa digital, notebooks, aparelhos de som, gravadores, câmeras digitais, 
+filmadoras, etc. O auditório do campus Vitória da Conquista é dotado de projetor para filmes e 
+sistema de som compatível aos utilizados em sala de cinema. 
+ 
+Quadro 7 - Softwares que podem ser utilizados nos componentes curriculares. 
+#  Software/Ambiente  Finalidade  Disponível em  Componente Curricular 
+1  Simulações em 3-D  Simulações  em  3-D  para  estimular  a  capacidade  de abstração e  facilitar a visualização tridimensional das moléculas Geometria  Molecular  - VSEPR | Pares Solitários | Ligações  -  Simulações 
+Interativas  PhET 
+(colorado.edu) 
+Química Geral, 
+Metodologia e Prática de 
+Ensino em Química II;
+
+2  Animações  e 
+simulações 
+Animações para Química eral e Química Orgânica  Ferramentas  digitais  – 
+Química – UFC 
+Química Gera, Química 
+Orgânica I e II. ;
+
+3  ACD/ChemSketch  Freeware  para  download  que  pode  ser  usado  para 
+construção  de  moléculas  no  modelo  “pau  e  bolha”, 
+medir ângulos e comprimentos de ligações  
+ACD/Labs | Software para 
+P&D  |  Software  de 
+Química (acdlabs.com) 
+Química Geral 
+Experimental I e II, 
+Químico Orgânica I e II ;
+
+4  Arguslab  Software de modelagem molecular, gráficos e programa 
+de  desenho  de  fármacos  para  sistema  operacional 
+Windows.  ArgusLab  é  livre  e  com  ele  pode-se  usar 
+quantas cópias se precisar para ministrar aulas.   
+ArgusLab  Bioquímica, Química 
+Orgânica I, II e III;
+
+5  Avogrado  Software  que  permite editar  moléculas  e  montar suas 
+ligações. O seu diferencial é que ele não trata apenas de 
+moléculas reais, mas permite que seu usuário dê asas a 
+sua  imaginação  atômica.  Ele também  faz  cálculos  de 
+mecânica  molecular  voltados  para  a  simulação 
+computacional em química. Além de ser um programa 
+livre, é excelente para criar “inputs” a serem usados em 
+programas  mais  poderosos  que  fazem  cálculos 
+quânticos. 
+https://avogadro.cc/   Química Geral I, 
+Inorgânicas I e II, 
+Química Orgânica.;
+
+ 
+6  Calc  Utilizado  oara  construção  de  gráficos,  tratamentos 
+estatísticos,  análise  de  dados  experimentais  e 
+determinação da ordem de reação química 
+https://www.libreoffice.or
+g/discover/libreoffice/  
+Química Geral II e 
+Química Analítica.;
+
+7  Chemcraft  É um programa gráfico para trabalhar com cálculos de 
+química  quântica.  É  uma  ferramenta  útil  para  a 
+visualização  de  resultados  calculados  e  preparo  de 
+novos “Jobs” para cálculo. Pode-se trabalhar com outros 
+formatos de cálculos, possibilitando importar/exportar 
+coordenadas dos átomos em formato de texto e que pode 
+ser usado facilmente em outros programas. Chemcraft 
+funciona em Windows e Linux (mas a versão Linux tem 
+algumas desvantagens)   
+https://www.chemcraftpro
+g.com/download.html  
+Química Geral, 
+Inorgânica, Físico-
+Química e Orgânica. ;
+
+8  Chem Win  Utilizado para representação de estruturas orgânicas  https://sciencesolutions.wi
+ley.com/chemwindow-
+chemical-structure-
+drawing-software/  
+Química Orgânica I, II e 
+III. ;
+
+9  Cidade do Átomo  Programa que simula uma cidade onde existe uma Usina 
+Nuclear, voltado para o conteúdo radioatividade 
+http://www.iq.ufrgs.br/aeq
+/cidatom.htm#:~:text=Cid
+ade%20do%20%C3%81to
+mo%20%C3%A9%20um,
+abordagem%20escolar%2
+0do%20tema%20radioativ
+idade%20.   
+Metodologia e Prática de 
+Ensino em Química II. ;
+
+10  CurTiPot  É  um  programa  gratuito  utilizado  para  simulação  e 
+análise de curvas de titulação ácido-base 
+http://www.iq.usp.br/gutz/
+Curtipot.html  
+Química Analítica. ;
+
+11  GAMESS  É  um  programa  compatível  com  o  sistema  Windows 
+gratuitamente distribuído capaz de realizar cálculos ab 
+initio  “hardcore”  e  como  tal  não  é  fácil  de  usar.  É 
+https://www.msg.chem.ias
+tate.edu/gamess/  
+Química Inorgânica.
+baseado no DOS e só pode trabalhar a partir da linha de 
+comandos.  O  site  apresenta  alguns  exemplos  para  o 
+programa. Pode calcular, para além de níveis de energia 
+por  TEV  (GVB)  e  TOM  (Hartree-Fock)  modos 
+vibracionais  e  estados  de  transição  de  diversas 
+moléculas.;
+
+12  Grupo A  Ferramenta de ensino para visualizações de conteúdos 
+abordados na disciplina Química Geral I e II. Oferece 
+simulações interativas. 
+http://paginas.grupoa.com.
+br/changquimica11ed/ani
+macoes1.html  
+Química Geral I e II.;
+
+13  MOPAC   É um programa de uso relativamente fácil que determina 
+estruturas  eletrônicas  de  moléculas  com  elementos 
+essencialmente  do  bloco  p,  usando  métodos  semi-
+empíricos  como  PM3  (Parametric  Model  3),  MNDO 
+(Modified  Neglect  of  Differential  Overlap)  e  o  AM1 
+(Autin Model 1) 
+http://openmopac.net/   Química Inorgânica. ;
+
+14  Mendeley  É  um  impressionante  software  gerenciador  de 
+referências.  É  excelente  para  leitura  e  anotações 
+acadêmicas,  permitindo  marcar  os  textos,  fazer 
+comentários nas margens, entre outras funcionalidades. 
+Além disso, pode ser usado na nuvem e ser acessado de 
+qualquer lugar do mundo via web. O Mendeley possui 
+um  plugin  para  o  MS  Word,  que  insere  a  referência 
+bibliográfica  em  seus  textos  em  vários  formatos 
+distintos com poucos cliques, a citação no texto é gerada 
+no Word.
+https://www.mendeley.co
+m/  
+Metodologia da Pesquisa. ;
+
+15  Moodle  Ambiente  Virtual  de  Aprendizagem  para 
+compartilhamento  de  material  de  aula,  lista  de 
+exercícios, avisos e informações, além da utilização de 
+https://moodle2.ifba.edu.b
+r/  
+Informática Aplicada à 
+Educação I. 
+recursos  tais  como,  fórum  de  notícias  e  discussões, 
+mensagem  síncrona  (chat)  ou  assíncrona  (e-mail 
+interno).;
+
+16  ORCA  É  um  pacote  de  programas  de  cálculos  de  estrutura 
+eletrônica  moderna.  ORCA  é  uma  ferramenta  de  uso 
+geral, flexível e eficiente e fácil de usar para a química 
+quântica  com  ênfase  específica  em  propriedades 
+espectroscópicas  de  moléculas.  Possui  uma  grande 
+variedade  de  métodos  de  química  quântica,  desde 
+métodos  semiempíricos  até  DFT  e  métodos  ab  initio 
+correlacionados. Ele também pode tratar os efeitos de 
+ambiente (meio) e relativísticos. 
+https://www.orcasoftware.
+de/tutorials_orca/  
+Qualquer área da química, 
+principalmente as 
+disciplinas teóricas.;
+
+17  Origin  Usado para construção de gráficos e curvas analíticas e 
+análises de dados experimentais  
+https://www.originlab.co
+m/viewer/index.aspx  
+Química Analítica.;
+
+18  VMD  É um programa de visualização molecular para exibição, 
+animação e análise de grandes sistemas biomoleculares, 
+usando gráficos 3-D e script embutido. Além disso, esse 
+software  cria  gráficos  e  figuras  e  faz  vídeos  com 
+animação em cálculos de dinâmica molecular. VMD é 
+suportado  com  MacOS  X,  Unix  ou  Windows,  é 
+distribuído gratuitamente e incluí o código fonte 
+https://www.ks.uiuc.edu/R
+esearch/vmd/  
+Química Geral, Inorgânica 
+e Orgânica. ;
+
+19  XCrysDen  Programa  de  visualização  de  estruturas  cristalinas  e 
+moleculares,  visando  à  exibição  e  isosuperfícies  e 
+contornos que podem ser sobrepostos e interativamente 
+girados e manipulados. Esse software, que é livre, pode 
+ser executado na maioria das plataformas UNIX, sem 
+quaisquer requisitos especiais de  hardware. 
+http://www.xcrysden.org/   Química Geral, Química 
+Inorgânica I e II. ;
+
+20  Grace  É  uma  ferramenta  de  platagem  2D  para  sistemas 
+baseados  na  plataforma  UNIX.  É  um  programa  free 
+muito utilizado por pesquisadores do mundo todo para 
+criação e edição de gráficos e figuras.  
+https://plasma-
+gate.weizmann.ac.il/Grace
+/  
+Todas que fazem uso de 
+gráficos ;
+
+Quadro 8 - Sugestões de sites relacionados a softwares de Química. 
+Descrição  Disponível em 
+- Ambiente educacional Web do governo da Bahia  Inicio - Plataforma Anísio Texeira (educacao.ba.gov.br);
+- Site de conteúdos digitais da PUC Rio  Recursos Educacionais Digitais – CCEAD PUC-Rio 
+- Banco internacional de objetos educacionais do MEC  Banco Internacional de Objetos (mec.gov.br) 
+- PheT: Site de Simulações Online  https://phet.colorado.edu/pt_BR/  
+- Ferramentas online que podem ser uzadas em Química, tais como, balanceamento de equações químicas, calculador de massa molar e propriedades de gases, calculador de pH, editor de moléculas, conversor de unidades, além de trazer uma tabela periódica completa https://www.webqc.org/chemicaltools.php  
+- Site de Software de Química  http://quimicaxx.blogspot.com/2008/11/sofware-de-qumica.html  
+ 
+Temos, ainda, a biblioteca do campus Vitória da Conquista que participa da dinâmica 
+de disseminação de informações e aquisição de conhecimento técnico, científico e cultural, 
+garantindo liberdade de acesso às coleções para os usuários. Os professores e alunos têm acesso 
+ao catálogo on-line da biblioteca e ao Portal CAPES através de computadores da instituição ou 
+através de VPN (Virtual Private Network). O acervo possui várias obras e vídeos em mídias 
+digitais recomendadas para uso didático em vários componentes

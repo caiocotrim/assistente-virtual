@@ -1,0 +1,42 @@
+FÍSICA EXPERIMENTAL II
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória
+Período:
+Quarto
+Pré-Requisito:
+Física I; Física
+Experimental I
+Coordenação:
+CDNC
+Ementa:
+Experimentos sobre eletromagnetismo, óptica geométrica, óptica física, e física moderna.
+Objetivos:
+ Assegurar ao discente, os conhecimentos básicos de estatística, elaboração e análise de
+dados em forma de tabelas e gráficos, instrumentos de medidas e dos conceitos e fundamentais
+do eletromagnetismo, óptica geométrica, óptica física, e física moderna e suas aplicações,
+buscando o desenvolvimento da capacidade de pensar sobre os fenômenos relacionados a
+eletromagnetismo, óptica geométrica, óptica física, e física moderna, além de descrevê-los em
+termos da linguagem matemática.
+ Investigar as técnicas e ferramentas de laboratório experimental e realizar experimentos que
+corroboram ao eletromagnetismo, óptica geométrica, óptica física e a física moderna.
+BIBLIOGRAFIA BÁSICA:
+CATELLI, Francisco. Física experimental II: eletricidade, eletromagnetismo, ondas. 2. ed.
+Caxias do Sul, RS: EDUCS, 1985. 172 p.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol. 3 . 7. ed. Rio de
+Janeiro: LTC, 2007.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol. 4 . 7. ed. Rio de
+Janeiro: LTC, 2007.
+HELENE, O.; VANIN, V. Tratamento estatístico de dados em física experimental, 2ª ed, E.
+Blücher, 1991.
+BIBLIOGRAFIA COMPLEMENTAR:
+NUSSENZVEIG, H. M. Curso de Física Básica – 3 Eletromagnetismo. 4.ed. São Paulo:
+Edgard Blücher, 2009.
+NUSSENZVEIG, H. M. Curso de Física Básica – 4 Ótica, Relatividade, Física Quântica. 4.
+ed. São Paulo: Edgard Blücher, 2014.
+PERUZZO, J. Experimentos de Física Básica – Eletromagnetismo, Física Moderna e
+Ciências Espaciais.1.ed. São Paulo: Livraria da Física, 1997.
+TIPLER, P. A., MOSCA, G. Física - Para Cientistas e Engenheiros. Vol.2. 6.ed – Rio de
+Janeiro: Editora LTC, 2011.

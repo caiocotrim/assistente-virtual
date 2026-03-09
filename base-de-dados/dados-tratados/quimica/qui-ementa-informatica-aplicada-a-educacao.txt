@@ -1,0 +1,40 @@
+INFORMÁTICA APLICADA À
+EDUCAÇÃO
+Carga Horária (h) Créditos
+Teórica 30 2
+Prática 30 2
+TOTAL 60 4
+Obrigatória Período:
+Segundo
+Pré-Requisito:
+Nenhum
+Coordenação:
+CSI
+Ementa:
+Fundamentação à informática: Editor de texto, planilha de cálculos. Aplicações da
+informática nas atividades educacionais: emprego de software para ensino e pesquisa; uso de
+redes para suporte as atividades de professores e alunos; sistemas de gerenciamento da
+instrução; programas de apoio a serviços do tipo biblioteca e laboratórios; Sistemas de busca
+na WEB para programas e softwares na Internet; analise e avaliação de software educacional.
+Objetivos:
+ Identificar a relevância da informática no contexto da educação contemporânea,
+permitindo ao aluno o uso das mais diferentes ferramentas que possibilitam o
+aperfeiçoamento do processo de ensino-aprendizagem, fazendo com que ele ocorra de forma
+mais eficaz.
+ Desenvolver habilidades para o uso das novas TIC’s, como vídeos, chats, programas
+específicos e materiais de apoio ao ensino de Química, as quais servirão de base para todo
+fazer pedagógico.
+BIBLIOGRAFIA BÁSICA:
+MARÇULA, Marcelo; BENINI FILHO, Pio Armando. Informática: conceitos e aplicações.
+2. ed. São Paulo: Érica, 2011.
+MEIRELLES, Fernando de Souza. Informática: novas aplicações com microcomputadores.
+2. ed. São Paulo: Pearson Education do Brasil, 2004.
+VELLOSO, Fernando de Castro. Informática: conceitos básicos. 8. ed. Rio de Janeiro:
+Elsevier, 2011.
+BIBLIOGRAFIA COMPLEMENTAR:
+NORTON, Peter. Introdução à informática. São Paulo: Prentice Hall, 2010.
+ALVES, William Pereira. Informática fundamental: introdução ao processamento de
+dados. São Paulo: Érica, 2010.
+LANCHARRO, Eduardo Alcalde; LOPEZ, Miguel Garcia; FERNANDEZ, Salvador
+Peñuelas. Informática básica. São Paulo: Makron Books, 2004.
+TORRES, Gabriel. Hardware: Curso Completo. Rio de Janeiro: Axcel.

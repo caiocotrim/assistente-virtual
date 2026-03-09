@@ -1,0 +1,44 @@
+QUÍMICA ORGÂNICA
+EXPERIMENTAL I
+Carga Horária (h) Créditos
+Teórica - -
+Prática 30 2
+TOTAL 30 2
+Obrigatória Período:
+Quinto
+Pré-Requisito:
+Química Geral
+II;
+Química Geral
+Experimental II
+Coordenação:
+CLIQUI
+Ementa:
+Segurança no laboratório. Equipamentos e vidrarias. Propriedades físicas de compostos
+orgânicos. Análise elementar. Métodos de purificação e de separação de compostos
+orgânicos. Destilação simples, fracionada, sob pressão reduzida e por arraste de vapor.
+Recristalização. Refluxo. Cromatografia em papel, camada delgada, coluna e cromatografia
+flash. Técnicas de extração: Soxhlet e líquido-líquido. Separação por reação ácido-base.
+Propriedades físicas e químicas dos alcanos e alcenos.
+Objetivos:
+ Adquirir conhecimentos de técnicas clássicas de análises e transformações relacionadas a
+química Orgânica, bem como na aquisição e organização dos dados experimentais.
+ Observar, através da aplicação do método experimental, propriedades químicas, mudanças
+e transformações.
+ Redigir relatórios, discutir e avaliar os resultados obtidos, contribuindo com os
+conhecimentos teórico-experimentais já adquiridos nas disciplinas de introdução às práticas
+laboratoriais e laboratório de transformações químicas.
+BIBLIOGRAFIA BÁSICA:
+DEMUNER, A. J. et al. Experimentos de Química Orgânica. 1. ed. Viçosa: UFV, 2011.
+ENGEL, R. G et al. Química Orgânica Experimental: Técnicas em Pequena Escala. 3.
+ed. São Paulo: Cengage learning, 2013.
+ZUBRICK, J. W. Manual de Sobrevivência no laboratório de Química Orgânica. 6. ed,
+Rio de Janeiro: LTC, 2005.
+BIBLIOGRAFIA COMPLEMENTAR:
+COSTA, P. R. R et al., Ácidos e Bases na Química Orgânica. 1. ed., Porto Alegre:
+Bookman, 2005.
+FERREIRA, M. et al. Química Orgânica - Práticas Para o Ensino Médio. 1.ed. Porto
+Alegre: Artmed, 2007.
+MCMURRY, J. Química Orgânica. Vol.1. 7. ed. São Paulo: Cengage Learning, 2011.
+SOLOMONS, T. W. G.; FRYHLE, C. Química Orgânica. v. 1. 9. ed. Rio de Janeiro: LTC,
+2009.

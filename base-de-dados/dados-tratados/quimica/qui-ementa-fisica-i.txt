@@ -1,0 +1,44 @@
+FÍSICA I
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática de
+Ensino - -
+TOTAL 60 4
+Obrigatória
+Período:
+Terceiro
+Pré-Requisito:
+Matemática
+Básica; Cálculo
+Diferencial para
+Química
+Coordenação:
+CDNC
+Ementa:
+A Cinemática: Movimento no plano e no espaço. Dinâmica: leis de Newton. Energia.
+Trabalho. Conservação da energia. Sistema de partículas. Conservação do momento linear.
+Colisões. Rotações. Torque. Conservação do momento angular.
+Objetivos:
+ Propiciar ao discente, o conhecimento dos conceitos básicos e fundamentais da Mecânica
+Clássica (Cinemática, Dinâmica e Leis de Conservação)
+suas aplicações, buscando o desenvolvimento da capacidade de pensar sobre os fenômenos
+em termos físicos e de descrevê-los em termos da linguagem matemática.
+ Estudar os fundamentos da Mecânica Clássica. A cinemática e a dinâmica das partículas,
+as leis da conservação, de energia e de momento linear, bem como a cinemática e a dinâmica
+de corpos rígidos.
+ Contextualizar historicamente a evolução dos conceitos físicos dos conteúdos abordados
+em mecânica Newtoniana
+BIBLIOGRAFIA BÁSICA:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física. Vol.1. 9. ed. Rio de
+Janeiro: LTC, 2012.
+NUSSENZVEIG, H. M. Curso de Física Básica - 1 Mecânica. 4. ed. São Paulo: Edgard
+Blücher, 2010.
+TIPLER, P. A.; MOSCA, G. Física - Para Cientistas e Engenheiros: Mecânica Oscilações
+e Ondas e Termodinâmica. Vol.1. 5.ed. Rio de Janeiro: Editora LTC, 2006.
+BIBLIOGRAFIA COMPLEMENTAR:
+SEARS, F. W.; ZEMANSKY, M. W.; YOUNG, H. D. Física I – Mecânica. 10. ed. São
+Paulo: Addison Wesley,2005.
+ALONSO, M.; FINN, E. J. Física – Um curso Universitário.Vol.1. 2. ed. São
+Paulo: Edgard Blücher, 2014.
+SERWAY, R. A.; JEWETT JR., John W. Física para cientistas e engenheiros, volume 1:
+mecânica. São Paulo: Cengage Learning, 2017.

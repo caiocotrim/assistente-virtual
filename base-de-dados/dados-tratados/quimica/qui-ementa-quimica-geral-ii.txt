@@ -1,0 +1,42 @@
+QUÍMICA GERAL II
+Carga Horária (h) Créditos
+Teórica 45 3
+Prática de
+Ensino
+15 1
+TOTAL 60 4
+Obrigatória Período:
+Segundo
+Pré-Requisito:
+Química Geral I
+Coordenação:
+CLIQUI
+Ementa:
+Cinética química. Equilíbrio químico. Termodinâmica (termoquímica). Eletroquímica.
+Solubilidade e equilíbrio de íons complexo. Tópicos de Química Geral aplicados ao ensino
+de química.
+Objetivos:
+ Compreender a origem da matéria e como ela está relacionada com a estrutura atômica e
+eletrônica.
+ Compreender as diferenças nas velocidades dos processos químicos.
+ Compreender como as reações de oxirredução e equilíbrio químico.
+ Analisar como a termoquímica proporcionou a revolução industrial.
+ Instrumentalizar o discente para as práticas de ensino com a construção de materiais
+didáticos abordando os temas da disciplina.
+BIBLIOGRAFIA BÁSICA:
+BROWN, T.L.; LEMAY, H. E.; BURSTEN, B.E. Química: a ciência central. 9.ed. São
+Paulo: Prentice Hall, 2005.
+KOTZ, J.C.; TREICHEL, P.M.; WEAVER, G.C. Química geral e reações químicas. Vol.
+2. 6.ed. São Paulo: Cengage Learning, 2010.
+RUSSEL, J. B. Química Geral. Vol. 2. 2.ed. São Paulo: Makron Books, 2004.
+BIBLIOGRAFIA COMPLEMENTAR:
+ATKINS, P.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio
+Ambiente. 3.ed. Porto Alegre: Editora Bookman, 2006.
+BRADY, J.E.; HUMISTON, G.E. Química geral. Volume 2. 2.ed. Rio de Janeiro: LTC,
+2010.
+BROWN, L.S; HOLME, T.A. Química Geral Aplicada à Engenharia. São Paulo:
+Cengage Learning, 2010.
+MAHAN, B. H.; MYERS, R.J. Química: um curso universitário. São Paulo: Edgard
+Blucher, 2005.
+ROSEMBERG, J.L; EPSTEIN, L.M. Teoria e Problemas de Química Geral. 8. ed. Porto
+Alegre. Bookman, 2003.

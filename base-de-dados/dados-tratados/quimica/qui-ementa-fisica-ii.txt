@@ -1,0 +1,44 @@
+FÍSICA II
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática de
+Ensino
+0 0
+TOTAL 60 4
+Obrigatória
+Período:
+Quarto
+Pré-Requisito:
+Física I; Cálculo
+Integral para
+Química
+Coordenação:
+CDNC
+Ementa:
+Cargas elétricas e a Lei de Coulomb. Campo Elétrico. Lei de Gauss. Potencial Elétrico.
+Corrente e Resistência. Campo Magnetostático. A Lei de Biot-Savart e a Lei de Ampère. A
+Lei da Indução de Faraday. O Magnetismo e a Matéria. Oscilações Eletromagnéticas.
+Equações de Maxwell. Ondas Eletromagnéticas: Ondas Progressivas. A luz – Natureza e
+Propagação. Reflexão e Refração. Difração e Interferência. Polarização.
+Objetivos:
+ Propiciar ao aluno o conhecimento dos conceitos básicos do Eletromagnetismo
+e suas aplicações, buscando o desenvolvimento da capacidade de pensar sobre os
+fenômenos eletromagnéticos em termos físicos e de descrevê-
+los em termos matemáticos.
+ Estudar a natureza da luz e sua dualidade partícula-onda.
+ Contextualizar historicamente a evolução dos conceitos físicos dos conteúdos abordados
+em eletromagnetismo e óptica.
+BIBLIOGRAFIA BÁSICA:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol. 3 . 7. ed. Rio
+de Janeiro: LTC, 2007.
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física.Vol. 4 . 7. ed. Rio
+de Janeiro: LTC, 2007.
+TIPLER, P. A., MOSCA, G. Física - Para Cientistas e Engenheiros. Vol.2. 6. Ed. Rio de
+Janeiro: LTC, 2011.
+BIBLIOGRAFIA COMPLEMENTAR:
+ALONSO, M.; FINN, E. J. Física: Um curso universitário: v.2: campos e ondas. São Paulo:
+Edgard Blücher, 1972.
+NUSSENZVEIG, H. M. Curso de Física Básica – 3 Eletromagnetismo. 4.ed. São Paulo:
+Edgard Blücher, 2009.
+NUSSENZVEIG, H. M. Curso de Física Básica – 4 Ótica, Relatividade, Física Quântica.
+4. ed. São Paulo: Edgard Blücher, 2014.

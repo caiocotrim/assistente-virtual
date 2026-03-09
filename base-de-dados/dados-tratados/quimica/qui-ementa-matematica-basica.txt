@@ -1,0 +1,39 @@
+MATEMÁTICA BÁSICA
+Carga Horária (h) Créditos
+Teórica 60 4
+Prática - -
+TOTAL 60 4
+Obrigatória Período:
+Primeiro
+Pré-Requisito:
+Nenhum
+Coordenação:
+CDNC
+Ementa:
+Funções: conceito e definição, domínio e imagem. Gráficos. Tipos de Funções: funções
+polinomiais, função constante, função racional, função exponencial, função logarítmica,
+funções trigonométricas. Função inversa. Composição de Funções.
+Objetivos:
+ Compreender os conceitos básicos de funções e suas aplicações.
+ Apresentar o conceito de função sob o ponto de vista sintético e objetivo da
+Matemática Superior.
+ Desenvolver atividades para a construção dos conceitos e uso de dedução, indução e
+analogia na Matemática.
+ Utilizar técnicas de redação como estratégia para o aprendizado da finalidade e uso
+da dedução Matemática.
+ Realizar definições e demonstrações, por meio de estratégias que promovam
+aprendizagens significativas.
+BIBLIOGRAFIA BÁSICA:
+DANTE, L. R. Matemática. v. único. 1.ed. São Paulo: Ática, 2010.
+FACCHINI, W. Matemática. v. único. 2.ed. São Paulo: Saraiva, 2000.
+IEZZI, G.; MURAKAMI, C. Fundamentos de Matemática Elementar. v. 1,2,3. Ed.7. São
+Paulo: Saraiva Didáticos, 1993.
+SANTOS, C. A. M.; GENTIL, N.; GRECO, S. E. Matemática. v. único. 7.ed. São Paulo:
+Ática, 2003.
+BIBLIOGRAFIA COMPLEMENTAR:
+DANTE, L. R. Matemática: contexto e aplicações. v. 1. 4. ed. São Paulo: Ática, 2011.
+DANTE, L. R. Matemática: contexto e aplicações. v. 2. 4. ed. São Paulo: Ática, 2010.
+DANTE, L. R. Matemática: contexto e aplicações. v. 3. 3.ed. São Paulo: Ática, 2010.
+GIOVANNI, J. R.; BONJORNO, J. R. Matemática Fundamental: uma nova abordagem.
+v. 1. São Paulo: FTD, 1994;
+SOUZA, J. R. Matemática: coleção novo olhar. v. 1. 1.ed. São Paulo: FTD, 2010.
