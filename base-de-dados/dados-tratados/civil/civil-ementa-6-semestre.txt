@@ -1,0 +1,275 @@
+Materiais de Construção I 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 30 2 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Introdução à Ciências dos Materiais e Resistência dos Materiais I. 
+EMENTA: Introdução; Agregados, Aglomerantes; Cimento Portland; Uso de aditivos no 
+concreto; Estudo e Dosagem de argamassa; Materiais cerâmicos. Vidros para construção. 
+Telhas onduladas de fibrocimento. Tintas. 
+BIBLIOGRAFIA BÁSICA: 
+BAUER, L. A. F. Materiais de construção V. 1. 5 ed. Rio de Janeiro: LTC, 2011. 470 p. 
+BAUER, L. A. F. Materiais de construção V. 2. 5 ed. Rio de Janeiro: LTC, 2011. 538 p. 
+GUIMARÃES, J. E. P. A Cal: fundamentos e aplicações na engenharia civil. 2 ed. São Paulo: 
+Pini, 2002. 341 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+NEVILLE, A. M. Propriedades do concreto. Porto Alegre: Bookman, 2016. 
+BAUD, G. Manual de pequenas construções: alvenaria e concreto armado. Curitiba: Hemus, 
+2002. 477 p. 
+CUTRIM, A. A. Bentonitas da Paraíba. Rio de Janeiro: Interciência, 2015. 200 p. CAMPOS, 
+E. E.; FRAZÃO, E. B.; CALAES, G. D.; HERRMANN, H. Agregados 
+para a construção civil no Brasil: contribuições para formulação de políticas públicas. Belo 
+Horizonte: CETEC, 2077. 231 p. 
+VANVLAK, L. H. Princípios de Ciências dos Materiais. Editora Edgard Blucher Ltda, 
+2011. 427 p. 
+114 
+115  
+ 
+Saneamento Básico e Emergências 
+Ambientais. 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 0 0 
+TOTAL 45 3 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Química, Fenômenos de Transporte e Ciências do Ambiente. 
+EMENTA: Saneamento e saúde pública. Águas de abastecimento. Águas residuárias. Águas 
+urbanas. Resíduos sólidos. Resíduos de serviços de saúde. Resíduos sólidos da construção 
+civil. Soluções individuas para tratamento de água para abastecimento. Soluções individuas 
+para tratamento de água residuária. Limpeza pública. Desastres naturais e antrópicos. 
+Prevenção e mitigação de desastres. Sistema de emergência ambiental. Saneamento do 
+meio em emergências ambientais. Plano de Ação de Emergência. 
+BIBLIOGRAFIA BÁSICA: 
+GARCEZ, L. N. Elementos de engenharia hidráulica e sanitária. São Paulo: Editora Edgard 
+Blucher, 1976. 356 p. 
+PHILIPPI JÚNIOR, A. (org). Saneamento, saúde e ambiente. Barueri: Manoke, 2005. 842 
+p. 
+VON SPERLING, M. Introdução à qualidade das águas e ao tratamento de esgoto. Belo 
+Horizonte: Departamento de Engenharia Ambiental da UFMG, 1996. 243 p. (Princípio do 
+tratamento biológico de águas residuárias, v. 1) 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BRASIL. FUNDAÇÃO NACIONAL DE SAÚDE. Manual de saneamento. 3 ed. Brasília: 
+Fundação Nacional de Saúde, 2004. 408 p. Disponível em: 
+http://bvsms.saude.gov.br/bvs/publicacoes/manual_saneamento_3ed_rev_p1.pdf. 
+Acesso em: 18/04/2017. 
+DI BERNARDO, L. Tratamento de água de abastecimento por filtração em múltiplas 
+etapas. Rio de Janeiro: ABES, 1999. 114 p. 
+LEME, F. P. Teoria e técnicas de tratamento de água. 2 ed. Rio de Janeiro: ABES, 1990. 
+610 p. 
+TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: conhecer para 
+prevenir. São Paulo: Insituto Geológico, 2009. 196 p. Disponível em: 
+http://www.igeologico.sp.gov.br/downloads/livros/DesastresNaturais.pdf. Acesso em: 
+/12/2017. 
+CASTILHOS JÚNIOR, A. B.; LANGE, L. C.; GOMES, L. P.; PESSIN, N. 
+(Organizadores). Alternativas de disposição de resíduos sólidos urbanos para pequenas 
+comunidades. Rio de Janeiro: ABES e RIMA, 2002. 104 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+116  
+ 
+Obras Hidráulicas CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Hidráulica 
+EMENTA: Aproveitamentos hidráulicos: finalidades, impactos, descrição de elementos 
+constitutivos. Reservatórios: diagramas cota-área-volume, caudabilidade: curvas de massa e 
+de diferenças totalizadas. Barragens de gravidade: analise de estabilidade, segurança ao 
+tombamento e deslizamento, tensões no solo. Projeto duma seção estável e econômica. 
+Vertedores para barragens: especificação do perfil, coeficiente de vazão, método para 
+dimensionamento dum vertedor livre: equação do balanço de massa. Bacias de dissipação: 
+análise da localização do ressalto para diferentes situações, dimensionamento duma bacia de 
+dissipação simples. Projetos de 
+obras hidráulicas. Impactos ambientais de Obras Hidráulicas. 
+BIBLIOGRAFIA BÁSICA: 
+TOMAZ, P. Cálculos hidrológicos e hidráulicos para obras municipais: piscinões, 
+galerias, bueiros, canais. São Paulo: Navegar, 2002. 475 p. 
+NEVES. E. T. Curso de hidráulica. 2 ed. Porto Alegre: Globo, 1970. 577 p. 
+TUCCI, C. E. M. (org.) Hidrologia: ciência e aplicação. 3. ed. Porto Alegre: Editora da 
+UFRGS/ABRH, 2001. 973 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica. 9 ed. 
+São Paulo: Edgard Blucher, 2015. 632p. 
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. 8. ed. São Paulo: Edgard 
+Blücher,1998. 669p. 
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. 2. ed.São Paulo: Edgard 
+Blücher, 1969.356p. 
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. São 
+Paulo: Cengage Learning, 2014. 526 p. 
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa: EDUFPB, 
+2009. 460 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+117  
+ 
+Administração CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 0 0 
+TOTAL 30 2 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: As organizações. A administração e suas funções. O administrador e os atributos 
+gerenciais básicos. Abordagens tradicionais da administração: taylorismo, fayolismo, relações 
+humanas no trabalho, enfoque sistêmico. Abordagens contemporâneas da administração: 
+gestão da qualidade total e reengenharia de processos. Tópicos em administração de recursos 
+humanos. Tópicos em administração da produção. Tópicos emergentes. A questão da 
+identidade individual e de grupos na gestão de pessoas. Políticas de reparações, de 
+reconhecimento e valorização de ações afirmativas. 
+BIBLIOGRAFIA BÁSICA: 
+CHIAVENATO, I. Administração nos novos tempos. 2 ed. Rio de Janeiro: Elsevier, 2010. 
+610 p. 
+DAFT, R. Administração. São Paulo: Thomson Learnig, 2005. 581 p. 
+AKTOUF, O.; FACHIN, R. C.; FISCHER, T. Administração entre a tradição e a 
+renovação. São Paulo: Atlas, 2010. 269 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+RAMAL, S. Como transformar seu talento em um negócio de sucesso: gestão de negócios 
+para pequenos empreendimentos. Rio de Janeiro: Elsevier, 2006, 196 p. 
+SLACK, N.; CHAMBERS, S.; JOHNSTON, R. Administração da produção. 2 ed. São 
+Paulo: Atlas, 2002. 747 p. 
+CARLBERG, C. G. Administrando a empresa com Excel. São Paulo: Makron Books, 2003. 
+423 p. 
+SEBRAE. Aprender a empreender.  Rio  de Janeiro: Fundação Roberto  Marinho, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Estruturas Hiperestáticas 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Estruturas Isostáticas, Resistência dos Materiais II e Cálculo Numérico. 
+EMENTA: Método das forças. Método dos deslocamentos. Processo de cross 
+BIBLIOGRAFIA BÁSICA: 
+HIBBELER, R. C. Análise de estruturas, São Paulo: Pearson, 2013, 522 p. SORIANO, H. 
+L. Análise de estruturas: formulações clássicas Rio de Janeiro: Ed. Livraria da Física, 
+2016. 422 p. 
+SORIANO, H. L. Estática das estruturas. Rio de Janeiro: Ed. Ciência Moderna, 2014. 
+422 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOTELHO, M. H. C. Concreto armado: eu te amo para arquitetos. 2 ed. São Paulo: Editora 
+Edgard Blucher, 2006. 224 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 1. 7 ed. São Paulo: 
+Editora Edgard Blucher, 2013. 525 p. 
+BOTELHO, H. C.; MARCHETTI, O. Concreto armado, eu te amo vol. 2. 4 ed. São Paulo: 
+Editora Edgard Blucher, 2015. 339 p. 
+BEER, F. P. Mecânica vetorial para engenheiros: estática. 9 ed. São Paulo: Makron 
+118 
+119  
+ 
+Hidrologia Geral CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Hidráulica 
+EMENTA: Componentes do Ciclo hidrológico. Bacias Hidrográficas. Precipitação. Noções 
+de hidrologia Estatística. Infiltração de água no solo. Escoamento superficial: o método 
+racional, o hidrograma de projeto. hidrograma unitário; atenuação e propagação de cheias. 
+Águas subterrâneas. Evapotranspiração. Análise de vazões superficiais. Noções de 
+Hidrossedimentologia. 
+BIBLIOGRAFIA BÁSICA: 
+TUCCI, C. E. M. (org.) Hidrologia: ciência e aplicação. 3. ed. Porto Alegre: Editora da 
+UFRGS/ABRH, 2001. 973 p. 
+PINTO, N. L. S.; HOLTZ, A. C. T.; MARTINS, J. A.; GOMIDE, F. L. S. Hidrologia básica. 
+São Paulo: Editora Edgard Blucher, 1976. 278 p. 
+GARCEZ, L. N.; ALVAREZ, G. A. Hidrologia. 2 ed. São Paulo: Editora Edgard Blucher, 
+1988. 291 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+REBOUÇAS, A. C.(Org.); BRAGA, B. (Org.); TUNDISI, J. G. (Org.). Águas doces no Brasil: 
+capital ecológico, uso e conservação. 3. ed. São Paulo: Escrituras,2006.748 p. GRIBBIN, J. E. 
+Introdução a hidráulica, hidrologia e gestão de águas pluviais. 4 ed. São Paulo: Cengage 
+Learning, 2014. 526 p. 
+RIGHETTO, A. M. Manejo de águas pluviais urbanas Rio de Janeiro: ABES, 2009. 396 p. 
+CANHOLI, A. P. Drenagem urbana e controle de enchentes. São Paulo: Oficina de Textos, 
+2005. 302 p. 
+MEDEIROS, S. S. (Org.). Recursos hídricos em regiões áridas e semiáridas. Campina 
+Grande: Instituto Nacional do Semiárido, 2011. 439 p. 
+ 
+ 
+ 
+ 
+ 
+  
+120  
+ACEX III CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 0 
+PRÁTICA 90 6 
+TOTAL 90 6 
+OBRIGATÓRIO NÚCLEO: - 
+PRÉ-REQUISITO: ACEX II 
+EMENTA: Produção de cartilhas e diversas outras formas de conceituar, definir e 
+representar o emprego da caracterização e a classificação dos solos em vias (estradas) 
+vicinais da zona rural da Cidade de Vitória da Conquista – BA, de tal modo que os discentes 
+e a comunidade estejam familiarizados, ao ponto de utilizarem o solo, adequadamente em 
+soluções que melhorem as vias, num processo simples de recuperação das mesmas. Ao final, 
+os discentes e membros da comunidade deverão estar habilitados a Identificar e conhecer as 
+patologias e suas origens, e apontar a solução mitigadora mais apropriada para cada caso, 
+observando a vocação social e culturais locais; capacitar tecnicamente o discente na solução 
+de problemas visando atender as necessidades da comunidade externa, aplicando soluções 
+acadêmicas ou institucionais, com o objetivo de proporcionar a indissociabilidade entre 
+Ensino, Pesquisa e Extensão. 
+BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:

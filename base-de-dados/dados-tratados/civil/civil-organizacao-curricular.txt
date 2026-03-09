@@ -1,0 +1,525 @@
+ORGANIZAÇÃO CURRICULAR 
+4.1 ESTRUTURA CURRICULAR 
+A matriz curricular do curso de Engenharia Civil do campus Vitória da Conquista foi 
+sistematizada a partir das Resoluções CNE/CES 1, de 26 de março de 2021 (BRASIL, 2021) e 
+CNE/CES 2, de 24 de abril de 2019 (BRASIL, 2019), de forma a cumprir as Diretrizes 
+Curriculares Nacionais para o Ensino de Graduação no Brasil, definidas pelo Conselho Nacional 
+de Educação. Além disso, desenvolveu-se uma estrutura curricular semelhante aos demais cursos 
+de graduação oferecidos no campus Vitória da Conquista para atender à otimização de docentes, 
+salas de aula, laboratórios e oferta de componentes curriculares nos três turnos de funcionamento 
+da instituição. 
+A concepção pedagógica do curso de Engenharia Civil do campus Vitória da Conquista 
+foi sistematizada a partir das Resoluções CNE/CES 1, de 26 de março de 2021 (BRASIL, 2021) 
+e CNE/CES 2, de 24 de abril de 2019 (BRASIL, 2019), tem também como referências a 
+compreensão acerca da teoria pedagógica que fundamenta as práticas educativas da instituição.  
+Elege-se a Pedagogia Histórico-Crítica, cujo termo foi cunhado por Saviani para substituir o de 
+concepção dialética, na medida em que o mesmo causava dificuldades de compreensão em 
+virtude da confusão que se faz com a relação concepção dialética idealista em que a '...dialética 
+é concebida como relação intersubjetiva, como dialógica' (SAVIANI, 2003, p.70). 
+O curso de Engenharia Civil, no contexto do IFBA, foi orientado pelo Projeto 
+Pedagógico Institucional (IFBA, 2013b) que pretende formar engenheiros na perspectiva crítica 
+e emancipatória. Sendo então definido por meio da respectiva matriz curricular e do plano de 
+ensino de cada componente curricular, envolvendo ementa, objetivo, conteúdo programático, 
+metodologia de ensino, avaliação da aprendizagem e referências bibliográficas. O curso tem a 
+sua duração mínima prevista para cinco anos, sendo o tempo máximo de sua integralização de 
+dez anos (IFBA, 2019). 
+4.2 NÚCLEOS CURRICULARES 
+Conforme estabelece a Resolução CNE/CES 1, de 26 de março de 2021 (BRASIL, 2021), 
+o projeto pedagógico deve contemplar um núcleo de conteúdos básicos, um núcleo de conteúdos 
+profissionalizantes e um núcleo de conteúdos específicos. O núcleo de conteúdos básicos possui 
+um conjunto de elementos curriculares essenciais e indispensáveis à formação do egresso de 
+engenharia civil e busca proporcionar suporte para o núcleo de conteúdos profissionalizantes. 
+21 
+Esse núcleo visa possibilitar uma formação geral e sólida nas diversas áreas da engenharia civil, 
+contemplando a formação teórica e prática em laboratórios. O núcleo de conteúdos específicos 
+consolida a formação profissional com elementos curriculares em diversas áreas da engenharia 
+civil e possibilita aos discentes obter uma formação mais específica através de conteúdos 
+optativos. O somatório das cargas horárias dos núcleos de conteúdos básicos, de conteúdos 
+profissionalizantes, de conteúdos específicos e de Atividades Curriculares de Extensão alcança 
+3885 horas. Desse total, 2685 horas são de carga horária teórica, 525 horas são de carga horária 
+prática, 60 horas são de TCC, 165 horas são de estágio, 60 horas são de atividades 
+complementares e 390 horas de Atividades Curriculares de Extensão (ACEX). A carga horária 
+total do curso de 3885 horas está de acordo com a Resolução nº2, de 18 de junho de 2007, que 
+dispõe a carga horária mínima dos cursos de graduação (BRASIL, 2007b). 
+O curso está organizado em dez semestres, perpassando por uma proposta de integração 
+vertical e horizontal. A primeira busca integrar o conjunto dos componentes curriculares 
+ofertados ao longo dos cinco anos e a segunda visa articular os componentes curriculares dos 
+três núcleos de conteúdos do curso ofertados em cada semestre. Essa articulação que perpassa a 
+formação do engenheiro civil ressalta a importância da ligação entre teoria e prática, 
+aproximando os discentes da realidade do canteiro de obras ou do escritório. Os principais 
+problemas postos pela prática profissional são apresentados e vivenciados em componentes 
+curriculares práticos, nos laboratórios, em visitas técnicas, no estágio, em atividades de extensão 
+e em atividades de pesquisa. A relação teórico-prática corporifica o trabalho docente, 
+considerando que esta articulação tem origem na própria atuação docente e orienta a mesma, 
+possibilitando o confrontamento empírico com a realidade profissional que resulta na 
+compreensão e realização do processo dialético da aprendizagem. Uma formação que contempla 
+esta demanda teórico-prática possibilita a superação entre teoria e prática e poderá proporcionar 
+a superação das dificuldades dos discentes. 
+Os três núcleos curriculares disponibilizam componentes curriculares optativos com a 
+finalidade de favorecer a flexibilidade curricular. As diretrizes curriculares nacionais para os 
+cursos de engenharia (BRASIL, 2021) substituem o conceito rígido de grade curricular para um 
+mais amplo que pode ser traduzido pelo conjunto de experiências de aprendizado que o estudante 
+incorpora durante o seu processo formativo. No sentido desse currículo mais amplo, no curso 
+de engenharia civil do campus Vitória da Conquista, a flexibilidade é acolhida através da oferta 
+de disciplinas optativas, apresentando a possibilidade de desamarrar a estrutura rígida de 
+condução do curso e favorecer ao estudante imprimir ritmo e direção ao seu curso. 
+22 
+A interdisciplinaridade e a transversalidade estão presentes no desenvolvimento 
+curricular. Os componentes curriculares ofertados no mesmo semestre estabelecem relação de 
+análise e interpretação de conteúdos, com o fim de propiciar condições de apropriação, pelo 
+estudante, de um conhecimento mais complexo e contextualizado. Essa estratégia de abordagem 
+e tratamento do conhecimento é aplicada ao longo do curso. Assim, considera-se entrelaçados os 
+componentes curriculares ao longo do curso. 
+A aplicação da transversalidade parte do pressuposto de que a complexidade dos temas 
+da engenharia civil não pode ser resolvida a partir de componentes curriculares isolados e nem 
+pela somatória deles. Portanto, o ensino da engenharia envolve a complexidade que responde 
+aos problemas relacionados a esta temática. Assim, o uso da transversalidade ao longo do curso 
+direciona para uma formação integrada relacionada com as questões atuais da sociedade como a 
+questão ambiental, os direitos humanos, as relações étnico-raciais, a ética, o uso das tecnologias 
+na prática do engenheiro civil, o empreendedorismo e a preocupação social. 
+4.2.1 Componentes curriculares do núcleo básico 
+O núcleo básico é comum a todas as engenharias de acordo com a Resolução CNE/CES 
+1, de 26 de março de 2021 (BRASIL, 2021). Esse núcleo da matriz curricular do projeto ora 
+apresentado contempla os tópicos exigidos na resolução citada que norteia os currículos das 
+engenharias através dos componentes curriculares obrigatórios apresentados na Tabela 1. Além 
+desses componentes, o curso oferta os componentes curriculares optativos listados na Tabela 2. 
+23 
+24  
+Tabela 1 – Componentes curriculares obrigatórios do núcleo básico. 
+Área Componente Curricular Carga 
+Horária 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Carga 
+Horária 
+Total 
+(horas) 
+Pré-requisito 
+ 
+ 
+ 
+ 
+ 
+Matemática 
+Cálculo Diferencial e Integral I 0 60 60 Não tem 
+Álgebra Vetorial e Geometria 
+Analítica 
+0 60 60 Não tem 
+Álgebra Linear 0 60 60 Álgebra Vetorial e Geometria 
+Analítica 
+Cálculo Diferencial e Integral II 0 60 60 Cálculo Diferencial e Integral I 
+Cálculo Diferencial e Integral III 0 60 60 Álgebra Vetorial e Geometria 
+Analítica 
+Cálculo Diferencial e Integral II 
+Equações Diferenciais Ordinárias 0 60 60 Cálculo Diferencial e Integral II 
+Álgebra Linear 
+Estatística Probabilidade e Estatística 0 60 60 Cálculo Diferencial e Integral II 
+ 
+ 
+ 
+ 
+ 
+ 
+Física 
+Física I 0 60 60 Não tem 
+Física II 0 60 60 Física I 
+Cálculo Diferencial e Integral I 
+Física III 0 60 60 Cálculo Diferencial e Integral II 
+Física II 
+Física Experimental I 60 0 60 Física II (co-requisito) 
+Física Experimental II 60 0 60 Física II 
+Cálculo Diferencial e Integral II  
+Física III (co-requisto) 
+Química Química Geral 15 45 60 Não tem 
+Ciência dos 
+Materiais 
+Introdução à Ciência dos Materiais 0 60 60 Química Geral 
+Informática e 
+Algoritmos e 
+Programação 
+Introdução à Programação 60 0 60 Não tem 
+Mecânica dos 
+Sólidos Mecânica  dos Sólidos 0 60 60 Física I 
+Cálculo Diferencial e Integral II 
+ 
+ 
+Desenho Universal 
+e Expressão gráfica 
+Expressão Gráfica 15 45 60 Não tem 
+Desenho Arquitetónico 30 30 60 Expressão Gráfica 
+Desenho Auxiliado por Computador 30 15 45 Expressão Gráfica 
+Introdução à Programação 
+Fenômenos de 
+Transporte 
+Fenômenos de Transporte 0 60 60 Equações Diferenciais Ordinárias 
+Física II 
+Humanidades, 
+Ciências Sociais e 
+Cidadania. 
+Sociologia 0 30 30 Não tem 
+Instituições de Direito 0 30 30 Não tem 
+Relações Étnico-Raciais 0 30 30 Não tem 
+Administração Administração 0 30 30 Não tem 
+Economia Economia 0 30 30 Não tem 
+Metodologia 
+Científica e 
+Tecnológica 
+Metodologia de Pesquisa Científica 0 30 30 Não tem 
+Ciências do 
+Ambiente 
+Ciências do Ambiente 0          30 30 Não tem 
+Eletricidade Eletricidade Aplicada 15 45 60 Física III e Física Experimental II 
+TOTAL 300 1155 1455  
+Tabela 2 – Componentes curriculares optativos do núcleo básico. 
+Pré-requisito 
+Área 
+Componente Curricular 
+Carga 
+Horária 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Humanidades, 
+Ciências Sociais 
+e Cidadania 
+Filosofia e Ética 
+0 
+45 
+Carga 
+Horária 
+Total 
+(horas) 
+45 
+Direito Aplicado à Segurança do 
+Trabalho 
+0 
+60 
+60 
+Não tem 
+Não tem 
+Empreendedorismo 
+0 
+45 
+Gestão da Qualidade 
+45 
+Administração 
+0 
+45 
+45 
+Administração 
+Gestão de Pessoas 
+Administração 
+0 
+45 
+Comunicação e 
+Expressão 
+LIBRAS 
+0 
+30 
+45 
+Administração 
+30 
+Comunicação e 
+Expressão 
+Língua Portuguesa 
+0 
+45 
+Não tem 
+45 
+Matemática 
+Métodos Matemáticos para 
+Engenharia 
+0 
+60 
+60 
+Não tem 
+Cálculo Diferencial e Integral 
+III 
+Equações Diferenciais 
+Ordinárias. 
+TOTAL 
+0 
+315 
+315  
+4.2.2 Componentes curriculares do núcleo de conteúdos profissionalizantes 
+O núcleo de conteúdos profissionalizantes foi construído a partir de componentes 
+curriculares indispensáveis à formação do engenheiro civil e contempla a Resolução 
+CNE/CES 1, de 26 de março de 2021 (BRASIL, 2021). Os componentes curriculares 
+obrigatórios desse núcleo estão apresentados na Tabela 3 e    os optativos estão apresentados na 
+Tabela 4. 
+25 
+26  
+Tabela 3 – Componentes curriculares obrigatórios do núcleo profissionalizante. 
+Área Componente Curricular Carga 
+Horária 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Carga 
+Horária 
+Total 
+(horas) 
+Pré-requisito 
+Métodos 
+Numéricos 
+Cálculo Numérico 15 45 60 Introdução à 
+Programação e  
+Equações Diferenciais 
+Ordinárias 
+Construção 
+civil 
+Introdução à Engenharia Civil 0 30 30 Não tem 
+Ergonomia e 
+Segurança do 
+trabalho 
+Higiene e Segurança no Trabalho 0 30 30 Não tem 
+ 
+ 
+ 
+Geotecnia 
+Geologia Aplicada à Engenharia 0 60 60 Química Geral 
+ Física I 
+Mecânica dos Solos I 15 45 60 Geologia Aplicada à 
+Engenharia Física 
+II 
+Mecânica dos Solos II 0 60 60 Mecânica dos Sólidos 
+Mecânica dos Solos I 
+Materiais de 
+Construção 
+Civil 
+Materiais de Construção I 30 30 60 Introdução à Ciência 
+dos Materiais e 
+Resistência dos Materiais I 
+Materiais de Construção II 30 30 60 Materiais de Construção 
+I 
+ 
+Hidráulica, 
+Hidrologia 
+Aplicada e 
+Saneamento 
+Básico 
+Hidráulica 15 45 60 Fenômenos de 
+Transporte 
+Obras Hidráulicas 0 60 60 Hidráulica 
+Saneamento Básico e Emergências 
+Ambientais 0 45 45 Ciências do 
+Ambiente, Química 
+Geral e Hidráulica 
+Hidrologia Geral 15 45 60 Hidráulica 
+ 
+Sistemas 
+Estruturais e 
+Teoria das 
+Estruturas 
+Resistência dos Materiais I 0 45 45 Mecânica dos Sólidos 
+Resistência dos Materiais II 0 60 60 Cálculo Diferencial e 
+Integral III 
+Resistência dos 
+Materiais I 
+Estruturas Isostáticas 0 60 60 Resistência dos 
+Materiais I 
+Estruturas Hiperestáticas 0 60 60 Estruturas Isostáticas 
+Resistência dos 
+Materiais II 
+Cálculo Numérico 
+Topografia e 
+Geodésia 
+Topografia 30 30 60 Não tem 
+TOTAL 150 780 930  
+ 
+Tabela 4 – Componente curricular optativo do núcleo profissionalizante. 
+Área Componente 
+Curricular 
+Carga 
+Horári
+ a 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Carga 
+Horária 
+Total 
+(horas) 
+Pré-requisito 
+Algoritmo e Estrutura 
+de Dados 
+Técnicas de 
+Programação 
+60 0 60 Introdução à Programação 
+ 
+27  
+4.2.3 Componentes curriculares do núcleo específico 
+ 
+ De acordo com a Resolução CNE/CES 1, de 26 de março de 2021 (BRASIL, 2021), o 
+núcleo de conteúdos específicos envolve componentes curriculares que proporcionam ao aluno 
+formação geral pertinente ao perfil do engenheiro civil. Os componentes curriculares 
+obrigatórios do núcleo específico estão apresentados na Tabela 5. O núcleo específico permite 
+uma formação complementar ao aluno a partir da disponibilidade de componentes curriculares 
+optativos nas áreas de estruturas, saneamento, meio ambiente, gerenciamento de obras, geotecnia 
+e infraestrutura aeroportuária que estão apresentados na Tabela 6. 
+Tabela 5 – Componentes curriculares obrigatórios do núcleo específico. 
+Área Componente Curricular Carga 
+Horári
+ a 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Carga 
+Horária 
+Total 
+(horas) 
+Pré-requisito 
+ 
+Instalações 
+Prediais 
+Instalações Prediais Hidrossanitárias 0 45 45 Hidráulica 
+Materiais de Construção I 
+Combate a Incêndio I 0 60 60 Instalações Prediais 
+Hidrossanitárias 
+ 
+ 
+Saneamento 
+Drenagem Urbana 0 60 60 Abastecimento de Água 
+Obras Hidráulicas 
+Cálculo Numérico 
+Abastecimento de Água 0 60 60 Saneamento Básico e Emergências 
+Ambientais 
+Hidrologia Geral 
+Materiais de Construção I 
+ 
+ 
+ 
+ 
+ 
+Estruturas e 
+Fundações 
+Concreto Armado I 0 60 60 Estruturas Hiperestáticas 
+Materiais de Construção I 
+Concreto Armado II 0 60 60 Concreto Armado I 
+Materiais de Construção II. 
+Fundações 0 60 60 Mecânica dos Solos II 
+Materiais de Construção I 
+Estruturas de Aço 0 60 60 Estruturas Hiperestáticas 
+Materiais de Construção II 
+Estruturas de Madeira 0 45 45 Estruturas Hiperestáticas 
+Materiais de Construção II 
+Concreto Pretendido 0 45 45 Concreto Armado II 
+Orçamento Orçamento de Obras 0 60 60 Concreto Armado II, 
+Materiais de Construção II, 
+Fundações 
+Tecnologia das Construções 
+Estradas Estradas e Rodovias 0 60 60 Topografia 
+Tecnologia das 
+Construções 
+Tecnologia das Construções 0 60 60 Concreto Armado II, 
+Materiais de Construção II, 
+Fundações. 
+TOTAL 0 735 735  
+ 
+28  
+Tabela 6 – Componentes curriculares optativos do núcleo específico. 
+Área Componente Curricular Carga 
+Horária 
+Prática 
+(horas) 
+Carga 
+Horária 
+Teórica 
+(horas) 
+Carga 
+Horária 
+Total 
+(horas) 
+Pré-requisito 
+ 
+ 
+ 
+ 
+ 
+Saneamento 
+Tratamento de Água 0 60 60 Materiais de Construção II 
+e Abastecimento de Água. 
+Projeto de Aterro Sanitário 0 60 60 Saneamento Básico,  Mecânica 
+dos Solos II e Drenagem Urbana 
+Tratamento de Efluentes 0 60 60 Obras Hidráulicas  
+e Saneamento 
+Básico 
+Captação e Manejo de Água de 
+Chuva 
+15 45 60 Hidrologia Geral 
+Reuso de Águas Residuárias em 
+Regiões Semiáridas 
+15 45 60 Hidrologia Geral e 
+Obras Hidráulicas. 
+Gestão 
+Ambiental 
+Gestão Integrada de 
+Bacias 
+Hidrográficas 
+15 30 45 Hidrologia Geral 
+ 
+ 
+Ambiental 
+Meteorologia e Climatologia 15 45 60 Hidrologia e Cálculo Integral e 
+Diferencial II 
+Operações Unitárias 15 45 60 Obras Hidráulicas 
+Geomática 30 30 60 Introdução à Programação 
+ 
+ 
+Estruturas 
+Alvenaria Estrutural 0 60 60 Concreto Armado II 
+Pontes 0 60 60 Concreto Armado II 
+Pré-Moldados 0 60 60 Concreto II 
+Análise Estrutural por 
+Computador 
+0 60 60 Concreto II 
+ 
+Obras 
+Planejamento e Controle de 
+Obras 
+0 60 60 Concreto Armado I 
+Gerenciamento de 
+Materiais de 
+Construção 
+0 60 60 Concreto Armado I 
+Materiais de Construção II 
+Materiais de 
+Construção 
+Barragens 
+Concretos Especiais 0 60 60 Concreto Armado I 
+Materiais de Construção II 
+Estabilidade de Taludes 0 45 45 Mecânica dos Solos II 
+Materiais de Construção I 
+Barragens de Terra e 
+Enrocamento 
+0 60 60 Mecânica dos Solos II 
+ 
+ 
+Pavimentação, 
+Transportes e 
+Infraestrutura 
+aeroportuária 
+Engenharia de Transportes 15 45 60 Estradas e Rodovias 
+Conservação de Rodovias 15 45 60 Estradas e Rodovias 
+Instalações 
+Prediais 
+Pavimentação 0 60 60 Materiais de Construção II, 
+Mecânica dos Solos II e  
+Estradas e Rodovias 
+TOTAL 120 1095 1215 

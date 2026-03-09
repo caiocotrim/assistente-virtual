@@ -1,0 +1,277 @@
+1º SEMESTRE 
+ 
+Introdução à Engenharia Civil CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 0 0 
+TOTAL 30 2 
+OBRIGATÓRIO NÚCLEO: Profissionalizante 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Apresentação do curso de engenharia civil. Apresentação dos principais 
+campos de atuação abrangidos pela engenharia civil. 
+BIBLIOGRAFIA BÁSICA: 
+BAZZO, W. A.; PEREIRA, L. T. V. Introdução à engenharia. Florianópolis: Editora da 
+UFSC, 2005. 274 p. 
+DYM, C. L.; LITTLE, P. Introdução à engenharia: uma abordagem baseada em 
+projetos. 3 ed. Porto Alegre: Brookman, 2010. 346 p. 
+BRAGA, T,; NEVES, L. (org.). Trabalho em questão. Salvador:SEI, 2010. 347 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+WIKIPÉDIA. Engenharia civil. Disponível em: 
+https://pt.wikipedia.org/wiki/Engenharia_civil. Acesso em: 12 mar. 2017, 09:41 h. 
+AMARIZ, M. Engenheiro civil. [SI]. INFOESCOLA, 2017. Disponível em: 
+http://www.infoescola.com/profissoes/engenheirocivil/. Acesso em: 12 mar. 2017, 
+09:46 h. 
+TÉCHNE. Profissão: engenheiro civil. [SI] Téchne, 2006. Disponível em: 
+http://techne.pini.com.br/engenharia-civil/66/artigo286222-1.aspx. Acesso em: 12 mar. 2017, 
+10:15 h. 
+BRASIL. Lei n° 5.194, de 24 de dezembro de 1966. Regula o exercício das profissões de 
+Engenheiro, Arquiteto e Engenheiro Agrônomo, e dá outras providências. Brasília, DF, 1966. 
+CONFEA – CONSELHO FEDERAL DE ENGENHARIA, ARQUITETURA E 
+AGRONOMIA. Resolução n° 1.010, de 22 de agosto de 2005. Dispõe sobre a 
+regulamentação da atribuição de títulos profissionais, atividades, competências e 
+características   do   âmbito   de   atuação   dos   profissionais   inseridos   no   Sistema 
+CONFEA/CREA, para efeito de fiscalização do exercício profissional. Brasília, DF, 2005. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+83  
+Introdução à Programação CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 4 
+PRÁTICA 60 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Introdução à Programação: aplicações dos computadores. Introdução à 
+organização de computadores. Soluções de problemas usando o computador. Processo de 
+desenvolvimento de programas. Algoritmos. Modelos de programação. Introdução a uma 
+linguagem de programação. Tipos de dados (entradas e saídas de dados), operadores e 
+expressões. Comandos de controle de fluxo (decisões e repetições). Agregados de dados 
+homogêneos e heterogêneos. Modularização de programas. 
+Recursividade. Alocação dinâmica de memória. P 
+BIBLIOGRAFIA BÁSICA: 
+CARBONI, I. de. F.. Lógica de programação. São Paulo: Thomson, 2003. 240 p. ISBN 85
+221-0316-x. 
+SOUZA, M. A. F de. Algoritmos e lógica de programação. São Paulo: Thomson, 2005. 214 
+p. ISBN 8522104646. 
+SEBESTA, R. W. Conceitos de linguagens de programação. 4. ed. Porto Alegre: Bookman 
+, 2000. 624 p. (Tradução: José Carlos Barbosa dos Santos.). ISBN 85-7307- 608-9. 
+PACITTI, T.; ATKISON, C. P. Programação e métodos computacionais. 4. ed., Cidade: 
+Livros técnicos e científicos, 1983. v 1. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BROOKSHEAR, J. G. Ciência da Computação - Uma Visão Abrangente. Porto Alegre: 
+Bookman, 2000. 
+ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de 
+Computadores - Algoritmos, Pascal e C/C++. São Paulo: Prentice-Hall, 2002. 
+CHAPMAN, S. J. Programação em MATLAB para engenheiros. São Paulo: Thomson, 
+2003. 477 p. (Tradução: Flávio Soares Correa da Silva.). ISBN 85-221- 0325-9. 
+MANZANO, J. A. N. G.; OLIVEIRA, J. F.. Algoritmos: lógica para desenvolvimento de 
+programação de computadores. 17. ed. São Paulo: Érica , 2005. 236 p. ISBN 85-7194-718
+x. 
+SILVEIRA, J. C. S. Conceitos Básicos de Computação. Porto Alegre: II da UFRGS, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+84  
+Álgebra Vetorial e Geometria Analítica CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Álgebra de vetores no plano e no espaço tridimensional. Retas. 
+Planos. Cônicas. 
+BIBLIOGRAFIA BÁSICA: 
+LEHMANN, C. H. Geometria analítica. 8 ed. São Paulo: Globo, 2007. 
+REIS, G. L.; SILVA, V. V. Geometria analítica. 2 ed. Rio de Janeiro: LTC, 2007. 
+STEINBRUCH, A.; WINTERLE, P. Geometria analítica. 2 ed. São Paulo: Makron Books, 
+2004. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BOLDRINI, J. L. et al. Álgebra Linear. 3 ed. São Paulo: Harbra, 1986. 
+CAMARGO, I.; BOULOS, P. Geometria analítica: um tratamento vetorial. São Paulo: 
+Pearson Hall, 2005. 
+IEZZI, G.; MURAKAMI, C. Fundamentos de matemática elementar: 7: geometria 
+analítica. 4 ed. São Paulo: Atual, 1993. 
+LIMA, E. L. Geometria Analítica e Álgebra Linear. 2 ed. Rio de Janeiro: IMPA, 2006. 
+MACHADO, A. S. Álgebra Linear e Geometria Analítica. 2 ed. São Paulo: Moderna, 2005. 
+ 
+ 
+Cálculo Diferencial e Integral I CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Limites e continuidade. Diferenciação. Formas indeterminadas. 
+Aplicações das derivadas. Construção de Primitivas. 
+BIBLIOGRAFIA BÁSICA: 
+LEITHOLD, L. O cálculo com geometria analítica: volume 1. 3 ed. São Paulo: Harbra, 1994. 
+STEWART, J. Cálculo 1. 7 ed. São Paulo: Cengage Learning, 2013. 
+THOMAS, G. B. et al. Cálculo: volume 1. São Paulo: Pearson, 2002. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ÁVILA, G. Cálculo das funções de uma variável. Vol 1. 7 ed. Rio de Janeiro: LTC, 2003. 
+GUIDORIZZI, H. L. Um curso de cálculo: vol. 1. 5 ed. Rio de Janeiro: LTC, 2011. 
+HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: um curso moderno e suas aplicações. 7 ed. 
+Rio de Janeiro: LTC, 2002. 
+MUNEM, M. A.; FOULIS, D. J. Cálculo. Rio de Janeiro: LTC, 1982. 
+SIMMONS, G. F. Cálculo com geometria analítica: volume 1. São Paulo: Makron Books, 
+2005. 
+ 
+  
+85  
+ 
+Química Geral CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 45 3 
+PRÁTICA 15 1 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Química inorgânica: estrutura atômica, tabela periódica, ligações químicas, 
+estudo do hidrogênio e outros elementos. Físico-química: Equilíbrio Químico, cinética 
+química, eletroquímica. Química orgânica: funções orgânicas. Experimentos de química. 
+BIBLIOGRAFIA BÁSICA: 
+ATKINS, P.; JONES, L. Princípios de Química: questionando a vida moderna e o meio 
+ambiente. 3. ed. Porto Alegre: Bookman, 2006. 
+BRADY, J. E. ; HUMISTON, G. E. Química geral. 2. ed. Rio de Janeiro: LTC, 2008. 
+v. 1. 
+RUSSELL, J. B. Química geral. 2. ed. São Paulo: Makron Books, 2004. V.1. 619 p. (Título 
+original: General chemistry; Tradução de: Marcia Guekezian; v. 1). ISBN 853460192-5 
+(broch.). 
+BIBLIOGRAFIA COMPLEMENTAR: 
+BRADY, J. E; HUMISTON, G. E. Química geral. 2. ed. Rio de Janeiro: LTC, 2010. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. Química: a ciência central. 9. ed. São 
+Paulo: Prentice Hall, 2005. 
+RUSSELL, J. B.. Química geral. 2. ed. São Paulo: Makron Books, 2004. v 1. BROWN, L. 
+S.; HOLME, T. A. Química geral aplicada à engenharia. São Paulo: Cengage Learning, 
+2010. 653 p. (Título: Chemistry for engineering students; Tradução: Maria Lúcia Godinho 
+de Oliveira). ISBN 978-85-221-0688-2 (broch.). 
+RUSSELL, J. B. Química geral. 2. ed. São Paulo: Makron Books, 2004. V. 2. 623 - 1267 p. 
+(Título original: General chemistry; Tradução de: Marcia Guekezian; v. 2). ISBN 853460151
+8 (broch.). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+86  
+Expressão Gráfica CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 15 1 
+PRÁTICA 45 3 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Instrumentação, normas e convenções. Construções geométricas 
+fundamentais. Métodos descritivos. Mudanças de planos. Rotação 
+(rebatimento) de planos. Sistemas de projeções e perspectivas 
+axonométricas. 
+BIBLIOGRAFIA BÁSICA: 
+BUENO, C. P., PAPAZOGLOU, R. S. Desenho técnico para engenharias. Curitiba: Juruá, 
+2008. 196 p  
+PRINCIPE JÚNIOR, A. R. Noções de geometria descritiva Vol. 1. São Paulo: Nobel, 1983. 
+311 p. 
+PRINCIPE JÚNIOR, A. R. Noções de geometria descritiva Vol. 2. São Paulo: Nobel, 1983. 
+327 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+CARVALHO, B. A. Desenho geométrico. 3 ed. Rio de Janeiro: Ao Livro Técnico, 2005. 
+332 p. 
+FRENCH, T. E.; VIERCK. C. J. Desenho Técnico e tecnologia gráfica. 8 ed. São Paulo: 
+Globo, 2011. 1093 p. 
+MAGUIRE, D. E.; SIMMONS, C. H. Desenho Técnico. Rio de Janeiro: Hemus, 2004. 257 
+p. 
+MICELI, M. T.; FERREIRA, P. Desenho técnico básico. 4 ed. Rio de Janeiro: 
+Imperial Milênio, 2010. 143 p. 
+VOLLMER, D. Desenho técnico. Rio de Janeiro: Ao Livro Técnico, 1982. 114 p. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+87  
+Física I CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Básico 
+PRÉ-REQUISITO: Não tem 
+EMENTA: Cinemática de partículas. Leis de Newton. Trabalho e energia. 
+Conservação de energia. Sistema de partículas. Colisões. Movimento de 
+rotação. Torque. Momento Angular e Rolamento. 
+BIBLIOGRAFIA BÁSICA: 
+HALLIDAY, DAVID; RESNICK, ROBERT; WALKER, JEARL. Fundamentos de 
+Física 1: mecânica. 9. ed. Rio de Janeiro: LTC, 2012. 
+TIPLER, PAUL ALLEN; MOSCA, GENE. Física para cientistas e engenheiros: 
+mecânica, oscilações e ondas, termodinâmica. 5. ed. Rio de Janeiro: LTC, 2006. vol.1. 
+YOUNG, HUGH D; FREEDMAN, ROGER A. SEARS E ZEMANSKY. Física I: 
+mecânica. 10. ed. São Paulo: Addison Wesley, 2005. 368 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia:  álgebra linear e 
+cálculo vetorial. 3. ed. Porto Alegre: Bookman, 2009. v 2. 
+HALLIDAY, DAVID; RESNICK, ROBERT; KRANE, KENNETH S. Física 1. 5. ed. 
+Rio de Janeiro: LTC, 2004. 
+NUSSENZVEIG, HERCH MOYSÉS. Curso de física básica 1: mecânica. 4. ed. São 
+Paulo: Edgard Blücher, 2009. 328 p. 
+JEWETT, JOHN W.; SERWAY, RAYMOND A. Física para cientistas e engenheiros, Vol. 
+1: mecânica. São Paulo: Cengage Learning, 2011. 412p. 
+ALONSO, M.; FINN, E. J. Física: um curso universitário: mecânica. São Paulo: E. Blücher, 
+1972. 481 p.

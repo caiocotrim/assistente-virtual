@@ -1,0 +1,72 @@
+Estágio em Engenharia Civil CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 0 0 
+PRÁTICA 165 11 
+TOTAL 165 11 
+OBRIGATÓRIO NÚCLEO: 
+PRÉ-REQUISITO: Ter cursado, com aprovação mínima, 60% da carga horária da matriz 
+curricular do curso. 
+EMENTA: Desenvolvimento de atividades profissionais, em órgãos conveniados com o 
+IFBA, supervisionadas pela Coordenação do Curso e condicionados à apresentação e 
+aprovação de relatório individual referente às atividades desenvolvidas. 
+BIBLIOGRAFIA BÁSICA: 
+A serem definidas no plano de estágio, de acordo com a área de atuação profissional. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+A serem definidas no plano de estágio, de acordo com a área de atuação profissional. 
+ 
+Orçamento de Obras CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 60 4 
+PRÁTICA 0 0 
+TOTAL 60 4 
+OBRIGATÓRIO NÚCLEO: Específico 
+PRÉ-REQUISITO: Concreto Armado II, Materiais de Construção II e Fundações e 
+Tecnologia das Construções. 
+EMENTA: Modalidades de contratos de obras. Licitações. Caderno de encargos, memorial 
+descritivo. Leis sociais aplicadas na construção civil. Custos unitários, custos totais. 
+Orçamentação de obras. Cronograma físico-financeiro. 
+BIBLIOGRAFIA BÁSICA: 
+PINI. TCPO – Tabela de Composição de Preços para Orçamento. São Paulo: Editora 
+PINI, 2010. 630 p. 
+GOLDMAN, P. Introdução ao planejamento e controle de custos na construção civil 
+brasileira. 4 ed. São Paulo: PINI, 2004. 176 p. 
+JUSTEN FILHO, M. Comentários à lei de licitações e contratos administrativos: com 
+a lei federal nº 12.349/2010. 15 ed. São Paulo: Dialética, 2012. 1135 p. 
+BIBLIOGRAFIA COMPLEMENTAR: 
+VIEIRA, H. F. Logística aplicada à construção civil: como melhorar o fluxo de produção 
+nas obras. São Paulo: PINI, 2006. 178 p 
+BRASIL. Lei 8.666, de 21 de junho de 1993. Regulamenta o art. 37, inciso XXI, da 
+Constituição Federal, institui normas para licitações e contratos da Administração Pública e 
+dá outras providências. Brasília, DF, 1993. Disponível em: 
+<http://www.planalto.gov.br/ccivil_03/leis/L8666cons.htm>. Acesso em 14 de março de 
+2017. 
+BARRAL, D. A. O. Gestão e fiscalização de contratos administrativos. Brasília: Enap, 
+2016. 117 p. Disponível em: 
+<https://www.comprasgovernamentais.gov.br/arquivos/caderno/cadernos_enap_36_fisc 
+alizacao_de_contratos.pdf>. Acesso em 14 de março de 2017. 
+CORDEIRO, F. R. F. S. Orçamento e controle de custos na construção civil. Belo 
+Horizonte: UFMG, 2007. 63 p. (Monografia apresentada ao curso de especialização em 
+Construção Civil da Escola de Engenharia da UFMG). Disponível em: 
+<http://www.cecc.eng.ufmg.br/trabalhos/pg1/Monografia%20Or%E7amento%20e%20 
+c 
+ontrole%20de%20custos%20na%20constru%E7ao%20civil.pdf>. Acesso em 14 de março 
+de 2017. 
+CARLBERG, C. G. Administrando a empresa com Excel. São Paulo: Makron Books, 2003. 
+423 p. 
+TCC II 
+CARGA HORÁRIA 
+(h) 
+CRÉDITOS 
+TEÓRICA 30 2 
+PRÁTICA 0 0 
+OBRIGATÓRIO 
+TOTAL 30 2 
+PRÉ-REQUISITO: TCC I 
+NÚCLEO: - 
+EMENTA: Desenvolvimento do projeto de pesquisa proposto no TCC I ao longo de um 
+semestre letivo, incluindo a elaboração da versão preliminar da monografia, por parte do 
+estudante com o devido acompanhamento do professor orientador. 
+BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
