@@ -1,0 +1,38 @@
+CÓDIGO: 14.6.2
+DISCIPLINA: Estruturas de Concreto Armado
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1098
+CONCRETO
+- Resistência dos
+Materiais I
+Ementa:
+Fundamentos do concreto armado. Propriedades do concreto. Aço e concreto armado.
+Classificações das estruturas de concreto armado. Definição de cargas e esforços
+solicitantes. Flexão simples e cisalhamento. Determinação das cargas e esforços
+solicitantes. Projetos de lajes, pilares e reservatórios.
+Bibliografia básica:
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo: volume 1. São
+Paulo: Blucher. 525 p. 15 exemplares
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto armado, eu te amo: volume 2. São
+Paulo: Blucher, 2015. 339p. 17 exemplares
+BORGES, A. C.; MONTEFUSO, E.; LEITE, J. L. Prática das pequenas construções.
+São Paulo: Edgard Blucher. 15 exemplares
+Bibliografia complementar:
+ABNT. NBR 6118 - Projeto de estruturas de concreto — Procedimento.
+AZEREDO, H. A. de. O edifício até sua cobertura. São Paulo: Blucher. online
+resource
+BAUD, G. Manual de pequenas construções: alvenaria e concreto armado.
+Curitiba: Hemus. 477 p. 10 exemplares
+BOTELHO, M. H. C.; MARCHETTI, O. CONCRETO ARMADO EU TE AMO. São
+Paulo: BLUCHER. online resource.
+LEONHARDT, F.; MÖNNIG, E. Construções de concreto: princípios básicos do
+dimensionamento de estruturas de concreto armado. Rio de Janeiro: Interciência.
+305 p. 13 exemplares
+ROCHA, A. M. da. Novo curso prático de concreto armado: cálculo das estruturas
+de concreto protendido, v. 5. Rio de Janeiro: Científica. 2 exemplares

@@ -1,0 +1,52 @@
+CÓDIGO: 14.8.2
+DISCIPLINA: Gestão Integrada de Bacias Hidrográficas
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+SUP1103
+GESTÃO
+BACIAS
+- Hidrologia
+Geral
+30 15
+Ementa:
+Classificação e análise dos sistemas hidrográficos para fins de administração
+ambiental. Gerenciamento Ambiental eGerenciamento Ambiental Integrado. Definição
+de Unidade Territorial Geográfica (microbacia). Paisagem: conceito e técnicas de
+análise. Análise das fases do processo de gerenciamento ambiental integrado:
+Diagnóstico, Planejamento e Gerenciamento. Aplicação prática de modelos.
+Bibliografia básica:
+MARTINS, Rodrigo Constante; VALENCIO, Norma Felicidade Lopes da Silva (orgs.).
+Usos e gestão dos recursos hídricos no Brasil: desafios teóricos e políticos-
+institucionais. São Carlos: Rima. 6
+MORAES, M. E. B.; LORANDI, R. (orgs). Métodos e técnicas de pesquisa em
+bacias hidrográficas [recurso eletrônico]. Ilhéus, BA: Editus, 2016, Disponível em
+SciELO Books: https://books.scielo.org/id/4wbr2. Acesso em 20 out. 2023.
+PIROLI, E. L. Água e bacias hidrográficas: planejamento, gestão e manejo para
+enfrentamento das crises hídricas [online]. São
+Paulo: Editora UNESP, 2022. https://doi.org/10.7476/9786557142981. Acesso em 23
+out. 2023.
+TUCCI, C. E. M. Gestão da água no Brasil [recurso eletrônico]. Brasília: UNESCO.
+Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000129870. Acesso em 22
+out. 2023.
+Bibliografia complementar:
+BOS, R.; ALVES, D.; LATORRE, C.; MACLEOD, N.; PAYEN, G.; ROAF, V.; RPUSE,
+M. (orgs.) [recurso eletrônico]. Manual Sobre os Direitos Humanos à Água Potável
+e Saneamento para Profissionais. Londres: IWA Publishing, 2017.Disponível em:
+https://www.iwa-network.org/wp-content/uploads/2017/10/9781780408750.full_.pdf.
+Acesso em 20 out. 2023.
+CASTRO, J. E. Água e democracia na América Latina [recurso eletrônico]. Campina
+Grande: EDUEPB, 2016. doi: 10.7476/9788578794866. Disponível em:
+http://books.scielo.org/id/tn4y9/epub/castro-9788578794866.epub. Acesso em 23 out.
+2023.
+DIAS, N.; SILVA, M. R. F.; GHEYI, H. R. (Org.). Recursos hídricos: usos e manejos.
+São Paulo: Livraria da Física.
+PINTO-COELHO, R. M. Gestão de recursos hídricos em tempos de crise [recurso
+eletrônico]. Porto Alegre: Artmed, 2016.
+SANT'ANNA, F. M. Governança multiescalar dos recursos hídricos
+transfronteiriços na Amazônia [recurso eletrônico]. São Paulo: Editora Unesp, 2017.
+Disponível em: https://doi.org/10.7476/9788595461802. Acesso em 20 out. 2023.

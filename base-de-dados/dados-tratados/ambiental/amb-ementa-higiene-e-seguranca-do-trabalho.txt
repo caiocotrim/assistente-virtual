@@ -1,0 +1,36 @@
+CÓDIGO: 14.3.5
+DISCIPLINA: Higiene e Segurança do Trabalho
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+SUP1124
+SEGURANÇA DO
+Ementa:
+Legislação trabalhista e previdenciária: evolução histórica e conceitos básicos. Visão
+geral das normas regulamentadoras de segurança e saúde do trabalho – NR. Agentes
+de riscos ambientais. Programas, órgãos e profissionais gestores de segurança e
+saúde do trabalho. Medidas de controle de riscos ambientais e treinamentos.
+Estatística de acidentes do trabalho e doenças ocupacionais. Princípios de prevenção
+e combate a Incêndio.
+Bibliografia básica:
+BARBOSA FILHO, A. N. Segurança do trabalho e gestão ambiental. São Paulo:
+Atlas. (5).
+EQUIPE ATLAS. Segurança e medicina do trabalho. São Paulo: Ed. Atlas.(9)
+SILVA, J. A. F, Segurança do trabalho - gerenciamento de riscos ocupacionais - Gro
+/ Pgr. São Paulo: LTr.
+Bibliografia complementar:
+TANIMOTO, Armando Hirohumi; SOUZA, Claudio Reynaldo Barbosa de;
+WANDERLEY, Rafael Gomes (org.). Estudos em segurança, meio ambiente e
+saúde. Salvador: IFBA, 2012. 224 p. ISBN 9788560619146. (1)
+Normas técnicas:
+● NR-1 - DISPOSIÇÕES GERAIS E GERENCIAMENTO DE RISCOS
+OCUPACIONAIS.
+● NR-2 - INSPEÇÃO PRÉVIA (REVOGADA)
+● NR-3 - EMBARGO E INTERDIÇÃO.
+● NR-4 - SERVIÇOS ESPECIALIZADOS EM SEGURANÇA E EM MEDICINA DO
+TRABALHO.
+● NR-5 - COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES.

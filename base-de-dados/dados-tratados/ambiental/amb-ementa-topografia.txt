@@ -1,0 +1,38 @@
+CÓDIGO: 14.6.7
+DISCIPLINA: Topografia
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1133
+- Desenho auxiliado
+por computador
+Ementa:
+Definições e aplicações em topografia. Unidades de medidas, ângulos e distâncias.
+Escalas. Equipamentos topográficos. Medidas de ângulo e distância. Métodos de
+levantamento. Planilhas de cálculo de área. Orientação de desenho de plantas
+topográficas. Precisão linear e angular. Métodos de cálculo de área. Altimetria.
+Definições e aplicações. Instrumentos de nivelamento. Métodos de nivelamento.
+Representação do relevo. Construção de perfis e seções. Levantamento
+planialtimétrico. Noções de Sistema de Posicionamento Global – GPS.
+Bibliografia básica:
+BORGES, A. C. Topografia Aplicada à Engenharia Civil, Vol 1. São Paulo: Editora
+Edgard Blucher.
+BORGES, A. C. Topografia Aplicada à Engenharia Civil, Vol 2. São Paulo: Editora
+Edgard Blucher.
+MCCORMAC, J. Topografia. Rio de Janeiro: LTC.
+Bibliografia complementar:
+BOTELHO, M. H. C. ABC da topografia: para tecnólogos, arquitetos e
+engenheiros. 1 online resource.
+CASACA, J. M.; MATOS J. L.; DIAS, J. M. B. Topografia geral. Rio de Janeiro: LTC.6
+exemplares
+COMASTRI, J. A; TULER, J. C. Topografia – Altimetria. Viçosa: Editora UFV. 8
+exemplares
+DAIBERT, J. D. Topografia: técnicas e práticas de campo. 2. ed. São Paulo:
+Érica/Saraiva. 120 p. 6 exemplares
+FRENCH, Thomas Ewing, 1871-1944; VIERCK, Charles J. Desenho técnico e
+tecnologia gráfica. 8. ed. São Paulo: Globo, 2011. 6 exemplares
+MCCORMAC, J. Topografia. Rio de Janeiro: LTC. 7 exemplares

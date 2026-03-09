@@ -1,0 +1,28 @@
+CÓDIGO: 14.1.1
+DISCIPLINA: Álgebra Vetorial e Geometria Analítica
+Código
+Componente
+(NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1306
+VETORIAL E
+ANALÍTICA
+60 -
+Ementa:
+Álgebra de vetores no plano e no espaço tridimensional, retas, planos e cônicas.
+Bibliografia básica:
+LEHMANN, C. H. Geometria analítica. São Paulo: Globo. 9
+REIS, G. L.; SILVA, V. V. Geometria analítica. Rio de Janeiro: LTC. 14
+STEINBRUCH, A.; WINTERLE, P. Geometria analítica. São Paulo: Makron Books.
+Bibliografia complementar:
+BOLDRINI, J. L. et al. Álgebra Linear. São Paulo: Harbra. 26
+CAMARGO, I.; BOULOS, P. Geometria analítica: um tratamento vetorial. São Paulo:
+Pearson Hall.
+IEZZI, G.; MURAKAMI, C. Fundamentos de matemática elementar 7:
+geometria analítica. São Paulo: Atual. 1
+LIMA, E. L. Geometria Analítica e Álgebra Linear. Rio de Janeiro: IMPA.
+MACHADO, A. S. Álgebra Linear e Geometria Analítica. São Paulo: Moderna. 6

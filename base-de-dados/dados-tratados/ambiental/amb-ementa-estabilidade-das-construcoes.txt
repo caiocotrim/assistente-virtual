@@ -1,0 +1,38 @@
+CÓDIGO: 14.6.1
+DISCIPLINA: Estabilidade das Construções
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1096
+CONSTRUÇÕES
+- Resistência dos
+Materiais I
+Ementa:
+Análise de fundações, elementos estruturais de lajes, vigas e pilares, tipos de
+carregamentos: cargas concentradas e distribuídas,esforços seccionais e desenho
+estrutural.
+Bibliografia básica:
+BEER, Ferdinand P. Mecânica vetorial para engenheiros: estática. 9. ed. São
+Paulo: Makron Books. 622 p. 44 exemplares
+BEER, Ferdinand P; JOHNSTON, E. Russell. Resistência dos materiais. 3. ed. São
+Paulo: Makron Books. 1255 p. 29 exemplares
+BOTELHO, M. H. C.; MARCHETTI, O. Concreto Armado Eu Te Amo, v. 2. São
+Paulo: Editora Edgard Blucher. 17 exemplares
+FUSCO, P. B.; ONISHI, M. Introdução à Engenharia de Estruturas de Concreto.
+Disponível em: https://ava.ifba.edu.br/login/index.php.
+Bibliografia complementar:
+ALONSO, Urbano Rodriguez. Dimensionamento de fundações profundas. 2. ed.
+São Paulo: Edgard Blucher. 157 p. 16 exemplares
+HACHICH, W. Fundações – Teoria e Prática. São Paulo: Pini. 5 exemplares
+HIBBELER, R. C. Resistência dos materiais. 5. ed. São Paulo: Prentice Hall. 670 p.
+19 exemplares
+LEET, Kenneth.; UANG, Chia-Ming.; GILBERT, Anne. Fundamentos da análise
+estrutural. São Paulo: Mc Graw - Hill, 2009. xxii,790p. 5 exemplares
+MARGARIDO, A. F. Fundamentos de Estruturas. São Paulo: Zigurarte Editora. 5
+exemplares
+RAMALHO, Marcio A.; CORRÊA, Márcio R. S. Projeto de edifícios de alvenaria
+estrutural. São Paulo: Pini. 174 p. 12 exemplares

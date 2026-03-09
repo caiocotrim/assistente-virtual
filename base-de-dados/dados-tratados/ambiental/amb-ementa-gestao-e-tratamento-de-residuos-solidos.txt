@@ -1,0 +1,47 @@
+CÓDIGO: 14.9.1
+DISCIPLINA: Gestão e Tratamento de Resíduos Sólidos
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1102
+GESTÃO E
+RESÍDUOS
+- Microbiologia sanitária
+e ambiental;
+- Química analítica;
+- Tratamento de
+efluentes
+Ementa:
+Introdução. Conceituação, tipos e classificação dos resíduos sólidos. Caracterização
+dos resíduos domiciliares (RSD), resíduos sólidos industriais e perigosos (RSI),
+resíduos de serviços de saúde (RSS), resíduos de construção e demolição (RCD) e
+de poda e capina. Aspectos sanitários, ambientais, epidemiológicos, econômicos e
+sociais dos resíduos sólidos. Legislação e normatização sobre resíduos sólidos.
+Sistemas de Gestão de resíduos sólidos. Coleta, tratamento e disposição final.
+Reciclagem. Sistemas de tratamento de resíduos comuns e industriais. Compostagem
+de resíduos orgânicos. Noções sobre projeto de aterro sanitário. Noções sobre projeto
+de usina de reciclagem.
+Bibliografia básica:
+BIDONE, F. R. A. (Org.). Metodologias e técnicas de minimização, reciclagem e
+reutilização de resíduos sólidos urbanos. Rio de Janeiro: ABES.
+CASTILHOS JÚNIOR, A. B. (coord.). Resíduos Sólidos Urbanos: Aterro Sustentável
+para Municípios de pequeno porte [recurso eletrônico]. Rio de Janeiro: ABES, RiMa,
+2003. Disponível em: http:/livroaberto.ibict.br/handle/1/492. Acesso em: 22 out. 2023.
+JACOBI, P. R. Gestão compartilhada dos resíduos sólidos no Brasil: inovação
+com inclusão social. São Paulo: Annablume.
+Bibliografia complementar:
+ARRUDA, P. T. M. Responsabilidade civil decorrente da poluição por resíduos
+sólidos domésticos. São Paulo: Método.
+BARROS, R. M. Tratado sobre resíduos sólidos: gestão, uso e sustentabilidade.
+Rio de Janeiro: Interciência; Minas Gerais: Acta.
+GOMES, L. P. (Coord.). Estudos de caracterização e tratabilidade de lixiviados de
+aterros sanitários para as condições brasileiras. Rio de Janeiro: ABES.
+JARDIM, A.; YOSHIDA, C.; FILHO, J. V. M. Política Nacional,
+Gestão e Gerenciamento de Resíduos Sólidos. Barueri, SP: Manole. (Coleção
+Ambiental).
+MASSUKADO, L. M. Compostagem: nada se cria, nada se perde; tudo se transforma.
+Brasília: IFB.

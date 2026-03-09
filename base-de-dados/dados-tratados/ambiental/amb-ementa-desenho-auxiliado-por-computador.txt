@@ -1,0 +1,44 @@
+CÓDIGO: 14.5.3
+DISCIPLINA: Desenho Auxiliado por Computador
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+POR COMPUTADOR
+- Expressão Gráfica e
+- Introdução à
+Programação
+15 30
+Ementa:
+Introdução ao Projeto Arquitetônico. Ergonomia e Antropometria. Metodologias para
+projetos específicos com ênfase na acessibilidade espacial. Projeto de acessibilidade
+conforme a NBR 9050/2015. Modelagem computacional 2D/3D. Resolução de
+problemas geométricos. Gráfica computacional aplicada aoDesenho Projetivo.
+Técnicas de visualização computacional dos modelos elaborados.
+Bibliografia básica:
+MACDOWELL, I.; GOMES, A. R. C. Autocad 2000: curso passo a passo. 2 ed.
+Goiânia: Editora Terra. 128 p. (3)
+OMURA, G.; CALLORI, B. R. Autocad 2000: guia de referência. São Paulo: Makron
+Books. 333 p. (5)
+Bibliografia complementar:
+ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.
+ABNT NBR 9050: Acessibilidade a edificações, mobiliário, espaços e equipamentos.
+Rio de Janeiro: ABNT, 2015.
+BERNARDES, M. M. S.; PIRES, R. W.; SCHWETZ, P. F. Apostila de Autocad 2022.
+Porto Alegre: UFRGS, 2021, 83 p. Disponível em:
+https://lume.ufrgs.br/bitstream/handle/10183/232419/001134399.pdf?sequence=1&is
+Allowed=y. Acesso em: 31 de Outubro de 2023.
+GONÇALVES, A. C.; DIAS, A. B.; SOUSA, A.; GUIMARÃES, R. C. Desenho técnico
+assistido por computador: elementos de apoio para unidade curricular. Évora:
+Universidade de Évora, 2011.Disponível em:
+https://dspace.uevora.pt/rdpc/bitstream/10174/4786/5/Apontamentosteoricos_DTAC_
+2011.pdf>. Acesso em: 31 de Outubro de 2023.
+MICELI, M. T.; FERREIRA, P. Desenho técnico básico. 4 ed. Rio de Janeiro: Imperial
+Milênio. 143 p. (8)
+OLIVEIRA, G. G.; REZENDE, A. S.; ZIEBELL, C. S. Apostila de Desenho Técnico II.
+Porto Alegre: UFRGS, 2022, 163 p. Disponível em:
+https://lume.ufrgs.br/bitstream/handle/10183/234335/001136245.pdf?sequence=1&is
+Allowed=y >. Acesso em: 31 de Outubro de 2023.

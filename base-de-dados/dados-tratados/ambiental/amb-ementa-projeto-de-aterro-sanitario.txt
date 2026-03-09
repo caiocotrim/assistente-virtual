@@ -1,0 +1,40 @@
+CÓDIGO: 14.11.20
+DISCIPLINA: Projeto de Aterro Sanitário
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1119
+ATERRO SANITÁRIO
+- Estruturas de Concreto Armado;
+- Análise e Avaliação de
+Impactos Ambientais;
+Ementa:
+Disposição de Resíduos Sólidos; Quantidade e Composição dos Resíduos; Seleção
+do Local; Tipos de Aterros; Cálculo de Volume;Cálculo dos Sistemas de Drenagem;
+Balanço Hídrico; Drenagem de Gases; Tratamento de Percolados; Camada de
+Impermeabilização;Camadas de Cobertura; Estabilidade de Taludes;
+Sistema de Monitoramento; Legislação vigente.
+Bibliografia básica:
+GOMES, L. P. (Coord.). Estudos de caracterização e tratabilidade de lixiviados de
+aterros sanitários para as condições brasileiras. Rio de Janeiro: ABES. 360p. 5
+exemplares
+JACOBI, P. R. Gestão compartilhada dos resíduos sólidos no Brasil: inovação
+com inclusão social. São Paulo: Annablume. 164 p. 16 exemplares
+LIMA, L. M. Q. Lixo: tratamento e biorremediação. 3. ed. [S. l.]: Hemus. 265 p. 15
+exemplares
+Bibliografia complementar:
+ABNT (Associação Brasileira de Normas Técnicas). Amostragem de Resíduos.
+Procedimento - NBR 10007. São Paulo: ABNT, 2004.
+ABNT (Associação Brasileira de Normas Técnicas). Aterros de resíduos não
+perigosos: critérios para projetos, implantação e operação. Procedimento - NBR
+13896. São Paulo: ABNT, 1997.
+ABNT (Associação Brasileira de Normas Técnicas). Resíduos sólidos –
+classificação. NBR 10004. São Paulo: ABNT, 2004.
+AZEVEDO NETTO, J. M. de; FERNANDEZ Y FERNANDEZ, M. Manual de
+hidráulica. 9. ed. São Paulo: Blucher. 632 p. 10 exemplares.
+CASSINI, S. T. (Coord.). Digestão de resíduos sólidos orgânicos e aproveitamento
+do biogás. Rio de Janeiro: ABES. 210 p.4 exemplares

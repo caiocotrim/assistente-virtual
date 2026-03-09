@@ -1,0 +1,31 @@
+CÓDIGO: 14.3.2
+DISCIPLINA: Economia
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 30
+Aula: 36
+SUP1018 ECONOMIA
+30 -
+Ementa:
+Introdução ao estudo da ciência econômica. Conceitos econômicos básicos.
+Introdução à microeconomia. Introdução à macroeconomia: Sistemas econômicos.
+Setor público. Setor externo. Questões macroeconômicas atuais.
+Bibliografia básica:
+PINHO, D. B. (Org.). Manual de economia. São Paulo: Saraiva. (11)
+SINGER, P. O que é economia. São Paulo: Contexto.(5)
+VASCONCELLOS, M. A. S. de. Economia Micro e Macro. São Paulo: Atlas. (11)
+Bibliografia complementar:
+ARBEX, M. A.; SALVALAGIO, W. Análise econômica e social. São Paulo: Pearson.
+(1)
+MAY, P. H.; LUSTOSA, M. C.; VINHA, V. (Orgs.). Economia do meio ambiente: teoria
+e prática. Rio de Janeiro: Elsevier. (5)
+MOTTA, R. S. da. Economia ambiental. Rio de Janeiro: FGV.(7)
+MOURA, L. A. A. de. Economia ambiental: gestão de custos e investimentos. São
+Paulo: Juarez de Oliveira. (5)
+MANKIW, G. N. INTRODUÇÃO À ECONOMIA, trad. 8.ed. São Paulo: Cengage
+Learning. eISBN- 9788522127924
+Passos, C.R.M.; NOGAMI, O. PRINCÍPIOS DE ECONOMIA, 7.ed. São Paulo:
+Cengage Learning, eISBN- 9788522124930

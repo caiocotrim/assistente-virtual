@@ -1,0 +1,41 @@
+CÓDIGO: 14.11.27
+DISCIPLINA: Tratamento Avançado de Efluentes
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1136
+EFLUENTES
+- Reatores
+bioquímicos;
+- Tratamento de
+Efluentes
+Ementa:
+Tratamento avançado de efluentes: coagulação química; precipitação química;
+processos oxidativos; adsorção química; filtração; processos de separação por
+membranas; eletrodiálise; troca iônica; remoção biológica de nutrientes e
+micropoluentes; processos de desinfecção; aplicações ao solo do efluente tratado.
+Tratamento do lodo de ETE: Geração, adensamento; digestão; desaguamento; reuso.
+Bibliografia básica:
+SANT'ANNA JUNIOR, G. L. Tratamento biológico de efluentes: fundamentos e
+aplicações/. Rio de Janeiro: Interciência. 18 exemplares.
+SCHNEIDER, R. P.; TSUTIYA, M. T. Membranas filtrantes para o tratamento de
+água, esgoto e água de reúso. São Paulo. ABES.3 exemplares
+SPERLING, M. von (coord.). Nutrientes de esgoto sanitário: utilização e remoção.
+Rio de Janeiro. 428p. 5 exemplares.
+Bibliografia complementar:
+ARAÚJO, R. R.; DIAS, L. S.; BENINI, S.M. (Orgs). Água: tratamento, efluentes e
+lodos / – Tupã: ANAP. Online resource.
+CHERNICHARO, C. A. L. (Org.). Pós-Tratamento de Efluentes de Reatores
+Anaeróbicos - coletânea T. Rio de Janeiro: Editora ABES. 3 exemplares
+CHERNICHARO, C. A. de L. (coord.). Pós- tratamento de efluentes de reatores
+anaeróbios: coletânea de trabalhos técnicos. Belo Horizonte: [s. n.]. v. 2. 3
+exemplares
+LANGE, C. R. Sistemas de Tratamento de Efluentes Líquidos. Indaial: Uniasselvi.
+Online resource.
+VASCONCELOS, R. C. de. Tratamento de efluentes líquidos [livro eletrônico]:
+uma perspectiva para o desenvolvimento sustentável. Campina Grande: Editora
+Amplla. 47 p. Online resource.

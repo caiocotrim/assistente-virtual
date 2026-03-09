@@ -1,0 +1,39 @@
+CÓDIGO: 14.8.6
+DISCIPLINA: Tratamento de Efluentes
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1135
+EFLUENTES
+- Microbiologia;
+- Sistemas urbanos de
+esgoto
+Ementa:
+Caracterização de efluentes líquidos. Objetivos do tratamento de águas residuárias.
+Processos de tratamento: aeróbios e anaeróbios. Tratamento preliminar. Tratamento
+primário. Tratamento secundário. Tratamento terciário. Dimensionamento de
+Estações de Tratamento de Efluentes. Memorial descritivo e memória de cálculo de
+dimensionamento. Normatização.
+Bibliografia básica:
+HOWE, K. J. et al. Princípios de tratamento de água [recurso eletrônico]. São
+Paulo, SP: Cengage, 2016.
+SANT'ANNA JUNIOR, G. L. Tratamento biológico de efluentes:
+fundamentos e aplicações. Rio de Janeiro: Interciência.
+VON SPERLING, M. Princípios básicos do tratamento de esgotos. Belo
+Horizonte: DESA/UFMG.
+Bibliografia complementar:
+ANDREOLI, C. V.; FERNANDES, F.; VON SPERLING, M. (ed.). Lodo de esgotos:
+tratamento e disposição final. Belo Horizonte: UFMG. (Príncipios do tratamento
+biológico de águas residuárias; 6).
+CAMPOS, J. R. (coord.). Tratamento de esgotos sanitários por processo
+anaeróbios e disposição controlada no solo. Rio de Janeiro: ABES.
+FLORENCIO, L. (coord.). Tratamento e utilização de esgotos sanitários. Rio de
+Janeiro: ABES.
+KELLNER, E.; PIRES, E. C. Lagoas de estabilização: projeto e operação. Rio de
+Janeiro: ABES.
+VON SPERLING, M. Lodos ativados. Belo Horizonte: UFMG, (Príncípios do
+tratamento biológico de águas residuárias; 4).

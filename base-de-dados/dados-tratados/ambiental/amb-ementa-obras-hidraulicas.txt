@@ -1,0 +1,43 @@
+CÓDIGO: 14.7.4
+DISCIPLINA: Obras Hidráulicas
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1114
+HIDRÁULICAS
+- Hidráulica
+Ementa:
+Aproveitamentos hidráulicos: finalidades, impactos, descrição de elementos
+constitutivos. Reservatórios: diagramas cota-área- volume, caudabilidade: curvas de
+massa e de diferenças totalizadas. Barragens de gravidade: análise de estabilidade,
+segurança ao tombamento e deslizamento, tensões no solo. Projeto duma seção
+estável e econômica. Vertedores para barragens: especificação do perfil, coeficiente
+de vazão, método para dimensionamento dum vertedor livre: equação do balanço de
+massa. Bacias de dissipação: análise da localização do ressalto para diferentes
+situações, dimensionamento duma bacia de dissipação simples. Projetos de obras
+hidráulicas. Impactos ambientais de Obras Hidráulicas.
+Bibliografia básica:
+NEVES. E. T. Curso de hidráulica. Porto Alegre: Globo.(4)
+TOMAZ, P. Cálculos hidrológicos e hidráulicos para obras municipais: piscinões,
+galerias, bueiros, canais. São Paulo: Navegar.(3)
+AZEVEDO NETO, J. M.; FERNANDES Y FERNANDEZ, M. Manual de Hidráulica.
+São Paulo: Edgard Blucher. (25)
+AZEVEDO NETTO, J. M.; VILELA, S. M. Manual de hidráulica. São Paulo: Edgard
+Blücher. (25)
+GARCEZ, L. N. Elementos de Engenharia Hidráulica e Sanitária. São Paulo:
+Edgard Blücher. (11)
+Bibliografia complementar:
+BAPTISTA, M.; LARA, M. Fundamentos da Engenharia Hidráulica.
+Belo Horizonte: UFMG.(10)
+CARVALHO, J. A. Dimensionamento de pequenas Barragens para Irrigação.
+Lavras: Editora UFLA. (7)
+GOMES, H. P. Sistemas de bombeamento: eficiência energética. João Pessoa:
+EDUFPB. (1)
+GRIBBIN, J. E. Introdução a hidráulica, hidrologia e gestão de águas pluviais. São
+Paulo: Cengage Learning. (5)
+TUCCI, C. E. M. (Org.) Hidrologia: ciência e aplicação. Porto Alegre: Editora da
+UFRGS/ABRH. (4)

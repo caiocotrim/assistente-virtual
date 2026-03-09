@@ -1,0 +1,28 @@
+CÓDIGO: 14.5.7
+DISCIPLINA: Resistência dos Materiais I
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+SUP1855
+RESISTÊNCIA DOS
+- Mecânica dos
+Sólidos
+Ementa:
+Tensões e deformações. Lei de Hooke. Solicitações unidimensionais. Ciclo de Mohr.
+Torção simples. Tensões normais ede cisalhamento na flexão simples de vigas
+simétricas.
+Bibliografia básica:
+ARRIVABENE, V. Resistência dos materiais. São Paulo: Makron Books do Brasil
+Editora Ltda. (3)
+BEER, F.P.; JOHNSTON, E. R. Mecânica dos materiais. Porto Alegre: AMGH. (4)
+BEER, F.P.; JOHNSTON, E. R. Resistência dos Materiais. São Paulo: Makron Books
+do Brasil Editora Ltda. (29)
+Bibliografia complementar:
+BOTELHO, M. H. C. Resistência dos materiais para entender e gostar: um texto
+curricular. São Paulo: Nobel. (6)
+PINTO, C. S. Curso básico de mecânica dos solos. São Paulo: Oficina de Textos. (15)
+EMENTAS DOS COMPONENTES DO 6º SEMESTRE

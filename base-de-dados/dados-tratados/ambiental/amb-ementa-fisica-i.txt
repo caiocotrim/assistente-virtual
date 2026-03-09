@@ -1,0 +1,35 @@
+CÓDIGO: 14.2.6
+DISCIPLINA: Física I
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1041 FÍSICA I
+60 -
+Ementa:
+Cinemática de partículas. Leis de Newton. Trabalho e energia. Conservação de
+energia. Sistema de partículas. Colisões. Movimento de rotação. Torque. Momento
+Angular e Rolamento.
+Bibliografia básica:
+HALLIDAY, D.; RESNICK, R.; KRANE, K. S. Física 1. Rio de
+Janeiro: LTC.
+HALLIDAY, D.; RESNICK, R.T; WALKER, J. Fundamentos de Física 1: mecânica.
+Rio de Janeiro: LTC.
+TIPLER, P. A.; MOSCA, G. Física para cientistas e engenheiros, Vol. 1: mecânica,
+oscilações e ondas termodinâmica. Rio de Janeiro: LTC.
+YOUNG, H. D.; FREEDMAN, R. A. Sears e Zemansky Fisica I: mecânica. São Paulo:
+Pearson Addison Wesley.
+Bibliografia complementar:
+ALONSO, M.; FINN, E. J. Física: Um curso Universitário. Vol. 1. São Paulo: Edgard
+Blücher.
+SERWAY, R. A.; JEWETT JR., J. W. Física para cientistas e engenheiros, Vol. 1:
+mecânica. São Paulo: Cengage Learning.
+NUSSENZVEIG, H. M. Curso de Física Básica – Vol. 1: Mecânica. São Paulo:
+Edgard Blücher.
+YOUNG, H. D.; FREEDMAN, R. A. Sears e Zemansky Fisica I: mecânica. São Paulo:
+Pearson Addison Wesley.
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia: álgebra linear
+e cálculo vetorial. Volume II. Porto Alegre: Bookman.

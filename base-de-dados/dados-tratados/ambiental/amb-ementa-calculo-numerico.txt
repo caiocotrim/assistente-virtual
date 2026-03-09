@@ -1,0 +1,33 @@
+CÓDIGO: 14.5.2
+DISCIPLINA: Cálculo Numérico
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1016
+NUMÉRICO
+- Equações
+Diferenciais
+Ordinárias;
+- Introdução à
+Programação
+60 -
+Ementa:
+Sistemas numéricos e erros. Solução de equações não-lineares. Solução de sistemas
+de equações lineares. Derivação e integração numérica. Interpolação e aproximação.
+Solução de equações diferenciais ordinárias.
+Bibliografia básica:
+BARROSO, L. C. et al. Cálculo Numérico (Com aplicações). São Paulo: Editora
+Harbra.(14)
+RUGGIERO, M. A. G.; LOPES, V. L. Cálculo Numérico – Aspectos Teóricos e
+Computacionais. São Paulo: Editora McGraw Hill. (26)
+PINCOVSKY, R. Elementos de cálculo numérico. 8 ed. Recife: Unicap. (1)
+Bibliografia complementar:
+BURDEN, R. L.; FAIRES, J. D. Análise numérica. São Paulo: Cengage Learning.
+(10)
+CHAPRA, S. C.; CANALE, R. P. Métodos numéricos para engenharia. São Paulo.
+McGraw-Hill. (8)
+SANTOS, V. R. B. Curso de Cálculo Numérico. Rio de Janeiro: LTC. (1)

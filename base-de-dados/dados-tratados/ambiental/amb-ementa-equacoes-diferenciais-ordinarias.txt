@@ -1,0 +1,38 @@
+CÓDIGO: 14.4.1
+DISCIPLINA: Equações Diferenciais Ordinárias
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1033
+EQUAÇÕES
+ORDINÁRIAS
+- Álgebra Linear;
+- Cálculo Diferencial
+e Integral II
+Ementa:
+Equações diferenciais ordinárias lineares de 1ª e 2ª ordem e aplicações. Equações
+lineares de ordem superior. Resolução de equações diferenciais em série de potência.
+Equação de Bessel. Funções de Bessel. Funções ortogonais. Equação de Legendre.
+Polinômio de Legendre.
+Bibliografia básica:
+BOYCE, William E.; DIPRIMA, Richard C.. Equações diferenciais elementares e
+problemas de valores de contorno. 7. ed. Rio de Janeiro: LTC,
+2002. 416 p
+BRONSON, R.; COSTA, G. Equações Diferenciais. Coleção Schaum. Porto
+Alegre: Bookman.
+ZILL, Dennis G.. Equações diferenciais com aplicações em modelagem. 3. ed. São
+Paulo: Cengage Learning, 2016. 437 p
+Bibliografia complementar:
+FIGUEIREDO, D. G.; NEVES, A. F. Equações Diferenciais Aplicadas. Rio de
+Janeiro: IMPA.
+MATOS, M. P. Séries e Equações Diferenciais. São Paulo: Prentice Hall.
+MOTTA, A. Equações Diferenciais: Introdução. Florianópolis: Publicação do IF-
+SC..
+NAGLE, K. R.; SAFF, E. B.; SNIDER, A. D. Equações Diferenciais. São Paulo:
+Pearson.
+ZILL, D. G.; CULLEN, M. R. Equações Diferenciais, Vol. 1. São Paulo: Makron
+Books.

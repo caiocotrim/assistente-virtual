@@ -1,0 +1,33 @@
+CÓDIGO: 14.11.25
+DISCIPLINA: Técnicas de Programação
+Código Componente (NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1080
+PROGRAMAÇÃO
+Introdução à
+Programação
+Ementa:
+Estrutura de dados e algoritmos de manipulação relacionados: pilhas, listas, filas,
+árvores e tabelas. Algoritmos de ordenação. Noções de programação orientada a
+objetos: conceitos básicos,modelo de programação, aplicações em engenharia.
+Bibliografia básica:
+SCHILDT, H. C - Completo e Total. São Paulo: Makron Books.
+SCHILDT, H. C++ Fundamentos e práticas. São Paulo: Makron Books.
+TANENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J. Estruturas de
+Dados usando C. São Paulo: Makron Books.
+Bibliografia complementar:
+ASCENCIO, A. F.G.; CAMPOS, E. A. V. Fundamentos da
+Programação de Computadores – Algoritmos, Pascal e C/C++. São Paulo: Prentice
+Hall.
+CARBONI, I. de F. Lógica de Programação. São Paulo: Thomson. DEITEL, H. M.
+C#, como programar. São Paulo: Makron Books.
+KOFFMAN, E. B., WALFGANG, P. A.T. Objetos, Abstração, Estruturas de Dados e
+Projeto usando C++. Rio de Janeiro: LTC
+– Livros Técnicos e Científicos.
+LOPES, A.; GARCIA, G. Introdução à Programação – 500 Algoritmos Resolvidos.
+Rio de Janeiro: Editora Campos.

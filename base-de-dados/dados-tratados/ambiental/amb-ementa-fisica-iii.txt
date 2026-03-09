@@ -1,0 +1,36 @@
+CÓDIGO: 14.4.2
+DISCIPLINA: Física III
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1029
+- Física II;
+- Cálculo Diferencial e
+Integral II
+Ementa:
+Carga e matéria. O campo elétrico. Lei de Gauss. Potencial elétrico, Capacitores e
+dielétricos. Corrente e resistência. Circuitos de corrente contínua. O Campo magnético
+e suas Fontes. Lei de Ampère. Lei de Faraday. Introdução às Equações de Maxwell.
+Bibliografia básica:
+HALLIDAY, D.; RESNICK, R.; WALKER, J. Fundamentos de Física 3. Rio de Janeiro:
+LTC.
+TIPLER, P. Al.; MOSCA, G. Física para cientistas e engenheiros, Vol. 3. Rio de
+Janeiro: LTC.
+DAVID ; Resnick, Robert ; Walker, Jearl . Fundamentos de física 3: eletromagnetismo.
+7.ed . Rio de Janeiro: LTC, 2007. 379p. (Título original: Fundamentals of physics, v.3 ;
+Tradução: Ronaldo Sergio de Biasi).
+Bibliografia complementar:
+LUZ, Antonio Máximo Ribeiro da; ALVARENGA, Beatriz Gonçalves de. Curso de
+física, volume 3. São Paulo: Scipione, 2011.
+PIETROCOLA, Maurício; POGIBIN, Alexander; OLIVEIRA, Renata Cristina de
+Andrade; ROMERO, Talita Raquel Luz. Física em contextos: v. 3:eletricidade e
+magnetismo, ondas eletromagnéticas, radiação e matéria. São Paulo: FTD, 2010.
+YOUNG, Hugh D.; FREEDMAN, Roger A. Sears e Zemansky Fisica III:
+eletromagnetismo. 10. ed. São Paulo: Addison Wesley, 2005.
+NUSSENZVEIG, H. M. Curso de física básica, 3. São Paulo: Edgard Blücher.
+NUSSENZVEIG, H. Moysés. Curso de física básica, 3: eletromagnetismo. 2. ed. São
+Paulo: Blucher, 2015

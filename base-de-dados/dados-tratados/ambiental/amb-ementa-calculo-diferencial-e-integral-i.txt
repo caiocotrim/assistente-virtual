@@ -1,0 +1,26 @@
+CÓDIGO: 14.1.3
+DISCIPLINA: Cálculo Diferencial e Integral I
+Código
+Componente
+(NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1013 CÁLCULO
+INTEGRAL I
+60 -
+Ementa:
+Limites e continuidade. Diferenciação. Formas indeterminadas. Aplicações das
+derivadas. Construção de Primitivas.
+Bibliografia básica:
+LEITHOLD, L. Cálculo com geometria analítica, v. 1. São Paulo: Harbra. 45
+STEWART, J. Cálculo, v. 1. São Paulo: Cengage Learning. 45 THOMAS, G. B.
+Cálculo, v. 1. São Paulo: Addison Wesley. 7
+Bibliografia complementar:
+BOULOS, P. Introdução ao cálculo. Brasília: Edgard Blucher. 29 BOULOS, P. Pré-
+Cálculo. São Paulo: Makron Books.00
+GUIDORIZZI, H. L. Um curso de cálculo, v. 1. Rio de Janeiro: LTC. 14
+MORETTIN, P. A. Cálculo de uma e várias variáveis. São Paulo: Saraiva. 10
+SIMONS, G. F. Cálculo com geometria analítica, v. 1. São Paulo: Pearson. 00

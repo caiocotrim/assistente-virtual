@@ -1,0 +1,29 @@
+CÓDIGO: 14.1.2
+DISCIPLINA: Biologia Geral
+Código
+Componente
+(NÚCLEO
+PROFISSIONALIZANTE)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1086 BIOLOGIA GERAL
+30 30
+Ementa:
+Origem da vida. Evolução dos seres vivos. Noções de composição química da célula.
+Noções de microscopia. A célula. Organização celular. Morfologia e fisiologia
+celulares. Divisão celular. Noções de metabolismo energético.
+Bibliografia básica:
+DE ROBERTIS, E. D. P.; DE ROBERTIS, E.M.F. Bases da
+Biologia Celular e Molecular. Rio de Janeiro: Ed. Guanabara Koogan. 00
+JUNQUEIRA L. C.; CARNEIRO J. Biologia Celular e Molecular. Rio de Janeiro: Ed.
+Guanabara Koogan. 00
+REECE, J. B.; URRY, L. A.; CAIN, M. L.; WASSERMAN, S. A.;
+MINORSKY, P. V.; JACKSON, R. B. Biologia de Campbell. Porto Alegre: Artmed. 0
+Bibliografia complementar:
+LESSA, Otacílio. Dicionário Básico de Biologia. Rio de Janeiro: Consciência
+Moderna. 00
+MEYER, Diogo; EL-HANI, Charbel Nino. Evolução – o sentido da biologia. São Paulo:
+UNESP. 0

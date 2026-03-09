@@ -1,0 +1,37 @@
+CÓDIGO: 14.3.7
+DISCIPLINA: Meteorologia e Climatologia
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1110
+CLIMATOLOGIA
+- Cálculo Diferencial
+e Integral II
+Ementa:
+Meteorologia (Conceito, divisão e objetivos). Instrumentos e estação meteorológica.
+Climatologia (Conceito, Fatores Climáticos). Atmosfera (Estrutura e composição).
+Radiação Solar. Temperatura do ar e do solo. Umidade do ar. Pressão atmosférica.
+Ventos. Condensação. Precipitação. Circulação Geral da Atmosfera. Massas de Ar e
+Frentes. Tempestades. Furacões e Tornados. Tipos de classificação climática.
+Classificação Climática do Brasil.
+Bibliografia básica:
+TORRES, F. T. P.; MACHADO, P. J. de O. Introdução à
+Climatologia. São Paulo: Cengage Learning.
+VAREJÃO-SILVA, M. A. Meteorologia e Climatologia. Versão Digital. Recife:
+Instituto Nacional de Meteorologia – INMET.
+CUNHA, Gilberto Rocca da. Meteorologia: fatos & mitos - 3. Passo Fundo, RS:
+Embrapa, 2003. 440 p. ISBN 85-7574-005-9 (broch.). (10 exemplares)
+AVATTINI, João Afonso. Estudos do clima no Brasil. Campinas, SP: Alínea, 2004.
+398 p. ISBN 8575160923.
+Bibliografia complementar:
+SONNEMAKER, João Baptista. Meteorologia. São Paulo: ASA, 2009. 202 p. ISBN
+9788586262388. (3 exemplares)
+CUNHA, Gilberto Rocca da. Meteorologia: fatos & mitos - 2. Passo Fundo, RS:
+Embrapa, 2000. 294 p. (9 exemplares)
+FERREIRA, Artur Gonçalves. Meteorologia prática. São Paulo: Oficina de Textos,
+2006. 188 p. ISBN 9788586238529. (2 exemplares)
+14.4 EMENTAS DOS COMPONENTES DO 4º SEMESTRE

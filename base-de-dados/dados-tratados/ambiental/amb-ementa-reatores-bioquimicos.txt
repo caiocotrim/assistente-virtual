@@ -1,0 +1,43 @@
+CÓDIGO: 14.6.5
+DISCIPLINA: Reatores Bioquímicos
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 45
+Aula: 54
+SUP1126
+BIOQUÍMICOS
+- Fenômenos de
+Transporte
+- Microbiologia
+Sanitária e Ambiental;
+Ementa:
+Introdução à bioengenharia. Apresentação da cinética das reações homogêneas.
+Introdução à cinética de reações catalisadas por enzimas e microrganismos.
+Introdução ao cálculo de reatores. Processos enzimáticos e fermentativos
+(descontínuos e contínuos). Projeto de reatores bioquímicos. Agitação e mistura.
+Ampliação de escala (scale-up) em processos envolvendo microrganismos.
+Recuperação dos produtos da fermentação (downstream). Estudo de um processo
+bioquímico importante (estudo de caso).
+Bibliografia básica:
+FOGLER, H. S. Elementos de engenharia das reações químicas. LTC.online
+resource.
+LEVENSPIEL, O. Engenharia das Reações Químicas. Tradução. São Paulo: Editora
+Edgard Blucher.online resource.
+OLIVEIRA. N. M. B. Fundamentos de cinética e introdução ao cálculo de reatores.
+Editora e Distribuidora Educacional, p. 212.online resource.
+Bibliografia complementar:
+AGUIAR, L. Reatores Químicos. Escola de Engenharia de Lorena. USP.online
+resource.
+JUNIOR, A. C. B.; CRUZ, A. J. G. Reatores Químicos e Bioquímicos.online
+resource.
+SCHMAL, M. Cinética e reatores: Aplicação à engenharia química (3ª Edição).
+Synergia.online resource.
+SCHMIDELL, W. et al. Biotecnologia industrial. Vol. 2: Engenharia bioquímica.
+Editora Blucher.online resource.
+VITOLO, M. Uso de enzimas em reatores. Biotecnologia Industrial. Vol. 2:
+Engenharia Bioquímica, p. 455.online resource.
+LEVENSPIEL, O. Engenharia das Reações Químicas. Tradução. São Paulo: Editora
+Edgard Blucher. 11 exemplares

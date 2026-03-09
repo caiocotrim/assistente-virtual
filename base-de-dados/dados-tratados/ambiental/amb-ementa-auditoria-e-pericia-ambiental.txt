@@ -1,0 +1,46 @@
+CÓDIGO: 14.8.1
+DISCIPLINA: Auditoria e Perícia Ambiental
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1085
+PERÍCIA
+- Gestão e
+Planejamento
+Ambiental;
+- Análise e Avaliação
+de Impactos
+Ambientais
+Ementa:
+Sistemas de Gestão Ambiental. Conceito de auditoria. Referências normativas. Tipos
+de auditoria ambiental. Equipe de auditoria. Atividades Pré – auditoria, Atividades de
+Auditoria e atividades Pós – auditoria. Procedimentos para Auditoria de campo.
+Gestão de um programa de auditoria. Objetivos e abrangência. Responsabilidades,
+recursos e procedimentos. Competência e avaliação dos auditores. Conceitos em
+Perícia ambiental, como se instala o processo de perícia ambiental, quesitos e laudos
+técnicos. Responsabilidade civil na degradação, poluição e dano ambiental.
+Bibliografia básica:
+CAMPOS, L. M. de S.; LERÍPIO, A. de A. Auditoria Ambiental: uma ferramenta de
+gestão. São Paulo: Editora Atlas.
+OLIVEIRA, C. M. Diretrizes de auditoria ambiental [online]. São Carlos: EdUFSCar,
+2014.https://doi.org/10.7476/9788576004554. Acesso em 22 out. 2023.
+ROVERE, E. L. de La (Coord.). Manual de auditoria ambiental. São Paulo:
+Qualitymark.
+Bibliografia complementar:
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO 19011: Diretrizes
+para auditoria de sistemas de gestão. ABNT, 2018. 63 p.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR ISO 14001:
+Sistemas de Gestão Ambiental - Requisitos com orientações para uso. 3. ed. Rio de
+Janeiro: ABNT, 2015. 41 p.
+DONAIRE, D. Gestão ambiental na empresa. São Paulo: Atlas.
+OLIVEIRA, C. M. Diretrizes de auditoria ambiental [online]. São Carlos: EdUFSCar,
+2014, 208 p. ISBN 978-85-7600-455-4. https://doi.org/10.7476/9788576004554.
+RAGGI, Jorge Pereira; MORAES, Angelina Maria Lanna. Perícias ambientais:
+solução de controvérsias e estudo de casos. Rio de Janeiro: Qualitymark, 2007. 275
+p. ISBN 8573035536.
+SILVA, B. A. Contabilidade e meio ambiente: considerações teóricas sobre o controle
+dos gastos ambientais. São Paulo: Anna Blume.

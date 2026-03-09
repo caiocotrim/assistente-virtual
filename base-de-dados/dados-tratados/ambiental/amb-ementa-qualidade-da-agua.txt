@@ -1,0 +1,42 @@
+CÓDIGO: 14.7.6
+DISCIPLINA: Qualidade da Água
+Código
+Componente (NÚCLEO ESPECÍFICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+ÁGUA
+- Microbiologia
+sanitária e
+ambiental
+Ementa:
+Parâmetros físico-químicos (cor, acidez, alcalinidade, dureza, sulfato, cloreto, Fe, Mn,
+DBO, DQO, OD, Nitrito, nitrato, Namoniacal); parâmetros hidrobiológicos
+(cianobactérias, bacilariofíceas, cloroficeas, protozoários, flagelados pigmentados e
+leucoflagelados, helmintos, microcrustáceos, insetos/forma lavar, fungos); parâmetros
+bacteriológicos (bactérias de vida livre e bactérias coliformes).
+Bibliografia básica:
+RICHTER, Carlos A. Água: métodos e tecnologia de tratamento. São Paulo: Blucher,
+2009. 340 p. ISBN 9788521204985. (5)
+VIANNA, Marcos Rocha. Casas de química para estações de tratamento de água.
+2. ed. Belo Horizonte: Imprimatur Artes, 2001. 122 p. (NBR 12216). (7)
+LIBÂNIO, M. Fundamentos de qualidade e tratamento de água. Campinas: Editora
+Átomo.(5)
+Bibliografia complementar:
+DI BERNARDO, Luiz. Algas e suas influências na qualidade das águas e nas
+tecnologias de tratamento. Rio de Janeiro: ABES, 1995. 140 p. ISBN 85-7022-117-
+7 (broch.). (4)
+MANAHAN, Stanley E. Química ambiental. 9.ed. Porto Alegre: Bookman, 2013. 912
+p. ISBN 9788565837064. (8)
+ORGANIZAÇÃO MUNDIAL DA SAÚDE. A desinfecção da água. Brasília: OMS, 1999.
+20 p. (2)
+VON SPERLING; M. VERBYLA, M. E.; OLIVEIRA, S.M.A.C. [Org.]. Assessment of
+Treatment Plant Performance and Water Quality Data. IWA Publishing, 2020. ISBN
+electronic: 9781780409320. DOI: https://doi.org/10.2166/9781780409320;
+Programa de Pesquisas em Saneamento Básico - PROSAB. Água: Remoção de
+microorganismos emergentes e microcontaminantes orgânicos no tratamento de água
+para consumo humano/Valter Lúcio de Pádua (coordenador). Rio de Janeiro: ABES,
+2009. Disponível: http://www.finep.gov.br/apoio-e-financiamento-externa/historico-de-
+programa/prosab/produtos;

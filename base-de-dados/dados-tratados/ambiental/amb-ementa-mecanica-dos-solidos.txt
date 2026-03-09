@@ -1,0 +1,31 @@
+CÓDIGO: 14.3.6
+DISCIPLINA: Mecânica dos Sólidos
+Código
+Componente (NÚCLEO BÁSICO)
+Pré-requisito
+Créditos
+Carga horária
+Relógio: 60
+Aula: 72
+SUP1057
+MECÂNICA DOS
+- Física I
+Ementa:
+Forças no plano e no espaço. Equivalência de sistemas de forças. Equilíbrio de um
+corpo rígido no plano e no espaço. Forças distribuídas: centroides e baricentros.
+Momento estático de primeira e segunda ordem. Análise de estruturas. Forças em
+vigas e cabos. Atrito. Método dos trabalhos virtuais.
+Bibliografia básica:
+BEER, F. P. Mecânica vetorial para engenheiros: estática. São Paulo: Makron
+Books. (26)
+HIBBELER, R. C. Estática: mecânica para engenharia. São Paulo: Prentice Hall.(15)
+PLESHUA, M. E.; GRAY, G. L.; COSTANZO, F. Mecânica para engenharia: estática.
+Porto Alegre: Bookman. (5)
+Bibliografia complementar:
+HALLIDAY, D. R.; RESNICK, R.; KENNETH, S. K. Física 1. Rio de
+Janeiro: LTC. (35)
+Gere, J. M.; GOODNO, G.J. MECÂNICA DOS MATERIAIS, trad. 8.ed. Norte-
+americana. São Paulo: Cengage Learning. eISBN 9788522124145.
+TIPLER, P. A. Física 1: para cientistas e engenheiros. Rio de Janeiro: Ed. LTC. (22)
+ZILL, D. G.; CULLEN, M. R. Matemática avançada para engenharia, v. 2: álgebra
+linear e cálculo vetorial. Porto Alegre: Bookman. (9)
