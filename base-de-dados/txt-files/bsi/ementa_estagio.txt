@@ -1,0 +1,31 @@
+ementa_estagio
+
+ESTÁGIO
+ CÓDIGO
+ : SUP40
+ Pré-requisitos: 60% CH
+ Semestre: VII Carga Horária: 30h (acompanhamento)+300h Créditos: 22
+ Ementa:   
+Apresentação da disciplina Estágio Supervisionado e do regulamento apresentado pelo
+ Manual de Estágio. Apresentação do calendário da disciplina e suas fases. Áreas de
+ Estágio: o que desenvolver. O Plano de Estágio e o Relatório. Orientação e
+ acompanhamento através de esboços dos artefatos de cada fase. Entrega do Relatório
+ Final.
+ Bibliografia:
+ Básica:
+ BOENTE, A.; BRAGA, G. Metodologia científica contemporânea para universitários e
+ pesquisadores. Rio de Janeiro: Brasport, 2004.
+ GIL, A. C. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010.
+ MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. 6 ed. São
+ Paulo: Atlas, 2005. 
+WAZLAWICK, Raul Sidnei.  Metodologia de Pesquisa para Ciência da Computação.  Rio
+ de Janeiro: Elsevier: 2009.
+ Complementar:
+ SPECTOR, N. Manual para a redação de teses, projetos de pesquisa e artigos
+ científicos. 2 ed. Rio de Janeiro: Guanabara Koogan, 2001. 
+OTANI, N.; FIALHO, F. A. P. TCC: métodos e técnicas. Florianópolis: Visual Books, 2011
+ RUIZ, J. A. Metodologia científica: guia para eficiência nos estudos. 6. ed. São Paulo:
+ Atlas, 2009
+                                                   
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII

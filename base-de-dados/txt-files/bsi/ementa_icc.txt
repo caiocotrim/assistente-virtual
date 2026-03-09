@@ -1,0 +1,7 @@
+ementa_icc
+
+Introdução à Ciência da Computação
+PRÉ-REQUISITOS Nenhum
+EMENTA: Histórico da computação. Áreas de atuação profissional na computação conforme a Sociedade Brasileira de Computação. Estruturas dos sistemas computadores modernos. Sistemas digitais e analógicos. Transformações de bases numéricas. Lógica de Boole. Codificação de dados. Conceitos sobre software, linguagens e compilação. Introdução a paradigmas de programação.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+

@@ -1,0 +1,40 @@
+ementa_projadm
+
+CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      TEC29              Projeto e Administração de Redes                   CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Redes de Computadores (TEC22)
+                                     EMENTA
+Projeto de redes: levantamento de requisitos, projeto lógico e projeto físico. Testes e documentação.
+Configuração de rede e roteamento. Gerência de serviços. Aspectos de gerência de redes: protocolo
+SNMP. Monitoramento e otimização.
+
+
+
+Projeto Pedagógico de Curso                                                                       92
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                   BIBLIOGRAFIA BÁSICA
+BURGESS, M. Princípios da Administração de Redes e Sistemas. 2. ed. Rio de Janeiro: LTC,
+2006.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                              BIBLIOGRAFIA COMPLEMENTAR
+COMER, D. E.; STEVENS, D. L. Interligação em Rede com TCP/IP: Projeto, Implementação e
+Detalhes internos. Rio de Janeiro: Elsevier, 1999.
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes, Web e Aplicações. 4. ed. Porto Alegre: Bookman, 2007.
+FERREIRA, R. E. Linux: Guia do Administrador do Sistema. São Paulo: Novatec, 2003.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de Computadores: Das LANs, MANs e WANs
+às Redes ATM. 2. ed. Rio de Janeiro: Elsevier, 1999.
+
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: V

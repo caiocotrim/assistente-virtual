@@ -1,0 +1,33 @@
+ementa_ihm
+
+CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      TEC43                   Interface Homem-Máquina                       CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Engenharia de Software (TEC35)
+                                       EMENTA
+Os conceitos de interação e interface homem-máquina. Fundamentos de interface de interação
+homem-máquina. Estilos de interação homem-máquina. Processos, arquiteturas e padrões para
+interfaces de homem-máquina. Metodologias, técnicas e avaliação de interfaces. Metodologias,
+técnicas e ferramentas de concepção, projeto e implementação de sistemas interativos.
+                                     BIBLIOGRAFIA BÁSICA
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-computador. Rio de Janeiro: Elsevier
+Campus, 2010. (Série SBC, Sociedade Brasileira de Computação).
+ORTH, A. I. Interface Homem-máquina. Porto Alegre: AIO, 2005.
+ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação: Além da Interação Humano-
+Computador. 3. ed. Bookman. 2013.
+                                BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+ROCHA, H. V; BARANAUSKAS, M. C. Design e Avaliação de Interfaces Humano-computador.
+Campinas, SP: Unicamp, 2003.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII

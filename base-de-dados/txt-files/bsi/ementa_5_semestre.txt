@@ -1,0 +1,225 @@
+ementa_5_semestre
+
+COMPONENTES CURRICULARES OBRIGATÓRIOS DO V SEMESTRE
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  15 horas 45 horas     -
+      TEC26          Processo de Desenvolvimento de Software               CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Análise e Modelagem de Sistemas (TEC20)
+                                      EMENTA
+Conceitos de processo de desenvolvimento de software: fases, fluxos de trabalho, iterações e
+incrementos, papéis, artefatos e atividades. Conhecimento e aplicação de conceitos dos processos.
+Metodologias para des [Epistemológico.] envolvimento de software. Metodologias ágeis.
+                                     BIBLIOGRAFIA BÁSICA
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+PRIKLADNICKI, R.; WILLI, R.; MILANI, F. (org.). Métodos Ágeis para Desenvolvimento de
+
+
+Projeto Pedagógico de Curso                                                                       90
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+Software. Porto Alegre: Bookman, 2014.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+                                BIBLIOGRAFIA COMPLEMENTAR
+GUSTAFSON, D. A. Teoria e Problemas de Engenharia de Software. Porto Alegre: Bookman,
+2003.
+KNIBERG, H. Scrum e XP Direto das Trincheiras. [S. l.]: C4Media, 2007. Disponível em:
+https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches.
+KNIBERG, H.; SKARIN, M. K. Scrum: Obtendo o Melhor de Ambos. [S. l.]: C4Media, 2009.
+Disponível em: https://www.infoq.com/br/minibooks/kanban-scrum-minibook.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. 3 ed. Rio de
+Janeiro: LTC, 2009.
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                         45 horas 15 horas       -
+    CCO27              Complexidade de Algoritmos                 CRÉDITOS
+                                                                       4
+               Cálculo Diferencial Aplicado à Computação (MAT11) e Estruturas de Dados
+PRÉ-REQUISITOS
+               (CCO14)
+                                        EMENTA
+Introdução à Teoria da Complexidade. Crescimento assintótico de funções. Notação Big Oh.
+Complexidade pessimista, média e mínima do problema. Classes de problemas: P, NP e NP
+Completa. Técnicas de construção de algoritmos (divisão para conquistar, estratégia gulosa, força
+bruta e programação dinâmica). Complexidade de algoritmos de ordenação e busca. Complexidade
+de algoritmos de grafos. Complexidade de estruturas de dados.
+                                     BIBLIOGRAFIA BÁSICA
+CORMEN, T. H. et. al. Algoritmos: Teoria e Prática. Rio de Janeiro: Elsevier, 2012. Título original:
+Introduction to Algorithms, 3rd ed.
+TOSCANI, L. V.; VELOSO, P. A. S. Complexidade de Algoritmos. 3. ed. Porto Alegre: Bookman,
+2012.
+ZIVIANI, N.; BOTELHO, F. C. Projeto de Algoritmos: Com Implementações em Java e C++. São
+Paulo: Cengage Learning, 2013.
+                            BIBLIOGRAFIA COMPLEMENTAR
+DROZDEK, A. Estruturas de Dados e Algoritmos em C++. São Paulo: Cengage Learning, 2016.
+GOODRICH, M. T. Estrutura de Dados e Algoritmos em Java. 2. ed. Porto Alegre: Bookman, 2002.
+LAFORE, R. Estruturas de Dados & Algoritmos em Java. Rio de Janeiro: Ciência Moderna, 2004.
+RUSSELL, S. J.; NORVIG, P. Inteligência Artificial: Referência Completa para Cursos de
+Computação. Rio de Janeiro: Elsevier, 2004.
+TENENBAUM, A. M.; LANGSAM, Y. Estruturas de Dados usando C. São Paulo: Makron Books,
+1995.
+
+
+
+
+Projeto Pedagógico de Curso                                                                       91
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                          Teórica    Prática Extensão
+                                                          15 horas 45 horas      -
+     TEC28                Banco de Dados II                        CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Banco de Dados I (TEC21) e Linguagem de Programação II (CCO13)
+                                      EMENTA
+DDL e DML avançados. Normalização de dados. Dependências funcionais. Restrições de
+integridade. Procedimentos armazenados. Gatilhos. Visões. Segurança (DCL). Transações (TCL).
+Indexação. Banco de dados não relacionais.
+                                     BIBLIOGRAFIA BÁSICA
+DATE, C. J. Introdução a Sistemas de Banco de Dados. 8. ed. Rio de Janeiro: Elsevier, 2003.
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 6. ed. São Paulo: Pearson Addison
+Wesley, 2011.
+HOWS, D.; MEMBREY, P.; PLUGGE, E. Introdução ao MongoDB. São Paulo: Novatec, 2015.
+PANIZ, D. noSQL: Como Armazenar os Dados de uma Aplicação Moderna. São Paulo: Casa do
+Código, 2016.
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados. 3. ed. São
+Paulo: McGraw-Hill, 2008.
+SADALAGE, P. J.; FOWLER, M. noSQL Essencial: Um Guia Conciso para o Mundo Emergente da
+Persistência Poliglota. São Paulo: Novatec, 2013.
+                                BIBLIOGRAFIA COMPLEMENTAR
+BOAGLIO, F. MongoDB: Construa Novas Aplicações com Novas Tecnologias. São Paulo: Casa do
+Código, 2015.
+MANNINO, M. V. Projeto, Desenvolvimento de Aplicações e Administração de Banco de Dados.
+São Paulo: McGraw-Hill, 2008.
+MAYER, R. C. Otimizando a Performance de Bancos de Dados Relacionais. Rio de Janeiro:
+Axcel Books, 2001.
+ROB, P.; CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação e Administração. 8.
+ed. São Paulo: Cengage Learning, 2011.
+SOUZA, M. B. Desvendando o MongoDB: Do Mongo Shell ao Java Driver. Rio de Janeiro: Ciência
+Moderna, 2015.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      TEC29              Projeto e Administração de Redes                   CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Redes de Computadores (TEC22)
+                                     EMENTA
+Projeto de redes: levantamento de requisitos, projeto lógico e projeto físico. Testes e documentação.
+Configuração de rede e roteamento. Gerência de serviços. Aspectos de gerência de redes: protocolo
+SNMP. Monitoramento e otimização.
+
+
+
+Projeto Pedagógico de Curso                                                                       92
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                   BIBLIOGRAFIA BÁSICA
+BURGESS, M. Princípios da Administração de Redes e Sistemas. 2. ed. Rio de Janeiro: LTC,
+2006.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                              BIBLIOGRAFIA COMPLEMENTAR
+COMER, D. E.; STEVENS, D. L. Interligação em Rede com TCP/IP: Projeto, Implementação e
+Detalhes internos. Rio de Janeiro: Elsevier, 1999.
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes, Web e Aplicações. 4. ed. Porto Alegre: Bookman, 2007.
+FERREIRA, R. E. Linux: Guia do Administrador do Sistema. São Paulo: Novatec, 2003.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de Computadores: Das LANs, MANs e WANs
+às Redes ATM. 2. ed. Rio de Janeiro: Elsevier, 1999.
+
+
+                                                               CARGA HORÁRIA
+     CÓDIGO              COMPONENTE CURRICULAR
+                                                         Teórica    Prática Extensão
+                                                        15 horas 45 horas       -
+     TEC30                Programação Web II                      CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Banco de Dados I (TEC21) e Programação Web I (TEC23)
+                                      EMENTA
+Linguagens de programação para back-end web. Persistência, validação e segurança de dados.
+Formatos para estruturação e intercâmbio de dados. Contêineres web. Frameworks para back-end.
+                                   BIBLIOGRAFIA BÁSICA
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+NETO, W. Construindo APIs Testáveis com Node.js. [S. l.: s. n.], 2020. Disponível em:
+https://leanpub.com/construindo-apis-testaveis-com-nodejs.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+                              BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+HENRIQUE, J. MERN: Criando Sua Primeira Aplicação (M)ongodb, (E)xpress, (R)eact E (N)ode. [S.
+l.]: DevDelivery, 2020. Disponível em: https://leanpub.com/criandosuaprimeiraaplicaomern.
+LANDUP, D.; SANATAN, M. How To Code in Node.js. New York: DigitalOcean, 2020. Disponível em:
+https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook.
+MORRISON, M. Use a Cabeça!: JavaScript. Rio de Janeiro: Alta Books, 2008.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+
+
+
+Projeto Pedagógico de Curso                                                                93
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  60 horas     -        -
+     COM31                           Economia                              CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Nenhum
+                                             EMENTA
+Conceitos econômicos básicos. Introdução à microeconomia. Introdução à macroeconomia: políticas
+macroeconômicas e questões atuais. Setor público. Setor externo. O conceito de economia digital.
+Economia e meio ambiente. Impactos nos direitos humanos.
+                                     BIBLIOGRAFIA BÁSICA
+LIMA, G. Economia, Dinheiro e Poder Político. Curitiba: IBPEX, 2008.
+TEBCHIRANI, F. R. Princípios de Economia: Micro e Macro. 3. ed. Curitiba: IBPEX, 2008.
+VASCONCELLOS, M. A. Economia para Não Economistas. Curitiba: São Paulo: Saraiva, 2008.
+                                BIBLIOGRAFIA COMPLEMENTAR
+MANKIW, N. G. Introdução à Micro e à Macroeconomia. Rio de Janeiro: Campus, 2003.
+MOCHÓN, F. M. Princípios de Economia. São Paulo: Pearson Prentice Hall, 2007.
+O'SULLIVAN, A.; SHEFFRIN, S. M.; NISHIJUMA, M. Introdução à Economia: Princípios e
+Ferramentas. São Paulo, Prentice Hall, 2004.
+PARKIN, M. Economia. São Paulo: 8. ed. São Paulo: Pearson, 2007.
+PINDYCK, R. S.; RUBINFELD, D. L. Microeconomia. 8. ed. São Paulo: Pearson Education do Brasil,
+2013.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                      -         -    90 horas
+      EXT32            Atividades Curriculares de Extensão II              CRÉDITOS
+                                                                                6
+PRÉ-REQUISITOS Atividades Curriculares de Extensão I (EXT25)
+                                         EMENTA
+Ações de extensão baseadas em perfil de egresso do curso e articuladas com o arranjo local, a
+exemplo de projetos, eventos, oficinas, workshops, videoaulas e atividades de prestação de serviços.
+A escolha das ações deverá considerar, entre outros aspectos, necessidades da comunidade externa
+envolvida, o contexto de execução das atividades previstas e a disponibilidade de recursos
+existentes.
+                                     BIBLIOGRAFIA BÁSICA
+CONSELHO NACIONAL DAS INSTITUIÇÕES FEDERAIS DE EDUCAÇÃO PROFISSIONAL,
+CIENTÍFICA E TECNOLÓGICA. Extensão Tecnológica: Rede Federal de Educação Profissional,
+Científica e Tecnológica. Cuiabá (MT): CONIF/IFMT, 2013.
+DEUS, S. Extensão Universitária: Trajetórias e Desafios. Santa Maria, RS: Ed. PRE-UFSM, 2020.
+LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional.
+Santa Maria, RS: FACOS-UFSM, 2022.

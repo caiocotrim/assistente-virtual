@@ -1,0 +1,29 @@
+ementa_contabil
+
+ CONTABILIDADE GERAL E CUSTOS
+ CÓDIGO: COM32
+ Pré-requisitos: Nenhum
+ Semestre: VI
+ Carga Horária: 60h
+ Créditos: 4
+ Ementa:   
+Conceito e objetivos da contabilidade gerencial. Demonstrações e análise econômica
+financeira. Introdução à Contabilidade de Custos: princípios e terminologias. Classificação
+ de custos para análise. Sistemas de custeio. Etapas da implantação do sistema de custos.
+ Planejamento de lucro.
+ Bibliografia:
+ Básica:
+ IUDÍCIBUS S.; MARION J.C. Introdução à Teoria da Contabilidade. Ed. Atlas, 2000. 
+MARION J.C. Contabilidade Empresarial. Ed. Atlas, 2003.
+ PADOVEZE, C. L. Manual de contabilidade básica. Ed. Atlas, 2004.
+ Complementar:
+ OLIVEIRA, L. M.; PEREZ JR, J. H. Contabilidade de Custos para não Contadores. 5 ed.
+ São Paulo: Atlas, 2012.
+ GONÇALVES, R. C. M. G.; RICCIO, E. L. Sistemas de informação: ênfase em
+ controladoria e contabilidade. São Paulo: Atlas, 2009.
+ CHING, H. Y; MARQUES, F.; PRADO, L. Contabilidade e finanças: para não
+ especialistas. São Paulo: Prentice Hall. 2003.
+ FLORENTINO, A. M. Análise contábil. Rio de Janeiro: Ed. FGV, 1989.
+ SZUSTER, NATAN et al. Contabilidade geral. São Paulo: Atlas, 2007.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI

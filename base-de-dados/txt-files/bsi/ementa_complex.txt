@@ -1,0 +1,37 @@
+ementa_complex
+
+ÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                         45 horas 15 horas       -
+    CCO27              Complexidade de Algoritmos                 CRÉDITOS
+                                                                       4
+               Cálculo Diferencial Aplicado à Computação (MAT11) e Estruturas de Dados
+PRÉ-REQUISITOS
+               (CCO14)
+                                        EMENTA
+Introdução à Teoria da Complexidade. Crescimento assintótico de funções. Notação Big Oh.
+Complexidade pessimista, média e mínima do problema. Classes de problemas: P, NP e NP
+Completa. Técnicas de construção de algoritmos (divisão para conquistar, estratégia gulosa, força
+bruta e programação dinâmica). Complexidade de algoritmos de ordenação e busca. Complexidade
+de algoritmos de grafos. Complexidade de estruturas de dados.
+                                     BIBLIOGRAFIA BÁSICA
+CORMEN, T. H. et. al. Algoritmos: Teoria e Prática. Rio de Janeiro: Elsevier, 2012. Título original:
+Introduction to Algorithms, 3rd ed.
+TOSCANI, L. V.; VELOSO, P. A. S. Complexidade de Algoritmos. 3. ed. Porto Alegre: Bookman,
+2012.
+ZIVIANI, N.; BOTELHO, F. C. Projeto de Algoritmos: Com Implementações em Java e C++. São
+Paulo: Cengage Learning, 2013.
+                            BIBLIOGRAFIA COMPLEMENTAR
+DROZDEK, A. Estruturas de Dados e Algoritmos em C++. São Paulo: Cengage Learning, 2016.
+GOODRICH, M. T. Estrutura de Dados e Algoritmos em Java. 2. ed. Porto Alegre: Bookman, 2002.
+LAFORE, R. Estruturas de Dados & Algoritmos em Java. Rio de Janeiro: Ciência Moderna, 2004.
+RUSSELL, S. J.; NORVIG, P. Inteligência Artificial: Referência Completa para Cursos de
+Computação. Rio de Janeiro: Elsevier, 2004.
+TENENBAUM, A. M.; LANGSAM, Y. Estruturas de Dados usando C. São Paulo: Makron Books,
+1995.
+
+
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: V

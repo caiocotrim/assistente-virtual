@@ -1,0 +1,132 @@
+Regime acadêmico	Semestral
+Número de vagas
+40 vagas (por semestre)
+Turno de funcionamento	Predominantemente noturno
+• Segundas às sextas: das 16h40min às 22h00min
+• Sábados: das 13h00min às 18h20min
+Regime de matrícula	Semestral
+Carga Horária	3.200 horas
+Tempo mínimo para integralização	8 semestres
+Tempo máximo para integralização	16 semestres
+Formas de ingresso	Sistema de Seleção Unificado, transferência interna, transferência externa, convênio, intercâmbio ou acordo cultural ou ainda na forma de discente especial, ouvinte ou diplomado de ensino superior e outras formas previstas nas Normas Acadêmicas do Ensino Superior (NAES) da instituição
+Ato regulatório	Portaria nº 918/SERES/MEC, de 18/12/2018 (Renovação de Reconhecimento)
+
+
+Objetivo Geral
+A atuação do curso será norteada pelo objetivo geral de possibilitar a formação de profissionais capazes de atender aos desafios da sociedade contemporânea em contínua transformação e que atuem de forma cidadã na área de Sistemas de Informação, com ênfase na Tecnologia da Informação e suas aplicações.
+
+Objetivos Específicos
+Propor condições para o crescimento tecnológico na área de Sistemas de Informação na região sudoeste do estado da Bahia;
+Atender a carência regional em relação à formação de recursos humanos na área de Sistemas de Informação;
+Viabilizar a integração entre o meio acadêmico e a sociedade na área de Sistemas de Informação;
+Oportunizar opções estratégicas e empreendedoras em tecnologias para as organizações regionais, com a finalidade de criação de novas empresas na área;
+Fomentar junto aos discentes, através da prática docente, a formação humanística para o desenvolvimento da crítica e reflexão sobre aspectos éticos, políticos, sociais e econômicos em relação à área de Sistemas de Informação.
+Ênfases de Formação
+Desenvolvimento de sistemas de informação, desempenhando, para tal, entre outros, papéis de analista de sistemas, programador de sistemas, gerente de desenvolvimento de sistemas de informação, gerente de projetos de sistemas de informação e consultor/auditor em desenvolvimento de sistemas de informação;
+Atuação na infraestrutura de Tecnologia da Informação, pelo exercício de funções como a de analista de suporte, administrador de banco de dados, gerente de rede de computadores, gerente de Tecnologia da Informação, consultor/auditor na área de infraestrutura, etc;
+Atuação na gestão e governança de sistemas de informação, assumindo, para este propósito e a título de exemplo, atividades típicas de gerente de sistemas de informação e consultor/auditor em gestão de sistemas de informação.
+Perfil de Egresso
+Domínio de novas Tecnologias da Informação e de gestão da área de sistemas de informação, visando melhores condições de trabalho e de vida;
+Conhecimento e emprego de modelos associados ao uso das novas Tecnologias da Informação e ferramentas que representam o estado da arte na área;
+Conhecimento e emprego de modelos associados ao diagnóstico, planejamento, implementação e avaliação de projetos de sistemas de informação aplicados nas organizações;
+Visão humanística consistente e crítica do impacto de sua atuação profissional na sociedade e nas organizações.
+Seleção, configuração e gerenciamento de Tecnologias da Informação nas organizações;
+Atuação nas organizações públicas e privadas para atingir os objetivos organizacionais, usando as modernas Tecnologias da Informação;
+Identificação de oportunidades de mudanças e projeção de soluções usando tecnologias da informação nas organizações;
+Comparação de soluções alternativas para demandas organizacionais, incluindo a análise de risco e a integração das soluções propostas;
+Gerenciamento, manutenção e garantia da segurança dos sistemas de informação e da infraestrutura de Tecnologia da Informação das organizações;
+Modelagem e implementação de soluções de Tecnologia de Informação em variados domínios de aplicação;
+Aplicação de métodos e técnicas de negociação;
+Gerenciamento de equipes de trabalho no desenvolvimento e evolução de sistemas de informação;
+Aprendizagem de novos processos de negócio;
+Representação de modelos mentais dos indivíduos e do coletivo na análise de requisitos de um sistema de informação;
+Aplicação de conceitos, métodos, técnicas e ferramentas de gerenciamento de projetos em sua área de atuação;
+Entendimento e projeção do papel de sistemas de informação na gerência de risco e no controle organizacional;
+Aprimoramento da experiência das partes interessadas na interação com a organização, incluindo aspectos de humano-computador;
+Identificação e projeção de soluções de alto nível e opções de fornecimento de serviços, realizando estudos de viabilidade com múltiplos critérios de decisão;
+Realização de estudos de viabilidade financeira para projetos de Tecnologia da Informação;
+Gerenciamento do desempenho das aplicações e da escalabilidade dos sistemas de informação.
+Projeto Pedagógico de Curso
+PPC em vigor
+
+PPC
+Matriz Curricular
+Matriz Curricular Optativa
+Regulamento de Migração Curricular
+Ementário e Bibliografia
+Resolução nº 124/2023/CONSEPE
+PPC vigente até o 2º semestre letivo de 2023
+
+PPC
+Matriz Curricular
+Quadro de Equivalência Curricular
+Resolução nº 05/2017/CONSEPE
+PPC vigente até o 1º semestre letivo de 2017
+
+PPC
+Matriz Curricular
+Resolução nº 08/2010/CONSUP
+Normas e Regulamentos
+Diretrizes e Regulamentos Gerais
+
+Normas Acadêmicas de Ensino Superior
+Curricularização da Extensão
+Política de Assistência Estudantil
+Política de Inclusão da Pessoa com Deficiência e/ou Outras Necessidades Específicas
+Uso do Nome Social
+Regulamentações Específicas
+
+Atividades Complementares (aplicável ao PPC vigente)
+Atividades Complementares (aplicável aos PPC's anteriores)
+Atividades de Curriculares Extensão
+Estágio Curricular Supervisionado
+Trabalho de Conclusão de Curso
+Infraestrutura
+Laboratórios Didáticos (Bloco H)
+
+Configuração de Redes de Computadores
+Infraestrutura de Redes de Computadores
+Linguagens de Programação
+Metodologia e Desenvolvimento Avançados de Software
+Metodologia e Desenvolvimento de Software
+Sistemas Computacionais
+Sistemas Móveis e Lúdicos
+Sistemas Web e Distribuídos
+Outras Ambientes
+
+Biblioteca
+Miniauditório e Ambiente de Atendimento Privativo (Bloco H)
+Coordenação de Curso
+Coordenador: Alexandro dos Santos Silva
+Titulação e Formação: Mestre em Modelagem Computacional em Ciência e Tecnologia
+Currículo Lates
+Contato: 0800 077 0084 (Ramal 1261)
+E-mail: csi.vdc@ifba.edu.br
+Nomeação: Portaria nº 4.194/2022/Reitoria, de 8 de novembro de 2022
+Plano de Ação do Semestre Letivo Vigente
+Planos de Ação Anteriores: 2023.2 e 2024.1
+Relatórios de Execução de Planos de Ação Anteriores: 2023.2 e 2024.1
+Colegiado de Curso
+Portaria nº 136/2024/DG
+Resultado de Última Eleição
+Regimento
+Resolução nº 12-2024-CONCAM (Aprovação de Regimento)
+Núcleo Docente Estruturante
+Portaria 098/2024/DG
+Regimento (Resolução nº 17/2012/CONSUP)
+Diretório Acadêmico
+logo-dasi-reduzido.png
+
+Canal Oficial (Instagram)
+Canal Oficial (Linktree)
+Empresa Júnior
+Canal Oficial (Instagram)
+Canal Oficial (Linktree)
+Atlética Acadêmica
+Canal Oficial (Instagram)
+Canal Oficial (Linktree)
+
+se a resposta para a dúvida não estiver presente na base de dados acima, responda da seguinte forma: 
+"Infelizmente no momento eu não tenho a resposta para a sua dúvida. Entretanto, você pode encontrar a sua resposta ideal no site do nosso curso que foi recentemente reformado e adicionado diversas informações relevantes: https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/sistemas-de-informacao
+
+De qualquer forma, obrigado pela atenção! 😊ac"

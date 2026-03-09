@@ -1,0 +1,6 @@
+ementa_lp1
+
+Linguagem de Programação I
+PRÉ-REQUISITOS Algoritmos e Programação (CCO01)
+EMENTA: Recursividade. Programação orientada a objetos: abstração de dados; classes e objetos; herança; e polimorfismo. Interfaces e classes abstratas. Depuração de programas. Box e Unboxing. Boas práticas de programação
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

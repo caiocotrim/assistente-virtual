@@ -1,0 +1,176 @@
+informacao_estrutura
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+                               Quadro 8: Instalações físicas do campus
+
+TIPO DE INSTALAÇÃO                                                         QUANTIDADE
+Sala de direção                                                                01
+Sala de coordenação                                                            15
+Sala de convivência do corpo docente                                           03
+Sala de aula                                                                   43
+Sala de alojamento de representação estudantil                                 01
+Sala de gabinetes para docentes                                                24
+Sanitário                                                                      26
+Sanitário para deficientes físicos                                             18
+Pátio coberto para convivência e alimentação própria (com área de lazer)       01
+Sala de atendimento                                                            01
+Auditório                                                                      03
+Espaço cultural                                                                01
+Laboratório multidisciplinar                                                   21
+Refeitório                                                                     01
+Cantina ou lanchonete                                                          01
+Laboratório didático de computação                                             08
+Estacionamento privativo                                                       01
+
+
+
+            Em face da infraestrutura de laboratórios disponibilizada no Campus Vitória
+da Conquista, a maioria das atividades desempenhadas pela área de computação
+estão concentradas no 4º andar do Bloco H, situando-se neste local todos os 8
+laboratórios didáticos, as coordenações de todos os cursos da área (2 cursos
+técnicos, 1 curso superior e um curso de pós-graduação) e as salas de gabinetes
+destinadas aos docentes da área (com mesas, cadeiras e gaveteiros individuais). O
+local também dispõe de miniauditório com 40 (quarenta) carteiras estofadas com
+prancheta escamoteável e estrutura multimídia para apresentações de palestras,
+cursos e Trabalhos de Conclusão de Curso, bem como ainda possui espaço para
+futura ampliação visando acomodar ambientes especializados, a exemplo de
+laboratórios de pesquisa, inovação e extensão.
+
+
+
+
+Projeto Pedagógico de Curso                                                          60
+                CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+3.13.2 ESTRUTURA DE LABORATÓRIOS
+
+        Conforme citado na seção anterior, o campus dispõe de 8 laboratórios
+didáticos para as diversas atividades da área de Computação. As disposições e
+configurações de equipamentos contidos em cada laboratório segue-se abaixo:
+
+        •     Laboratório de Infraestrutura de Redes de Computadores: 32
+              posições com cadeiras móveis sem braço; 16 microcomputadores
+              Speed equipados com processador Intel Pentium 4, com frequência de
+              2,4GHz, 2GB DDR2 de memória, 80GB de armazenamento em disco,
+              monitor LED de 21”, teclado ABNT e mouse óptico; projetor multimídia
+              Epson; 2 condicionadores de ar (split); conexão via rede cabeada; 2
+              bancadas para experimentos com 12 posições; 24 banquetas altas
+              para bancadas de experimentos; 1 rack de chão 42U; 1 rack de parede
+              12U; 6 hubs/switch com 12/24 portas 10/100; 12 patch panel com 24
+              portas RJ45 fêmea; 6 alicates de crimpagem para conector RJ45
+              macho; 2 alicates crimpagem para conector RJ45 fêmea; 12 testadores
+              de conexão para cabo UTP-Cat5 conectorizados RJ45/RJ11 macho; 3
+              dispositivos interno-ópticos para rack; 3 dispositivos interno-ópticos
+              para parede; 20 conversores de mídia fibra/RJ45 fêmea com fonte de
+              alimentação; 4 roteadores sem fio 802.11 TP-Link com fonte de
+              alimentação; 4 antenas omni-direcional D-Link; 4 dongle USB sem fio
+              802.11 D-Link; 4 câmeras IP sem fio 802.11 D-Link; 1 analisador de
+              sinal eletromagnético; e 2 antena outdoor parabólica de grade 2,4GHz;
+
+        •     Laboratório de Configuração de Redes de Computadores: 32
+              posições com cadeiras móveis sem braço; 16 microcomputadores HP
+              Desktop equipados com processador i7, com frequência de 3,4GHz,
+              4GB DDR3 de memória, 1TB de armazenamento em disco, monitor
+              LED de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson; 2
+              condicionador de ar (split); conexão via rede cabeada; 2 bancadas para
+              experimentos com 12 posições; 24 banquetas altas para bancadas de
+              experimentos; 1 rack de chão 42U; 1 rack de parede 12U; 6
+
+
+Projeto Pedagógico de Curso                                                       61
+                CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+              hubs/switch com 12/24 portas 10/100; 4 roteadores sem fio 802.11 TP-
+              Link com fonte de alimentação; 4 antenas omni-direcional D-Link; 4
+              dongle USB sem fio 802.11 D-Link; 4 câmeras IP sem fio 802.11 D-
+              Link; e 1 roteador VPN D-Link;
+
+        •     Laboratório de Linguagens de Programação: 48 posições com
+              cadeiras móveis sem braço; 36 microcomputadores HP Desktop
+              equipados com processador i7, com frequência de 3,4GHz, 4GB DDR3
+              de memória, 1TB de armazenamento em disco, monitor LED de 21”,
+              teclado ABNT e mouse         óptico; projetor multimídia Epson; 2
+              condicionadores de ar (split); conexão via rede cabeada; e 25 carteiras
+              com prancheta fixa para aulas teóricas;
+
+        •     Laboratório de Sistemas Computacionais: 44 posições com cadeiras
+              móveis sem braço; 22 microcomputadores HP Desktop equipados com
+              processador i7, com frequência de 3,4GHz, 4GB DDR3 de memória,
+              1TB de armazenamento em disco, monitor LED de 21”, teclado ABNT
+              e mouse óptico; projetor multimídia Epson; 2 condicionadores de ar
+              (split); conexão via rede cabeada; e 25 carteiras com prancheta fixa
+              para aulas teóricas;
+
+        •     Laboratório de Metodologia e Desenvolvimento de Software: 48
+              posições com cadeiras móveis sem braço; 21 microcomputadores HP
+              Desktop equipados com processador i7, com frequência de 3,4GHz,
+              4GB DDR3 de memória, 1TB de espaçamento em disco, monitor LED
+              de 21, teclado ABNT e mouse óptico; projetor multimídia Epson; 2
+              condicionadores de ar (split); e conexão via rede cabeada;
+
+        •     Laboratório de Metodologia e Desenvolvimento Avançados de
+              Software: 48 posições com cadeiras móveis sem braço; 24
+              microcomputadores Vector equipados com processador i5, com
+              frequência de 3,4GHz, 4GB DDR3 de memória, 1TB de espaçamento
+              em disco, dois monitores LED de 21”, teclado ABNT e mouse óptico;
+
+
+
+Projeto Pedagógico de Curso                                                        62
+                CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+              projetor multimídia Epson; condicionador de ar (split); e conexão via
+              rede cabeada;
+
+        •     Laboratório de Sistemas Web e Distribuídos: 44 posições com
+              cadeiras giratórias móveis sem braço; 22 microcomputadores HP
+              Desktop equipados com processador i7, com frequência de 3,4GHz,
+              4GB DDR3 de memória, 1TB de espaçamento em disco, monitor LED
+              de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson;
+              condicionador de ar (split); conexão via rede cabeada; e 25 carteiras
+              com prancheta fixa para aulas teóricas;
+
+        •     Laboratório de Sistemas Móveis e Lúdicos: 48 posições com
+              cadeiras giratórias móveis sem braço; 24 microcomputadores HP
+              Desktop equipados com processador i7, com frequência de 3,4GHz,
+              4GB DDR3 de memória, 1TB de armazenamento em disco, monitor
+              LED de 21”, teclado ABNT e mouse óptico; projetor multimídia Epson;
+              condicionador de ar (split); conexão via rede cabeada; e 25 carteiras
+              com prancheta fixa para aulas teóricas.
+
+
+
+3.13.3 BIBLIOTECA
+
+        A biblioteca do Campus Vitória da Conquista se constitui em um espaço
+reservado para fins didáticos e culturais. Ela participa da dinâmica de disseminação
+de informações e da aquisição de conhecimento técnico, científico e cultural,
+garantindo liberdade de acesso a coleções para os usuários. São oferecidos os
+seguintes serviços: cadastro de usuários, consulta local, atendimento personalizado,
+empréstimo domiciliar, renovação de empréstimo e empréstimo especial. Através de
+portal disponível em https://portal.ifba.edu.br/conquista/ensino/biblioteca       é
+possível consultar regulamentos e normas de uso da biblioteca, assim como acessar
+os seus serviços.
+
+
+
+
+Projeto Pedagógico de Curso                                                       63
+                CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+        É permitido livre acesso aos diversos materiais bibliográficos que constam
+no acervo. Parte dele não fica disponível para empréstimo, e o seu acesso é limitado
+somente ao âmbito da própria biblioteca. São eles, a saber:
+
+        •     Coleções de referência (dicionários, enciclopédias, catálogos, manuais,
+              etc.);
+
+        •     Coleções de periódicos (revistas, jornais, etc.);
+
+        •     Coleções para consulta local (exemplares de livros destinados
+              exclusivamente para consulta).

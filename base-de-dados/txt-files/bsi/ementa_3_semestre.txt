@@ -1,0 +1,206 @@
+ementa_3_semestre
+
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+      COMPONENTES CURRICULARES OBRIGATÓRIOS DO III SEMESTRE
+
+                                                                            CARGA HORÁRIA
+     CÓDIGO                   COMPONENTE CURRICULAR
+                                                                      Teórica   Prática Extensão
+                                                                      15 horas 45 horas     -
+      CCO13                    Linguagem de Programação II                     CRÉDITOS
+                                                                                   4
+PRÉ-REQUISITOS Linguagem de Programação I (CCO07)
+                                     EMENTA
+Tratamento de exceção. Programação genérica. Manipulação de arquivos e streams.
+Desenvolvimento de interfaces gráficas básicas. Fluxos de controle paralelo. Boas práticas de
+programação.
+                                         BIBLIOGRAFIA BÁSICA
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do
+Brasil, 2011.
+HORSTMANN, C. S.; CORNELL, G. Core Java: Volume I: Fundamentos. 8. ed. São Paulo: Pearson
+Prentice Hall, 2010.
+SCHILDT, H.; SKRIEN, D. Programação com Java: Uma Introdução Abrangente. Porto Alegre:
+Bookman, 2013.
+                                   BIBLIOGRAFIA COMPLEMENTAR
+                        TM
+ARAÚJO, K. F. C. Java        EE5: Guia Prático. 2. ed. São Paulo: Érica, 2007.
+FURGERI, S. Java 7 - Ensino Didático: Desenvolvendo e Implementando Aplicações. São Paulo:
+Érica, 2015.
+HORSTMANN, C. Conceitos de Computação com o Essencial de Java. 3. ed. Porto Alegre:
+Bookman, 2005.
+JANDL JUNIOR, P. Java: Guia do Programador. São Paulo: Novatec, 2007.
+SIERRA, K.; BATES, B. Use a Cabeça! JavaTM. 2. ed. Rio de Janeiro: Alta Books, 2010.
+
+
+                                                                            CARGA HORÁRIA
+     CÓDIGO                   COMPONENTE CURRICULAR
+                                                                      Teórica   Prática Extensão
+                                                                      30 horas 30 horas     -
+      CCO14                         Estrutura de Dados                         CRÉDITOS
+                                                                                   4
+PRÉ-REQUISITOS Linguagem de Programação I (CCO7)
+                                     EMENTA
+Estruturas de dados estáticas e dinâmicas. Listas encadeadas e ordenadas. Pilhas. Filas. Heaps.
+Árvores e suas generalizações: implementação de árvores de busca binária; conceitos de árvore
+AVL; árvore n-ária; e árvores B e B+. Estudo de coleções de dados nativas. Aplicações de estruturas
+de dados.
+                                         BIBLIOGRAFIA BÁSICA
+CORMEN, T. H. et. al. Algoritmos: Teoria e Prática. Rio de Janeiro: Elsevier, 2012. Título original:
+Introduction to Algorithms, 3rd ed.
+DROZDEK, A. Estruturas de Dados e Algoritmos em C++. São Paulo: Cengage Learning, 2016.
+
+
+
+Projeto Pedagógico de Curso                                                                       82
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+LAFORE, R. Estruturas de Dados & Algoritmos em Java. Rio de Janeiro: Ciência Moderna, 2004.
+                                BIBLIOGRAFIA COMPLEMENTAR
+KOFFMAN, E. B.; WOLFGANG, P. A. T. Objetos, Abstração, Estruturas de Dados e Projeto
+usando C++. Rio de Janeiro: LTC, 2008.
+LOPES, A. V. Estruturas de Dados para a Construção de Software: Nível Intermediário. Canoas:
+Ulbra, 1999
+PEREIRA S. L. Estruturas de Dados Fundamentais: Conceitos e Aplicações. 9. ed. São Paulo:
+Livros Érica, 1996.
+TENENBAUM, A. M.; LANGSAM, Y. Estruturas de Dados usando C. São Paulo: Makron Books,
+1995.
+WIRTH, N. Algoritmos e Estruturas de Dados. Rio de Janeiro: LTC, 2008.
+
+
+                                                                 CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                           Teórica   Prática Extensão
+                                                           60 horas     -        -
+     TEC15               Sistemas Operacionais                      CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Organização e Arquitetura de Computadores (CCO08)
+                                        EMENTA
+Definições e organização interna. Gerência de processos: conceito, sincronização e comunicação,
+escalonamento e threads. Gerência da memória: conceito, partição, paginação e segmentação.
+Sistemas de arquivos. Gerência de dispositivos de E/S: conceito, tratamento de interrupção, device
+drivers e interfaces com usuário. Estudos de caso.
+                                      BIBLIOGRAFIA BÁSICA
+DEITEL, H. M.; DEITEL, P. J.; CHOFFNES, D. R. Sistemas Operacionais. São Paulo: Prentice Hall,
+2005.
+MACHADO, F. B.; MAIA, L. P. Arquitetura de Sistemas Operacionais. 5. ed. São Paulo: LTC, 2013.
+TANENBAUM, A. Sistemas Operacionais Modernos. 2. ed. São Paulo: Prentice Hall, 2003.
+                                BIBLIOGRAFIA COMPLEMENTAR
+FLYNN, I. M.; MCHOES, A. M. Introdução aos Sistemas Operacionais. São Paulo: Cengage
+Learning, 2008.
+MAZIERO, C. A. Sistemas Operacionais: Conceitos e Mecanismos. Curitiba: Departamento de
+Informática, UFPR, 2019. Disponível em: http://dainf.ct.utfpr.edu.br/~maziero/lib/exe/fetch.php/so:so-
+livro.pdf
+OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. S. Sistemas Operacionais e Programação
+Concorrente. Porto Alegre: Sagra Luzzatto, 2003.
+SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G. Sistemas Operacionais com Java: Conceitos e
+Aplicações. Rio de Janeiro: Elsevier, 2016.
+TANENBAUM, A. S.; WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3. ed.
+Porto Alegre: Bookman, 2008.
+
+
+
+
+Projeto Pedagógico de Curso                                                                        83
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      MAT16                   Probabilidade e Estatística                   CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                              EMENTA
+Introdução aos conceitos básicos. Técnicas de representação gráfica. Medidas representativas:
+central e dispersão. Fenômeno aleatório versus fenômeno determinístico. Espaço amostral e
+eventos. Variáveis aleatórias unidimensionais: variáveis aleatórias discretas e contínuas. Função de
+distribuição e função densidade. Probabilidade e distribuição de probabilidades. Variáveis aleatórias
+contínuas: distribuições normais e gama. Teoria de hipóteses. Correlação e regressão.
+                                      BIBLIOGRAFIA BÁSICA
+FONSECA, J. S.; MARTINS, G. A. Curso de Estatística. 6. ed. São Paulo: Atlas, 1996.
+MORETTIN, P. A.; BUSSAB, W. O. Estatística Básica. 8. ed. São Paulo: Saraiva, 2013.
+TRIOLA, M. F. Introdução à Estatística: Atualização da Tecnologia. 11. ed. Rio de Janeiro: LTC,
+2013.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+BOLFARINE, H; BUSSAB, W. O. Elementos de Amostragem. São Paulo: Edgard Blucher, 2007.
+CRESPO, A. A. Estatística Fácil. 18. ed. São Paulo: Saraiva, 2008.
+CRESPO, A. A. Estatística Fácil. 19. ed. São Paulo: Saraiva, 2009.
+DEVORE, J. L. Probabilidade e Estatística na Engenharia e Ciências. São Paulo: Cengage
+Learning. 2011.
+SILVA, N. N. Amostragem Probabilística: Um Curso Introdutório. 2. ed. São Paulo: EDUSP, 2004.
+TOLEDO, G. L.; OVALLE, I. I. Estatística Básica. 2. ed. São Paulo: Atlas, 2011.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      HUM17                       Direito Cibernético                       CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                              EMENTA
+Pós-humanismo Jurídico. Conceito de Direito Cibernético. A Constituição Federal de 1988 e o Direito
+Cibernético. Legislação infraconstitucional e o Direito Cibernético: Marco Civil da Internet e a Lei
+Geral de Proteção de Dados Pessoais. Crimes digitais. Racismo, Injúria Racial, LGBTfobia na
+Internet. Responsabilidade legal no design de sistemas de informação e na programação web.
+Apontamentos jurídicos sobre comércio eletrônico e propriedade intelectual/industrial relacionada à
+autoria de softwares. Documentos eletrônicos. Aspectos legais sobre contratos: contratos de venda,
+prestação de serviços, suporte e manutenção. Tópicos contemporâneos de Direito Cibernético.
+                                      BIBLIOGRAFIA BÁSICA
+FILHO, R.; RAMOS, D. Direito da Informática: Temas Polêmicos. São Paulo: EDIPRO, 2002.
+PAESANI, L. M. Direito de Informática: Comercialização e Desenvolvimento Internacional do
+Software. 9. ed. São Paulo: Atlas, 2014.
+
+
+Projeto Pedagógico de Curso                                                                       84
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+ROVER, A. Direito, Sociedade e Informática. Florianópolis: Fundação Boiteux, 2000.
+                               BIBLIOGRAFIA COMPLEMENTAR
+ALBUQUERQUE, R. C. A Propriedade Informática. Campinas, Russell, 2006.
+SARLET, I. W (org.). Direitos Fundamentais, Informática e Comunicação: Algumas Aproximações.
+Porto Alegre: Livraria do Advogado, 2007.
+JESUS, D.; MILAGRE, J. A. Marco Civil da Internet: Comentários à Lei n. 12.965/14. São Paulo:
+Saraiva, 2014.
+MARQUES, G.; MARTINS, L. Direito da Informática. 2. ed. São Paulo: Almedina, 2006.
+NOGUEIRA, S. A. Crimes de Informática. 2. ed. Campinas, SP, BH, 2009.
+SYDOW, S. T. Crimes Informáticos e suas Vítimas. 2. ed. São Paulo: Saraiva, 2015 (Coleção
+Saberes Monográficos).
+
+
+                                                                      CARGA HORÁRIA
+     CÓDIGO              COMPONENTE CURRICULAR
+                                                                Teórica   Prática Extensão
+                                                                60 horas     -        -
+     COM18              Organização, Sistemas e Métodos                  CRÉDITOS
+                                                                             4
+PRÉ-REQUISITOS Administração (COM24)
+                                           EMENTA
+Conceitos, fundamentos, objetivos e importância da Organização, Sistemas e Métodos. Processo de
+organização e reorganização da estrutura administrativa. Métodos de trabalho. Certificações da
+qualidade e padronização. Distribuição, sequência e ferramentas de mapeamento e melhoria de
+processos do negócio. Estudos de novas tendências tecnológicas para a organização do trabalho.
+                                    BIBLIOGRAFIA BÁSICA
+BALLESTERO-ALVAREZ, M. E. Manual de Organização, Sistemas e Métodos: Abordagem Teórica
+e Prática da Engenharia da Informação. 6. ed. São Paulo: Atlas, 2015.
+CRUZ, T. Sistemas, Organizações e Métodos: Estudo Integrado das Novas Tecnologias da
+Informação. São Paulo: Atlas, 2002.
+OLIVEIRA, D. P. R. Sistemas, Organização e Métodos: Uma Abordagem Gerencial. 21. ed. São
+Paulo: Atlas, 2013.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CURY, A. Organização & Métodos: Uma Visão Holística. 8. ed. São Paulo: Atlas, 2010.
+SIMCSIK, T. OMIS: Organização, Métodos, Informação e Sistemas. São Paulo: Makron Books,1992.
+SIMCSIK, T. OSM: Organização, Sistemas e Métodos. São Paulo: Futura, 2001.
+D`ASCENSÃO, L. C. M. Organização, Sistemas e Métodos: Análise, Redesenho e Informatização
+de Processos Administrativos. São Paulo: Atlas, 2001.
+
+
+
+
+Projeto Pedagógico de Curso                                                                  85
+

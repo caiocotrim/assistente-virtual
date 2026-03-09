@@ -1,0 +1,517 @@
+ementa opcionais
+
+COMPONENTES CURRICULARES OPTATIVOS
+
+Nesta subseção apresenta-se ementas do conjunto de componentes curriculares
+optativos    considerando       os   três    eixos    de    atuação     e   ênfase     do    curso:
+Desenvolvimento de Sistemas, Infraestrutura de Ambientes Computacionais e
+Gestão e Governança de TI.
+
+
+
+            COMPONENTES CURRICULARES OPTATIVOS DO PERFIL DE
+                           DESENVOLVIMENTO DE SISTEMAS
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      OPT49                     Comércio Eletrônico                         CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Programação Web II (TEC30)
+                                      EMENTA
+Fundamentos do comércio eletrônico. Design web voltado para o comércio eletrônico. Sistemas de
+Gerenciamento de Conteúdo voltados ao comércio eletrônico. Serviços e servidores de comércio
+eletrônico: modelagem, personalização, distribuição e desempenho. Dinâmica e segurança de
+transações no comércio eletrônico. Técnicas antifraude. Estudos de casos no comércio eletrônico
+brasileiro e mundial. Comércio eletrônico através de redes sociais. Plataformas de e-commerce.
+                                     BIBLIOGRAFIA BÁSICA
+BROGDEN, W. B.; MINNICK, C. Desenvolvendo E-Commerce com JAVA, XML e JSP. São Paulo:
+Pearson Education do Brasil, 2002.
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+OLIVIERO, C. A. J. Faça um Site: Comércio Eletrônico com ASP + HTML Orientado por Projeto. 6.
+ed. São Paulo: Érica, 2011.
+                                BIBLIOGRAFIA COMPLEMENTAR
+ABEYWARDENA, I.; WERNER, U. (ed.). INB3104 E-Commerce and International Business. [S. l.:
+s. n.], 2014. Disponível em: http://cnx.org/content/col11668/1.1.
+THE INTERNET MARKETING ACADEMY. Internet Marketing. [S. l.]: Bookboon, 2011. Disponível
+em: http://bookboon.com/en/internet-marketing-ebook.
+
+
+Projeto Pedagógico de Curso                                                                      106
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+THOMAS, B. Technology-Based Entrepreneurship. [S. l.]: Bookboon, 2015. Disponível em:
+http://bookboon.com/en/technology-based-entrepreneurship-ebook.
+THOMAS, B.; MILLER, C.; MURPHY, L. Innovation and Small Business: Volume 2. [S. l.]:
+Bookboon, 2014. Disponível em: http://bookboon.com/en/innovation-and-small-business-volume-2-
+ebook.
+
+
+                                                           CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                     Teórica   Prática Extensão
+                                                    30 horas 30 horas      -
+     OPT50                   Jogos Digitais                  CRÉDITOS
+                                                                  4
+               Interface Homem-Máquina (TEC43) e Processo de Desenvolvimento de
+PRÉ-REQUISITOS
+               Software (TEC26)
+                                      EMENTA
+História do desenvolvimento de Jogos Digitais. Teoria da Diversão Natural. Taxonomia de Jogos
+Digitais. Características dos jogadores. Elementos de composição de um jogo. Narrativa
+(storyboard). Personagens. Jogabilidade. Game Level. Gerenciamento de recursos: interfaces, áudio,
+ilustração e animação. Processo de desenvolvimento de jogos e motores para jogos.
+                                    BIBLIOGRAFIA BÁSICA
+MATTAR, J. Games em Educação: Como os Nativos Digitais aprendem. São Paulo: Pearson
+Prentice-Hall, 2010.
+NOVAK, J. Desenvolvimento de Games. 2. ed. São Paulo: Cengage Learning, 2011.
+RABIN, S. Introdução ao Desenvolvimento de Games: Volume 1: Entendendo o Universo dos
+Jogos. São Paulo: Cengage Learning, 2012.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BIERMAN, H. S. Teoria dos Jogos. São Paulo: Prentice-Hall, 2011.
+DILLON, R. HTML5 Game Development from the Ground Up with Construct 2. Florida: CRC
+Press, 2014.
+FERNANDES, A. M. R. et. al. Jogos Eletrônicos: Mapeando Novas Perspectivas. Florianópolis:
+Visual Books, 2009.
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica     Prática Extensão
+                                                         30 horas 30 horas           -
+     OPT51                 Ciência de Dados                         CRÉDITOS
+                                                                         4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13) e Probabilidade e Estatística (MAT16)
+                                      EMENTA
+Introdução a Ciência de Dados: Princípios e histórico. Aquisição, preparação, modelagem e
+exploração de dados. Avaliação, comunicação e visualização de dados. Linguagem de programação
+para Ciência de Dados. Laboratório com exemplos práticos baseados em Ciência de Dados.
+
+
+
+Projeto Pedagógico de Curso                                                                   107
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                    BIBLIOGRAFIA BÁSICA
+AMARAL, F. Introdução à Ciência de Dados. Rio de Janeiro: Alta Books, 2016.
+HAN, J.; KAMBER, M. Data Mining: Concepts and Techniques. 2. ed. San Francisco, CA: Morgan
+Kaufmann, 2006.
+McKINNEY, W. Python para Análise de Dados. São Paulo: Novatec, 2018.
+TAN, P.; STEINBACH, M.; KUMAR, V. Introdução ao Data Mining: Mineração de Dados. Rio de
+Janeiro: Ciência Moderna, 2009.
+VASCONCELOS, J. B.; BARÃO, A. Ciência dos Dados nas Organizações: Aplicações em Python.
+Lisboa: FCA, 2017
+                               BIBLIOGRAFIA COMPLEMENTAR
+AGUILAR, A. et. al. Visualização de Dados, Informação e Conhecimento. [S. l.]: UFSC, 2017.
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+GUERRA, S; OLIVEIRA, P. F.; MCDONNELL, R. Ciência de Dados com R: Introdução. Brasília:
+IBPAD, 2018. Disponível em: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-
+ciencia-de-dados-com-r
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+WITTEN, I. H.; FRANK, E. Data Mining: Practical Machine Learning Tools and Techniques. 2. ed.
+San Francisco, CA: Morgan Kaufmann, 2005.
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          30 horas 30 horas     -
+     OPT52               Arquitetura de Software                   CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Processo de Desenvolvimento de Software (TEC26)
+                                        EMENTA
+Os conceitos relacionados à Design de Software. Fundamentos de Arquitetura de Software.
+Stakeholders e sua influência sobre a Arquitetura de Software. Padrões arquiteturais. Padrões de
+projeto. Prototipação arquitetural.
+                                    BIBLIOGRAFIA BÁSICA
+BRAUDE, E. J. Projeto de Software: Da Programação à Arquitetura: Uma Abordagem baseada em
+Java. Porto Alegre: Bookman, 2005.
+SILVEIRA, G. et. al. Introdução à Arquitetura e Design de Software: Uma Visão sobre a
+Plataforma Java. Rio de Janeiro: Elsevier, 2012.
+FREEMAN, E.; FREEMAN, E. Use a Cabeça! Padrões de Projetos. 2. ed. Rio de Janeiro: Alta
+Books, 2009.
+                               BIBLIOGRAFIA COMPLEMENTAR
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+GERMOGLIO, G. Arquitetura de Software. Rice University, Houston, Texas: [s. n.], 2012. Disponível
+em: http://cnx.org/content/col10722/1.9.
+
+
+
+Projeto Pedagógico de Curso                                                                  108
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+HURWITZ, J. et. al. Arquitetura Orientada a Serviços - SOA: Para Leigos. 2. ed. Rio de Janeiro:
+Alta Books, 2009.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+SOMMERVILLI. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+
+                                                                       CARGA HORÁRIA
+     CÓDIGO              COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 15 horas 45 horas     -
+      OPT53             Frameworks de Desenvolvimento                     CRÉDITOS
+                                                                              4
+PRÉ-REQUISITOS Programação Web II (TEC30)
+                                      EMENTA
+Conceitos e princípios relacionados a frameworks. Frameworks de projeto e design. Frameworks de
+testes. Frameworks de log. Frameworks para Injeção de Dependências. Frameworks para
+versionamento com abordagem prática.
+                                   BIBLIOGRAFIA BÁSICA
+SILVEIRA, G. et. al. Introdução à Arquitetura e Design de Software: Uma Visão sobre a
+Plataforma Java. Rio de Janeiro: Elsevier, 2012.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+TERUEL, E. C. Arquitetura de Sistemas para Web com Java utilizando Design Patterns e
+Frameworks. Rio de Janeiro: Ciência Moderna, 2012.
+                              BIBLIOGRAFIA COMPLEMENTAR
+CHACON, S.; STRAUB, B. Pro             Git.   Berkeley,   CA:   Apress,   2014.   Disponível   em:
+https://git-scm.com/book/pt-br/v2.
+LUCKOW, D. H.; MELO, A. A. Programação Java para Web: Aprenda a Desenvolver uma Aplicação
+Financeira Pessoal com as Ferramentas mais Modernas da Plataforma Java. 2. ed. São Paulo:
+Novatec, 2015.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. 3. ed. Rio de
+Janeiro: LTC, 2009.
+PFLEEGER, S. L. Engenharia de Software: Teoria e Prática. 2. ed. São Paulo: Pearson Prentice
+Hall, 2004.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+
+
+
+
+Projeto Pedagógico de Curso                                                                    109
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+           COMPONENTES CURRICULARES OPTATIVOS DO PERFIL DE
+                            INFRAESTRUTURA DE AMBIENTES
+
+                                                                           CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                     Teórica   Prática Extensão
+                                                                     30 horas 30 horas     -
+      OPT54            Segurança de Redes de Computadores                     CRÉDITOS
+                                                                                  4
+PRÉ-REQUISITOS Projeto e Administração de Redes (TEC29)
+                                        EMENTA
+Introdução à segurança. Arquiteturas de segurança. Segurança na Internet. Vulnerabilidades de
+sistemas operacionais e pilha TCP/IP. Segurança IP. Sistemas de proteção de perímetro:
+componentes, filtragem de pacotes, NAT, PROXY, DMZ e HoneyPots. Firewall: conceitos e estudo de
+soluções de software livre e proprietárias. Redes Privadas Virtuais (VPN). Protocolos: SSL/TLS e
+SMIME.
+                                       BIBLIOGRAFIA BÁSICA
+CHESWICK, W. R.; BELLOVIN, S. M.; RUBIN, A. D. Firewalls e Segurança na Internet: Repelindo
+o Hacker Ardiloso. 2. ed. Porto Alegre: Bookman, 2005.
+MORAES, A. F. Segurança em Redes: Fundamentos. São Paulo: Érica, 2010.
+NAKAMURA, E. T.; GEUS, P. L. Segurança de Redes em Ambientes Cooperativos. São Paulo:
+Novatec, 2007.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+ANDERSON, R. J. Security Engineering: A Guide to Building Dependable Distributed Systems. 2.
+ed. Indianapolis, IN: Wiley Publishing, 2008. Disponível em: http://www.cl.cam.ac.uk/~rja14/book.html.
+CERT.BR. Cartilha de Segurança para Internet, Versão 4.0. 2. ed. São Paulo: Comitê Gestor da
+Internet no Brasil, 2012. Disponível em: https://cartilha.cert.br/livro/cartilha-seguranca-internet.pdf.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+MCCLURE, S.; SCAMBRAY J.; KURTZ, G. Hackers Expostos: Segredos e Soluções para a
+Segurança de Redes. São Paulo: Makron Books, 2000.
+MENEZES, A. J.; VAN OORSCHOT, P. C.; VANSTONE, S. A. Handbook of Applied Cryptography
+Hardcover. [S. I.]: CRC Press, 1996. Disponível em: https://cacr.uwaterloo.ca/hac.
+
+
+                                                                           CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                     Teórica   Prática Extensão
+                                                                     30 horas 30 horas     -
+                       Computação em Nuvem e Automação de
+      OPT55                                                                   CRÉDITOS
+                                  Infraestrutura
+                                                                                  4
+PRÉ-REQUISITOS Projeto e Administração de Redes (TEC29)
+                                        EMENTA
+Fundamentos de computação em nuvem. Provedores de computação em nuvem: arquitetura de
+soluções em nuvem; provisionamento de recursos; gerenciamento de recursos; aspectos
+econômicos. XaaS: Infraestrutura como Serviço (IaaS); Plataforma como Serviço (PaaS); Software
+como Serviço (SaaS). Virtualização e containers. IaC (Infraestrutura como Código). Monitoramento e
+operação em ambientes de nuvem. DevOps: cultura e ferramentas. Conceitos de automação de
+
+Projeto Pedagógico de Curso                                                                         110
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+infraestrutura aplicados à Pipeline CI/CD.
+                                      BIBLIOGRAFIA BÁSICA
+CHEE, B. J. S.; JUNIOR, C. F. Computação em Nuvem: Cloud Computing: Tecnologias e
+Estratégias. [S. I.]: M.Books, 2013.
+KIM, G. et al. Manual de DevOps: Como obter Agilidade, Confiabilidade e Segurança em
+Organizações Tecnológicas. Rio de Janeiro: Alta Books, 2018.
+VERAS, M. Cloud Computing: Nova Arquitetura da TI. Rio de Janeiro: Brasport, 2012.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+KAVIS, M. J. Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS,
+PaaS and IaaS). Hoboken, New Jersey: John Wiley & Sons, 2014.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+VELTE, A. T.; VELTE, T. J.; ELSENPETER, R. Cloud Computing: Computação em Nuvem: Uma
+Abordagem Prática. Rio de Janeiro: Alta Books, 2011.
+
+
+                                                                      CARGA HORÁRIA
+     CÓDIGO                COMPONENTE CURRICULAR
+                                                                Teórica   Prática Extensão
+                                                                30 horas 30 horas     -
+                            Redes sem Fio e Sistemas de
+      OPT56                                                              CRÉDITOS
+                               Comunicações Móveis
+                                                                             4
+PRÉ-REQUISITOS Projeto e Administração de Redes (TEC29)
+                                        EMENTA
+Introdução a sistemas de comunicação sem fio. Escopos de redes sem fio e padrões IEEE (WLAN,
+WMAN, WWAN e WPAN). Segurança de redes sem fio; Introdução a sistemas móveis. Estrutura e
+operação de sistemas celulares. Tecnologias de sistemas celulares digitais. Mobilidade de usuário
+em redes sem fio. Integração de redes de dados e sistemas celulares.
+                                      BIBLIOGRAFIA BÁSICA
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes, Web e Aplicações. 4. ed. Porto Alegre: Bookman, 2007.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+                                 BIBLIOGRAFIA COMPLEMENTAR
+MORAES, A. F. Redes de Computadores: Fundamentos. 2. ed. São Paulo: Érica, 2006.
+ROSS, J. O Livro de Wi-Fi: Instale, Configure e Use Redes Wireless (Sem Fio): Cobertura em
+Windows, Macintosh, Linux, Unix e PDAs. Rio de Janeiro: Alta Books, c2003.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de Computadores: Das LANs, MANs e WANs
+às Redes ATM. 2. ed. Rio de Janeiro: Elsevier, 1999.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+
+
+
+
+Projeto Pedagógico de Curso                                                                   111
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  30 horas 30 horas     -
+      OPT57           Cabeamento Estrutura e Redes Ópticas                 CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Projeto e Administração de Redes (TEC29)
+                                        EMENTA
+Introdução em redes de acesso e cabeamento estruturado. Conceitos sobre cabeamento
+estruturado. Subsistemas do cabeamento estruturado. Desempenho do cabeamento estruturado.
+Introdução aos meios de transmissão óptica. Redes WDM/DWDM: anéis ópticos; técnicas de
+proteção e restauração; "BLSR"; "UPSR"; MUX/DEMUX. Redes totalmente ópticas utilizando Optical
+Packet Switching (OPS) ou Optical Burst Switching (OBS). Operação, monitoramento e manutenção
+de redes ópticas. Redes ópticas passivas (PON).
+                                     BIBLIOGRAFIA BÁSICA
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes, Web e Aplicações. 4. ed. Porto Alegre: Bookman, 2007.
+SOARES, L. F. G.; LEMOS, G.; COLCHER, S. Redes de Computadores: Das LANs, MANs e WANs
+às Redes ATM. 2. ed. Rio de Janeiro: Elsevier, 1999.
+TANENBAUM, A. S. Redes de Computadores. 4. ed. Rio de Janeiro: Elsevier, 2003.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BURGESS, M. Princípios da Administração de Redes e Sistemas. 2. ed. Rio de Janeiro: LTC,
+2006.
+FERREIRA, R. E. Linux: Guia do Administrador do Sistema. São Paulo: Novatec, 2003.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  30 horas 30 horas     -
+                    Instalação e Configuração de Servidores de
+      OPT58                                                                CRÉDITOS
+                                       Redes
+                                                                               4
+PRÉ-REQUISITOS Projeto e Administração de Redes (TEC29)
+                                        EMENTA
+Arquitetura cliente/servidor. Administração de grupos e contas de usuários em um domínio. Criação e
+utilização de scripts de logon de usuários. Serviços de resolução de nomes. Serviços web e FTP.
+Serviços de configuração dinâmica de endereços. Serviços de acesso remoto. Sistemas de arquivos
+em redes. Auditoria de eventos e servidores de logs.
+                                     BIBLIOGRAFIA BÁSICA
+COMER, D. E. Redes de Computadores e Internet: Abrange Transmissão de Dados, Ligação Inter-
+redes, Web e Aplicações. 4. ed. Porto Alegre: Bookman, 2007.
+BURGESS, M. Princípios da Administração de Redes e Sistemas. 2. ed. Rio de Janeiro: LTC,
+2006.
+FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. Porto Alegre: Bookman,
+2008.
+
+
+
+Projeto Pedagógico de Curso                                                                    112
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                               BIBLIOGRAFIA COMPLEMENTAR
+FERREIRA, R. E. Linux: Guia do Administrador do Sistema. São Paulo: Novatec, 2003.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: Uma Nova Abordagem. Rio de
+Janeiro: A. Wesley, 2004.
+MORIMOTO, C. E. Linux: Ferramentas Técnicas. 2. ed. ampl. atual. Porto Alegre: Sul, 2005.
+
+
+
+   COMPONENTES CURRICULARES OPTATIVOS DO PERFIL DE GESTÃO E
+                                   GOVERNANÇA DE TI
+
+                                                                       CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 15 horas 45 horas     -
+      OPT59                   Inteligência do Negócio                     CRÉDITOS
+                                                                              4
+PRÉ-REQUISITOS Banco de Dados II (TEC28)
+                                      EMENTA
+Introdução a descoberta de informação em bases de dados. Aplicações potenciais. O processo de
+descoberta do conhecimento. Data mining. Tarefas de mineração de dados: classificação,
+agrupamento (clustering) e regras de associação. Avaliação dos resultados obtidos. Aplicações em
+mineração de textos e Web Mining. Visualização de dados em dashboard.
+                                    BIBLIOGRAFIA BÁSICA
+GOLDSCHMIDT, R; PASSOS, E. Data Mining: Um Guia Prático - Conceitos, Técnicas, Ferramentas,
+Orientações e Aplicações. Rio de Janeiro: Campus, 2005.
+HAN, J; KAMBER, M. Data Mining: Concepts and Techniques. 2.ed. San Francisco, CA: Morgan
+Kaufmann, 2006.
+TAN, P-N; STEINBACH, M; KUMAR, V. Introdução ao Data Mining. Rio de Janeiro: Ciência
+Moderna, 2009.
+WITTEN, I. H; FRANK, E. Data Mining: Practical Machine Learning Tools and Techniques. 2.ed. San
+Francisco, CA: Morgan Kaufmann, 2005.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BRAGHITTONI, R. Business Intelligence: Implementar do Jeito Certo e a Custo Zero. São Paulo:
+Casa do Código, 2017.
+KNAFLIC, C. N. Storytelling com Dados: Um Guia sobre Visualização de Dados para Profissionais
+de Negócios. 2.ed. Alta Books, 2019.
+LAGO, K; ALVES, L. Dominando o Power BI. 4.ed. São Paulo: Editora DataB, 2022.
+PROVOST, F; FAWCETT, T. Data Science para Negócios: O que Você precisa saber sobre
+Mineração de Dados e Pensamento Analítico de Dados. Alta Books, 2016.
+
+
+
+
+Projeto Pedagógico de Curso                                                                  113
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                                                CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                          Teórica   Prática Extensão
+                                                          45 horas 15 horas        -
+     OPT60               Auditoria de Sistemas                     CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Segurança da Informação (TEC37) e Gestão e Governança de TI (TEC47)
+                                       EMENTA
+Padrões internacionais de segurança em TI. Conceito e objetivos da auditoria. Técnicas de auditoria.
+ISO 19011. Padrões internacionais de auditoria. Grau de adesão às normas de TI vigentes.
+                                     BIBLIOGRAFIA BÁSICA
+CASTRO, C. R. A. Crimes de Informática e seus Aspectos Processuais. 2. ed., rev., ampl. e atual.
+Rio de Janeiro: Lumen Juris, 2003.
+FURTADO, W.; FURTADO, C. S. Dos Contratos e Obrigações de Software. São Paulo: Iglu, 2004.
+LAHTI, C.; PETERSON, R. Sarbanes-Oxley: Conformidade de TI usando COBIT. Rio de Janeiro:
+Alta Books, 2006.
+SÊMOLA, M. Gestão da Segurança da Informação: Uma Visão Executiva. Rio de Janeiro: Elsevier,
+2003.
+                                BIBLIOGRAFIA COMPLEMENTAR
+ALBUQUERQUE, R. C. A Propriedade Informática. Campinas, Russell, 2006.
+JESUS, D.; MILAGRE, J. A. Marco Civil da Internet: Comentários à Lei n. 12.965/14. São Paulo:
+Saraiva, 2014.
+MARQUES, G.; MARTINS, L. Direito da Informática. 2. ed. São Paulo: Almedina, 2006.
+NOGUEIRA, S. A. Crimes de Informática. 2. ed. Campinas, SP, BH, 2009.
+SARLET, I. W (org.). Direitos Fundamentais, Informática e Comunicação: Algumas Aproximações.
+Porto Alegre: Livraria do Advogado, 2007.
+SYDOW, S. T. Crimes Informáticos e suas Vítimas. 2. ed. São Paulo: Saraiva, 2015 (Coleção
+Saberes Monográficos).
+
+
+                                                                        CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                  Teórica   Prática Extensão
+                                                                  60 horas     -        -
+      OPT61               Gestão Estratégica Aplicada a TI                 CRÉDITOS
+                                                                               4
+PRÉ-REQUISITOS Organização, Sistemas e Métodos (COM18)
+                                       EMENTA
+Conceitos e práticas da gestão estratégica. Alinhamento estratégico de TI. Planejamento estratégico:
+diagnóstico; visão; negócio; missão; princípios e objetivos; papel das competências essenciais na
+gestão de pessoas e processos. Indicadores de controle. Balanced ScoreCard (BSC).
+                                     BIBLIOGRAFIA BÁSICA
+CAVALCANTI. M. (org.). Gestão Estratégica de Negócios: Evolução, Cenários, Diagnósticos e
+Ação. 2. ed. rev. e ampl. São Paulo: Cengage Learning, 2007.
+CERTO, S. C. et. al. Administração Estratégica: Planejamento e Implantação de Estratégias. 3. ed.
+São Paulo: Pearson Education do Brasil, 2010.
+
+
+Projeto Pedagógico de Curso                                                                     114
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+OLIVEIRA, D. P. R. Planejamento Estratégico: Conceitos, Metodologia e Prática. 34. ed. São Paulo:
+Atlas, 2018.
+                               BIBLIOGRAFIA COMPLEMENTAR
+ANSOFF, H. I. Implantando a Administração Estratégica. 2. ed. São Paulo: Atlas, 1993.
+BETHLEM, A. S. Estratégia Empresarial: Conceitos, Processo e Administração Estratégica. 4. ed.
+São Paulo: Atlas, 2002.
+DORNELAS, J. C. A. Empreendedorismo: Transformando Ideias em Negócios. 4. ed. Rio de
+Janeiro: Campus, 2012.
+MATOS, F. G. Estratégia de Empresa. São Paulo: Makron Books, 1993.
+ROSA, J. A. Planejamento Estratégico: Roteiro, Instrução e Formulários. São Paulo: STS, 2001.
+
+
+                                                                      CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                Teórica   Prática Extensão
+                                                                60 horas     -        -
+      OPT62                   Gestão Ágil de Projetos                    CRÉDITOS
+                                                                             4
+PRÉ-REQUISITOS Engenharia de Software (TEC35)
+                                       EMENTA
+Fundamentos de agilidade. Mindset Ágil. SCRUM. KAMBAM. Organização de times ágeis.
+Desenvolvimento ágil. Design Thinking. LEAN.
+                                    BIBLIOGRAFIA BÁSICA
+KNIBERG, H. Scrum e XP Direto das Trincheiras. [S. l.]: C4Media, 2007. Disponível em:
+https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches.
+KNIBERG, H.; SKARIN, M. K. Scrum: Obtendo o Melhor de Ambos. [S. l.]: C4Media, 2009.
+Disponível em: https://www.infoq.com/br/minibooks/kanban-scrum-minibook.
+PRIKLADNICKI, R.; WILLI, R.; MILANI, F. (org.). Métodos Ágeis para Desenvolvimento de
+Software. Porto Alegre: Bookman, 2014.
+                               BIBLIOGRAFIA COMPLEMENTAR
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+VALENTE, M. T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de
+Software com Produtividade. [S. l.: s. n.], 2020. Disponível em: https://engsoftmoderna.info.
+
+
+                                                               CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                         Teórica   Prática Extensão
+                                                         15 horas 45 horas     -
+     OPT63            Língua Brasileira de Sinais                 CRÉDITOS
+                                                                      4
+PRÉ-REQUISITOS Fundamentos de Sistemas de Informação (CCO03)
+                                       EMENTA
+Fundamentações teóricas: legislação; evolução histórica; contextos da educação inclusiva. Cultura
+
+
+Projeto Pedagógico de Curso                                                                     115
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+surda: surdo e surdez; cultura e comunidade surda. Noções da linguística aplicada à Língua
+Brasileira de Sinais (LIBRAS); Aquisição da LIBRAS a nível básico.
+                                 BIBLIOGRAFIA BÁSICA
+A critério do docente
+                              BIBLIOGRAFIA COMPLEMENTAR
+A critério do docente

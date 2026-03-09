@@ -1,0 +1,6 @@
+ementa_calculo
+
+Cálculo Diferencial Aplicado à Computação
+PRÉ-REQUISITOS Matemática Discreta I (MAT04)
+EMENTA: Limites e continuidade de funções. Diferenciação de funções. Formas indeterminadas: Regra de L’Hospital. Aplicações da derivada: máximos e mínimos de funções. Funções transcendentes elementares. Esboço de curvas. Aplicações da derivada em soluções computacionais.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

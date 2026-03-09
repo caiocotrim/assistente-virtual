@@ -1,0 +1,29 @@
+ementa_osm
+
+CÓDIGO              COMPONENTE CURRICULAR
+                                                                Teórica   Prática Extensão
+                                                                60 horas     -        -
+     COM18              Organização, Sistemas e Métodos                  CRÉDITOS
+                                                                             4
+PRÉ-REQUISITOS Administração (COM24)
+                                           EMENTA
+Conceitos, fundamentos, objetivos e importância da Organização, Sistemas e Métodos. Processo de
+organização e reorganização da estrutura administrativa. Métodos de trabalho. Certificações da
+qualidade e padronização. Distribuição, sequência e ferramentas de mapeamento e melhoria de
+processos do negócio. Estudos de novas tendências tecnológicas para a organização do trabalho.
+                                    BIBLIOGRAFIA BÁSICA
+BALLESTERO-ALVAREZ, M. E. Manual de Organização, Sistemas e Métodos: Abordagem Teórica
+e Prática da Engenharia da Informação. 6. ed. São Paulo: Atlas, 2015.
+CRUZ, T. Sistemas, Organizações e Métodos: Estudo Integrado das Novas Tecnologias da
+Informação. São Paulo: Atlas, 2002.
+OLIVEIRA, D. P. R. Sistemas, Organização e Métodos: Uma Abordagem Gerencial. 21. ed. São
+Paulo: Atlas, 2013.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CURY, A. Organização & Métodos: Uma Visão Holística. 8. ed. São Paulo: Atlas, 2010.
+SIMCSIK, T. OMIS: Organização, Métodos, Informação e Sistemas. São Paulo: Makron Books,1992.
+SIMCSIK, T. OSM: Organização, Sistemas e Métodos. São Paulo: Futura, 2001.
+D`ASCENSÃO, L. C. M. Organização, Sistemas e Métodos: Análise, Redesenho e Informatização
+de Processos Administrativos. São Paulo: Atlas, 2001.
+
+
+professor: professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

@@ -1,0 +1,6 @@
+ementa_oac
+
+Organização e Arquitetura de Computadores
+PRÉ-REQUISITOS Nenhum
+EMENTA: Arquiteturas RISC e CISC. Organização de computadores. Linguagens de montagem. Modos de endereçamento. Interrupção e exceção. Desempenho. Barramento, comunicações, interfaces e periféricos. Hierarquia de memória. Pipeline. Processadores superescalares e superpipeline. Multiprocessadores. Arquiteturas paralelas e não convencionais.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

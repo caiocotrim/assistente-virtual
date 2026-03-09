@@ -1,0 +1,6 @@
+ementa_algoritmosprogramacao
+
+Algoritmos e Programação 
+Pré-Requisitos: Nenhum
+Ementa: Soluções de problemas usando o computador. Algoritmos: pseudocódigo e fluxogramas. Introdução a uma linguagem de programação: variáveis, tipos de dados; entrada e saída de dados. Operadores e expressões. Comandos de decisão e repetição. Agregados de dados homogêneos. Escopo. Subprogramas. Boas práticas de programação.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

@@ -1,0 +1,20 @@
+ementa_gestao
+
+CÓDIGO                COMPONENTE CURRICULAR
+                                                         Teórica     Prática Extensão
+                                                         60 horas       -          -
+     TEC38                 Gestão de Projetos                      CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Administração (COM12) e Processo de Desenvolvimento de Software (TEC26)
+                                      EMENTA
+O conceito e os objetivos do gerenciamento de projetos. Partes Interessadas do projeto. Ciclo de
+vida do projeto. Responsabilidades do gerente de projetos. Iniciação do projeto. Planejamento de um
+projeto. Execução, Monitoramento e controle de um projeto. Encerramento de um projeto.
+Metodologias, técnicas e ferramentas da gerência de projetos.
+                                      BIBLIOGRAFIA BÁSICA
+CLELAND, D. I.; IRELAND, L. R. Gerenciamento de Projetos. 2. ed. Rio de Janeiro: LTC, 2012.
+STONNER, R. Ferramentas de Planejamento: Utilizando o MS Project para Gerenciar
+Empreendimentos. Rio de Janeiro: E-papers, c2001.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VI (na matriz de 2023) e VII (na matriz de 2017)

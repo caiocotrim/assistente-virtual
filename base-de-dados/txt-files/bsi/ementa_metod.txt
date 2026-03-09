@@ -1,0 +1,29 @@
+ementa_metod
+ CÓDIGO                COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+     COM19               Metodologia da Pesquisa Científica                 CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Nenhum
+                                             EMENTA
+Introdução aos conceitos básicos da metodologia científica e das principais linhas de pensamento
+epistemológico. Tipos de conhecimento. A investigação científica: lógica, linguagem e método.
+Métodos científicos. Disciplinaridade. Processos e técnicas de elaboração do trabalho científico:
+fichamento, resumo e resenha crítica. Estudos de caso: seminário, relatório de pesquisa, projeto de
+pesquisa, monografia e artigo. Normas da ABNT: citações, bibliografia e referências.
+                                     BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport , 2004.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6 ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                                BIBLIOGRAFIA COMPLEMENTAR
+COSTA, M. A. F. Metodologia da Pesquisa: Conceitos e Técnicas. 2. ed. Rio de Janeiro:
+Interciência, 2009.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+OTANI, N.; FIALHO, F. A. P. TCC: Métodos e Técnicas. 2. ed. Florianópolis: Visual Books, 2011.
+RUIZ, J. A. Metodologia Científica: Guia para Eficiência nos Estudos. 6. ed. São Paulo: Atlas, 2009.
+SPECTOR, N. Manual para a Redação de Teses, Projetos de Pesquisa e Artigos Científicos. 2.
+ed. Rio de Janeiro: Guanabara Koogan, 2001.
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

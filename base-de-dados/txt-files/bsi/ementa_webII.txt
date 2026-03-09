@@ -1,0 +1,33 @@
+ementa_webII
+
+CÓDIGO              COMPONENTE CURRICULAR
+                                                         Teórica    Prática Extensão
+                                                        15 horas 45 horas       -
+     TEC30                Programação Web II                      CRÉDITOS
+                                                                       4
+PRÉ-REQUISITOS Banco de Dados I (TEC21) e Programação Web I (TEC23)
+                                      EMENTA
+Linguagens de programação para back-end web. Persistência, validação e segurança de dados.
+Formatos para estruturação e intercâmbio de dados. Contêineres web. Frameworks para back-end.
+                                   BIBLIOGRAFIA BÁSICA
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+NETO, W. Construindo APIs Testáveis com Node.js. [S. l.: s. n.], 2020. Disponível em:
+https://leanpub.com/construindo-apis-testaveis-com-nodejs.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+                              BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+HENRIQUE, J. MERN: Criando Sua Primeira Aplicação (M)ongodb, (E)xpress, (R)eact E (N)ode. [S.
+l.]: DevDelivery, 2020. Disponível em: https://leanpub.com/criandosuaprimeiraaplicaomern.
+LANDUP, D.; SANATAN, M. How To Code in Node.js. New York: DigitalOcean, 2020. Disponível em:
+https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook.
+MORRISON, M. Use a Cabeça!: JavaScript. Rio de Janeiro: Alta Books, 2008.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+
+
+
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: V

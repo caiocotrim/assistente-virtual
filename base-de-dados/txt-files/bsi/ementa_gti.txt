@@ -1,0 +1,41 @@
+ementa_gti
+
+ GESTÃO E GOVERNANÇA DE TI
+ CÓDIGO
+ : TEC43
+ Pré-requisitos:
+ CCO03-Fundamentos de Sistemas de Informação e COM18
+Organizações, Sistemas e Métodos
+ Semestre: VII Carga Horária: 60h Créditos: 4
+ Ementa:   
+Alinhamento estratégico entre tecnologia da informação e negócios. Planejamento
+ estratégico de sistemas de informação. Governança Corporativa. Governança de TI e
+ Gerenciamento de Serviços de TI. Frameworks de Governança e Gestão de TI.
+ Metodologias de aferição e gestão de desempenho. 
+Bibliografia:
+ Básica:
+ MAGALHÃES, I.L.; PINHEIRO, W.B. Gerenciamento de serviços de TI na prática. Uma
+ abordagem com base na ITIL. São Paulo: Novatec, 2007.
+ MOLINARO, L.F.R.; RAMOS, K.H.C. Gestão de Tecnologia da Informação - Governança
+ de Ti - Arquitetura e Alinhamento entre Sistemas de Informação e o Negócio. LTC, 2011.
+ ISACA. COBIT 4.1 FrameWork. Disponível em: <http://www.isaca.org/Knowledge
+Center/cobit/Pages/Downloads.aspx>. ITGI, 2012. 
+Complementar:
+ ISACA. COBIT 5. A Business Framework for the Governance and Management of
+ Enterprise IT. Disponível em: <http://www.isaca.org/COBIT/Pages/COBIT-5-Framework
+product-page.aspx>. ISBN 978-1-60420-237-3. ITGI, 2012.
+ KYRIAZOGLOU, J. IT-Business Alignment: Part I. Effectively aligning IT Systems to your
+ Business Operations. Disponível em: < http://bookboon.com/en/it-business-alignment
+part-i-ebook>. ISBN 978-87-403-0299-8 , Bookboon, 2012.
+ KYRIAZOGLOU, J. IT-Business Alignment: Part II. Effectively aligning IT Systems to your
+ Business Operations. Disponível em: < http://bookboon.com/en/it-business-alignment
+part-ii-ebook>. ISBN 978-87-403-0300-1, Bookboon, 2012.
+ MCKEAN, D. IT Management. Projects, programs and business change. Disponível em:
+ < http://bookboon.com/en/it-management-projects-programs-ebook>.  ISBN 978-87-403
+0173-1, Bookboon, 2012.
+ BENSON , V.; DAVIS, K. Business Information Management. Disponível em:
+ <http://bookboon.com/en/trends-in-business-information-management-ebook>. ISBN 978
+87-7681-413-7, Bookboon, 2008
+                                                   
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: VII (na matriz de 2017) e VIII (na matriz de 2023)

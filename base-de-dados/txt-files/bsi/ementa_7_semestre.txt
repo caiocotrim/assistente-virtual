@@ -1,0 +1,219 @@
+ementa_7_semestre
+
+CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+     COMPONENTES CURRICULARES OBRIGATÓRIOS DO VII SEMESTRE
+
+                                                               CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                         Teórica   Prática Extensão
+                                                         15 horas 45 horas       -
+     TEC40       Desenvolvimento Distribuído na Internet          CRÉDITOS
+                                                                      4
+               Processo de Desenvolvimento de Software (TEC26) e Sistemas Distribuídos
+PRÉ-REQUISITOS
+               (TEC36)
+                                       EMENTA
+Conceitos e princípios relacionados ao desenvolvimento de aplicações distribuídas em internet.
+Arquitetura orientada a Serviços (SOA). Serviços Web e composição de Serviços Web. Comunicação
+entre serviços. Linguagens usadas para desenvolvimento distribuído. Processos, arquiteturas e
+padrões para sistemas distribuídos na Internet.
+                                    BIBLIOGRAFIA BÁSICA
+ERL, T. SOA: Princípios do Design de Serviços. São Paulo: Pearson Prentice Hall, 2009.
+KUMAR, B. V.; NARAYAN P.; NG, T. Implementando SOA usando JAVA EE. Rio de Janeiro: Alta
+Books, 2012.
+MARZULLO, F. P. SOA na Prática: Inovando seu Negócio por meio de Soluções Orientadas a
+Serviços. Rio de Janeiro: Novatec, 2009.
+RICHARDSON, L.; RUBY, S. RESTful Serviços Web. Rio de Janeiro: Alta Book, 2007.
+                               BIBLIOGRAFIA COMPLEMENTAR
+BRAUDE, E. J. Projeto de Software: Da Programação à Arquitetura: Uma Abordagem baseada em
+Java. Porto Alegre: Bookman, 2005.
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 8. ed. São Paulo: Pearson Education do Brasil,
+2011.
+HICKSON, R. S. H. Projeto de Sistemas Web orientados a Interface. Rio de Janeiro: Campus;
+Elsevier, 2003.
+HURWITZ, J. et. al. Arquitetura Orientada a Serviços - SOA: Para Leigos. 2. ed. Rio de Janeiro:
+Alta Books, 2009.
+TRAN, K. T. Introduction to Web Services with Java. [S. I.]: Bookboon, 2013. Disponível em:
+https://bookboon.com/en/introduction-to-web-services-with-java-ebook
+
+
+                                                                       CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 60 horas     -        -
+      TEC41                   Qualidade de Software                       CRÉDITOS
+                                                                              4
+PRÉ-REQUISITOS
+                                            EMENTA
+O conceito de qualidade de software. Qualidade do produto e do processo de software. Métricas de
+qualidade de software. Normas de qualidade de software. Técnicas de garantia da qualidade de
+software. Verificação e validação. Estratégias, técnicas e implementação de teste de software.
+Modelos de melhoria do processo de software. Planejamento de sistemas de qualidade.
+
+
+
+Projeto Pedagógico de Curso                                                                  100
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                     BIBLIOGRAFIA BÁSICA
+GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.
+PAULA FILHO, W. P. Engenharia de Software: Fundamentos, Métodos e Padrões. 3. ed. Rio de
+Janeiro: LTC, 2009.
+PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre:
+McGraw Hill, 2011.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CARVALHO, A. M. B. R.; CHIOSSI, T. C. S. Introdução a Engenharia de Software. Campinas, SP:
+UNICAMP, 2001.
+PÁDUA, W. Engenharia de Software. 3. ed. Rio de Janeiro: LTC, 2009.
+PFLEEGER, S. L. Engenharia de Software: Teoria e Prática. 2. ed. São Paulo: Pearson Prentice
+Hall, 2004.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+REZENDE, D. A. Engenharia de Software e Sistemas de Informação. 3. ed. Rio de Janeiro:
+Brasport, 2005.
+VALENTE, M. T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de
+Software com Produtividade. [S. l.: s. n.], 2020. Disponível em: https://engsoftmoderna.info.
+
+
+                                                                       CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                 Teórica   Prática Extensão
+                                                                 30 horas     -        -
+      SUP42              Trabalho de Conclusão de Curso I                 CRÉDITOS
+                                                                              2
+PRÉ-REQUISITOS
+                                            EMENTA
+Busca de soluções, de forma independente, para uma situação-problema preestabelecida,
+contextualizada na área de Sistemas de Informação e compatível com as competências gerais e
+específicas que deverão ser desenvolvidas. Estrutura e organização de um trabalho de pesquisa.
+Construção dos instrumentos de pesquisa. Construção do projeto de pesquisa: a pergunta condutora,
+a delimitação do problema, a hipótese, os objetivos e o embasamento teórico, metodológico e
+empírico. Apresentação do projeto a uma banca avaliadora.
+                                     BIBLIOGRAFIA BÁSICA
+BOENTE, A.; BRAGA, G. Metodologia Científica Contemporânea para Universitários e
+Pesquisadores. Rio de Janeiro: Brasport, 2004.
+GIL, A. C. Como Elaborar Projetos de Pesquisa. 5. ed. São Paulo: Atlas, 2010.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de Metodologia Científica. 6. ed. São Paulo:
+Atlas, 2005.
+WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. 2. ed. Rio de
+Janeiro: Elsevier: 2009.
+                               BIBLIOGRAFIA COMPLEMENTAR
+OTANI, N.; FIALHO, F. A. P. TCC: Métodos e Técnicas. Florianópolis: Visual Books, 2011.
+SPECTOR, N. Manual para a Redação de Teses, Projetos de Pesquisa e Artigos Científicos. 2.
+ed. Rio de Janeiro: Guanabara Koogan, 2001.
+
+
+
+Projeto Pedagógico de Curso                                                                  101
+                  CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+RUIZ, J. A. Metodologia Científica: Guia para Eficiência nos Estudos. 6. ed. São Paulo: Atlas, 2009.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   30 horas 30 horas     -
+      TEC43                   Interface Homem-Máquina                       CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Engenharia de Software (TEC35)
+                                       EMENTA
+Os conceitos de interação e interface homem-máquina. Fundamentos de interface de interação
+homem-máquina. Estilos de interação homem-máquina. Processos, arquiteturas e padrões para
+interfaces de homem-máquina. Metodologias, técnicas e avaliação de interfaces. Metodologias,
+técnicas e ferramentas de concepção, projeto e implementação de sistemas interativos.
+                                     BIBLIOGRAFIA BÁSICA
+BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-computador. Rio de Janeiro: Elsevier
+Campus, 2010. (Série SBC, Sociedade Brasileira de Computação).
+ORTH, A. I. Interface Homem-máquina. Porto Alegre: AIO, 2005.
+ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação: Além da Interação Humano-
+Computador. 3. ed. Bookman. 2013.
+                                BIBLIOGRAFIA COMPLEMENTAR
+ALVES, F. J. Introdução à Linguagem de Programação Python. Rio de Janeiro: Ciência Moderna,
+2013.
+MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de Programação
+para Iniciantes. 3. ed. rev. e ampl. São Paulo: Novatec, 2020.
+ROCHA, H. V; BARANAUSKAS, M. C. Design e Avaliação de Interfaces Humano-computador.
+Campinas, SP: Unicamp, 2003.
+SMITH, B. JSON Básico: Conheça o Formato de Dados Preferido da Web. São Paulo: Novatec,
+2015.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                   60 horas     -        -
+      TEC44                 Sistemas de Apoio à Decisão                     CRÉDITOS
+                                                                                4
+PRÉ-REQUISITOS Gestão de Projetos (TEC38)
+                                      EMENTA
+Dados, informação e conhecimento. O processo decisório nas organizações. Sistemas de
+Informação: Sistemas OLTP (Online Transaction Processing) e Sistemas de Apoio à Gestão.
+Características e funcionalidades de sistemas de informação de nível tático e estratégico nas
+organizações. Data Warehouse, Data Marts. Data Mining e Online Analytical Processing (OLAP).
+Conceitos e tendências em tecnologias emergentes para Sistemas de Apoio à Decisão.
+
+
+
+
+Projeto Pedagógico de Curso                                                                      102
+                 CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+                                     BIBLIOGRAFIA BÁSICA
+GOLDSCHMIDT, R. Data Mining: Conceitos, Técnicas, Algoritmos, Orientações e Aplicações. 2. ed.
+Rio de Janeiro: Elsevier, 2015.
+MACHADO, F. N. R. Tecnologia e Projeto de Data Warehouse: Uma Visão Multidimensional. 6. ed.
+São Paulo: Érica: Saraiva, 2013.
+STAIR, R. M.; REYNOLDS, G. W. Princípios de Sistemas de Informação. 9. ed. São Paulo:
+Cengage Learning, 2011.
+                                BIBLIOGRAFIA COMPLEMENTAR
+AVERWEG, U. R. F. Decision-making Support Systems: Theory & Practice. Bookboon, 2012.
+Disponível em: http://bookboon.com/en/decision-making-support-systems-ebook.
+DATE, C. J. Introdução a Sistema de Bancos de Dados. 7. ed. Rio de Janeiro: Campus, 2000.
+FACELI, K. et al. Inteligência Artificial: Uma abordagem de Aprendizado de Máquina. Rio de
+Janeiro: LTC, 2015.
+SILBERSCHATZ, A.; KORT, H. F.; SUDARSHAN, S. Sistema de Banco de Dados. São Paulo:
+Pearson, 1999.
+TAN, P.; STEINBACH, M.; KUMAR, V. Introdução ao Data Mining: Mineração de Dados. Rio de
+Janeiro: Ciência Moderna, 2009.
+
+
+                                                                         CARGA HORÁRIA
+     CÓDIGO               COMPONENTE CURRICULAR
+                                                                   Teórica   Prática Extensão
+                                                                      -         -    75 horas
+      EXT45            Atividades Curriculares de Extensão IV              CRÉDITOS
+                                                                                5
+PRÉ-REQUISITOS Atividades Curriculares de Extensão III (EXT39)
+                                         EMENTA
+Ações de extensão baseadas em perfil de egresso do curso e articuladas com o arranjo local, a
+exemplo de projetos, eventos, oficinas, workshops, videoaulas e atividades de prestação de serviços.
+A escolha das ações deverá considerar, entre outros aspectos, necessidades da comunidade externa
+envolvida, o contexto de execução das atividades previstas e a disponibilidade de recursos
+existentes.
+                                     BIBLIOGRAFIA BÁSICA
+CONSELHO NACIONAL DAS INSTITUIÇÕES FEDERAIS DE EDUCAÇÃO PROFISSIONAL,
+CIENTÍFICA E TECNOLÓGICA. Extensão Tecnológica: Rede Federal de Educação Profissional,
+Científica e Tecnológica. Cuiabá (MT): CONIF/IFMT, 2013.
+DEUS, S. Extensão Universitária: Trajetórias e Desafios. Santa Maria, RS: Ed. PRE-UFSM, 2020.
+LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional.
+Santa Maria, RS: FACOS-UFSM, 2022.
+                                BIBLIOGRAFIA COMPLEMENTAR
+CORRÊA, E. J. (org.). Extensão Universitária: Organização e Sistematização. Belo Horizonte:
+Coopmed, 2007.
+CRISOSTIMO, A. L.; SILVEIRA, R. M. C. F. (org.). A EXTENSÃO Universitária e a Produção do
+Conhecimento: Caminhos e Intencionalidades. Guarapuava: Ed. da Unicentro, 2017.
+MELO, J. F. Extensão Popular. 2.ed. João Pessoa: Editora da UFPB, 2014.
+SÍVERES, S. (org.). A Extensão Universitária como um Princípio de Aprendizagem. Brasília:
+
+
+Projeto Pedagógico de Curso                                                                     103
+                     CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+
+
+Liber Livro, 2013.

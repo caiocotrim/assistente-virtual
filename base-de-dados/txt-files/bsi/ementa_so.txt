@@ -1,0 +1,32 @@
+ementa_so
+
+CÓDIGO                COMPONENTE CURRICULAR
+                                                           Teórica   Prática Extensão
+                                                           60 horas     -        -
+     TEC15               Sistemas Operacionais                      CRÉDITOS
+                                                                        4
+PRÉ-REQUISITOS Organização e Arquitetura de Computadores (CCO08)
+                                        EMENTA
+Definições e organização interna. Gerência de processos: conceito, sincronização e comunicação,
+escalonamento e threads. Gerência da memória: conceito, partição, paginação e segmentação.
+Sistemas de arquivos. Gerência de dispositivos de E/S: conceito, tratamento de interrupção, device
+drivers e interfaces com usuário. Estudos de caso.
+                                      BIBLIOGRAFIA BÁSICA
+DEITEL, H. M.; DEITEL, P. J.; CHOFFNES, D. R. Sistemas Operacionais. São Paulo: Prentice Hall,
+2005.
+MACHADO, F. B.; MAIA, L. P. Arquitetura de Sistemas Operacionais. 5. ed. São Paulo: LTC, 2013.
+TANENBAUM, A. Sistemas Operacionais Modernos. 2. ed. São Paulo: Prentice Hall, 2003.
+                                BIBLIOGRAFIA COMPLEMENTAR
+FLYNN, I. M.; MCHOES, A. M. Introdução aos Sistemas Operacionais. São Paulo: Cengage
+Learning, 2008.
+MAZIERO, C. A. Sistemas Operacionais: Conceitos e Mecanismos. Curitiba: Departamento de
+Informática, UFPR, 2019. Disponível em: http://dainf.ct.utfpr.edu.br/~maziero/lib/exe/fetch.php/so:so-
+livro.pdf
+OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. S. Sistemas Operacionais e Programação
+Concorrente. Porto Alegre: Sagra Luzzatto, 2003.
+SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G. Sistemas Operacionais com Java: Conceitos e
+Aplicações. Rio de Janeiro: Elsevier, 2016.
+TANENBAUM, A. S.; WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3. ed.
+Porto Alegre: Bookman, 2008.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.

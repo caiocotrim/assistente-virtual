@@ -1,0 +1,22 @@
+ementa_webI 
+
+CÓDIGO              COMPONENTE CURRICULAR
+                                                               Teórica   Prática Extensão
+                                                               15 horas 45 horas     -
+      TEC23                     Programação Web I                       CRÉDITOS
+                                                                            4
+PRÉ-REQUISITOS Linguagem de Programação II (CCO13)
+                                     EMENTA
+Especificações e tecnologias voltadas para estruturação e apresentação de conteúdo de páginas
+web. Manipulação, tratamento e validação de conteúdo de páginas web. Design responsivo.
+Frameworks para front-end.
+                                    BIBLIOGRAFIA BÁSICA
+SANDERS, B. Smashing HTML5: Técnicas para a nova Geração da Web. Porto Alegre: Bookman,
+2012.
+SILVA, M. S. Fundamentos de HTML5 e CSS3. São Paulo: Novatec, 2015.
+SILVA, M. S. JavaScript: Guia do Programador. São Paulo: Novatec, 2010.
+                               BIBLIOGRAFIA COMPLEMENTAR
+CROWTHER, R. HTML5: Em Ação. São Paulo: Novatec, 2014.
+
+professor: mudança de professor em todas as matérias é algo bastante volátil que pode mudar todo semestre e a qualquer momento, sendo assim não temos a informação de quem é o professor da matéria no momento.
+semestre: IV (na matriz de 2023) e V (na matriz de 2017)
