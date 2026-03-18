@@ -1,77 +1,150 @@
-# Documentação – Assistente Virtual  
-## Versão 1.2
+## Documentação – Assistente Virtual  
+## Versão 1.3
+A versão 1.3 representa uma evolução estrutural da arquitetura desenvolvida na versão 1.2, introduzindo melhorias importantes no processo de recuperação de informações e no monitoramento do funcionamento do sistema.
 
-## 1. Sobre a Versão 1.2
-Esta é a terceira versão desenvolvida do Assistente Virtual e representa uma evolução significativa em relação à versão 1.1.  
-Enquanto a versão anterior realizava o reconhecimento do curso por meio de regras fixas e verificações manuais de palavras-chave, a **versão 1.2 introduz o uso de um modelo de linguagem (LLM) para realizar a classificação semântica da pergunta do usuário**, tornando o sistema mais inteligente, flexível e escalável.
+Enquanto a versão anterior já utilizava um modelo de linguagem (LLM) para classificar semanticamente a pergunta do usuário e selecionar a base de dados correta, a **versão 1.3 introduz técnicas adicionais para melhorar a qualidade da recuperação de informações e permitir o acompanhamento do comportamento do sistema durante sua utilização.**
 
-Nesta versão, o próprio LLM é responsável por interpretar a mensagem do usuário e identificar a qual curso ela se refere (ou se trata de uma pergunta geral). A partir dessa classificação, o assistente seleciona automaticamente a base de dados correta para realizar a busca semântica, reduzindo ambiguidades e melhorando a precisão das respostas.
+Entre as principais melhorias implementadas nesta versão destacam-se:
+- **Segmentação de documentos (chunking) utilizando `RecursiveCharacterTextSplitter`, permitindo que textos longos sejam divididos em partes menores e semanticamente mais relevantes para a busca vetorial**.
+- **Registro de logs das interações**, permitindo armazenar perguntas, respostas, documentos recuperados e o curso classificado.
+
+Essas melhorias tornam o sistema mais robusto, com uma maior transparência no funcionamento do sistema, possibilitando análise posterior das respostas geradas pelo modelo. Isso o torna mais próximo de arquiteturas utilizadas em aplicações reais de Retrieval-Augmented Generation (RAG). 
 
 ---
 
-## 2. Fluxo Geral do Projeto
-1. Usuário envia uma mensagem com sua dúvida.
-2. Um LLM classifica semanticamente a pergunta e identifica o curso relacionado (ou categoria geral).
+# 2. Fluxo Geral do Projeto
+
+O fluxo de funcionamento da versão 1.3 ocorre da seguinte forma:
+
+1. O usuário envia uma pergunta pela interface do chat.
+2. Um modelo de linguagem (LLM) classifica semanticamente a pergunta para identificar o curso relacionado.
 3. O sistema seleciona automaticamente o retriever correspondente ao curso identificado.
-4. O retriever busca documentos relevantes no FAISS da base selecionada.
-5. O prompt é preenchido com o contexto recuperado + pergunta do usuário.
-6. O LLM gera a resposta final.
-7. O Gradio exibe a resposta no navegador.
+4. O retriever realiza uma busca semântica no índice FAISS, recuperando os documentos mais relevantes.
+5. Os documentos recuperados são organizados e concatenados para formar o contexto da resposta.
+6. O contexto e a pergunta são enviados ao modelo de linguagem.
+7. O LLM gera a resposta final baseada nas informações recuperadas.
+8. A interação completa (pergunta, curso classificado, documentos recuperados e resposta) é registrada em um arquivo de log.
+9. A resposta é exibida ao usuário na interface do Gradio.
 
 ---
 
-## 3. Estrutura da Versão
+# 3. Estrutura da Versão
 
-### 3.1 Arquivos
+## 3.1 Arquivos
+
 Os principais arquivos presentes na versão são:
 - [**app.py**](app.py): Arquivo principal que contém toda a lógica do Assistente Virtual (explicado no [Tópico 4 – Desenvolvimento](#4-desenvolvimento)).
 
-### 3.2 Tecnologias Utilizadas
-O projeto faz uso de tecnologias voltadas a IA e processamento de linguagem natural:
+---
 
-- **Python**: Linguagem de programação utilizada para o desenvolvimento do projeto.
-- **LangChain**: Framework utilizado para estruturar a pipeline do Assistente Virtual, construção de prompts, integração com modelos de linguagem e encadeamento de tarefas.
-- **OpenAI API**: Plataforma que fornece o modelo de linguagem utilizado tanto para classificação de perguntas quanto para geração das respostas.
-- **FAISS**: Ferramenta de busca vetorial responsável por indexar e recuperar embeddings de forma eficiente.
-- **Gradio**: Biblioteca que permite criar interfaces simples para teste e interação com o assistente via navegador.
+## 3.2 Tecnologias Utilizadas
+
+O projeto utiliza tecnologias voltadas para Inteligência Artificial, Recuperação de Informação e Processamento de Linguagem Natural:
+
+- **Python**  
+  Linguagem de programação utilizada para desenvolver toda a lógica do projeto.
+
+- **LangChain**  
+  Framework utilizado para estruturar o pipeline de processamento do assistente virtual, incluindo criação de prompts, integração com modelos de linguagem e encadeamento de tarefas.
+
+- **OpenAI API**  
+  Utilizada para acessar modelos de linguagem responsáveis pela classificação das perguntas e geração das respostas.
+
+- **FAISS**  
+  Biblioteca de busca vetorial responsável por indexar e recuperar embeddings de forma eficiente.
+
+- **Gradio**  
+  Biblioteca utilizada para criar uma interface web simples que permite testar o assistente virtual diretamente no navegador.
+
+- **dotenv**  
+  Utilizado para carregar variáveis de ambiente, incluindo a chave da API da OpenAI.
 
 ---
 
-## 4. Desenvolvimento
-O desenvolvimento do projeto foi realizado através da linguagem de programação `Python` e do framework `LangChain`.
+# 4. Desenvolvimento
 
-### 4.1 app.py
-Este arquivo ([app.py](./app.py)) concentra todo o código-fonte da versão 1.2 e a lógica completa do funcionamento do Assistente Virtual.  
-A seguir será apresentada a explicação detalhada do código.
+O desenvolvimento do projeto foi realizado através da linguagem de programação `Python` e do framework `LangChain`, organizando o fluxo de processamento conforme a arquitetura Retrieval-Augmented Generation (RAG).
 
 ---
 
-### 4.1.1 Importação de bibliotecas
+# 4.1 app.py
+
+O arquivo [`app.py`](./app.py) contém toda a implementação da versão 1.3 do Assistente Virtual.
+
+A seguir é apresentada uma explicação detalhada das principais partes do código.
+
+---
+
+## 4.1.1 Importação de Bibliotecas
+
 ```python
 import gradio
+import json
 
 from dotenv import load_dotenv
+from datetime import datetime
 
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI
-
-load_dotenv()
 ```
+
+### Explicação
+
 *Explicação:* Como citado anteriormente, foi utilizado o framework `LangChain` para o desenvolvimento do projeto. Para isso, importamos do próprio framework três "módulos" diferentes, sendo eles: core, community e openai. 
 
 1. **langchain_core:** Classes e componentes fundamentais do framework. Desse módulo foi utilizado o `ChatPromptTemplate` (*responsável por definir um prompt padrão para ser utilizado ao entrar em contato com um modelo de IA*), e `RunnablePassthrough` (*responsável por permitir que a função receba o input no próximo passo*).
 
-2. **langchain_community:** Classes e componentes que foram desenvolvidos e mantidos pela comunidade opensource do framework. Desse módulo foi utilizado o `FAISS` (*biblioteca para busca vetorial, onde armazena vetores - textos embedados - e faz busca semântica*), `DirectoryLoader` (*percorre todos os arquivos de um diretório utilizando um loader para cada*), `TextLoader ` (*abre e carrega um arquivo de texto*).
+2. **langchain_community:** Classes e componentes que foram desenvolvidos e mantidos pela comunidade open source do framework. Desse módulo foi utilizado o `FAISS` (*biblioteca para busca vetorial, onde armazena vetores - textos embedados - e faz busca semântica*), `DirectoryLoader` (*percorre todos os arquivos de um diretório utilizando um loader para cada*), `TextLoader ` (*abre e carrega um arquivo de texto*).
 
-3. **langchain_openai:** Integração oficial do LangChain com a OpenAI. Desse módulo foi utilizado `OpenAIEmbeddings` (*responsável por embedar - transformar o conteúdo dos arquivos da base de dados em vetores númericos*), `ChatOpenAI` (*abre um chat de conversa com um modelo do ChatGPT*).
+3. **langchain_openai:** Integração oficial do LangChain com a OpenAI. Desse módulo foi utilizado `OpenAIEmbeddings` (*responsável por embedar - transformar o conteúdo dos arquivos da base de dados em vetores numéricos*), `ChatOpenAI` (*responsável por realizar chamadas ao modelo de linguagem da OpenAI*).
 
  - OBS: Além dessas importações, foi utilizado também o `dotenv`, responsável por carregar e utilizar a minha chave API da OpenAI de forma segura e o `gradio` para utilizar uma interface de conversação pelo navegador.
 
-### 4.1.1 Importação de bibliotecas
+### Outras bibliotecas
+- **dotenv**: Carrega a chave da API da OpenAI armazenada no arquivo `.env`.  
+- **json**: Utilizado para registrar logs das interações do sistema.  
+- **datetime**: Utilizado para registrar o momento exato de cada interação.  
+- **gradio**: Utilizado para criar a interface de chat acessível pelo navegador.
+
+---
+
+## 4.1.2 Segmentação de Documentos (Chunking)
+
+**Uma das principais melhorias introduzidas na versão 1.3 é a utilização de segmentação de documentos**, também conhecida como `chunking`.
+
+```python
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=1200,
+    chunk_overlap=200
+)
+```
+
+Após o carregamento:
+
+```python
+docs_txt_bsi = text_splitter.split_documents(docs_txt_bsi)
+```
+
+### Explicação
+
+*Explicação:* **Documentos muito longos podem** `dificultar` **a recuperação de trechos relevantes** durante a busca semântica.
+
+O `RecursiveCharacterTextSplitter` divide textos em partes menores chamadas *chunks*.
+
+- **chunk_size = 1200** → tamanho máximo do trecho  
+- **chunk_overlap = 200** → sobreposição entre trechos  
+
+**Isso melhora significativamente a precisão da busca.**
+
+---
+
+## 4.1.3 Criação das Bases Vetoriais
+
 ```python
 loader_bsi = DirectoryLoader("../../base-de-dados/dados-tratados/bsi", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_bsi = loader_bsi.load()
@@ -107,11 +180,21 @@ retriever_eletrica = faiss_eletrica.as_retriever()
 retriever_quimica = faiss_quimica.as_retriever()
 retriever_geral = faiss_geral.as_retriever()
 ``` 
-*Explicação:* Após a importação das bibliotecas, se fez necessário a preparação dos dados. Tendo em vista que nessa versão foi utilizado dados de cursos diferentes, criamos uma base de dados para cada curso, para que não haja erro por similaridade semântica entre os documentos. Para isso, utilizamos o `DirectoryLoader` para encontrar os arquivos da nossa [base de dados tratada](/base-de-dados/dados-tratados/) de cada curso (e o **geral**, que serve como fonte para responder dúvidas que não se relacionam a nenhum curso) e o parâmetro `loader_cls=TextLoader` define que cada arquivo encontrado será carregado por meio do TextLoader, tendo em vista que os arquivos são **.txt**. Com os conteúdos dos arquivos encontrados, fizemos a utilização do método `.load()` na variável `loader` para retornar o conteúdo desses arquivos como documentos na variável `docs_txt`. Na segunda etapa, inicializamos `OpenAIEmbeddings()` na variável `embeddings`, que representa o modelo responsável por gerar os vetores numéricos a partir dos textos. Em seguida, criamos as variáveis `faiss_bsi`, `faiss_civil`, `faiss_eletrica`, `faiss_ambiental`, `faiss_geral`, `faiss_quimica` que corresponde aos nossos índices vetoriais `FAISS`. Nelas, utilizamos `FAISS.from_documents()` para gerar os embeddings dos documentos presentes em `docs_txt` de cada curso usando o modelo da OpenAI da variável `embeddings` e, ao mesmo tempo, armazenar esses vetores no índice `FAISS`. Por fim, utilizamos o método `as_retriever()` nas variáveis `retriever` de cada curso para adicionar um mecanismo de busca semântica no nosso índice vetorial (`FAISS`) e retornar apenas dois documentos. Ou seja, o trecho `retriever = base_vetores.as_retriever()` é responsável por receber um texto de entrada (um input, por exemplo) e buscar dois documentos com a semântica parecida no `FAISS`. 
+*Explicação:* Após a importação das bibliotecas, se fez necessário a preparação dos dados. Tendo em vista que nessa versão foi utilizado dados de cursos diferentes, criamos uma base de dados para cada curso, para que não haja erro por similaridade semântica entre os documentos. 
+
+Para isso, utilizamos o `DirectoryLoader` para encontrar os arquivos da nossa [base de dados tratada](/base-de-dados/dados-tratados/) de cada curso (e o **geral**, que serve como fonte para responder dúvidas que não se relacionam a nenhum curso) e o parâmetro `loader_cls=TextLoader` define que cada arquivo encontrado será carregado por meio do TextLoader, tendo em vista que os arquivos são **.txt**. Com os conteúdos dos arquivos encontrados, fizemos a utilização do método `.load()` na variável `loader` para retornar o conteúdo desses arquivos como documentos na variável `docs_txt`. 
+
+Na segunda etapa, inicializamos `OpenAIEmbeddings()` na variável `embeddings`, que representa o modelo responsável por gerar os vetores numéricos a partir dos textos. 
+
+Em seguida, criamos as variáveis `faiss_bsi`, `faiss_civil`, `faiss_eletrica`, `faiss_ambiental`, `faiss_geral`, `faiss_quimica` que corresponde aos nossos índices vetoriais `FAISS`. Nelas, utilizamos `FAISS.from_documents()` para gerar os embeddings dos documentos presentes em `docs_txt` de cada curso usando o modelo da OpenAI da variável `embeddings` e, ao mesmo tempo, armazenar esses vetores no índice `FAISS`. 
+
+Por fim, utilizamos o método `as_retriever()` nas variáveis `retriever` de cada curso para adicionar um mecanismo de busca semântica no nosso índice vetorial (`FAISS`) e retornar documentos relacionados com a chave de busca. Ou seja, o trecho `retriever = base_vetores.as_retriever()` é responsável por receber um texto de entrada (um input, por exemplo) e buscar documentos com a semântica parecida no `FAISS`. Vale ressaltar que quando **não é definido** um limite de documentos retornados pela busca, o `as_retriever()` retorna 4 documentos por padrão.
 - OBS: O `retriever` não responde textos de entrada, apenas assimila e recupera documentos relevantes relacionados ao input por meio de busca semântica.
 
-### 4.1.3 Classificação semântica do curso utilizando LLM
-* **Uma das principais inovações da versão 1.2 é a utilização de um modelo de linguagem para classificar semanticamente a pergunta do usuário.**
+---
+
+## 4.1.4 Classificação Semântica do Curso
+
 ```python
 prompt_curso="""
 Você é um classificador de perguntas acadêmicas do IFBA – Campus Vitória da Conquista.
@@ -171,48 +254,82 @@ def classificar_retriever(pergunta):
     chain_curso = prompt_curso_definido | llm
     resposta = chain_curso.invoke({"question": pergunta})
     resposta_formatada = resposta.content.strip().lower()
-    if resposta_formatada == "bsi":
-        return retriever_bsi
-    elif resposta_formatada == "engenharia_civil":
-        return retriever_civil
-    elif resposta_formatada == "engenharia_ambiental":
-        return retriever_ambiental
-    elif resposta_formatada == "engenharia_eletrica":
-        return retriever_eletrica
-    elif resposta_formatada == "licenciatura_quimica":
-        return retriever_quimica
-    elif resposta_formatada == "geral":
-        return retriever_geral
-```
-* **Com isso, elimina-se a dependência de regras fixas baseadas em palavras-chave, tornando o sistema mais robusto e adaptável à linguagem natural dos usuários.**
 
-### 4.1.4 Utilização de LLM para geração da resposta
-Após a definição do retriever adequado, utiliza-se um prompt padrão para geração da resposta final:
+    if resposta_formatada == "bsi":
+        return retriever_bsi, "bsi"
+    elif resposta_formatada == "engenharia_civil":
+        return retriever_civil, "engenharia_civil"
+    elif resposta_formatada == "engenharia_ambiental":
+        return retriever_ambiental, "engenharia_ambiental"
+    elif resposta_formatada == "engenharia_eletrica":
+        return retriever_eletrica, "engenharia_eletrica"
+    elif resposta_formatada == "licenciatura_quimica":
+        return retriever_quimica, "licenciatura_quimica"
+    elif resposta_formatada == "geral":
+        return retriever_geral, "geral"
+```
+---
+
+## 4.1.5 Prompt para Resposta do LLM
 ```python
-prompt_padrao = """
-Você é um assistente virtual acadêmico especializado em fornecer informações sobre os cursos oferecidos pelo Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
+prompt_padrao="""
+Você é um assistente virtual acadêmico especializado em fornecer informações sobre os cursos oferecidos pelo Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista. 
 Utilize as informações fornecidas para responder às perguntas dos usuários de forma clara e precisa.
 
 Contexto: {context}
 Pergunta: {question}
 """
-```
-Esse prompt recebe o contexto recuperado pelo FAISS e a pergunta do usuário, garantindo que as respostas sejam fundamentadas nos documentos da base de dados.
+prompt = ChatPromptTemplate.from_template(prompt_padrao)
 
-### 4.1.5 Chat e Interface Gradio
+```
+*Explicação:* **Esse é o prompt que será enviado ao LLM para gerar a resposta para o questionamento do usuário**. No prompt vamos passar ao LLM um `contexto`, que será os documentos relacionados à dúvida do usuário recuperados pelo retriever e a `question`, que nada mais é do que a própria dúvida do usuário. Com o prompt definido, utilizamos a função `ChatPromptTemplate.from_template(prompt_padrao)` com o prompt como parâmetro para o definirmos dentro do padrão que o LLM busca receber.
+
+---
+
+## 4.1.6 Função 'responder'
+
 ```python
 def responder(mensagem, historico):
 
-    retriever = classificar_retriever(mensagem)
-    if not retriever:
-        return "Desculpe, não consegui identificar à sua pergunta. Por favor, reformule a pergunta ou especifique o curso."
+    resultado = classificar_retriever(mensagem)
+    if not resultado:
+        return "Desculpe, não consegui identificar a sua pergunta. Por favor, caso sua dúvida seja relacionada a algum curso, especifique o curso para que eu possa ajudar melhor. Caso não seja, reformule melhor a sua pergunta."
+    
+    retriever, curso_classificado = resultado
 
-    chain = ({"context": retriever, "question": RunnablePassthrough()} | prompt | llm)
+    docs_recuperados = retriever.invoke(mensagem)
+
+    contexto = "\n\n".join([doc.page_content for doc in docs_recuperados])
+
+    chain = ({"context": contexto, "question": RunnablePassthrough()} | prompt | llm)
     resposta = chain.invoke(mensagem)
-    return resposta.content
 
-interface = gradio.ChatInterface(fn=responder)
+    log = {
+        "timestamp": datetime.now().isoformat(),
+        "pergunta": mensagem,
+        "curso_classificado": curso_classificado,
+        "documentos_recuperados": [
+            {
+                "conteudo": doc.page_content[:500],
+                "metadata": doc.metadata
+            }
+            for doc in docs_recuperados
+        ],
+        "resposta": resposta.content
+    }
+
+    with open("../../logs/logs.jsonl", "a", encoding="utf-8") as f:
+        f.write(json.dumps(log, ensure_ascii=False) + "\n")
+
+    return resposta.content
+```
+*Explicação:* A função **def_responder** inicia-se com a atribuição de uma variável `resultado`, onde ela será igual ao retorno da função **classificar_retriever** com a mensagem do usuário como **parâmetro** para a função. Ou seja, a variável `resultado` contém o local onde o retriever será feito e o curso que esse retriever se relaciona. Como exposto, é de se perceber que a variável conterá dois conteúdos: `o retriever correspondente` e `o curso`. Para uma melhor organização, declaramos mais duas variáveis, para cada conteúdo da variável `resultado`: `retriever` e `curso_classificado`, que correspondem ao primeiro e segundo conteúdo, respectivamente. Com as variáveis `retriever` e `curso_classificado` definidas, inicializamos mais uma variável: `docs_recuperados`, que nada mais é do que os documentos que são recuperados pela função `retriever.invoke(mensagem)`, onde realiza a busca no local definido utilizando a **mensagem** do usuário como parâmetro de busca. Com os documentos recuperados devidamente armazenados, criamos o `contexto`, que nada mais é do que um texto que armazena o conteúdo de todos os documentos recuperados em um mesmo local. Com tudo isso definido, passamos para a execução da cadeia do **LangChain**, onde `chain = ({"context": contexto, "question": RunnablePassthrough()} | prompt | llm)`. Com a chain definida e tudo no seu devido lugar, onde `context` = `contexto` (texto que armazena o conteúdo dos documentos recuperados), `question` = `RunnablePassthrough()` (aqui definimos que a question será passada como parâmetro quando a função `chain` for acionada), `prompt` = prompt definido no passo [**4.1.5 Prompt para Resposta do LLM**](#415-prompt-para-resposta-do-llm), `llm` = `ChatOpenAI()` onde é de fato chamado a API da OpenAI. Após estruturação da chain, definimos a variável `resposta` como o retorno do chamado da `chain` passando a mensagem do usuário como parâmetro: `resposta = chain.invoke(mensagem)`. Com a chain executada e seu retorno definido na variável `resposta`, criamos o `log` para armazenar todas as informações daquela execução específica, onde no log definimos: `timestamp` como horário e data da interação, `pergunta` como mensagem do usuário, `curso_classificado` como a que curso/retriever pertence aquela mensagem, `documentos_recuperados` como um array que vai armazenar o `conteudo` (os primeiros 500 caracteres) e o `metadata` (que é informações adicionais do documento, como origem, caminho do arquivo) de cada documento recuperado dentro de `docs_recuperados`, e a resposta do `LLM`. Com o `log` definido, criamos uma função para abrir o arquivo **log.json** em seu respectivo caminho dentro do repositório e sobrescrevê-lo adicionando as informações definidas no log da interação mais recente. Por fim, a função `def responder` retorna a resposta do LLM que está armazenada no caminho `resposta.content`
+
+## 4.1.7 Interface de Interação
+```python
+interface = gradio.ChatInterface(fn=responder, type="messages")
 interface.launch()
 ```
-*Explicação:* A função `responder` representa o núcleo lógico do chatbot, sendo responsável por `processar a mensagem enviada pelo usuário`, `identificar o contexto adequado` e `gerar uma resposta utilizando um modelo de linguagem (LLM)`. Essa função é utilizada diretamente pela interface de chat do `Gradio`, funcionando como o ponto central de interação entre o usuário e o sistema. Ao receber uma mensagem, a função realiza inicialmente a **identificação do contexto mais apropriado por meio de um mecanismo de classificação**, que determina qual retriever deve ser utilizado. **O retriever é responsável por fornecer as informações relevantes** que servirão de base para a geração da resposta. **Essa etapa é fundamental para garantir que o modelo de linguagem trabalhe com dados coerentes com a pergunta realizada**, aumentando a precisão e a relevância das respostas. Caso não seja possível identificar um contexto válido, a função retorna imediatamente uma mensagem informando que a pergunta não pôde ser compreendida corretamente, solicitando ao usuário que reformule a questão ou forneça mais detalhes. Esse tratamento evita respostas genéricas ou inconsistentes e melhora a experiência de uso do chatbot. **Com o contexto definido, é construída uma cadeia de execução** (`chain = ({"context": retriever, "question": RunnablePassthrough()} | prompt | llm)`) **que organiza o fluxo de dados entre o contexto recuperado, a pergunta original do usuário e o modelo de linguagem**. A mensagem do usuário é preservada integralmente e combinada com o contexto por meio de um template de prompt, que estrutura essas informações de forma adequada para interpretação pelo LLM. Em seguida, o `modelo de linguagem é acionado para gerar a resposta final`. **Após a execução dessa cadeia, o conteúdo textual da resposta gerada é extraído e retornado pela função, sendo exibido diretamente na interface de chat**. Todo esse processo ocorre de forma transparente para o usuário, que apenas visualiza a resposta final no chat. A integração com o `Gradio` permite que essa função seja chamada automaticamente a cada nova mensagem enviada, viabilizando uma interface conversacional simples e interativa. **No geral, essa abordagem segue o paradigma de Retrieval-Augmented Generation (RAG)**, no qual a geração de respostas é enriquecida por informações previamente recuperadas, resultando em respostas mais precisas, contextualizadas e alinhadas ao domínio específico da aplicação.
+*Explicação:* Aqui chamamos a função `ChatInterface()` para que a interface de chat padrão do `Gradio` seja criada e com a função `def responder()` como parâmetro para que a função possa ser acionada para cada mensagem recebida no chat. Por fim, é utilizado o método `interface.launch()` para que a interface do `Gradio` seja disponibilizada em um servidor HTTP local, o que permite testes do projeto no navegador. 
 
+---
