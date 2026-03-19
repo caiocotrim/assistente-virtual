@@ -62,8 +62,10 @@ A organização de pastas do projeto segue uma estrutura simples e objetiva, fac
             - [**quimica**](./base-de-dados/dados-tratados/quimica/): Aqui estão armazenados os arquivos de texto referentes ao curso de Licenciatura em Química.
 
 - [**versoes**](/versoes/): Contém as implementações completas de cada versão do Assistente Virtual. 
-    - [**v1.0**](/versoes/v1.0/): Versão inicial. 
-    - [**v1.1**](/versoes/v1.0/): Versão expandida. 
+    - [**v1.0**](/versoes/v1.0/) - Versão: Inicial - Apenas 1 curso. 
+    - [**v1.1**](/versoes/v1.1/) - Versão: Expandida - Abrange mais de 1 curso.
+    - [**v1.2**](/versoes/v1.2/) - Versão: LLM - Utiliza mais o LLM do que nas versões anteriores.
+    - [**v1.3**](/versoes/v1.3/) - Versão: Chunking e Log - Utiliza chunking para maior acertividade do RAG e log para um melhor monitoramento das interações. 
 
 ---
 ## 4. Como Executar
