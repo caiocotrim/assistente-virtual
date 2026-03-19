@@ -15,6 +15,18 @@ Como o próprio nome já diz, essa foi a primeira versão desenvolvida do Assist
 #### 2.2 Versão 1.1
 Essa foi a segunda versão desenvolvida do Assistente Virtual. Neste momento, crescemos nossa base de dados para abranger documentos de todos os cursos de ensino superior ofertados pelo IFBA - Vitória da Conquista: [arquivos do curso de Bacharelado em Sistemas de Informação](../base-de-dados/dados-tratados/bsi/). Esta versão é um pouco mais robusta que a versão 1.0, nela foi necessário implementar uma base de dados para cada curso para que não haja erros na busca por similaridade semântica tendo em vista que os documentos acadêmicos possuem uma certa semelhança. Além disso, foi implementado também uma função para fazer o reconhecimento do curso que o usuário está se referindo. Essa função em questão é fundamental para fazer o filtro definir em qual base de dados será feita a busca.
 
+#### 2.3 Versão 1.2
+Essa foi a terceira versão desenvolvida do Assistente Virtual. Nesta etapa, houve uma evolução significativa na forma como o sistema interpreta as perguntas dos usuários. Diferente da versão 1.1, que utilizava regras fixas e palavras-chave para identificar o curso relacionado, a versão 1.2 passou a utilizar um modelo de linguagem (LLM) para realizar essa classificação de forma semântica.
+
+Com essa mudança, o assistente se tornou mais inteligente e flexível, sendo capaz de compreender melhor variações na forma como os usuários escrevem suas perguntas, mesmo quando não utilizam termos exatos. A partir da classificação realizada pelo LLM, o sistema seleciona automaticamente a base de dados mais adequada para realizar a busca, reduzindo ambiguidades e melhorando a precisão das respostas.
+
+#### 2.4 Versão 1.3
+Essa foi a quarta versão desenvolvida do Assistente Virtual. Nesta versão, foram introduzidas melhorias importantes na etapa de recuperação de informações e no monitoramento do funcionamento do sistema, tornando a arquitetura mais próxima de aplicações reais.
+
+Entre os principais avanços, destaca-se a implementação da segmentação de documentos (chunking), permitindo dividir textos longos em partes menores e mais relevantes para a busca semântica, o que melhora a qualidade dos resultados retornados. Além disso, foi implementado um sistema de registro de logs, possibilitando armazenar informações sobre cada interação, como perguntas, respostas, documentos recuperados e o curso classificado.
+
+Essas melhorias tornam o sistema mais robusto, transparente e preparado para análises posteriores, contribuindo para a evolução contínua do assistente.
+
 ---
 
 ## 3. Estrutura do Projeto
