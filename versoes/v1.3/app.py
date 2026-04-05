@@ -148,8 +148,8 @@ def responder(mensagem, historico):
 
     contexto = "\n\n".join([doc.page_content for doc in docs_recuperados])
 
-    chain = ({"context": contexto, "question": RunnablePassthrough()} | prompt | llm)
-    resposta = chain.invoke(mensagem)
+    chain = (prompt | llm)
+    resposta = chain.invoke({"context": contexto, "question": mensagem})
 
     log = {
         "timestamp": datetime.now().isoformat(),
