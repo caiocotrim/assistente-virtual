@@ -127,10 +127,53 @@ def classificar_retriever(pergunta):
     elif resposta_formatada == "geral":
         return retriever_geral, "geral"
 
+
+prompt_memoria="""
+Você é um classificador de contexto. 
+
+Sua tarefa é decidir se a PERGUNTA ATUAL depende do HISTÓRICO da conversa.
+
+Responda APENAS com:
+SIM
+ou
+NAO
+
+Regras:
+- Responda SIM se a pergunta fizer referência a algo anterior (ex: "isso", "esse curso", "também", "ele", etc.)
+- Responda NAO se a pergunta for independente e puder ser entendida sozinha
+- NÃO explique
+- NÃO escreva nada além de SIM ou NAO
+
+Histórico:
+{history}
+
+Pergunta atual:
+{question}
+"""
+prompt_memoria_template = ChatPromptTemplate.from_template(prompt_memoria)
+
+chain_memoria = prompt_memoria_template | llm
+def decidir_uso_memoria(pergunta, historico):
+    if not historico:
+        return False
+    
+    historico_formatado=""
+    for msg in historico:
+        role = "Usuário" if msg["role"] == "user" else "Assistente"
+        historico_formatado += f"{role}: {msg['content']}\n"
+
+    resposta = chain_memoria.invoke({
+        "history": historico_formatado,
+        "question": pergunta
+    })
+
+    return resposta.content.strip().upper() == "SIM"
+
 prompt_padrao="""
 Você é um assistente acadêmico do IFBA.
 
 Responda a pergunta utilizando APENAS as informações do contexto fornecido.
+A ÚNICA excessão é mensagem de saudação como: oi, olá, bom dia, boa tarde, boa noite e etc. Nesse ÚNICO contexto, você pode responder com a devida educação.
 
 REGRAS IMPORTANTES:
 - Não invente informações
@@ -138,6 +181,12 @@ REGRAS IMPORTANTES:
   "Não encontrei essa informação nos documentos disponíveis"
 - Seja direto e objetivo
 - Não use conhecimento externo
+- O histórico já foi previamente filtrado:
+  - Se estiver vazio, ignore
+  - Se estiver preenchido, use como apoio
+
+Histórico:
+{history}
 
 Contexto:
 {context}
@@ -159,8 +208,19 @@ def responder(mensagem, historico):
 
     contexto = "\n\n".join([doc.page_content for doc in docs_recuperados])
 
+    usar_memoria_flag = decidir_uso_memoria(mensagem, historico)
+    historico_formatado = ""
+    if usar_memoria_flag:
+        for msg in historico:
+            role = "Usuário" if msg["role"] == "user" else "Assistente"
+            historico_formatado += f"{role}: {msg['content']}\n"
+
     chain = (prompt | llm)
-    resposta = chain.invoke({"context": contexto, "question": mensagem})
+    resposta = chain.invoke({
+        "context": contexto,
+        "question": mensagem,
+        "history": historico_formatado
+    })
 
     log = {
         "timestamp": datetime.now().isoformat(),
