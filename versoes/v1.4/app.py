@@ -1,6 +1,7 @@
 import gradio
 import json
 import os
+import re 
 
 from dotenv import load_dotenv
 
@@ -61,12 +62,12 @@ faiss_eletrica = carregar_criar_faiss("indices/eletrica", docs_txt_eletrica, emb
 faiss_quimica = carregar_criar_faiss("indices/quimica", docs_txt_quimica, embeddings)
 faiss_geral = carregar_criar_faiss("indices/geral", docs_txt_geral, embeddings)
 
-retriever_bsi = faiss_bsi.as_retriever()
-retriever_civil = faiss_civil.as_retriever()
-retriever_ambiental = faiss_ambiental.as_retriever()
-retriever_eletrica = faiss_eletrica.as_retriever()
-retriever_quimica = faiss_quimica.as_retriever()
-retriever_geral = faiss_geral.as_retriever()
+retriever_bsi = faiss_bsi.as_retriever(search_kwargs={"k": 8})
+retriever_civil = faiss_civil.as_retriever(search_kwargs={"k": 8})
+retriever_ambiental = faiss_ambiental.as_retriever(search_kwargs={"k": 8})
+retriever_eletrica = faiss_eletrica.as_retriever(search_kwargs={"k": 8})
+retriever_quimica = faiss_quimica.as_retriever(search_kwargs={"k": 8})
+retriever_geral = faiss_geral.as_retriever(search_kwargs={"k": 8})
 
 llm = ChatOpenAI()
 
@@ -207,6 +208,25 @@ Pergunta:
 """
 prompt = ChatPromptTemplate.from_template(prompt_padrao)
 
+
+prompt_rerank = """
+Você é um assistente que seleciona os documentos mais relevantes para responder uma pergunta.
+
+Sua tarefa:
+- Avaliar os documentos abaixo
+- Selecionar os 3 MAIS relevantes para responder a pergunta
+
+Retorne APENAS os números dos documentos mais relevantes, separados por vírgula.
+
+Pergunta:
+{question}
+
+Documentos:
+{docs}
+"""
+prompt_rerank_template = ChatPromptTemplate.from_template(prompt_rerank)
+chain_rerank = prompt_rerank_template | llm
+
 def responder(mensagem, historico):
 
     resultado = classificar_retriever(mensagem)
@@ -216,8 +236,36 @@ def responder(mensagem, historico):
     retriever, curso_classificado = resultado
 
     docs_recuperados = retriever.invoke(mensagem)
+    docs_formatados = ""
+    for i, doc in enumerate(docs_recuperados):
+        docs_formatados += f"[{i}] {doc.page_content}\n\n"
+    
+    if len(docs_recuperados) > 4:
+        resposta_rerank = chain_rerank.invoke({
+            "question": mensagem,
+            "docs": docs_formatados
+        })
 
-    contexto = "\n\n".join([doc.page_content for doc in docs_recuperados])
+        try:
+            indices = re.findall(r'\d+', resposta_rerank.content)
+            indices = [int(i) for i in indices]
+
+            docs_filtrados = [
+                docs_recuperados[i]
+                for i in indices
+                if i < len(docs_recuperados)
+            ]
+
+            if not docs_filtrados:
+                docs_filtrados = docs_recuperados[:3]
+
+        except:
+            docs_filtrados = docs_recuperados[:3]
+
+    else:
+        docs_filtrados = docs_recuperados
+
+    contexto = "\n\n".join([doc.page_content for doc in docs_filtrados])
 
     usar_memoria_flag = decidir_uso_memoria(mensagem, historico)
     historico_formatado = ""
@@ -243,6 +291,13 @@ def responder(mensagem, historico):
                 "metadata": doc.metadata
             }
             for doc in docs_recuperados
+        ],
+        "documentos_usados": [
+            {
+                "conteudo": doc.page_content[:500],
+                "metadata": doc.metadata
+            }
+            for doc in docs_filtrados
         ],
         "resposta": resposta.content
     }
