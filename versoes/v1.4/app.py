@@ -1,5 +1,6 @@
 import gradio
 import json
+import os
 
 from dotenv import load_dotenv
 
@@ -43,12 +44,22 @@ docs_txt_geral = text_splitter.split_documents(docs_txt_geral)
 
 embeddings = OpenAIEmbeddings()
 
-faiss_bsi = FAISS.from_documents(docs_txt_bsi, embeddings)
-faiss_civil = FAISS.from_documents(docs_txt_civil, embeddings)
-faiss_ambiental = FAISS.from_documents(docs_txt_ambiental, embeddings)
-faiss_eletrica = FAISS.from_documents(docs_txt_eletrica, embeddings)
-faiss_quimica = FAISS.from_documents(docs_txt_quimica, embeddings)
-faiss_geral = FAISS.from_documents(docs_txt_geral, embeddings)
+def carregar_criar_faiss(path, docs, embeddings):
+    if os.path.exists(path):
+        print(f"[INFO] Carregando índice existente: {path}")
+        return FAISS.load_local(path, embeddings, allow_dangerous_deserialization=True)
+    else:
+        print(f"[INFO] Criando novo índice: {path}")
+        index = FAISS.from_documents(docs, embeddings)
+        index.save_local(path)
+        return index
+
+faiss_bsi = carregar_criar_faiss("indices/bsi", docs_txt_bsi, embeddings)
+faiss_civil = carregar_criar_faiss("indices/civil", docs_txt_civil, embeddings)
+faiss_ambiental = carregar_criar_faiss("indices/ambiental", docs_txt_ambiental, embeddings)
+faiss_eletrica = carregar_criar_faiss("indices/eletrica", docs_txt_eletrica, embeddings)
+faiss_quimica = carregar_criar_faiss("indices/quimica", docs_txt_quimica, embeddings)
+faiss_geral = carregar_criar_faiss("indices/geral", docs_txt_geral, embeddings)
 
 retriever_bsi = faiss_bsi.as_retriever()
 retriever_civil = faiss_civil.as_retriever()
