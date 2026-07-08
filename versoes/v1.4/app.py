@@ -317,5 +317,5 @@ print("Máximo:", max(tamanhos))
 print("Mínimo:", min(tamanhos))
 """
 
-interface = gradio.ChatInterface(fn=responder, type="messages")
+interface = gradio.ChatInterface(fn=responder)
 interface.launch()
