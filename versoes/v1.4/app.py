@@ -18,6 +18,19 @@ from langchain_openai import ChatOpenAI
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=200)
 
 load_dotenv()
+TOKEN = os.getenv("TELEGRAM_TOKEN")
+
+PDFS = {
+    "bsi": "../../base-de-dados/dados-brutos/bsi/ppc_bsi.pdf",
+
+    "engenharia_civil": "../../base-de-dados/dados-brutos/civil/ppc_civil.pdf",
+
+    "engenharia_ambiental": "../../base-de-dados/dados-brutos/ambiental/ppc_ambiental.pdf",
+
+    "engenharia_eletrica": "../../base-de-dados/dados-brutos/eletrica/ppc_eletrica.pdf",
+
+    "licenciatura_quimica": "../../base-de-dados/dados-brutos/quimica/ppc_quimica.pdf",
+}
 
 loader_bsi = DirectoryLoader("../../base-de-dados/dados-tratados/bsi", glob="*.txt", loader_cls=TextLoader, loader_kwargs={"encoding": "utf-8"})
 docs_txt_bsi = loader_bsi.load()
@@ -139,6 +152,22 @@ def classificar_retriever(pergunta):
     elif resposta_formatada == "geral":
         return retriever_geral, "geral"
 
+def usuario_pediu_ppc(texto):
+    texto = texto.lower()
+
+    palavras_chave = [
+        "ppc",
+        "projeto pedagógico",
+        "projeto pedagogico",
+        "pdf",
+        "documento do curso",
+        "me envie",
+        "envie",
+        "mande",
+        "baixar"
+    ]
+
+    return any(p in texto for p in palavras_chave)
 
 prompt_memoria="""
 Você é um classificador de contexto. 
@@ -235,6 +264,19 @@ def responder(mensagem, historico):
     
     retriever, curso_classificado = resultado
 
+    if usuario_pediu_ppc(mensagem):
+
+        caminho_pdf = PDFS.get(curso_classificado)
+
+        if caminho_pdf and os.path.exists(caminho_pdf):
+
+            return {
+                "text": "Segue o Projeto Pedagógico do Curso solicitado.",
+                "files": [caminho_pdf]
+            }
+
+        return "Não encontrei o PPC desse curso."
+
     docs_recuperados = retriever.invoke(mensagem)
     docs_formatados = ""
     for i, doc in enumerate(docs_recuperados):
@@ -307,15 +349,5 @@ def responder(mensagem, historico):
 
     return resposta.content
 
-"""
-print("Antes: ", len(loader_bsi.load()))
-print("Depois: ", len(docs_txt_bsi))
-
-tamanhos = [len(doc.page_content) for doc in docs_txt_bsi]
-print("Média:", sum(tamanhos)/len(tamanhos))
-print("Máximo:", max(tamanhos))
-print("Mínimo:", min(tamanhos))
-"""
-
-interface = gradio.ChatInterface(fn=responder)
+interface = gradio.ChatInterface(fn=responder, type="messages")
 interface.launch()
