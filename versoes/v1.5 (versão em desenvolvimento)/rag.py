@@ -308,21 +308,6 @@ def responder(pergunta, historico=None):
     # Classificação do curso
     curso = classificar_curso(pergunta)
 
-    # Cache semântico
-    resposta_cache = cache.buscar(pergunta, curso)
-
-    if resposta_cache is not None:
-
-        print("[CACHE] Resposta retornada.")
-
-        return {
-
-            "texto": resposta_cache,
-
-            "arquivo": None
-
-        }
-
     # Pedido de PDF
     if usuario_pediu_pdf(pergunta):
 
@@ -341,6 +326,21 @@ def responder(pergunta, historico=None):
         return {
 
             "texto": "Não encontrei o PPC desse curso.",
+
+            "arquivo": None
+
+        }
+
+    # Cache semântico
+    resposta_cache = cache.buscar(pergunta, curso)
+
+    if resposta_cache is not None:
+
+        print("[CACHE] Resposta retornada.")
+
+        return {
+
+            "texto": resposta_cache,
 
             "arquivo": None
 
