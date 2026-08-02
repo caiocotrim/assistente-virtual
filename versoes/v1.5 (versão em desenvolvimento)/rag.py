@@ -2,6 +2,11 @@ import json
 import os
 import re
 
+import unicodedata
+
+from difflib import SequenceMatcher
+from pathlib import Path
+
 from semantic_cache import cache
 
 from datetime import datetime
@@ -19,7 +24,8 @@ from prompts import (
     prompt_memoria_template,
     prompt_principal_template,
     prompt_rerank_template,
-    prompt_compressao_template
+    prompt_compressao_template,
+    prompt_ementa_template
 )
 
 
@@ -29,6 +35,20 @@ chain_memoria = prompt_memoria_template | llm
 chain_rerank = prompt_rerank_template | llm
 chain_resposta = prompt_principal_template | llm
 chain_compressao = prompt_compressao_template | llm_compressor
+chain_ementa = prompt_ementa_template | llm
+
+def normalizar(texto):
+
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = texto.encode("ASCII", "ignore").decode()
+
+    texto = texto.lower()
+
+    texto = re.sub(r"[^a-z0-9 ]", " ", texto)
+
+    texto = re.sub(r"\s+", " ", texto).strip()
+
+    return texto
 
 # CLASSIFICAÇÃO DO CURSO
 def classificar_curso(pergunta: str):
@@ -47,6 +67,15 @@ def classificar_curso(pergunta: str):
 
     return "geral"
 
+def extrair_nome_disciplina(pergunta):
+
+    resposta = chain_ementa.invoke({
+
+        "question": pergunta
+
+    })
+
+    return resposta.content.strip()
 
 # DETECÇÃO DE PEDIDO DE PDF
 def usuario_pediu_pdf(texto: str):
@@ -63,12 +92,6 @@ def usuario_pediu_pdf(texto: str):
 
         "pdf",
 
-        "envie",
-
-        "me envie",
-
-        "mande",
-
         "baixar",
 
         "documento do curso"
@@ -77,6 +100,64 @@ def usuario_pediu_pdf(texto: str):
 
     return any(p in texto for p in palavras)
 
+def usuario_pediu_ementa(texto):
+
+    texto = texto.lower()
+
+    palavras = [
+
+        "ementa",
+
+        "programa da disciplina",
+
+        "conteúdo da disciplina",
+
+        "conteudo da disciplina",
+
+        "me envie a ementa",
+
+        "mande a ementa"
+
+    ]
+
+    return any(p in texto for p in palavras)
+
+def procurar_ementa(curso, disciplina):
+
+    pasta = CURSOS[curso]["ementas"]
+
+    if pasta is None:
+        return None
+
+    pasta = Path(pasta)
+    if not pasta.exists():
+        return None
+
+    melhor = None
+    melhor_score = 0
+
+    for arquivo in pasta.glob("*.jpg"):
+
+        nome = arquivo.stem
+        nome = re.sub(r"^[A-Z]{2,5}\d+[_-]?", "", nome)
+
+        score = SequenceMatcher(
+            None,
+            normalizar(disciplina),
+            normalizar(nome)
+        ).ratio()
+
+        if score > melhor_score:
+
+            melhor_score = score
+
+            melhor = arquivo
+
+    if melhor_score > 0.55:
+
+        return str(melhor)
+
+    return None
 
 # DECISÃO DE USO DA MEMÓRIA
 def decidir_uso_memoria(pergunta, historico):
@@ -308,29 +389,6 @@ def responder(pergunta, historico=None):
     # Classificação do curso
     curso = classificar_curso(pergunta)
 
-    # Pedido de PDF
-    if usuario_pediu_pdf(pergunta):
-
-        caminho_pdf = CURSOS.get(curso, {}).get("pdf")
-
-        if caminho_pdf and os.path.exists(caminho_pdf):
-
-            return {
-
-                "texto": "Segue o Projeto Pedagógico do Curso solicitado.",
-
-                "arquivo": caminho_pdf
-
-            }
-
-        return {
-
-            "texto": "Não encontrei o PPC desse curso.",
-
-            "arquivo": None
-
-        }
-
     # Cache semântico
     resposta_cache = cache.buscar(pergunta, curso)
 
@@ -343,6 +401,66 @@ def responder(pergunta, historico=None):
             "texto": resposta_cache,
 
             "arquivo": None
+
+        }
+
+    # Pedido de ementa
+    if usuario_pediu_ementa(pergunta):
+
+        disciplina = extrair_nome_disciplina(pergunta)
+
+        imagem = procurar_ementa(
+            curso,
+            disciplina
+        )
+
+        if imagem:
+
+            return {
+
+                "texto": f"Segue a ementa da disciplina {disciplina}.",
+
+                "arquivo": imagem,
+
+                "tipo": "imagem"
+
+            }
+
+        return {
+
+            "texto": "Não encontrei a ementa dessa disciplina.",
+
+            "arquivo": None,
+
+            "tipo": None
+
+        }
+
+
+    # Pedido de PDF
+    if usuario_pediu_pdf(pergunta):
+
+        caminho_pdf = CURSOS.get(curso, {}).get("pdf")
+
+        if caminho_pdf and os.path.exists(caminho_pdf):
+
+            return {
+
+                "texto": "Segue o Projeto Pedagógico do Curso solicitado.",
+
+                "arquivo": caminho_pdf,
+
+                "tipo": "pdf"
+
+            }
+
+        return {
+
+            "texto": "Não encontrei o PPC desse curso.",
+
+            "arquivo": None,
+
+            "tipo": None
 
         }
 

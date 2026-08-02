@@ -2,3 +2,11 @@
 teste/
 teste-desenvolvimento/
 tratamento.py
+.venv/
+__pycache__/
+*.pyc
+logs/
+*.tmp
+*.log
+cache_semantico/
+logs/

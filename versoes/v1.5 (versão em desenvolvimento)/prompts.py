@@ -175,3 +175,33 @@ Retorne somente o contexto relevante.
 """
 prompt_compressao_template = ChatPromptTemplate.from_template(prompt_compressao)
 
+prompt_ementa = """
+Extraia SOMENTE o nome da disciplina citada pelo usuário.
+
+Exemplos:
+
+Pergunta:
+Quero a ementa de Banco de Dados
+
+Resposta:
+Banco de Dados
+
+Pergunta:
+Me envie a ementa de Algoritmos
+
+Resposta:
+Algoritmos
+
+Pergunta:
+Qual a ementa de Inteligência Artificial?
+
+Resposta:
+Inteligência Artificial
+
+Não explique.
+
+Pergunta:
+
+{question}
+"""
+prompt_ementa_template = ChatPromptTemplate.from_template(prompt_ementa)

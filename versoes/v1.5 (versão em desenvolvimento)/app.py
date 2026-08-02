@@ -90,9 +90,17 @@ async def mensagem(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
             with open(resposta["arquivo"], "rb") as arquivo:
 
-                await update.message.reply_document(
-                    document=arquivo
-                )
+                if resposta.get("tipo") == "imagem":
+
+                    await update.message.reply_photo(
+                        photo=arquivo
+                    )
+
+                else:
+
+                    await update.message.reply_document(
+                        document=arquivo
+                    )
 
     except Exception as erro:
 

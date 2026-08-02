@@ -61,7 +61,8 @@ CURSOS = {
         "nome": "Bacharelado em Sistemas de Informação",
         "txt": "../../base-de-dados/dados-tratados/bsi",
         "indice": "indices/bsi",
-        "pdf": "../../base-de-dados/dados-brutos/bsi/ppc_bsi.pdf"
+        "pdf": "../../base-de-dados/dados-brutos/bsi/ppc_bsi.pdf",
+        "ementas": "../../base-de-dados/dados-brutos/bsi/ementas"
     },
 
 
@@ -69,7 +70,8 @@ CURSOS = {
         "nome": "Engenharia Civil",
         "txt": "../../base-de-dados/dados-tratados/civil",
         "indice": "indices/civil",
-        "pdf": "../../base-de-dados/dados-brutos/civil/ppc_civil.pdf"
+        "pdf": "../../base-de-dados/dados-brutos/civil/ppc_civil.pdf",
+        "ementas": "../../base-de-dados/dados-brutos/civil/ementas"
     },
 
 
@@ -77,7 +79,8 @@ CURSOS = {
         "nome": "Engenharia Ambiental",
         "txt": "../../base-de-dados/dados-tratados/ambiental",
         "indice": "indices/ambiental",
-        "pdf": "../../base-de-dados/dados-brutos/ambiental/ppc_ambiental.pdf"
+        "pdf": "../../base-de-dados/dados-brutos/ambiental/ppc_ambiental.pdf",
+        "ementas": "../../base-de-dados/dados-brutos/ambiental/ementas"
     },
 
 
@@ -85,7 +88,8 @@ CURSOS = {
         "nome": "Engenharia Elétrica",
         "txt": "../../base-de-dados/dados-tratados/eletrica",
         "indice": "indices/eletrica",
-        "pdf": "../../base-de-dados/dados-brutos/eletrica/ppc_eletrica.pdf"
+        "pdf": "../../base-de-dados/dados-brutos/eletrica/ppc_eletrica.pdf",
+        "ementas": "../../base-de-dados/dados-brutos/eletrica/ementas"
     },
 
 
@@ -93,7 +97,8 @@ CURSOS = {
         "nome": "Licenciatura em Química",
         "txt": "../../base-de-dados/dados-tratados/quimica",
         "indice": "indices/quimica",
-        "pdf": "../../base-de-dados/dados-brutos/quimica/ppc_quimica.pdf"
+        "pdf": "../../base-de-dados/dados-brutos/quimica/ppc_quimica.pdf",
+        "ementas": "../../base-de-dados/dados-brutos/quimica/ementas"
     },
 
 
@@ -101,7 +106,8 @@ CURSOS = {
         "nome": "Geral",
         "txt": "../../base-de-dados/dados-tratados/geral",
         "indice": "indices/geral",
-        "pdf": None
+        "pdf": None,
+        "ementas": None
     }
 
 }
