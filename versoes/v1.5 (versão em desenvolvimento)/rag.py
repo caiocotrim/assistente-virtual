@@ -1,15 +1,13 @@
 import json
 import os
 import re
-
 import unicodedata
 
 from difflib import SequenceMatcher
 from pathlib import Path
+from datetime import datetime
 
 from semantic_cache import cache
-
-from datetime import datetime
 
 from config import (
     CURSOS,
@@ -29,7 +27,10 @@ from prompts import (
 )
 
 
+# ==========================
 # CHAINS
+# ==========================
+
 chain_classificador = prompt_curso_template | llm
 chain_memoria = prompt_memoria_template | llm
 chain_rerank = prompt_rerank_template | llm
@@ -37,27 +38,50 @@ chain_resposta = prompt_principal_template | llm
 chain_compressao = prompt_compressao_template | llm_compressor
 chain_ementa = prompt_ementa_template | llm
 
+
+# ==========================
+# NORMALIZAÇÃO
+# ==========================
+
 def normalizar(texto):
 
-    texto = unicodedata.normalize("NFKD", texto)
-    texto = texto.encode("ASCII", "ignore").decode()
+    texto = unicodedata.normalize(
+        "NFKD",
+        texto
+    )
+
+    texto = texto.encode(
+        "ASCII",
+        "ignore"
+    ).decode()
 
     texto = texto.lower()
 
-    texto = re.sub(r"[^a-z0-9 ]", " ", texto)
+    texto = re.sub(
+        r"[^a-z0-9 ]",
+        " ",
+        texto
+    )
 
-    texto = re.sub(r"\s+", " ", texto).strip()
+    texto = re.sub(
+        r"\s+",
+        " ",
+        texto
+    ).strip()
 
     return texto
 
+
+# ==========================
 # CLASSIFICAÇÃO DO CURSO
+# ==========================
+
 def classificar_curso(pergunta: str):
-    """
-    Classifica a pergunta em um dos cursos existentes.
-    """
 
     resposta = chain_classificador.invoke({
+
         "question": pergunta
+
     })
 
     curso = resposta.content.strip().lower()
@@ -66,6 +90,12 @@ def classificar_curso(pergunta: str):
         return curso
 
     return "geral"
+
+
+
+# ==========================
+# EXTRAÇÃO DE DISCIPLINA
+# ==========================
 
 def extrair_nome_disciplina(pergunta):
 
@@ -77,28 +107,37 @@ def extrair_nome_disciplina(pergunta):
 
     return resposta.content.strip()
 
-# DETECÇÃO DE PEDIDO DE PDF
-def usuario_pediu_pdf(texto: str):
+
+
+# ==========================
+# DETECÇÃO DE PDF
+# ==========================
+
+def usuario_pediu_pdf(texto):
 
     texto = texto.lower()
 
     palavras = [
 
         "ppc",
-
         "projeto pedagógico",
-
         "projeto pedagogico",
-
         "pdf",
-
         "baixar",
-
         "documento do curso"
 
     ]
 
-    return any(p in texto for p in palavras)
+    return any(
+        palavra in texto
+        for palavra in palavras
+    )
+
+
+
+# ==========================
+# DETECÇÃO DE EMENTA
+# ==========================
 
 def usuario_pediu_ementa(texto):
 
@@ -107,20 +146,24 @@ def usuario_pediu_ementa(texto):
     palavras = [
 
         "ementa",
-
         "programa da disciplina",
-
         "conteúdo da disciplina",
-
         "conteudo da disciplina",
-
         "me envie a ementa",
-
         "mande a ementa"
 
     ]
 
-    return any(p in texto for p in palavras)
+    return any(
+        palavra in texto
+        for palavra in palavras
+    )
+
+
+
+# ==========================
+# BUSCA DE IMAGEM DE EMENTA
+# ==========================
 
 def procurar_ementa(curso, disciplina):
 
@@ -129,23 +172,41 @@ def procurar_ementa(curso, disciplina):
     if pasta is None:
         return None
 
+
     pasta = Path(pasta)
+
+
     if not pasta.exists():
         return None
+
 
     melhor = None
     melhor_score = 0
 
+
     for arquivo in pasta.glob("*.jpg"):
 
         nome = arquivo.stem
-        nome = re.sub(r"^[A-Z]{2,5}\d+[_-]?", "", nome)
+
+
+        nome = re.sub(
+            r"^[A-Z]{2,5}\d+[_-]?",
+            "",
+            nome
+        )
+
 
         score = SequenceMatcher(
+
             None,
+
             normalizar(disciplina),
+
             normalizar(nome)
+
         ).ratio()
+
+
 
         if score > melhor_score:
 
@@ -153,31 +214,50 @@ def procurar_ementa(curso, disciplina):
 
             melhor = arquivo
 
+
+
     if melhor_score > 0.55:
 
         return str(melhor)
 
+
     return None
 
-# DECISÃO DE USO DA MEMÓRIA
+
+
+# ==========================
+# MEMÓRIA
+# ==========================
+
 def decidir_uso_memoria(pergunta, historico):
 
     if not historico:
         return False
 
+
     historico_formatado = ""
+
 
     for mensagem in historico:
 
         role = (
+
             "Usuário"
+
             if mensagem["role"] == "user"
+
             else "Assistente"
+
         )
 
+
         historico_formatado += (
+
             f"{role}: {mensagem['content']}\n"
+
         )
+
+
 
     resposta = chain_memoria.invoke({
 
@@ -187,37 +267,48 @@ def decidir_uso_memoria(pergunta, historico):
 
     })
 
+
     return resposta.content.strip().upper() == "SIM"
 
+# ==========================
 # RECUPERAÇÃO DE DOCUMENTOS
+# ==========================
+
 def recuperar_documentos(curso, pergunta):
-    """
-    Recupera documentos do índice FAISS correspondente ao curso.
-    """
 
     retriever = retrievers[curso]
 
-    documentos = retriever.invoke(pergunta)
+    documentos = retriever.invoke(
+        pergunta
+    )
 
     return documentos
 
 
+
+# ==========================
 # RERANK
+# ==========================
+
 def rerank_documentos(pergunta, documentos):
-    """
-    Seleciona os documentos mais relevantes utilizando o LLM.
-    """
 
     if len(documentos) <= 4:
+
         return documentos
 
+
     docs_formatados = ""
+
 
     for i, doc in enumerate(documentos):
 
         docs_formatados += (
+
             f"[{i}] {doc.page_content}\n\n"
+
         )
+
+
 
     resposta = chain_rerank.invoke({
 
@@ -227,11 +318,24 @@ def rerank_documentos(pergunta, documentos):
 
     })
 
+
+
     try:
 
-        indices = re.findall(r"\d+", resposta.content)
+        indices = re.findall(
+            r"\d+",
+            resposta.content
+        )
 
-        indices = [int(i) for i in indices]
+
+        indices = [
+
+            int(i)
+
+            for i in indices
+
+        ]
+
 
         documentos_filtrados = [
 
@@ -243,21 +347,30 @@ def rerank_documentos(pergunta, documentos):
 
         ]
 
+
+
         if len(documentos_filtrados) == 0:
+
             documentos_filtrados = documentos[:3]
+
+
 
     except Exception:
 
         documentos_filtrados = documentos[:3]
 
+
+
     return documentos_filtrados
 
 
-# FORMATAÇÃO DO CONTEXTO
+
+
+# ==========================
+# CONTEXTO
+# ==========================
+
 def montar_contexto(documentos):
-    """
-    Concatena os documentos selecionados em uma única string.
-    """
 
     return "\n\n".join(
 
@@ -268,30 +381,46 @@ def montar_contexto(documentos):
     )
 
 
-# FORMATAÇÃO DO HISTÓRICO
+
+
+# ==========================
+# HISTÓRICO
+# ==========================
+
 def montar_historico(historico):
-    """
-    Converte o histórico do chat em texto para enviar ao prompt.
-    """
 
     historico_formatado = ""
+
 
     for mensagem in historico:
 
         role = (
+
             "Usuário"
+
             if mensagem["role"] == "user"
+
             else "Assistente"
+
         )
 
+
         historico_formatado += (
+
             f"{role}: {mensagem['content']}\n"
+
         )
+
 
     return historico_formatado
 
 
+
+
+# ==========================
 # LOGS
+# ==========================
+
 def registrar_log(
     pergunta,
     curso,
@@ -300,9 +429,6 @@ def registrar_log(
     contexto_comprimido,
     resposta
 ):
-    """
-    Salva um log da interação.
-    """
 
     log = {
 
@@ -311,6 +437,7 @@ def registrar_log(
         "pergunta": pergunta,
 
         "curso_classificado": curso,
+
 
         "documentos_recuperados": [
 
@@ -326,6 +453,7 @@ def registrar_log(
 
         ],
 
+
         "documentos_usados": [
 
             {
@@ -340,32 +468,62 @@ def registrar_log(
 
         ],
 
+
         "contexto_comprimido": contexto_comprimido,
+
 
         "resposta": resposta
 
     }
 
-    os.makedirs("../../logs", exist_ok=True)
+
+
+    os.makedirs(
+        "../../logs",
+        exist_ok=True
+    )
+
+
 
     with open(
+
         "../../logs/logs.jsonl",
+
         "a",
+
         encoding="utf-8"
+
     ) as arquivo:
 
+
         arquivo.write(
+
             json.dumps(
+
                 log,
+
                 ensure_ascii=False
-            ) + "\n"
+
+            )
+
+            + "\n"
+
         )
 
-# COMPRIME CONTEXTO PARA LLM GERAR RESPOSTA FINAL
+
+
+
+
+# ==========================
+# COMPRESSÃO DE CONTEXTO
+# ==========================
+
 def comprimir_contexto(pergunta, contexto):
 
     print("\nANTES:")
+
     print(len(contexto))
+
 
     resposta = chain_compressao.invoke({
 
@@ -375,50 +533,93 @@ def comprimir_contexto(pergunta, contexto):
 
     })
 
+
     print("\nDEPOIS:")
+
     print(len(resposta.content))
+
 
     return resposta.content
 
+# ==========================
 # RESPOSTA PRINCIPAL
+# ==========================
+
 def responder(pergunta, historico=None):
 
     if historico is None:
+
         historico = []
 
-    # Classificação do curso
-    curso = classificar_curso(pergunta)
 
-    # Cache semântico
-    resposta_cache = cache.buscar(pergunta, curso)
+    # Classificação do curso
+
+    curso = classificar_curso(
+        pergunta
+    )
+
+
+    # ==========================
+    # CACHE SEMÂNTICO JSON
+    # ==========================
+
+    resposta_cache = cache.buscar(
+        pergunta,
+        curso
+    )
+
 
     if resposta_cache is not None:
 
-        print("[CACHE] Resposta retornada.")
+        print(
+            "[CACHE] Resposta retornada."
+        )
+
 
         return {
 
             "texto": resposta_cache,
 
-            "arquivo": None
+            "arquivo": None,
+
+            "tipo": None
 
         }
 
-    # Pedido de ementa
-    if usuario_pediu_ementa(pergunta):
 
-        disciplina = extrair_nome_disciplina(pergunta)
+
+    # ==========================
+    # EMENTAS (IMAGEM)
+    # ==========================
+
+    if usuario_pediu_ementa(
+        pergunta
+    ):
+
+
+        disciplina = extrair_nome_disciplina(
+            pergunta
+        )
+
 
         imagem = procurar_ementa(
+
             curso,
+
             disciplina
+
         )
+
+
 
         if imagem:
 
+
             return {
 
-                "texto": f"Segue a ementa da disciplina {disciplina}.",
+                "texto": (
+                    f"Segue a ementa da disciplina {disciplina}."
+                ),
 
                 "arquivo": imagem,
 
@@ -426,9 +627,13 @@ def responder(pergunta, historico=None):
 
             }
 
+
+
         return {
 
-            "texto": "Não encontrei a ementa dessa disciplina.",
+            "texto": (
+                "Não encontrei a ementa dessa disciplina."
+            ),
 
             "arquivo": None,
 
@@ -437,16 +642,36 @@ def responder(pergunta, historico=None):
         }
 
 
-    # Pedido de PDF
-    if usuario_pediu_pdf(pergunta):
 
-        caminho_pdf = CURSOS.get(curso, {}).get("pdf")
 
-        if caminho_pdf and os.path.exists(caminho_pdf):
+    # ==========================
+    # PPC PDF
+    # ==========================
+
+    if usuario_pediu_pdf(
+        pergunta
+    ):
+
+
+        caminho_pdf = CURSOS.get(
+            curso,
+            {}
+        ).get(
+            "pdf"
+        )
+
+
+
+        if caminho_pdf and os.path.exists(
+            caminho_pdf
+        ):
+
 
             return {
 
-                "texto": "Segue o Projeto Pedagógico do Curso solicitado.",
+                "texto": (
+                    "Segue o Projeto Pedagógico do Curso solicitado."
+                ),
 
                 "arquivo": caminho_pdf,
 
@@ -454,9 +679,13 @@ def responder(pergunta, historico=None):
 
             }
 
+
+
         return {
 
-            "texto": "Não encontrei o PPC desse curso.",
+            "texto": (
+                "Não encontrei o PPC desse curso."
+            ),
 
             "arquivo": None,
 
@@ -464,54 +693,104 @@ def responder(pergunta, historico=None):
 
         }
 
-    # Recuperação
-    documentos_recuperados = recuperar_documentos(
-        curso,
-        pergunta
-    )
-    """
-    RERANK DESATIVADO PARA TESTE
-    # Rerank
-    documentos_usados = rerank_documentos(
-        pergunta,
-        documentos_recuperados
-    )
-    """
 
-    # Substituição do rerank
+
+
+    # ==========================
+    # RECUPERAÇÃO RAG
+    # ==========================
+
+    documentos_recuperados = recuperar_documentos(
+
+        curso,
+
+        pergunta
+
+    )
+
+
+
+    # Rerank desativado
+
     documentos_usados = documentos_recuperados
 
-    # Contexto
+
+
+
+    # ==========================
+    # CONTEXTO
+    # ==========================
+
     contexto_original = montar_contexto(
+
         documentos_usados
+
     )
+
 
     contexto_comprimido = contexto_original
 
 
+
     if USAR_COMPRESSAO_CONTEXTO:
 
+
         contexto_comprimido = comprimir_contexto(
+
             pergunta,
+
             contexto_original
+
         )
 
-    # Memória
+
+
+
+    # ==========================
+    # MEMÓRIA
+    # ==========================
+
     historico_formatado = ""
 
+
+
     if decidir_uso_memoria(
+
         pergunta,
+
         historico
+
     ):
 
+
         historico_formatado = montar_historico(
+
             historico
+
         )
 
-    print("\n========== CONTEXTO ENVIADO ==========")
-    print(contexto_comprimido)
-    print("======================================")
-    # Resposta do modelo
+
+
+
+    print(
+        "\n========== CONTEXTO ENVIADO =========="
+    )
+
+    print(
+        contexto_comprimido
+    )
+
+    print(
+        "======================================"
+    )
+
+
+
+
+    # ==========================
+    # GERAÇÃO DA RESPOSTA
+    # ==========================
+
     resposta = chain_resposta.invoke({
 
         "context": contexto_comprimido,
@@ -522,7 +801,13 @@ def responder(pergunta, historico=None):
 
     })
 
-    # Log
+
+
+
+    # ==========================
+    # LOG
+    # ==========================
+
     registrar_log(
 
         pergunta=pergunta,
@@ -539,6 +824,13 @@ def responder(pergunta, historico=None):
 
     )
 
+
+
+
+    # ==========================
+    # SALVAR NO CACHE JSON
+    # ==========================
+
     cache.salvar(
 
         pergunta,
@@ -549,11 +841,15 @@ def responder(pergunta, historico=None):
 
     )
 
-    # Retorno
+
+
+
     return {
 
         "texto": resposta.content,
 
-        "arquivo": None
+        "arquivo": None,
+
+        "tipo": None
 
     }
