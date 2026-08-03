@@ -8,10 +8,8 @@ from langchain_core.documents import Document
 from config import embeddings
 
 
-# ==========================
-# CONFIGURAÇÕES
-# ==========================
 
+# CONFIGURAÇÕES
 CACHE_DIR = "cache_semantico"
 
 RESPOSTAS_DIR = "respostas"
@@ -73,11 +71,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # CAMINHOS
-    # ==========================
-
-
+  
     def _caminho_indice(self, curso):
 
         return os.path.join(
@@ -105,11 +101,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # JSON
-    # ==========================
-
-
+  
     def _carregar_json(self, curso):
 
         caminho = self._caminho_json(
@@ -219,11 +213,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # RECONSTRUÇÃO FAISS
-    # ==========================
-
-
+  
     def _reconstruir_indice(self, curso):
 
 
@@ -373,11 +365,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # CARREGAR FAISS
-    # ==========================
-
-
+  
     def _carregar_indice(self, curso):
 
 
@@ -427,11 +417,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # BUSCA
-    # ==========================
-
-
+  
     def buscar(self, pergunta, curso):
 
 
@@ -490,11 +478,9 @@ class SemanticCache:
 
 
 
-    # ==========================
+    
     # SALVAR
-    # ==========================
-
-
+  
     def salvar(self, pergunta, resposta, curso):
 
 

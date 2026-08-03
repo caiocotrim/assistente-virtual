@@ -205,3 +205,19 @@ Pergunta:
 {question}
 """
 prompt_ementa_template = ChatPromptTemplate.from_template(prompt_ementa)
+
+prompt_escolha_ementa = """
+O usuário pediu a ementa da disciplina: "{disciplina}"
+
+Abaixo estão os nomes de arquivos de ementas candidatas encontradas.
+Escolha o número do arquivo que corresponde EXATAMENTE à disciplina pedida.
+
+Se nenhum corresponder bem, responda: -1
+
+Responda SOMENTE com o número.
+
+Opções:
+{opcoes}
+"""
+
+prompt_escolha_ementa_template = ChatPromptTemplate.from_template(prompt_escolha_ementa)

@@ -23,13 +23,12 @@ from prompts import (
     prompt_principal_template,
     prompt_rerank_template,
     prompt_compressao_template,
-    prompt_ementa_template
+    prompt_ementa_template,
+    prompt_escolha_ementa_template,
 )
 
 
-# ==========================
 # CHAINS
-# ==========================
 
 chain_classificador = prompt_curso_template | llm
 chain_memoria = prompt_memoria_template | llm
@@ -37,11 +36,9 @@ chain_rerank = prompt_rerank_template | llm
 chain_resposta = prompt_principal_template | llm
 chain_compressao = prompt_compressao_template | llm_compressor
 chain_ementa = prompt_ementa_template | llm
+chain_escolha_ementa = prompt_escolha_ementa_template | llm
 
-
-# ==========================
 # NORMALIZAÇÃO
-# ==========================
 
 def normalizar(texto):
 
@@ -72,9 +69,7 @@ def normalizar(texto):
     return texto
 
 
-# ==========================
 # CLASSIFICAÇÃO DO CURSO
-# ==========================
 
 def classificar_curso(pergunta: str):
 
@@ -93,9 +88,7 @@ def classificar_curso(pergunta: str):
 
 
 
-# ==========================
 # EXTRAÇÃO DE DISCIPLINA
-# ==========================
 
 def extrair_nome_disciplina(pergunta):
 
@@ -109,9 +102,7 @@ def extrair_nome_disciplina(pergunta):
 
 
 
-# ==========================
 # DETECÇÃO DE PDF
-# ==========================
 
 def usuario_pediu_pdf(texto):
 
@@ -135,9 +126,7 @@ def usuario_pediu_pdf(texto):
 
 
 
-# ==========================
 # DETECÇÃO DE EMENTA
-# ==========================
 
 def usuario_pediu_ementa(texto):
 
@@ -161,73 +150,77 @@ def usuario_pediu_ementa(texto):
 
 
 
-# ==========================
-# BUSCA DE IMAGEM DE EMENTA
-# ==========================
+# BUSCA DE IMAGENS DE EMENTA
 
-def procurar_ementa(curso, disciplina):
+def buscar_candidatos_ementa(curso, disciplina, limite=0.3, top_n=5):
 
     pasta = CURSOS[curso]["ementas"]
 
     if pasta is None:
-        return None
-
+        return []
 
     pasta = Path(pasta)
 
-
     if not pasta.exists():
-        return None
+        return []
 
+    disciplina_norm = normalizar(disciplina)
 
-    melhor = None
-    melhor_score = 0
-
+    candidatos = []
 
     for arquivo in pasta.glob("*.jpg"):
 
         nome = arquivo.stem
+        nome = re.sub(r"^[A-Z]{2,5}\d+[_-]?", "", nome)
+        nome_norm = normalizar(nome)
 
+        score = SequenceMatcher(None, disciplina_norm, nome_norm).ratio()
 
-        nome = re.sub(
-            r"^[A-Z]{2,5}\d+[_-]?",
-            "",
-            nome
-        )
+        if score >= limite:
+            candidatos.append((arquivo, nome, score))
 
+    candidatos.sort(key=lambda x: x[2], reverse=True)
 
-        score = SequenceMatcher(
+    return candidatos[:top_n]
 
-            None,
+# ESCOLHE A EMENTA ENTRE AS RECUPERADAS
 
-            normalizar(disciplina),
+def escolher_ementa(disciplina, candidatos):
+    if not candidatos:
+        return None
 
-            normalizar(nome)
+    if len(candidatos) == 1:
+        return candidatos[0][0]
 
-        ).ratio()
+    melhor_score = candidatos[0][2]
+    segundo_score = candidatos[1][2]
 
+    if melhor_score >= 0.55 and (melhor_score - segundo_score) >= 0.15:
+        return candidatos[0][0]
 
+    opcoes_formatadas = "\n".join(
+        f"{i}: {nome}" for i, (_, nome, _) in enumerate(candidatos)
+    )
 
-        if score > melhor_score:
+    resposta = chain_escolha_ementa.invoke({
+        "disciplina": disciplina,
+        "opcoes": opcoes_formatadas
+    })
 
-            melhor_score = score
+    try:
+        match = re.search(r"-?\d+", resposta.content)  # aceita o sinal de menos
+        indice = int(match.group()) if match else -1
 
-            melhor = arquivo
+        if 0 <= indice < len(candidatos):
+            return candidatos[indice][0]
 
+    except Exception:
+        pass
 
+    # fallback: LLM disse -1, ou resposta inválida -> usa o melhor score do fuzzy match
+    return candidatos[0][0]
 
-    if melhor_score > 0.55:
-
-        return str(melhor)
-
-
-    return None
-
-
-
-# ==========================
 # MEMÓRIA
-# ==========================
 
 def decidir_uso_memoria(pergunta, historico):
 
@@ -270,9 +263,7 @@ def decidir_uso_memoria(pergunta, historico):
 
     return resposta.content.strip().upper() == "SIM"
 
-# ==========================
 # RECUPERAÇÃO DE DOCUMENTOS
-# ==========================
 
 def recuperar_documentos(curso, pergunta):
 
@@ -286,9 +277,7 @@ def recuperar_documentos(curso, pergunta):
 
 
 
-# ==========================
 # RERANK
-# ==========================
 
 def rerank_documentos(pergunta, documentos):
 
@@ -366,9 +355,7 @@ def rerank_documentos(pergunta, documentos):
 
 
 
-# ==========================
 # CONTEXTO
-# ==========================
 
 def montar_contexto(documentos):
 
@@ -383,9 +370,7 @@ def montar_contexto(documentos):
 
 
 
-# ==========================
 # HISTÓRICO
-# ==========================
 
 def montar_historico(historico):
 
@@ -417,9 +402,7 @@ def montar_historico(historico):
 
 
 
-# ==========================
 # LOGS
-# ==========================
 
 def registrar_log(
     pergunta,
@@ -514,9 +497,7 @@ def registrar_log(
 
 
 
-# ==========================
 # COMPRESSÃO DE CONTEXTO
-# ==========================
 
 def comprimir_contexto(pergunta, contexto):
 
@@ -541,9 +522,7 @@ def comprimir_contexto(pergunta, contexto):
 
     return resposta.content
 
-# ==========================
 # RESPOSTA PRINCIPAL
-# ==========================
 
 def responder(pergunta, historico=None):
 
@@ -559,9 +538,9 @@ def responder(pergunta, historico=None):
     )
 
 
-    # ==========================
+
     # CACHE SEMÂNTICO JSON
-    # ==========================
+
 
     resposta_cache = cache.buscar(
         pergunta,
@@ -588,9 +567,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # EMENTAS (IMAGEM)
-    # ==========================
+
 
     if usuario_pediu_ementa(
         pergunta
@@ -602,13 +581,8 @@ def responder(pergunta, historico=None):
         )
 
 
-        imagem = procurar_ementa(
-
-            curso,
-
-            disciplina
-
-        )
+        candidatos = buscar_candidatos_ementa(curso, disciplina)
+        imagem = escolher_ementa(disciplina, candidatos)
 
 
 
@@ -621,7 +595,7 @@ def responder(pergunta, historico=None):
                     f"Segue a ementa da disciplina {disciplina}."
                 ),
 
-                "arquivo": imagem,
+                "arquivo": str(imagem),
 
                 "tipo": "imagem"
 
@@ -644,9 +618,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # PPC PDF
-    # ==========================
+
 
     if usuario_pediu_pdf(
         pergunta
@@ -696,9 +670,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # RECUPERAÇÃO RAG
-    # ==========================
+
 
     documentos_recuperados = recuperar_documentos(
 
@@ -717,9 +691,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # CONTEXTO
-    # ==========================
+
 
     contexto_original = montar_contexto(
 
@@ -746,9 +720,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # MEMÓRIA
-    # ==========================
+
 
     historico_formatado = ""
 
@@ -787,9 +761,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # GERAÇÃO DA RESPOSTA
-    # ==========================
+
 
     resposta = chain_resposta.invoke({
 
@@ -804,9 +778,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # LOG
-    # ==========================
+
 
     registrar_log(
 
@@ -827,9 +801,9 @@ def responder(pergunta, historico=None):
 
 
 
-    # ==========================
+
     # SALVAR NO CACHE JSON
-    # ==========================
+
 
     cache.salvar(
 
