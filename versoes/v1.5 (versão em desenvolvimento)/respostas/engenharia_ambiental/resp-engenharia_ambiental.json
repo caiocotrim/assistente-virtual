@@ -1,6 +1,50 @@
 [
-    {
-        "pergunta": "tem algum professor doutor no curso de ambiental?",
-        "resposta": "Sim, o curso de Engenharia Ambiental conta com vários professores doutores. Alguns exemplos são:\n\n- Ada Ruth Bertoti  \n- Almir Ribeiro de Carvalho Júnior  \n- Anderson Marques de Oliveira  \n- Carlos Amilton Silva Santos  \n- Enrique Peter Rivas Padilla  \n- Felizardo Adenilson Rocha  \n- Fernando de Azevedo Alves Brito  \n- Franklin Delano Porto Júnior  \n- Ione dos Santos Rocha Cabral  \n- Jacson Tavares de Oliveira  \n- Jime de Souza Sampaio  \n- Joana Darc Virginia dos Santos  \n- Jorge Ricardo de Araújo Kaschny  \n- Joseane Oliveira da Silva  \n- Katielle Silva Brito Kateivas  \n- Luiz Eloi da Silva  \n- Manoel Nunes Cavalcanti Junior  \n- Orley Magalhães de Oliveira  \n- Rafael Rocha da Silva  \n\nNo total, o curso conta com 29 professores doutores."
-    }
+  {
+    "pergunta": "tem algum professor doutor no curso de ambiental?",
+    "resposta": "Sim, o curso de Engenharia Ambiental conta com vários professores doutores. Alguns exemplos são:\n\n- Ada Ruth Bertoti  \n- Almir Ribeiro de Carvalho Júnior  \n- Anderson Marques de Oliveira  \n- Carlos Amilton Silva Santos  \n- Enrique Peter Rivas Padilla  \n- Felizardo Adenilson Rocha  \n- Fernando de Azevedo Alves Brito  \n- Franklin Delano Porto Júnior  \n- Ione dos Santos Rocha Cabral  \n- Jacson Tavares de Oliveira  \n- Jime de Souza Sampaio  \n- Joana Darc Virginia dos Santos  \n- Jorge Ricardo de Araújo Kaschny  \n- Joseane Oliveira da Silva  \n- Katielle Silva Brito Kateivas  \n- Luiz Eloi da Silva  \n- Manoel Nunes Cavalcanti Junior  \n- Orley Magalhães de Oliveira  \n- Rafael Rocha da Silva  \n\nNo total, o curso conta com 29 professores doutores."
+  },
+  {
+    "pergunta": "Quem são os professores do curso de BSI?",
+    "resposta": "Os professores do curso de Bacharelado em Sistemas de Informação (BSI) são:\n\n**Área de Administração**  \n- Daniela Pereira Contelli (Doutora, Dedicação Exclusiva)  \n- Maria das Graças Bittencourt Ferreira (Mestre, Dedicação Exclusiva)  \n\n**Área de Ciências Ambientais**  \n- Maria Laura Souza Silva (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Sociais**  \n- Eliana Barretto de Menezes Lopes (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Econômicas**  \n- Ualace Roberto de Jesus Oliveira (Mestrado, Dedicação Exclusiva)  \n\n**Área de Computação**  \n- Alexandro Santos Silva (Mestre, Dedicação Exclusiva)  \n- Aline Silva Costa (Mestre, Dedicação Exclusiva)  \n- Amanda Ferraz de Oliveira Passos (Mestre, Dedicação Exclusiva)  \n- Bruno Silvério Costa (Mestre, Dedicação Exclusiva)  \n- Camilo Alves Carvalho (Mestre, Dedicação Exclusiva)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestre, Dedicação Exclusiva)  \n- Crescencio Rodrigues Lima Neto (Doutor, Dedicação Exclusiva)  \n- Críjina Chagas Flores (Mestre, Dedicação Exclusiva)  \n- Djan Almeida Santos (Mestre, Dedicação Exclusiva)  \n- Igor Luis Oliveira de Souza (Mestre, Dedicação Exclusiva)  \n- Leonardo Barreto Campos (Doutor, Dedicação Exclusiva)  \n- Liojes de Oliveira Carneiro (Mestre, Dedicação Exclusiva)  \n- Luis Paulo da Silva Carvalho (Doutor, Dedicação Exclusiva)  \n- Mailson Sousa Couto (Mestre, Dedicação Exclusiva)  \n- Marcela Alves Pereira (Mestre, Dedicação Exclusiva)  \n- Pablo Freire Matos (Mestre, Dedicação Exclusiva)  \n- Stenio Longo Araújo (Mestre, 20 Horas Semanais)  \n- Viviane Maria Lélis Carvalho (Doutora, Dedicação Exclusiva)  \n- Vivyane Coelho Caires (Mestre, Dedicação Exclusiva)  \n\n**Área de Direito**  \n- Fernando de Azevedo Alves Brito (Doutor, Dedicação Exclusiva)  \n\n**Área de Letras**  \n- Polliana Freire dos Anjos Oliveira (Mestre, Dedicação Exclusiva)"
+  },
+  {
+    "pergunta": "Quais são os pré-requisitos de Banco de Dados I?",
+    "resposta": "Os pré-requisitos de Banco de Dados I são Linguagem de Programação I (CCO07)."
+  },
+  {
+    "pergunta": "programação web vem antes ou depois de banco de dados I?",
+    "resposta": "No curso de Bacharelado em Sistemas de Informação do IFBA, o assunto Programação Web I (TEC23) tem como pré-requisito Linguagem de Programação II (CCO13) e está nos semestres IV (matriz 2023) e V (matriz 2017).\n\nO assunto Banco de Dados I (TEC21) tem como pré-requisito Linguagem de Programação I (CCO07).\n\nProgramação Web II (TEC30) depende dos pré-requisitos Banco de Dados I (TEC21) e Programação Web I (TEC23).\n\nPortanto, Programação Web I e Banco de Dados I são cursados aproximadamente no mesmo período (IV ou V semestre), mas Programação Web II vem depois de Banco de Dados I.\n\nAssim, Programação Web I não vem necessariamente depois de Banco de Dados I, mas Programação Web II vem depois de Banco de Dados I.\n\nResumindo: Programação Web I não vem depois de Banco de Dados I. Programação Web II vem depois de Banco de Dados I."
+  },
+  {
+    "pergunta": "Em qual semestre fica Segurança da Informação?",
+    "resposta": "Segurança da Informação fica no semestre VI."
+  },
+  {
+    "pergunta": "Qual a ementa de Redes de Computadores?",
+    "resposta": "A ementa de Redes de Computadores é:\n\nHistória e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas. Arquitetura TCP/IP: camada de aplicação, camada de transporte, camada de redes, subcamada de controle de acesso ao meio, subcamada de controle lógico de link e camada física."
+  },
+  {
+    "pergunta": "Qual a bibliografia de Engenharia de Software?",
+    "resposta": "A bibliografia básica da disciplina de Engenharia de Software é:\n\n- GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.  \n- PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: McGraw Hill, 2011.  \n- SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011."
+  },
+  {
+    "pergunta": "O curso de BSI possui estágio obrigatório?",
+    "resposta": "O curso de Bacharelado em Sistemas de Informação (BSI) não possui estágio obrigatório, conforme o Projeto Pedagógico que trata o Estágio Supervisionado como uma atividade curricular não obrigatória."
+  },
+  {
+    "pergunta": "Qual a diferença entre Banco de Dados I e Banco de Dados II?",
+    "resposta": "A diferença entre Banco de Dados I e Banco de Dados II está no nível de aprofundamento e no conteúdo abordado:\n\n- **Banco de Dados I** oferece uma introdução aos conceitos fundamentais de gerenciamento de dados, incluindo independência, redundância, inconsistência, Sistemas Gerenciadores de Bancos de Dados, ferramentas CASE, análise de requisitos, modelos de dados (Entidade-Relacionamento e Relacional), restrições de integridade, transformações entre modelos, álgebra relacional e uma base prática em SQL (DDL e DML).\n\n- **Banco de Dados II** aprofunda conceitos avançados, abrangendo DDL e DML avançados, normalização de dados, dependências funcionais, restrições de integridade mais complexas, procedimentos armazenados, gatilhos, visões, segurança (DCL), transações (TCL), indexação e bancos de dados não relacionais.\n\nAssim, Banco de Dados I é introdutório, enquanto Banco de Dados II é avançado e complementa o primeiro com tópicos mais complexos e modernos."
+  },
+  {
+    "pergunta": "Segurança da Informação exige Banco de Dados?",
+    "resposta": "Sim, a disciplina Segurança da Informação exige como pré-requisito a disciplina Banco de Dados I (TEC21)."
+  },
+  {
+    "pergunta": "Engenharia de Software I e II possuem diferenças?",
+    "resposta": "Não encontrei essa informação nos documentos disponíveis."
+  },
+  {
+    "pergunta": "Quem ensina no curso de Ambiental?",
+    "resposta": "Os docentes do curso de Engenharia Ambiental são:\n\n- Acimarney Correia Silva Freitas (Mestrado)  \n- Ada Ruth Bertoti (Doutorado)  \n- Albano Portela Machado (Mestrado)  \n- Alessandro Santos Santana (Mestrado)  \n- Aline Almeida Magalhães Gazar (Mestrado)  \n- Allan de Sousa Soares (Mestrado)  \n- Almir Ribeiro de Carvalho Júnior (Doutorado)  \n- Ana Karine Dias Caires Brandão (Mestrado)  \n- Ana Mary Costa Bispo (Mestrado)  \n- Anderson Marques de Oliveira (Doutorado)  \n- Antônio de Araújo Pereira (Mestrado)  \n- Aurélio Fred Macena dos Santos (Mestrado)  \n- Camila Cruz da Silva (Doutorado)  \n- Camila Daniele Willers (Mestrado)  \n- Camilo Viana Oliveira (Mestrado)  \n- Carlos Amilton Silva Santos (Doutorado)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestrado)  \n- Cléia Santos Libarino (Mestrado)  \n- Daniani Souza Oliveira Gondim (Mestrado)  \n- Daniela Contelli Xavier (Doutorado)  \n- Djan Almeida Santos (Doutorado)  \n- Edson Patrício Barreto de Almeida (Mestrado)  \n- Enrique Peter Rivas Padilla (Doutorado)  \n- Felizardo Adenilson Rocha (Doutorado)  \n- Fernando de Azevedo Alves Brito (Doutorado)  \n- Franklin Delano Porto Júnior (Doutorado)  \n- Gislan Silveira Santos (Mestrado)  \n- Gleide Nascimento Azevedo (Mestrado)  \n- Ione dos Santos Rocha Cabral (Doutorado)  \n- Jacson Tavares de Oliveira (Doutorado)  \n- Jime de Souza Sampaio (Doutorado)  \n- Joana Angélica Barros Palma (Especialista)  \n- Joana Darc Virginia dos Santos (Doutorado)  \n- João Rodrigues Pinto (Doutorado)  \n- Joaz de Souza Batista (Mestrado)  \n- Jorge Ricardo de Araújo Kaschny (Doutorado)  \n- José Carlson Gusmão da Silva (Mestrado)  \n- Joseane Oliveira da Silva (Doutorado)  \n- Katielle Silva Brito Kateivas (Doutorado)  \n- Leonardo Moreira Santos (Mestrado)  \n- Luiz Eloi da Silva (Doutorado)  \n- Manoel Nunes Cavalcanti Junior (Doutorado)  \n- Maria das Graças Bittencourt Ferreira (Mestrado)  \n- Maria Laura Souza Silva (Doutorado)  \n- Nádia Cristina Moraes Sampaio Gobira (Mestrado)  \n- Orley Magalhães de Oliveira (Doutorado)  \n- Orleane Souza de Brito (Mestrado)  \n- Pablo Freire Matos (Mestrado)  \n- Pedro Henrique Pinto Campos (Mestrado)  \n- Rafael Rocha da Silva (Doutorado)"
+  }
 ]

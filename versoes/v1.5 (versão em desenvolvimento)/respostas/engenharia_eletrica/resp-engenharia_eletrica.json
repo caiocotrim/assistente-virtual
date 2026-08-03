@@ -1,6 +1,10 @@
 [
-    {
-        "pergunta": "quais as materias do 2 semestre do curso de eltrica",
-        "resposta": "As matérias do 2º semestre do curso de Engenharia Elétrica são:\n\n- Álgebra Linear  \n- Cálculo Diferencial e Integral II  \n- Física II  \n- Introdução à Ciência dos Materiais  \n- Física Experimental I  \n- Sistemas Digitais  \n- Técnicas de Programação"
-    }
+  {
+    "pergunta": "quais as materias do 2 semestre do curso de eltrica",
+    "resposta": "As matérias do 2º semestre do curso de Engenharia Elétrica são:\n\n- Álgebra Linear  \n- Cálculo Diferencial e Integral II  \n- Física II  \n- Introdução à Ciência dos Materiais  \n- Física Experimental I  \n- Sistemas Digitais  \n- Técnicas de Programação"
+  },
+  {
+    "pergunta": "Docentes de Elétrica.",
+    "resposta": "Docentes do curso de Engenharia Elétrica com formação em Eng. Elétrica:\n\n1. Alberto dos Santos Rebouças - Doutor em Eng. Industrial - Área: Eletrônica  \n2. Clodoaldo Gomes Messias - Especialista em Educação - Área: Eletrônica  \n3. Danilo Brito Almeida - Especialista em Engenharia de Segurança no Trabalho - Área: Eletrotécnica  \n4. Diego Habib Santos Nolasco - Doutor em Engenharia Elétrica e Computação - Área: Eletrotécnica  \n5. Diego Salvador de Almeida Ramos - Mestre em Engenharia Elétrica - Área: Eletrotécnica  \n6. Edvaldo Moraes Ruas - Especialista em Eletricidade na Agropecuária - Área: Eletrônica  \n7. Eleilson Santos Silva - Especialista em Engenharia de Segurança no Trabalho - Área: Eletrotécnica  \n8. Elvio Prado da Silva - Mestre em Mecatrônica - Área: Eletrotécnica  \n9. Everard Lucas Silva Cardoso - Especialista em Ciências Físicas de Matemática - Área: Eletrotécnica  \n10. Gabriel Vidal Negreiros Bezerra - Mestrado em Engenharia Elétrica - Área: Eletrotécnica  \n11. Juan Lieber Marin - Mestre em Engenharia Elétrica - Área: Eletrônica  \n12. Kenedy Marconi Geraldo dos Santos - Doutor em Engenharia Elétrica - Área: Eletrônica  \n13. Leonardo Souza Caires - Mestre em Engenharia Elétrica - Área: Eletrotécnica  \n14. Luciano Ferraz dos Santos Silva - Mestre em Desenvolvimento e Meio Ambiente - Área: Eletrotécnica  \n15. Pablo Martins de Oliveira - Especialista em Gestão da Manutenção - Área: Eletrotécnica  \n16. Wesley de Almeida Souto - Doutor Engenharia Mecânica Automação - Área: Automação (formação em Eng. Elétrica)  \n17. Wilton Lacerda Silva - Doutor em engenharia Elétrica - Área: Eletrônica"
+  }
 ]
