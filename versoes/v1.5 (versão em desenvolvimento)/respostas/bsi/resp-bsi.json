@@ -1,58 +1,62 @@
 [
-  {
-    "pergunta": "Quem são os professores do curso de BSI?",
-    "resposta": "Os professores do curso de Bacharelado em Sistemas de Informação (BSI) são:\n\n**Área de Administração**  \n- Daniela Pereira Contelli (Doutora, Dedicação Exclusiva)  \n- Maria das Graças Bittencourt Ferreira (Mestre, Dedicação Exclusiva)  \n\n**Área de Ciências Ambientais**  \n- Maria Laura Souza Silva (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Sociais**  \n- Eliana Barretto de Menezes Lopes (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Econômicas**  \n- Ualace Roberto de Jesus Oliveira (Mestrado, Dedicação Exclusiva)  \n\n**Área de Computação**  \n- Alexandro Santos Silva (Mestre, Dedicação Exclusiva)  \n- Aline Silva Costa (Mestre, Dedicação Exclusiva)  \n- Amanda Ferraz de Oliveira Passos (Mestre, Dedicação Exclusiva)  \n- Bruno Silvério Costa (Mestre, Dedicação Exclusiva)  \n- Camilo Alves Carvalho (Mestre, Dedicação Exclusiva)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestre, Dedicação Exclusiva)  \n- Crescencio Rodrigues Lima Neto (Doutor, Dedicação Exclusiva)  \n- Críjina Chagas Flores (Mestre, Dedicação Exclusiva)  \n- Djan Almeida Santos (Mestre, Dedicação Exclusiva)  \n- Igor Luis Oliveira de Souza (Mestre, Dedicação Exclusiva)  \n- Leonardo Barreto Campos (Doutor, Dedicação Exclusiva)  \n- Liojes de Oliveira Carneiro (Mestre, Dedicação Exclusiva)  \n- Luis Paulo da Silva Carvalho (Doutor, Dedicação Exclusiva)  \n- Mailson Sousa Couto (Mestre, Dedicação Exclusiva)  \n- Marcela Alves Pereira (Mestre, Dedicação Exclusiva)  \n- Pablo Freire Matos (Mestre, Dedicação Exclusiva)  \n- Stenio Longo Araújo (Mestre, 20 Horas Semanais)  \n- Viviane Maria Lélis Carvalho (Doutora, Dedicação Exclusiva)  \n- Vivyane Coelho Caires (Mestre, Dedicação Exclusiva)  \n\n**Área de Direito**  \n- Fernando de Azevedo Alves Brito (Doutor, Dedicação Exclusiva)  \n\n**Área de Letras**  \n- Polliana Freire dos Anjos Oliveira (Mestre, Dedicação Exclusiva)"
-  },
-  {
-    "pergunta": "Quais são os pré-requisitos de Banco de Dados I?",
-    "resposta": "Os pré-requisitos de Banco de Dados I são Linguagem de Programação I (CCO07)."
-  },
-  {
-    "pergunta": "programação web vem antes ou depois de banco de dados I?",
-    "resposta": "No curso de Bacharelado em Sistemas de Informação do IFBA, o assunto Programação Web I (TEC23) tem como pré-requisito Linguagem de Programação II (CCO13) e está nos semestres IV (matriz 2023) e V (matriz 2017).\n\nO assunto Banco de Dados I (TEC21) tem como pré-requisito Linguagem de Programação I (CCO07).\n\nProgramação Web II (TEC30) depende dos pré-requisitos Banco de Dados I (TEC21) e Programação Web I (TEC23).\n\nPortanto, Programação Web I e Banco de Dados I são cursados aproximadamente no mesmo período (IV ou V semestre), mas Programação Web II vem depois de Banco de Dados I.\n\nAssim, Programação Web I não vem necessariamente depois de Banco de Dados I, mas Programação Web II vem depois de Banco de Dados I.\n\nResumindo: Programação Web I não vem depois de Banco de Dados I. Programação Web II vem depois de Banco de Dados I."
-  },
-  {
-    "pergunta": "quais são as materias do 6 semestre do curso de bsi",
-    "resposta": "As matérias do 6º semestre do curso de Bacharelado em Sistemas de Informação são:\n\n- Atividades Curriculares de Extensão III (5 créditos, 75 horas)  \n- Engenharia de Software (4 créditos, 60 horas)  \n- Gestão de Projetos (4 créditos, 60 horas)  \n- Inteligência Artificial (4 créditos, 60 horas)  \n- Programação para Dispositivos Móveis (4 créditos, 60 horas)  \n- Segurança da Informação (4 créditos, 60 horas)  \n- Sistemas Distribuídos (4 créditos, 60 horas)"
-  },
-  {
-    "pergunta": "Quem são os professores do curso de BSI?",
-    "resposta": "Os professores do curso de Bacharelado em Sistemas de Informação (BSI) são:\n\n**Área de Administração**  \n- Daniela Pereira Contelli (Doutora, Dedicação Exclusiva)  \n- Maria das Graças Bittencourt Ferreira (Mestre, Dedicação Exclusiva)  \n\n**Área de Ciências Ambientais**  \n- Maria Laura Souza Silva (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Sociais**  \n- Eliana Barretto de Menezes Lopes (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Econômicas**  \n- Ualace Roberto de Jesus Oliveira (Mestrado, Dedicação Exclusiva)  \n\n**Área de Computação**  \n- Alexandro Santos Silva (Mestre, Dedicação Exclusiva)  \n- Aline Silva Costa (Mestre, Dedicação Exclusiva)  \n- Amanda Ferraz de Oliveira Passos (Mestre, Dedicação Exclusiva)  \n- Bruno Silvério Costa (Mestre, Dedicação Exclusiva)  \n- Camilo Alves Carvalho (Mestre, Dedicação Exclusiva)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestre, Dedicação Exclusiva)  \n- Crescencio Rodrigues Lima Neto (Doutor, Dedicação Exclusiva)  \n- Críjina Chagas Flores (Mestre, Dedicação Exclusiva)  \n- Djan Almeida Santos (Mestre, Dedicação Exclusiva)  \n- Igor Luis Oliveira de Souza (Mestre, Dedicação Exclusiva)  \n- Leonardo Barreto Campos (Doutor, Dedicação Exclusiva)  \n- Liojes de Oliveira Carneiro (Mestre, Dedicação Exclusiva)  \n- Luis Paulo da Silva Carvalho (Doutor, Dedicação Exclusiva)  \n- Mailson Sousa Couto (Mestre, Dedicação Exclusiva)  \n- Marcela Alves Pereira (Mestre, Dedicação Exclusiva)  \n- Pablo Freire Matos (Mestre, Dedicação Exclusiva)  \n- Stenio Longo Araújo (Mestre, 20 Horas Semanais)  \n- Viviane Maria Lélis Carvalho (Doutora, Dedicação Exclusiva)  \n- Vivyane Coelho Caires (Mestre, Dedicação Exclusiva)  \n\n**Área de Direito**  \n- Fernando de Azevedo Alves Brito (Doutor, Dedicação Exclusiva)  \n\n**Área de Letras**  \n- Polliana Freire dos Anjos Oliveira (Mestre, Dedicação Exclusiva)"
-  },
-  {
-    "pergunta": "Quais são os pré-requisitos de Banco de Dados I?",
-    "resposta": "Os pré-requisitos de Banco de Dados I são Linguagem de Programação I (CCO07)."
-  },
-  {
-    "pergunta": "programação web vem antes ou depois de banco de dados I?",
-    "resposta": "No curso de Bacharelado em Sistemas de Informação do IFBA, o assunto Programação Web I (TEC23) tem como pré-requisito Linguagem de Programação II (CCO13) e está nos semestres IV (matriz 2023) e V (matriz 2017).\n\nO assunto Banco de Dados I (TEC21) tem como pré-requisito Linguagem de Programação I (CCO07).\n\nProgramação Web II (TEC30) depende dos pré-requisitos Banco de Dados I (TEC21) e Programação Web I (TEC23).\n\nPortanto, Programação Web I e Banco de Dados I são cursados aproximadamente no mesmo período (IV ou V semestre), mas Programação Web II vem depois de Banco de Dados I.\n\nAssim, Programação Web I não vem necessariamente depois de Banco de Dados I, mas Programação Web II vem depois de Banco de Dados I.\n\nResumindo: Programação Web I não vem depois de Banco de Dados I. Programação Web II vem depois de Banco de Dados I."
-  },
-  {
-    "pergunta": "Em qual semestre fica Segurança da Informação?",
-    "resposta": "Segurança da Informação fica no semestre VI."
-  },
-  {
-    "pergunta": "Qual a ementa de Redes de Computadores?",
-    "resposta": "A ementa de Redes de Computadores é:\n\nHistória e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas. Arquitetura TCP/IP: camada de aplicação, camada de transporte, camada de redes, subcamada de controle de acesso ao meio, subcamada de controle lógico de link e camada física."
-  },
-  {
-    "pergunta": "Qual a bibliografia de Engenharia de Software?",
-    "resposta": "A bibliografia básica da disciplina de Engenharia de Software é:\n\n- GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.  \n- PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: McGraw Hill, 2011.  \n- SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011."
-  },
-  {
-    "pergunta": "O curso de BSI possui estágio obrigatório?",
-    "resposta": "O curso de Bacharelado em Sistemas de Informação (BSI) não possui estágio obrigatório, conforme o Projeto Pedagógico que trata o Estágio Supervisionado como uma atividade curricular não obrigatória."
-  },
-  {
-    "pergunta": "Qual a diferença entre Banco de Dados I e Banco de Dados II?",
-    "resposta": "A diferença entre Banco de Dados I e Banco de Dados II está no nível de aprofundamento e no conteúdo abordado:\n\n- **Banco de Dados I** oferece uma introdução aos conceitos fundamentais de gerenciamento de dados, incluindo independência, redundância, inconsistência, Sistemas Gerenciadores de Bancos de Dados, ferramentas CASE, análise de requisitos, modelos de dados (Entidade-Relacionamento e Relacional), restrições de integridade, transformações entre modelos, álgebra relacional e uma base prática em SQL (DDL e DML).\n\n- **Banco de Dados II** aprofunda conceitos avançados, abrangendo DDL e DML avançados, normalização de dados, dependências funcionais, restrições de integridade mais complexas, procedimentos armazenados, gatilhos, visões, segurança (DCL), transações (TCL), indexação e bancos de dados não relacionais.\n\nAssim, Banco de Dados I é introdutório, enquanto Banco de Dados II é avançado e complementa o primeiro com tópicos mais complexos e modernos."
-  },
-  {
-    "pergunta": "Segurança da Informação exige Banco de Dados?",
-    "resposta": "Sim, a disciplina Segurança da Informação exige como pré-requisito a disciplina Banco de Dados I (TEC21)."
-  },
-  {
-    "pergunta": "Engenharia de Software I e II possuem diferenças?",
-    "resposta": "Não encontrei essa informação nos documentos disponíveis."
-  }
+    {
+        "pergunta": "Quem são os professores do curso de BSI?",
+        "resposta": "Os professores do curso de Bacharelado em Sistemas de Informação (BSI) são:\n\n**Área de Administração**  \n- Daniela Pereira Contelli (Doutora, Dedicação Exclusiva)  \n- Maria das Graças Bittencourt Ferreira (Mestre, Dedicação Exclusiva)  \n\n**Área de Ciências Ambientais**  \n- Maria Laura Souza Silva (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Sociais**  \n- Eliana Barretto de Menezes Lopes (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Econômicas**  \n- Ualace Roberto de Jesus Oliveira (Mestrado, Dedicação Exclusiva)  \n\n**Área de Computação**  \n- Alexandro Santos Silva (Mestre, Dedicação Exclusiva)  \n- Aline Silva Costa (Mestre, Dedicação Exclusiva)  \n- Amanda Ferraz de Oliveira Passos (Mestre, Dedicação Exclusiva)  \n- Bruno Silvério Costa (Mestre, Dedicação Exclusiva)  \n- Camilo Alves Carvalho (Mestre, Dedicação Exclusiva)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestre, Dedicação Exclusiva)  \n- Crescencio Rodrigues Lima Neto (Doutor, Dedicação Exclusiva)  \n- Críjina Chagas Flores (Mestre, Dedicação Exclusiva)  \n- Djan Almeida Santos (Mestre, Dedicação Exclusiva)  \n- Igor Luis Oliveira de Souza (Mestre, Dedicação Exclusiva)  \n- Leonardo Barreto Campos (Doutor, Dedicação Exclusiva)  \n- Liojes de Oliveira Carneiro (Mestre, Dedicação Exclusiva)  \n- Luis Paulo da Silva Carvalho (Doutor, Dedicação Exclusiva)  \n- Mailson Sousa Couto (Mestre, Dedicação Exclusiva)  \n- Marcela Alves Pereira (Mestre, Dedicação Exclusiva)  \n- Pablo Freire Matos (Mestre, Dedicação Exclusiva)  \n- Stenio Longo Araújo (Mestre, 20 Horas Semanais)  \n- Viviane Maria Lélis Carvalho (Doutora, Dedicação Exclusiva)  \n- Vivyane Coelho Caires (Mestre, Dedicação Exclusiva)  \n\n**Área de Direito**  \n- Fernando de Azevedo Alves Brito (Doutor, Dedicação Exclusiva)  \n\n**Área de Letras**  \n- Polliana Freire dos Anjos Oliveira (Mestre, Dedicação Exclusiva)"
+    },
+    {
+        "pergunta": "Quais são os pré-requisitos de Banco de Dados I?",
+        "resposta": "Os pré-requisitos de Banco de Dados I são Linguagem de Programação I (CCO07)."
+    },
+    {
+        "pergunta": "programação web vem antes ou depois de banco de dados I?",
+        "resposta": "No curso de Bacharelado em Sistemas de Informação do IFBA, o assunto Programação Web I (TEC23) tem como pré-requisito Linguagem de Programação II (CCO13) e está nos semestres IV (matriz 2023) e V (matriz 2017).\n\nO assunto Banco de Dados I (TEC21) tem como pré-requisito Linguagem de Programação I (CCO07).\n\nProgramação Web II (TEC30) depende dos pré-requisitos Banco de Dados I (TEC21) e Programação Web I (TEC23).\n\nPortanto, Programação Web I e Banco de Dados I são cursados aproximadamente no mesmo período (IV ou V semestre), mas Programação Web II vem depois de Banco de Dados I.\n\nAssim, Programação Web I não vem necessariamente depois de Banco de Dados I, mas Programação Web II vem depois de Banco de Dados I.\n\nResumindo: Programação Web I não vem depois de Banco de Dados I. Programação Web II vem depois de Banco de Dados I."
+    },
+    {
+        "pergunta": "quais são as materias do 6 semestre do curso de bsi",
+        "resposta": "As matérias do 6º semestre do curso de Bacharelado em Sistemas de Informação são:\n\n- Atividades Curriculares de Extensão III (5 créditos, 75 horas)  \n- Engenharia de Software (4 créditos, 60 horas)  \n- Gestão de Projetos (4 créditos, 60 horas)  \n- Inteligência Artificial (4 créditos, 60 horas)  \n- Programação para Dispositivos Móveis (4 créditos, 60 horas)  \n- Segurança da Informação (4 créditos, 60 horas)  \n- Sistemas Distribuídos (4 créditos, 60 horas)"
+    },
+    {
+        "pergunta": "Quem são os professores do curso de BSI?",
+        "resposta": "Os professores do curso de Bacharelado em Sistemas de Informação (BSI) são:\n\n**Área de Administração**  \n- Daniela Pereira Contelli (Doutora, Dedicação Exclusiva)  \n- Maria das Graças Bittencourt Ferreira (Mestre, Dedicação Exclusiva)  \n\n**Área de Ciências Ambientais**  \n- Maria Laura Souza Silva (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Sociais**  \n- Eliana Barretto de Menezes Lopes (Doutora, Dedicação Exclusiva)  \n\n**Área de Ciências Econômicas**  \n- Ualace Roberto de Jesus Oliveira (Mestrado, Dedicação Exclusiva)  \n\n**Área de Computação**  \n- Alexandro Santos Silva (Mestre, Dedicação Exclusiva)  \n- Aline Silva Costa (Mestre, Dedicação Exclusiva)  \n- Amanda Ferraz de Oliveira Passos (Mestre, Dedicação Exclusiva)  \n- Bruno Silvério Costa (Mestre, Dedicação Exclusiva)  \n- Camilo Alves Carvalho (Mestre, Dedicação Exclusiva)  \n- Cláudio Rodolfo Sousa de Oliveira (Mestre, Dedicação Exclusiva)  \n- Crescencio Rodrigues Lima Neto (Doutor, Dedicação Exclusiva)  \n- Críjina Chagas Flores (Mestre, Dedicação Exclusiva)  \n- Djan Almeida Santos (Mestre, Dedicação Exclusiva)  \n- Igor Luis Oliveira de Souza (Mestre, Dedicação Exclusiva)  \n- Leonardo Barreto Campos (Doutor, Dedicação Exclusiva)  \n- Liojes de Oliveira Carneiro (Mestre, Dedicação Exclusiva)  \n- Luis Paulo da Silva Carvalho (Doutor, Dedicação Exclusiva)  \n- Mailson Sousa Couto (Mestre, Dedicação Exclusiva)  \n- Marcela Alves Pereira (Mestre, Dedicação Exclusiva)  \n- Pablo Freire Matos (Mestre, Dedicação Exclusiva)  \n- Stenio Longo Araújo (Mestre, 20 Horas Semanais)  \n- Viviane Maria Lélis Carvalho (Doutora, Dedicação Exclusiva)  \n- Vivyane Coelho Caires (Mestre, Dedicação Exclusiva)  \n\n**Área de Direito**  \n- Fernando de Azevedo Alves Brito (Doutor, Dedicação Exclusiva)  \n\n**Área de Letras**  \n- Polliana Freire dos Anjos Oliveira (Mestre, Dedicação Exclusiva)"
+    },
+    {
+        "pergunta": "Quais são os pré-requisitos de Banco de Dados I?",
+        "resposta": "Os pré-requisitos de Banco de Dados I são Linguagem de Programação I (CCO07)."
+    },
+    {
+        "pergunta": "programação web vem antes ou depois de banco de dados I?",
+        "resposta": "No curso de Bacharelado em Sistemas de Informação do IFBA, o assunto Programação Web I (TEC23) tem como pré-requisito Linguagem de Programação II (CCO13) e está nos semestres IV (matriz 2023) e V (matriz 2017).\n\nO assunto Banco de Dados I (TEC21) tem como pré-requisito Linguagem de Programação I (CCO07).\n\nProgramação Web II (TEC30) depende dos pré-requisitos Banco de Dados I (TEC21) e Programação Web I (TEC23).\n\nPortanto, Programação Web I e Banco de Dados I são cursados aproximadamente no mesmo período (IV ou V semestre), mas Programação Web II vem depois de Banco de Dados I.\n\nAssim, Programação Web I não vem necessariamente depois de Banco de Dados I, mas Programação Web II vem depois de Banco de Dados I.\n\nResumindo: Programação Web I não vem depois de Banco de Dados I. Programação Web II vem depois de Banco de Dados I."
+    },
+    {
+        "pergunta": "Em qual semestre fica Segurança da Informação?",
+        "resposta": "Segurança da Informação fica no semestre VI."
+    },
+    {
+        "pergunta": "Qual a ementa de Redes de Computadores?",
+        "resposta": "A ementa de Redes de Computadores é:\n\nHistória e evolução das redes de computadores. Modelos de referência OSI e TCP/IP: camadas. Arquitetura TCP/IP: camada de aplicação, camada de transporte, camada de redes, subcamada de controle de acesso ao meio, subcamada de controle lógico de link e camada física."
+    },
+    {
+        "pergunta": "Qual a bibliografia de Engenharia de Software?",
+        "resposta": "A bibliografia básica da disciplina de Engenharia de Software é:\n\n- GUSTAFSON, D. A. Engenharia de Software. Porto Alegre: Bookman, 2003.  \n- PRESSMAN, R. S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. Porto Alegre: McGraw Hill, 2011.  \n- SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Prentice Hall, 2011."
+    },
+    {
+        "pergunta": "O curso de BSI possui estágio obrigatório?",
+        "resposta": "O curso de Bacharelado em Sistemas de Informação (BSI) não possui estágio obrigatório, conforme o Projeto Pedagógico que trata o Estágio Supervisionado como uma atividade curricular não obrigatória."
+    },
+    {
+        "pergunta": "Qual a diferença entre Banco de Dados I e Banco de Dados II?",
+        "resposta": "A diferença entre Banco de Dados I e Banco de Dados II está no nível de aprofundamento e no conteúdo abordado:\n\n- **Banco de Dados I** oferece uma introdução aos conceitos fundamentais de gerenciamento de dados, incluindo independência, redundância, inconsistência, Sistemas Gerenciadores de Bancos de Dados, ferramentas CASE, análise de requisitos, modelos de dados (Entidade-Relacionamento e Relacional), restrições de integridade, transformações entre modelos, álgebra relacional e uma base prática em SQL (DDL e DML).\n\n- **Banco de Dados II** aprofunda conceitos avançados, abrangendo DDL e DML avançados, normalização de dados, dependências funcionais, restrições de integridade mais complexas, procedimentos armazenados, gatilhos, visões, segurança (DCL), transações (TCL), indexação e bancos de dados não relacionais.\n\nAssim, Banco de Dados I é introdutório, enquanto Banco de Dados II é avançado e complementa o primeiro com tópicos mais complexos e modernos."
+    },
+    {
+        "pergunta": "Segurança da Informação exige Banco de Dados?",
+        "resposta": "Sim, a disciplina Segurança da Informação exige como pré-requisito a disciplina Banco de Dados I (TEC21)."
+    },
+    {
+        "pergunta": "Engenharia de Software I e II possuem diferenças?",
+        "resposta": "Não encontrei essa informação nos documentos disponíveis."
+    },
+    {
+        "pergunta": "em qual bloco fica as salas de aula do curso de bsi?",
+        "resposta": "As aulas do curso de BSI se concentram no Bloco H."
+    }
 ]

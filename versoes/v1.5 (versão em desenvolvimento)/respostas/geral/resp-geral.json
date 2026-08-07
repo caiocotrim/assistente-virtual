@@ -1,6 +1,10 @@
 [
-  {
-    "pergunta": "Qual a carga horária total do curso?",
-    "resposta": "Não encontrei essa informação nos documentos disponíveis."
-  }
+    {
+        "pergunta": "Qual a carga horária total do curso?",
+        "resposta": "Não encontrei essa informação nos documentos disponíveis."
+    },
+    {
+        "pergunta": "o que é o PINA?",
+        "resposta": "O PINA (Projeto de Incentivo à Aprendizagem) é um programa do IFBA que concede bolsas mensais no valor de meio salário mínimo aos estudantes, com o objetivo de incentivar a participação dos estudantes em atividades acadêmicas, pessoais e profissionais, através do engajamento em projetos elaborados por servidores do campus. Essas bolsas incentivam o desenvolvimento das competências e habilidades dos bolsistas, promovendo seu crescimento voltado para o mundo do trabalho e/ou da pesquisa."
+    }
 ]
