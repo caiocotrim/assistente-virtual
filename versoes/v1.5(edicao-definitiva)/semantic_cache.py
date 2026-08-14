@@ -69,11 +69,7 @@ class SemanticCache:
         self.reconstruir_todos_indices()
 
 
-
-
-    
     # CAMINHOS
-  
     def _caminho_indice(self, curso):
 
         return os.path.join(
@@ -103,7 +99,6 @@ class SemanticCache:
 
     
     # JSON
-  
     def _carregar_json(self, curso):
 
         caminho = self._caminho_json(
@@ -150,7 +145,6 @@ class SemanticCache:
             return []
 
 
-
         with open(
 
             caminho,
@@ -164,8 +158,6 @@ class SemanticCache:
 
             conteudo = arquivo.read().strip()
 
-
-
             if not conteudo:
 
                 return []
@@ -175,8 +167,6 @@ class SemanticCache:
             return json.loads(
                 conteudo
             )
-
-
 
 
     def _salvar_json(self, curso, dados):
@@ -215,15 +205,11 @@ class SemanticCache:
 
     
     # RECONSTRUÇÃO FAISS
-  
     def _reconstruir_indice(self, curso):
-
 
         dados = self._carregar_json(
             curso
         )
-
-
 
         caminho = self._caminho_indice(
             curso
@@ -232,7 +218,6 @@ class SemanticCache:
 
 
         if not dados:
-
 
             if os.path.exists(caminho):
 
@@ -254,13 +239,7 @@ class SemanticCache:
 
             return
 
-
-
-
-
         documentos = []
-
-
 
         for item in dados:
 
@@ -281,9 +260,6 @@ class SemanticCache:
 
             )
 
-
-
-
         indice = FAISS.from_documents(
 
             documentos,
@@ -293,22 +269,17 @@ class SemanticCache:
         )
 
 
-
         indice.save_local(
             caminho
         )
 
 
-
         self.indices[curso] = indice
-
 
 
         print(
             f"[CACHE] Índice reconstruído: {curso}"
         )
-
-
 
 
     def reconstruir_todos_indices(self):
@@ -330,8 +301,6 @@ class SemanticCache:
 
 
             return
-
-
 
 
         for curso in os.listdir(
@@ -357,13 +326,9 @@ class SemanticCache:
                 )
 
 
-
         print(
             "[CACHE] Reconstrução concluída."
         )
-
-
-
 
     
     # CARREGAR FAISS
@@ -418,8 +383,7 @@ class SemanticCache:
 
 
     
-    # BUSCA
-  
+    # BUSCA  
     def buscar(self, pergunta, curso):
 
 
@@ -428,12 +392,9 @@ class SemanticCache:
         )
 
 
-
         if indice is None:
 
             return None
-
-
 
 
         resultados = indice.similarity_search_with_score(
@@ -451,8 +412,6 @@ class SemanticCache:
             return None
 
 
-
-
         documento, score = resultados[0]
 
 
@@ -460,8 +419,6 @@ class SemanticCache:
         print(
             f"[CACHE] Distância: {score}"
         )
-
-
 
 
         if score <= LIMIAR_SIMILARIDADE:
@@ -472,7 +429,6 @@ class SemanticCache:
             )
 
 
-
         return None
 
 
@@ -480,14 +436,12 @@ class SemanticCache:
 
     
     # SALVAR
-  
     def salvar(self, pergunta, resposta, curso):
 
 
         dados = self._carregar_json(
             curso
         )
-
 
 
         for item in dados:
@@ -502,8 +456,6 @@ class SemanticCache:
 
 
                 return
-
-
 
 
         dados.append({
@@ -535,9 +487,6 @@ class SemanticCache:
         print(
             f"[CACHE] Salvo no JSON: {curso}"
         )
-
-
-
 
 
 cache = SemanticCache()

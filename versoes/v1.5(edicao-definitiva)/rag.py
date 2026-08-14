@@ -29,7 +29,6 @@ from prompts import (
 
 
 # CHAINS
-
 chain_classificador = prompt_curso_template | llm
 chain_memoria = prompt_memoria_template | llm
 chain_rerank = prompt_rerank_template | llm
@@ -39,7 +38,6 @@ chain_ementa = prompt_ementa_template | llm
 chain_escolha_ementa = prompt_escolha_ementa_template | llm
 
 # NORMALIZAÇÃO
-
 def normalizar(texto):
 
     texto = unicodedata.normalize(
@@ -70,13 +68,9 @@ def normalizar(texto):
 
 
 # CLASSIFICAÇÃO DO CURSO
-
 def classificar_curso(pergunta: str):
-
     resposta = chain_classificador.invoke({
-
         "question": pergunta
-
     })
 
     curso = resposta.content.strip().lower()
@@ -89,7 +83,6 @@ def classificar_curso(pergunta: str):
 
 
 # EXTRAÇÃO DE DISCIPLINA
-
 def extrair_nome_disciplina(pergunta):
 
     resposta = chain_ementa.invoke({
@@ -101,9 +94,7 @@ def extrair_nome_disciplina(pergunta):
     return resposta.content.strip()
 
 
-
 # DETECÇÃO DE PDF
-
 def usuario_pediu_pdf(texto):
 
     texto = texto.lower()
@@ -125,9 +116,7 @@ def usuario_pediu_pdf(texto):
     )
 
 
-
 # DETECÇÃO DE EMENTA
-
 def usuario_pediu_ementa(texto):
 
     texto = texto.lower()
@@ -151,7 +140,6 @@ def usuario_pediu_ementa(texto):
 
 
 # BUSCA DE IMAGENS DE EMENTA
-
 def buscar_candidatos_ementa(curso, disciplina, limite=0.3, top_n=5):
 
     pasta = CURSOS[curso]["ementas"]
@@ -183,8 +171,8 @@ def buscar_candidatos_ementa(curso, disciplina, limite=0.3, top_n=5):
 
     return candidatos[:top_n]
 
-# ESCOLHE A EMENTA ENTRE AS RECUPERADAS
 
+# ESCOLHE A EMENTA ENTRE AS RECUPERADAS
 def escolher_ementa(disciplina, candidatos):
     if not candidatos:
         return None
@@ -220,8 +208,8 @@ def escolher_ementa(disciplina, candidatos):
     # fallback: LLM disse -1, ou resposta inválida -> usa o melhor score do fuzzy match
     return candidatos[0][0]
 
-# MEMÓRIA
 
+# MEMÓRIA
 def decidir_uso_memoria(pergunta, historico):
 
     if not historico:
@@ -243,14 +231,11 @@ def decidir_uso_memoria(pergunta, historico):
 
         )
 
-
         historico_formatado += (
 
             f"{role}: {mensagem['content']}\n"
 
         )
-
-
 
     resposta = chain_memoria.invoke({
 
@@ -263,8 +248,8 @@ def decidir_uso_memoria(pergunta, historico):
 
     return resposta.content.strip().upper() == "SIM"
 
-# RECUPERAÇÃO DE DOCUMENTOS
 
+# RECUPERAÇÃO DE DOCUMENTOS
 def recuperar_documentos(curso, pergunta):
 
     retriever = retrievers[curso]
@@ -276,9 +261,7 @@ def recuperar_documentos(curso, pergunta):
     return documentos
 
 
-
 # RERANK
-
 def rerank_documentos(pergunta, documentos):
 
     if len(documentos) <= 4:
@@ -297,8 +280,6 @@ def rerank_documentos(pergunta, documentos):
 
         )
 
-
-
     resposta = chain_rerank.invoke({
 
         "question": pergunta,
@@ -306,8 +287,6 @@ def rerank_documentos(pergunta, documentos):
         "docs": docs_formatados
 
     })
-
-
 
     try:
 
@@ -336,27 +315,18 @@ def rerank_documentos(pergunta, documentos):
 
         ]
 
-
-
         if len(documentos_filtrados) == 0:
 
             documentos_filtrados = documentos[:3]
-
-
 
     except Exception:
 
         documentos_filtrados = documentos[:3]
 
-
-
     return documentos_filtrados
 
 
-
-
 # CONTEXTO
-
 def montar_contexto(documentos):
 
     return "\n\n".join(
@@ -368,14 +338,10 @@ def montar_contexto(documentos):
     )
 
 
-
-
 # HISTÓRICO
-
 def montar_historico(historico):
 
     historico_formatado = ""
-
 
     for mensagem in historico:
 
@@ -389,21 +355,16 @@ def montar_historico(historico):
 
         )
 
-
         historico_formatado += (
 
             f"{role}: {mensagem['content']}\n"
 
         )
 
-
     return historico_formatado
 
 
-
-
 # LOGS
-
 def registrar_log(
     pergunta,
     curso,
@@ -494,11 +455,7 @@ def registrar_log(
         )
 
 
-
-
-
 # COMPRESSÃO DE CONTEXTO
-
 def comprimir_contexto(pergunta, contexto):
 
     print("\nANTES:")
@@ -522,8 +479,8 @@ def comprimir_contexto(pergunta, contexto):
 
     return resposta.content
 
-# RESPOSTA PRINCIPAL
 
+# RESPOSTA PRINCIPAL
 def responder(pergunta, historico=None):
 
     if historico is None:
@@ -532,21 +489,15 @@ def responder(pergunta, historico=None):
 
 
     # Classificação do curso
-
     curso = classificar_curso(
         pergunta
     )
 
-
-
     # CACHE SEMÂNTICO JSON
-
-
     resposta_cache = cache.buscar(
         pergunta,
         curso
     )
-
 
     if resposta_cache is not None:
 
@@ -565,26 +516,17 @@ def responder(pergunta, historico=None):
 
         }
 
-
-
-
     # EMENTAS (IMAGEM)
-
-
     if usuario_pediu_ementa(
         pergunta
     ):
-
 
         disciplina = extrair_nome_disciplina(
             pergunta
         )
 
-
         candidatos = buscar_candidatos_ementa(curso, disciplina)
         imagem = escolher_ementa(disciplina, candidatos)
-
-
 
         if imagem:
 
@@ -600,8 +542,6 @@ def responder(pergunta, historico=None):
                 "tipo": "imagem"
 
             }
-
-
 
         return {
 
@@ -620,8 +560,6 @@ def responder(pergunta, historico=None):
 
 
     # PPC PDF
-
-
     if usuario_pediu_pdf(
         pergunta
     ):
@@ -634,12 +572,9 @@ def responder(pergunta, historico=None):
             "pdf"
         )
 
-
-
         if caminho_pdf and os.path.exists(
             caminho_pdf
         ):
-
 
             return {
 
@@ -652,8 +587,6 @@ def responder(pergunta, historico=None):
                 "tipo": "pdf"
 
             }
-
-
 
         return {
 
@@ -668,75 +601,34 @@ def responder(pergunta, historico=None):
         }
 
 
-
-
-
     # RECUPERAÇÃO RAG
-
-
     documentos_recuperados = recuperar_documentos(
-
         curso,
-
         pergunta
-
     )
-
-
 
     # Rerank desativado
-
     documentos_usados = documentos_recuperados
 
-
-
-
-
     # CONTEXTO
-
-
     contexto_original = montar_contexto(
-
         documentos_usados
-
     )
-
 
     contexto_comprimido = contexto_original
 
-
-
     if USAR_COMPRESSAO_CONTEXTO:
-
-
         contexto_comprimido = comprimir_contexto(
-
             pergunta,
-
             contexto_original
-
         )
 
-
-
-
-
     # MEMÓRIA
-
-
     historico_formatado = ""
-
-
-
     if decidir_uso_memoria(
-
         pergunta,
-
         historico
-
     ):
-
-
         historico_formatado = montar_historico(
 
             historico
@@ -763,8 +655,6 @@ def responder(pergunta, historico=None):
 
 
     # GERAÇÃO DA RESPOSTA
-
-
     resposta = chain_resposta.invoke({
 
         "context": contexto_comprimido,
@@ -775,13 +665,7 @@ def responder(pergunta, historico=None):
 
     })
 
-
-
-
-
-    # LOG
-
-
+   # LOG
     registrar_log(
 
         pergunta=pergunta,
@@ -803,8 +687,6 @@ def responder(pergunta, historico=None):
 
 
     # SALVAR NO CACHE JSON
-
-
     cache.salvar(
 
         pergunta,
@@ -814,9 +696,6 @@ def responder(pergunta, historico=None):
         curso
 
     )
-
-
-
 
     return {
 
