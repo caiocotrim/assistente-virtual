@@ -7,6 +7,7 @@ import mimetypes
 import requests
 
 from collections import defaultdict
+from pathlib import Path
 from flask import Flask, request, jsonify
 from dotenv import load_dotenv
 
@@ -19,7 +20,9 @@ print("2 - imports carregados")
 # CONFIGURAÇÃO
 # ============================================================
 
-load_dotenv()
+BASE_DIR = Path(__file__).resolve().parents[2]
+
+load_dotenv(BASE_DIR / ".env")
 
 
 EVOLUTION_URL = os.getenv(
@@ -82,6 +85,20 @@ MENSAGEM_AJUDA = (
 
 
 # ============================================================
+# NÚMERO
+# ============================================================
+
+def extrair_numero(jid):
+    """
+    A Evolution API entrega o remetente no formato de JID
+    (ex: "5577999999999@s.whatsapp.net"), mas os endpoints de
+    envio (sendText/sendMedia) esperam apenas os dígitos.
+    """
+
+    return jid.split("@")[0]
+
+
+# ============================================================
 # ENVIO DE TEXTO
 # ============================================================
 
@@ -99,10 +116,8 @@ def enviar_texto(numero, texto):
     }
 
     payload = {
-        "number": numero,
-        "textMessage": {
-            "text": texto
-        }
+        "number": extrair_numero(numero),
+        "text": texto
     }
 
     print(
@@ -206,7 +221,7 @@ def enviar_midia(
 
     payload = {
 
-        "number": numero,
+        "number": extrair_numero(numero),
 
         "mediatype": mediatype,
 
