@@ -42,6 +42,16 @@ EVOLUTION_INSTANCE = os.getenv(
 )
 
 
+# Números que o bot tem permissão de responder.
+# Defina no .env como NUMEROS_PERMITIDOS=5577999999999,5577888888888
+# (apenas dígitos, com DDI+DDD). Deixe vazio para responder a todos.
+NUMEROS_PERMITIDOS = [
+    numero.strip()
+    for numero in os.getenv("NUMEROS_PERMITIDOS", "").split(",")
+    if numero.strip()
+]
+
+
 # ============================================================
 # FLASK
 # ============================================================
@@ -527,6 +537,25 @@ def webhook():
     numero = mensagem["numero"]
 
     pergunta = mensagem["texto"]
+
+
+    # --------------------------------------------------------
+    # FILTRO DE NÚMEROS PERMITIDOS
+    # --------------------------------------------------------
+
+    if NUMEROS_PERMITIDOS and extrair_numero(numero) not in NUMEROS_PERMITIDOS:
+
+        print(
+            f"[WHATSAPP] Número não autorizado, ignorando: {numero}"
+        )
+
+        return jsonify({
+
+            "status": "ignored",
+
+            "motivo": "numero nao autorizado"
+
+        })
 
 
     print(
